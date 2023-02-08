@@ -20,7 +20,7 @@ import fs from "fs";
 ].forEach(async (playlist) => {
   fs.writeFileSync(
     `./data/${playlist}.json`,
-    JSON.stringify(await getPlaylist(playlist))
+    JSON.stringify(await getPlaylist(playlist), null, 2)
   );
 });
 
