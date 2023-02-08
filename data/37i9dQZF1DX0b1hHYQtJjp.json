@@ -1,1 +1,308 @@
-{"name":"Just Good Music","author":"Spotify","art":"https://i.scdn.co/image/ab67706f00000002eb0eb79bf50bea67019c6768","length":60,"tracks":[{"name":"Flowers","artist":"Miley Cyrus","length":"3:20"},{"name":"Who We Love (feat. Ed Sheeran)","artist":"Sam Smith, Ed Sheeran","length":"2:42"},{"name":"TRUSTFALL","artist":"P!nk","length":"3:57"},{"name":"Unstoppable","artist":"Sia","length":"3:37"},{"name":"Best Friend","artist":"Shania Twain","length":"2:39"},{"name":"Made You Look","artist":"Meghan Trainor","length":"2:14"},{"name":"My Stupid Heart","artist":"Walk Off the Earth","length":"2:40"},{"name":"Last Night","artist":"Morgan Wallen","length":"2:43"},{"name":"Sunroof (feat. Thomas Rhett)","artist":"Nicky Youre, dazy, Thomas Rhett","length":"2:43"},{"name":"I'm Not Here To Make Friends","artist":"Sam Smith, Calvin Harris, Jessie Reyez","length":"3:49"},{"name":"Anti-Hero","artist":"Taylor Swift","length":"3:20"},{"name":"Worth It.","artist":"RAYE","length":"4:06"},{"name":"Until I Found You","artist":"Stephen Sanchez","length":"2:57"},{"name":"Stronger (Grey's Anatomy Version)","artist":"Thunderstorm Artis","length":"2:59"},{"name":"I Wanna Dance With Somebody - Who Loves Me","artist":"Smith & Thell","length":"3:23"},{"name":"Dawns (feat. Maggie Rogers)","artist":"Zach Bryan, Maggie Rogers","length":"4:50"},{"name":"Giddy Up!","artist":"Shania Twain","length":"2:42"},{"name":"SNAP","artist":"Rosa Linn","length":"2:59"},{"name":"These Tears","artist":"Andy Grammer","length":"2:49"},{"name":"Love Go By","artist":"lle King","length":"3:42"},{"name":"Rollin'","artist":"Blessing Offor","length":"3:18"},{"name":"Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By","artist":"Rihanna","length":"3:16"},{"name":"Too Much Music","artist":"Jake Shears","length":"4:38"},{"name":"Heart Like A Truck","artist":"Lainey Wilson","length":"3:19"},{"name":"Bones","artist":"Imagine Dragons","length":"2:45"},{"name":"Never Gonna Not Dance Again","artist":"P!nk","length":"3:45"},{"name":"Bets On Us","artist":"Cheat Codes, Dolly Parton","length":"3:00"},{"name":"Pointless","artist":"Lewis Capaldi","length":"3:48"},{"name":"Moderación (Con Camilo)","artist":"JP Saxe, Camilo","length":"3:19"},{"name":"Drunk (And I Don't Wanna Go Home)","artist":"lle King, Miranda Lambert","length":"4:05"},{"name":"she","artist":"Jelly Roll","length":"2:53"},{"name":"Believer","artist":"SYML","length":"4:23"},{"name":"Nervous System","artist":"JOSEPH","length":"2:37"},{"name":"Special","artist":"Lizzo","length":"2:54"},{"name":"How Do I Say Goodbye","artist":"Dean Lewis","length":"2:43"},{"name":"Can't Help Falling in Love","artist":"Kacey Musgraves","length":"2:48"},{"name":"Never Change","artist":"Lukas Graham","length":"3:20"},{"name":"Something in the Orange","artist":"Zach Bryan","length":"3:48"},{"name":"Creepin' (with The Weeknd & 21 Savage)","artist":"Metro Boomin, The Weeknd, 21 Savage","length":"3:41"},{"name":"Big Energy","artist":"Latto","length":"2:53"},{"name":"Getting Older","artist":"Adam Lambert","length":"4:24"},{"name":"As It Was","artist":"Harry Styles","length":"2:47"},{"name":"Northern Attitude","artist":"Noah Kahan","length":"4:27"},{"name":"I Like You (A Happier Song) (with Doja Cat)","artist":"Post Malone, Doja Cat","length":"3:12"},{"name":"Miss Missing You","artist":"Billy Lockett","length":"3:28"},{"name":"Hold My Hand","artist":"Lady Gaga","length":"3:45"},{"name":"One Thing At A Time","artist":"Morgan Wallen","length":"3:26"},{"name":"Don't Let The Light Go Out","artist":"Panic! At The Disco","length":"3:49"},{"name":"One Life","artist":"Dermot Kennedy","length":"3:57"},{"name":"Won't Be Long Now","artist":"Blessing Offor","length":"3:15"},{"name":"Rock and A Hard Place","artist":"Bailey Zimmerman","length":"3:27"},{"name":"Good Day","artist":"Jake Scott","length":"2:53"},{"name":"The Kind of Love We Make","artist":"Luke Combs","length":"3:44"},{"name":"Wonder Woman","artist":"John Legend","length":"2:48"},{"name":"Bad For Me (feat. Teddy Swims)","artist":"Meghan Trainor, Teddy Swims","length":"3:33"},{"name":"Stick Season","artist":"Noah Kahan","length":"3:02"},{"name":"I Ain't Worried","artist":"OneRepublic","length":"2:28"},{"name":"High Heels","artist":"Flo Rida, Walker Hayes","length":"2:35"},{"name":"World's Smallest Violin","artist":"AJR","length":"3:00"},{"name":"Run Away to Mars","artist":"TALK","length":"3:33"}]}
+{
+  "name": "Just Good Music",
+  "author": "Spotify",
+  "art": "https://i.scdn.co/image/ab67706f00000002eb0eb79bf50bea67019c6768",
+  "length": 60,
+  "tracks": [
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "Who We Love (feat. Ed Sheeran)",
+      "artist": "Sam Smith, Ed Sheeran",
+      "length": "2:42"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
+    },
+    {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
+    },
+    {
+      "name": "Best Friend",
+      "artist": "Shania Twain",
+      "length": "2:39"
+    },
+    {
+      "name": "Made You Look",
+      "artist": "Meghan Trainor",
+      "length": "2:14"
+    },
+    {
+      "name": "My Stupid Heart",
+      "artist": "Walk Off the Earth",
+      "length": "2:40"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
+      "name": "Sunroof (feat. Thomas Rhett)",
+      "artist": "Nicky Youre, dazy, Thomas Rhett",
+      "length": "2:43"
+    },
+    {
+      "name": "I'm Not Here To Make Friends",
+      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
+      "length": "3:49"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
+      "name": "Worth It.",
+      "artist": "RAYE",
+      "length": "4:06"
+    },
+    {
+      "name": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "length": "2:57"
+    },
+    {
+      "name": "Stronger (Grey's Anatomy Version)",
+      "artist": "Thunderstorm Artis",
+      "length": "2:59"
+    },
+    {
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "artist": "Smith & Thell",
+      "length": "3:23"
+    },
+    {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
+    },
+    {
+      "name": "Giddy Up!",
+      "artist": "Shania Twain",
+      "length": "2:42"
+    },
+    {
+      "name": "SNAP",
+      "artist": "Rosa Linn",
+      "length": "2:59"
+    },
+    {
+      "name": "These Tears",
+      "artist": "Andy Grammer",
+      "length": "2:49"
+    },
+    {
+      "name": "Love Go By",
+      "artist": "lle King",
+      "length": "3:42"
+    },
+    {
+      "name": "Rollin'",
+      "artist": "Blessing Offor",
+      "length": "3:18"
+    },
+    {
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "artist": "Rihanna",
+      "length": "3:16"
+    },
+    {
+      "name": "Too Much Music",
+      "artist": "Jake Shears",
+      "length": "4:38"
+    },
+    {
+      "name": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "length": "3:19"
+    },
+    {
+      "name": "Bones",
+      "artist": "Imagine Dragons",
+      "length": "2:45"
+    },
+    {
+      "name": "Never Gonna Not Dance Again",
+      "artist": "P!nk",
+      "length": "3:45"
+    },
+    {
+      "name": "Bets On Us",
+      "artist": "Cheat Codes, Dolly Parton",
+      "length": "3:00"
+    },
+    {
+      "name": "Pointless",
+      "artist": "Lewis Capaldi",
+      "length": "3:48"
+    },
+    {
+      "name": "Moderación (Con Camilo)",
+      "artist": "JP Saxe, Camilo",
+      "length": "3:19"
+    },
+    {
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "artist": "lle King, Miranda Lambert",
+      "length": "4:05"
+    },
+    {
+      "name": "she",
+      "artist": "Jelly Roll",
+      "length": "2:53"
+    },
+    {
+      "name": "Believer",
+      "artist": "SYML",
+      "length": "4:23"
+    },
+    {
+      "name": "Nervous System",
+      "artist": "JOSEPH",
+      "length": "2:37"
+    },
+    {
+      "name": "Special",
+      "artist": "Lizzo",
+      "length": "2:54"
+    },
+    {
+      "name": "How Do I Say Goodbye",
+      "artist": "Dean Lewis",
+      "length": "2:43"
+    },
+    {
+      "name": "Can't Help Falling in Love",
+      "artist": "Kacey Musgraves",
+      "length": "2:48"
+    },
+    {
+      "name": "Never Change",
+      "artist": "Lukas Graham",
+      "length": "3:20"
+    },
+    {
+      "name": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "length": "3:48"
+    },
+    {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
+      "name": "Big Energy",
+      "artist": "Latto",
+      "length": "2:53"
+    },
+    {
+      "name": "Getting Older",
+      "artist": "Adam Lambert",
+      "length": "4:24"
+    },
+    {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
+    },
+    {
+      "name": "Northern Attitude",
+      "artist": "Noah Kahan",
+      "length": "4:27"
+    },
+    {
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "artist": "Post Malone, Doja Cat",
+      "length": "3:12"
+    },
+    {
+      "name": "Miss Missing You",
+      "artist": "Billy Lockett",
+      "length": "3:28"
+    },
+    {
+      "name": "Hold My Hand",
+      "artist": "Lady Gaga",
+      "length": "3:45"
+    },
+    {
+      "name": "One Thing At A Time",
+      "artist": "Morgan Wallen",
+      "length": "3:26"
+    },
+    {
+      "name": "Don't Let The Light Go Out",
+      "artist": "Panic! At The Disco",
+      "length": "3:49"
+    },
+    {
+      "name": "One Life",
+      "artist": "Dermot Kennedy",
+      "length": "3:57"
+    },
+    {
+      "name": "Won't Be Long Now",
+      "artist": "Blessing Offor",
+      "length": "3:15"
+    },
+    {
+      "name": "Rock and A Hard Place",
+      "artist": "Bailey Zimmerman",
+      "length": "3:27"
+    },
+    {
+      "name": "Good Day",
+      "artist": "Jake Scott",
+      "length": "2:53"
+    },
+    {
+      "name": "The Kind of Love We Make",
+      "artist": "Luke Combs",
+      "length": "3:44"
+    },
+    {
+      "name": "Wonder Woman",
+      "artist": "John Legend",
+      "length": "2:48"
+    },
+    {
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "artist": "Meghan Trainor, Teddy Swims",
+      "length": "3:33"
+    },
+    {
+      "name": "Stick Season",
+      "artist": "Noah Kahan",
+      "length": "3:02"
+    },
+    {
+      "name": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "length": "2:28"
+    },
+    {
+      "name": "High Heels",
+      "artist": "Flo Rida, Walker Hayes",
+      "length": "2:35"
+    },
+    {
+      "name": "World's Smallest Violin",
+      "artist": "AJR",
+      "length": "3:00"
+    },
+    {
+      "name": "Run Away to Mars",
+      "artist": "TALK",
+      "length": "3:33"
+    }
+  ]
+}
