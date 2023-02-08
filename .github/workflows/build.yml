@@ -1,0 +1,38 @@
+name: Build
+
+on:
+  push:
+    paths:
+      - ".github/workflows/build.yml"
+
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "yarn"
+      - run: yarn install --frozen-lockfile
+      - run: node index.js
+      - name: Miscellaneous
+        run: echo `date +%s` > last-updated.txt
+      - name: Push to GitHub
+        run: |
+          git config user.name lonelil
+          git config user.email 51315646+lonelil@users.noreply.github.com
+          git add .
+          git commit -m "Update ($(date +'%Y-%m-%dT%H:%M:%S'))"
+          git push
