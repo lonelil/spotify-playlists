@@ -20,24 +20,9 @@
       "length": "3:57"
     },
     {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
-    },
-    {
-      "name": "Best Friend",
-      "artist": "Shania Twain",
-      "length": "2:39"
-    },
-    {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
-    },
-    {
-      "name": "My Stupid Heart",
-      "artist": "Walk Off the Earth",
-      "length": "2:40"
+      "name": "Special (feat. SZA)",
+      "artist": "Lizzo, SZA",
+      "length": "2:54"
     },
     {
       "name": "Last Night",
@@ -45,9 +30,54 @@
       "length": "2:43"
     },
     {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
+    },
+    {
+      "name": "My Stupid Heart",
+      "artist": "Walk Off the Earth",
+      "length": "2:40"
+    },
+    {
+      "name": "Stronger (Grey's Anatomy Version)",
+      "artist": "Thunderstorm Artis",
+      "length": "2:59"
+    },
+    {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
+    },
+    {
+      "name": "Made You Look",
+      "artist": "Meghan Trainor",
+      "length": "2:14"
+    },
+    {
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "artist": "Smith & Thell",
+      "length": "3:23"
+    },
+    {
+      "name": "Dancing With Your Shadows",
+      "artist": "Phillip Phillips",
+      "length": "2:57"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
       "name": "Sunroof (feat. Thomas Rhett)",
       "artist": "Nicky Youre, dazy, Thomas Rhett",
       "length": "2:43"
+    },
+    {
+      "name": "SNAP",
+      "artist": "Rosa Linn",
+      "length": "2:59"
     },
     {
       "name": "I'm Not Here To Make Friends",
@@ -55,9 +85,9 @@
       "length": "3:49"
     },
     {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "artist": "Rihanna",
+      "length": "3:16"
     },
     {
       "name": "Worth It.",
@@ -70,29 +100,14 @@
       "length": "2:57"
     },
     {
-      "name": "Stronger (Grey's Anatomy Version)",
-      "artist": "Thunderstorm Artis",
-      "length": "2:59"
-    },
-    {
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "artist": "Smith & Thell",
-      "length": "3:23"
-    },
-    {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
+      "name": "Bones",
+      "artist": "Imagine Dragons",
+      "length": "2:45"
     },
     {
       "name": "Giddy Up!",
       "artist": "Shania Twain",
       "length": "2:42"
-    },
-    {
-      "name": "SNAP",
-      "artist": "Rosa Linn",
-      "length": "2:59"
     },
     {
       "name": "These Tears",
@@ -110,29 +125,19 @@
       "length": "3:18"
     },
     {
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "artist": "Rihanna",
-      "length": "3:16"
-    },
-    {
-      "name": "Too Much Music",
-      "artist": "Jake Shears",
-      "length": "4:38"
-    },
-    {
       "name": "Heart Like A Truck",
       "artist": "Lainey Wilson",
       "length": "3:19"
     },
     {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "length": "2:45"
-    },
-    {
       "name": "Never Gonna Not Dance Again",
       "artist": "P!nk",
       "length": "3:45"
+    },
+    {
+      "name": "Best Friend",
+      "artist": "Shania Twain",
+      "length": "2:39"
     },
     {
       "name": "Bets On Us",
@@ -168,11 +173,6 @@
       "name": "Nervous System",
       "artist": "JOSEPH",
       "length": "2:37"
-    },
-    {
-      "name": "Special",
-      "artist": "Lizzo",
-      "length": "2:54"
     },
     {
       "name": "How Do I Say Goodbye",

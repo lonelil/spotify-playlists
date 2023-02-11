@@ -1,23 +1,13 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002827ec0d7ce37e9961015bb30",
+  "art": "https://i.scdn.co/image/ab67706f00000002881d18a0924be8baa657b022",
   "length": 100,
   "tracks": [
     {
-      "name": "Lavender Haze",
-      "artist": "Taylor Swift",
-      "length": "3:22"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "Bloody Mary",
-      "artist": "Lady Gaga",
-      "length": "4:04"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
       "name": "Kill Bill - Sped Up Version",
@@ -25,19 +15,79 @@
       "length": "2:17"
     },
     {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
+      "name": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "length": "4:04"
+    },
+    {
+      "name": "Best Friend Breakup",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:21"
+    },
+    {
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
     },
     {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Placebo Effect",
+      "artist": "d4vd",
+      "length": "3:11"
+    },
+    {
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
+    },
+    {
+      "name": "We Go Down Together (with Khalid)",
+      "artist": "Dove Cameron, Khalid",
+      "length": "3:04"
+    },
+    {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
+      "name": "Red Flags",
+      "artist": "Mimi Webb",
+      "length": "2:21"
+    },
+    {
+      "name": "drunk text",
+      "artist": "Henry Moodie",
+      "length": "3:07"
     },
     {
       "name": "Anti-Hero",
@@ -50,29 +100,14 @@
       "length": "3:33"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
       "name": "Green Green Grass",
       "artist": "George Ezra",
       "length": "2:47"
     },
     {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
-    },
-    {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
+      "name": "Rockstar",
+      "artist": "BoyWithUke",
+      "length": "3:13"
     },
     {
       "name": "In Ha Mood",
@@ -80,9 +115,24 @@
       "length": "2:09"
     },
     {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
+    },
+    {
+      "name": "Call Me What You Like",
+      "artist": "Lovejoy",
+      "length": "3:46"
+    },
+    {
       "name": "Back That Up To The Beat - sped up version",
       "artist": "Madonna",
       "length": "3:12"
+    },
+    {
+      "name": "Escapism. - Sped Up",
+      "artist": "RAYE, 070 Shake",
+      "length": "3:59"
     },
     {
       "name": "SHOOTING STAR",
@@ -100,9 +150,9 @@
       "length": "3:06"
     },
     {
-      "name": "Escapism. - Sped Up",
-      "artist": "RAYE, 070 Shake",
-      "length": "3:59"
+      "name": "What Happened to Ryan",
+      "artist": "Jessie Murph",
+      "length": "2:35"
     },
     {
       "name": "Snooze",
@@ -110,24 +160,9 @@
       "length": "3:21"
     },
     {
-      "name": "drunk text",
-      "artist": "Henry Moodie",
-      "length": "3:07"
-    },
-    {
       "name": "Rush",
       "artist": "Ayra Starr",
       "length": "3:05"
-    },
-    {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
-      "name": "Where do we go now?",
-      "artist": "Gracie Abrams",
-      "length": "4:03"
     },
     {
       "name": "ceilings",
@@ -143,6 +178,11 @@
       "name": "deadly ever after",
       "artist": "Ethan Bortnick",
       "length": "3:23"
+    },
+    {
+      "name": "Amelie",
+      "artist": "Gracie Abrams",
+      "length": "4:19"
     },
     {
       "name": "Too Well",
@@ -165,11 +205,6 @@
       "length": "4:45"
     },
     {
-      "name": "Red Flags",
-      "artist": "Mimi Webb",
-      "length": "2:21"
-    },
-    {
       "name": "That's What I Get",
       "artist": "charlieonnafriday",
       "length": "2:30"
@@ -178,6 +213,11 @@
       "name": "Girl Like Me",
       "artist": "Dove Cameron",
       "length": "2:29"
+    },
+    {
+      "name": "You Make Me Sick!",
+      "artist": "Ashnikko",
+      "length": "2:18"
     },
     {
       "name": "VIBE (feat. Jimin of BTS)",
@@ -215,11 +255,6 @@
       "length": "3:41"
     },
     {
-      "name": "Nobody Gets Me",
-      "artist": "SZA",
-      "length": "3:00"
-    },
-    {
       "name": "Wannabe",
       "artist": "why mona",
       "length": "3:37"
@@ -233,11 +268,6 @@
       "name": "Body Better",
       "artist": "Maisie Peters",
       "length": "3:09"
-    },
-    {
-      "name": "Bad Idea",
-      "artist": "Dove Cameron",
-      "length": "2:35"
     },
     {
       "name": "AVA (Sped Up)",
@@ -255,9 +285,9 @@
       "length": "2:47"
     },
     {
-      "name": "About You",
-      "artist": "Jessie Murph",
-      "length": "2:40"
+      "name": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "length": "4:03"
     },
     {
       "name": "blame's on me",
@@ -273,6 +303,11 @@
       "name": "World's Smallest Violin",
       "artist": "AJR",
       "length": "3:00"
+    },
+    {
+      "name": "Vicious",
+      "artist": "Thomas Day",
+      "length": "2:12"
     },
     {
       "name": "Heart To Heart",
@@ -343,16 +378,6 @@
       "name": "the perfect pair",
       "artist": "beabadoobee",
       "length": "2:57"
-    },
-    {
-      "name": "ever fallen?",
-      "artist": "Kate Peytavin",
-      "length": "2:48"
-    },
-    {
-      "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
-      "artist": "Jung Kook, BTS, FIFA Sound",
-      "length": "3:21"
     },
     {
       "name": "My Mind & Me",
@@ -475,34 +500,9 @@
       "length": "4:01"
     },
     {
-      "name": "I'm Good (Blue)",
-      "artist": "David Guetta, Bebe Rexha",
-      "length": "2:55"
-    },
-    {
-      "name": "Shut Down",
-      "artist": "BLACKPINK",
-      "length": "2:55"
-    },
-    {
       "name": "1985",
       "artist": "Bo Burnham",
       "length": "2:26"
-    },
-    {
-      "name": "Sweater Weather",
-      "artist": "The Neighbourhood",
-      "length": "4:00"
-    },
-    {
-      "name": "Only Love Can Hurt Like This - Sped Up Version",
-      "artist": "Paloma Faith, sped up + slowed",
-      "length": "2:45"
-    },
-    {
-      "name": "Bubblegum Bitch",
-      "artist": "MARINA",
-      "length": "2:34"
     }
   ]
 }

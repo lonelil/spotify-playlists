@@ -1,23 +1,28 @@
 {
   "name": "Hot Hits USA",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002eb96f83a19da53b705cc3c08",
+  "art": "https://i.scdn.co/image/ab67706f00000002aa0698d7402dbf243d0acc4f",
   "length": 50,
   "tracks": [
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
     {
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
     },
     {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
       "name": "Die For You",
       "artist": "The Weeknd",
       "length": "4:20"
+    },
+    {
+      "name": "Special (feat. SZA)",
+      "artist": "Lizzo, SZA",
+      "length": "2:54"
     },
     {
       "name": "Anti-Hero",
@@ -30,6 +35,11 @@
       "length": "2:03"
     },
     {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "artist": "Bizarrap, Shakira",
       "length": "3:37"
@@ -40,44 +50,24 @@
       "length": "3:41"
     },
     {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
-      "name": "Bad Habit",
-      "artist": "Steve Lacy",
-      "length": "3:52"
-    },
-    {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
-    },
-    {
       "name": "Last Night",
       "artist": "Morgan Wallen",
       "length": "2:43"
     },
     {
-      "name": "About Damn Time",
-      "artist": "Lizzo",
-      "length": "3:11"
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     },
     {
-      "name": "Rich Flex",
-      "artist": "Drake, 21 Savage",
-      "length": "3:59"
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
     },
     {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
+      "name": "Bad Habit",
+      "artist": "Steve Lacy",
+      "length": "3:52"
     },
     {
       "name": "golden hour",
@@ -90,24 +80,9 @@
       "length": "4:32"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
-      "name": "Sure Thing",
-      "artist": "Miguel",
-      "length": "3:15"
-    },
-    {
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "artist": "Metro Boomin, Future, Chris Brown",
-      "length": "3:02"
-    },
-    {
-      "name": "I'm Not Here To Make Friends",
-      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
-      "length": "3:49"
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -115,9 +90,44 @@
       "length": "3:59"
     },
     {
-      "name": "Lavender Haze",
-      "artist": "Taylor Swift",
-      "length": "3:22"
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "artist": "Metro Boomin, Future, Chris Brown",
+      "length": "3:02"
+    },
+    {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
+    },
+    {
+      "name": "About Damn Time",
+      "artist": "Lizzo",
+      "length": "3:11"
+    },
+    {
+      "name": "Rich Flex",
+      "artist": "Drake, 21 Savage",
+      "length": "3:59"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
+    },
+    {
+      "name": "Sure Thing",
+      "artist": "Miguel",
+      "length": "3:15"
+    },
+    {
+      "name": "Snooze",
+      "artist": "SZA",
+      "length": "3:21"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -125,9 +135,19 @@
       "length": "2:56"
     },
     {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
+    },
+    {
+      "name": "I'm Not Here To Make Friends",
+      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
+      "length": "3:49"
+    },
+    {
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
     },
     {
       "name": "Romantic Homicide",
@@ -135,19 +155,44 @@
       "length": "2:12"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
+      "name": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "length": "3:48"
     },
     {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
+      "name": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "length": "2:28"
     },
     {
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
+    },
+    {
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "artist": "Post Malone, Doja Cat",
+      "length": "3:12"
+    },
+    {
+      "name": "Tití Me Preguntó",
+      "artist": "Bad Bunny",
+      "length": "4:03"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
+    },
+    {
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "artist": "Doja Cat",
+      "length": "3:02"
     },
     {
       "name": "Heart Like A Truck",
@@ -160,9 +205,9 @@
       "length": "2:55"
     },
     {
-      "name": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "length": "2:28"
+      "name": "Bones",
+      "artist": "Imagine Dragons",
+      "length": "2:45"
     },
     {
       "name": "I Wish you Roses",
@@ -170,29 +215,14 @@
       "length": "3:45"
     },
     {
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "artist": "Doja Cat",
-      "length": "3:02"
-    },
-    {
       "name": "Made You Look",
       "artist": "Meghan Trainor",
       "length": "2:14"
     },
     {
-      "name": "Something in the Orange",
-      "artist": "Zach Bryan",
-      "length": "3:48"
-    },
-    {
-      "name": "Nobody Gets Me",
-      "artist": "SZA",
-      "length": "3:00"
-    },
-    {
-      "name": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "length": "4:03"
+      "name": "La Bachata",
+      "artist": "Manuel Turizo",
+      "length": "2:42"
     },
     {
       "name": "Ditto",
@@ -205,34 +235,9 @@
       "length": "2:27"
     },
     {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "length": "2:45"
-    },
-    {
-      "name": "Evergreen (You Didn’t Deserve Me At All)",
-      "artist": "Omar Apollo",
-      "length": "3:36"
-    },
-    {
-      "name": "La Bachata",
-      "artist": "Manuel Turizo",
-      "length": "2:42"
-    },
-    {
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "artist": "Post Malone, Doja Cat",
-      "length": "3:12"
-    },
-    {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "artist": "Quavo, Takeoff",
+      "length": "2:22"
     },
     {
       "name": "10:35",
@@ -240,19 +245,14 @@
       "length": "2:52"
     },
     {
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "artist": "Quavo, Takeoff",
-      "length": "2:22"
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "artist": "Omar Apollo",
+      "length": "3:36"
     },
     {
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "artist": "Drake, 21 Savage",
       "length": "3:38"
-    },
-    {
-      "name": "La Jumpa",
-      "artist": "Arcángel, Bad Bunny",
-      "length": "4:15"
     }
   ]
 }

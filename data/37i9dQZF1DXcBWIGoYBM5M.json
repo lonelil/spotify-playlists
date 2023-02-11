@@ -1,7 +1,7 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002b684598113677a364b791f2e",
+  "art": "https://i.scdn.co/image/ab67706f00000002a03167767495b25d14b9f2ea",
   "length": 50,
   "tracks": [
     {
@@ -15,14 +15,19 @@
       "length": "2:33"
     },
     {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
+    },
+    {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
     },
     {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
@@ -90,36 +95,6 @@
       "length": "3:12"
     },
     {
-      "name": "I'm Not Here To Make Friends",
-      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
-      "length": "3:49"
-    },
-    {
-      "name": "La Jumpa",
-      "artist": "Arcángel, Bad Bunny",
-      "length": "4:15"
-    },
-    {
-      "name": "Boy's a liar",
-      "artist": "PinkPantheress",
-      "length": "2:11"
-    },
-    {
-      "name": "10:35",
-      "artist": "Tiësto, Tate McRae",
-      "length": "2:52"
-    },
-    {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
-    },
-    {
-      "name": "Ditto",
-      "artist": "NewJeans",
-      "length": "3:05"
-    },
-    {
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
@@ -130,9 +105,29 @@
       "length": "2:43"
     },
     {
+      "name": "Made You Look",
+      "artist": "Meghan Trainor",
+      "length": "2:14"
+    },
+    {
+      "name": "I'm Not Here To Make Friends",
+      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
+      "length": "3:49"
+    },
+    {
+      "name": "OMG",
+      "artist": "NewJeans",
+      "length": "3:32"
+    },
+    {
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
+    },
+    {
+      "name": "10:35",
+      "artist": "Tiësto, Tate McRae",
+      "length": "2:52"
     },
     {
       "name": "Miss You",
@@ -140,29 +135,24 @@
       "length": "3:26"
     },
     {
-      "name": "Yandel 150",
-      "artist": "Yandel, Feid",
-      "length": "3:36"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
     },
     {
+      "name": "La Jumpa",
+      "artist": "Arcángel, Bad Bunny",
+      "length": "4:15"
+    },
+    {
+      "name": "Yandel 150",
+      "artist": "Yandel, Feid",
+      "length": "3:36"
+    },
+    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
-    },
-    {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
-    },
-    {
-      "name": "LLYLM",
-      "artist": "ROSALÍA",
-      "length": "2:54"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
@@ -185,6 +175,11 @@
       "length": "2:57"
     },
     {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
+    },
+    {
       "name": "Nobody Gets Me",
       "artist": "SZA",
       "length": "3:00"
@@ -205,14 +200,9 @@
       "length": "4:07"
     },
     {
-      "name": "La Bachata",
-      "artist": "Manuel Turizo",
-      "length": "2:42"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
+      "name": "Rush",
+      "artist": "Ayra Starr",
+      "length": "3:05"
     },
     {
       "name": "Bad Habit",
@@ -220,9 +210,19 @@
       "length": "3:52"
     },
     {
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "artist": "Metro Boomin, Future, Chris Brown",
-      "length": "3:02"
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
+    },
+    {
+      "name": "La Bachata",
+      "artist": "Manuel Turizo",
+      "length": "2:42"
+    },
+    {
+      "name": "LLYLM",
+      "artist": "ROSALÍA",
+      "length": "2:54"
     },
     {
       "name": "Bones",
@@ -240,6 +240,11 @@
       "length": "4:03"
     },
     {
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "artist": "Metro Boomin, Future, Chris Brown",
+      "length": "3:02"
+    },
+    {
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "artist": "Doja Cat",
       "length": "3:02"
@@ -248,11 +253,6 @@
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "artist": "Rihanna",
       "length": "3:16"
-    },
-    {
-      "name": "Evergreen (You Didn’t Deserve Me At All)",
-      "artist": "Omar Apollo",
-      "length": "3:36"
     }
   ]
 }
