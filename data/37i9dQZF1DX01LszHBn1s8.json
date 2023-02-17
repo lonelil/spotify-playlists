@@ -1,23 +1,18 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000027b0e1b4380f4388878958e18",
-  "length": 99,
+  "art": "https://i.scdn.co/image/ab67706f00000002762775686db4c63d70ab7817",
+  "length": 100,
   "tracks": [
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
-    },
-    {
-      "name": "Give It To Me",
-      "artist": "Lofis",
-      "length": "2:51"
-    },
     {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Whenever, Wherever",
@@ -25,14 +20,34 @@
       "length": "3:16"
     },
     {
+      "name": "Give It To Me",
+      "artist": "Lofis",
+      "length": "2:51"
+    },
+    {
       "name": "Sure Thing - Sped Up",
       "artist": "Miguel",
       "length": "2:30"
     },
     {
+      "name": "Where Have You Been",
+      "artist": "Rihanna",
+      "length": "4:02"
+    },
+    {
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     },
     {
       "name": "Shut up My Moms Calling - (Sped Up)",
@@ -48,11 +63,6 @@
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
-    },
-    {
-      "name": "Where Have You Been",
-      "artist": "Rihanna",
-      "length": "4:02"
     },
     {
       "name": "Collide (Sped Up Remix)",
@@ -85,9 +95,9 @@
       "length": "3:08"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "length": "2:43"
     },
     {
       "name": "Low",
@@ -100,9 +110,19 @@
       "length": "4:09"
     },
     {
+      "name": "Those Eyes - Sped Up",
+      "artist": "New West",
+      "length": "2:47"
+    },
+    {
       "name": "It's Called: Freefall",
       "artist": "Rainbow Kitten Surprise",
       "length": "2:32"
+    },
+    {
+      "name": "a little more time",
+      "artist": "ROLE MODEL",
+      "length": "3:30"
     },
     {
       "name": "Placebo Effect",
@@ -483,21 +503,6 @@
       "name": "Down In Atlanta",
       "artist": "Pharrell Williams, Travis Scott",
       "length": "2:44"
-    },
-    {
-      "name": "Secrets",
-      "artist": "A Boogie Wit da Hoodie",
-      "length": "2:13"
-    },
-    {
-      "name": "Simon's Song - from the Netflix Series Young Royals",
-      "artist": "Omar Rudberg",
-      "length": "2:27"
-    },
-    {
-      "name": "World Cup",
-      "artist": "IShowSpeed",
-      "length": "4:16"
     }
   ]
 }
