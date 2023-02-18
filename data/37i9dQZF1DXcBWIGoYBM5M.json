@@ -1,9 +1,14 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a03167767495b25d14b9f2ea",
+  "art": "https://i.scdn.co/image/ab67706f00000002ca22ddd6c22c8d2cdbeddc0a",
   "length": 50,
   "tracks": [
+    {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
     {
       "name": "Flowers",
       "artist": "Miley Cyrus",
@@ -15,19 +20,9 @@
       "length": "2:33"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
     },
     {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
@@ -50,14 +45,14 @@
       "length": "2:47"
     },
     {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
       "name": "CUFF IT",
       "artist": "Beyoncé",
       "length": "3:45"
+    },
+    {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     },
     {
       "name": "golden hour",
@@ -65,14 +60,14 @@
       "length": "3:29"
     },
     {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
       "name": "Anti-Hero",
       "artist": "Taylor Swift",
       "length": "3:20"
-    },
-    {
-      "name": "LET GO",
-      "artist": "Central Cee",
-      "length": "2:54"
     },
     {
       "name": "I'm Good (Blue)",
@@ -80,9 +75,19 @@
       "length": "2:55"
     },
     {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
+    },
+    {
+      "name": "LET GO",
+      "artist": "Central Cee",
+      "length": "2:54"
     },
     {
       "name": "Snooze",
@@ -93,11 +98,6 @@
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
     },
     {
       "name": "10:35",
@@ -145,11 +145,6 @@
       "length": "3:36"
     },
     {
-      "name": "Lavender Haze",
-      "artist": "Taylor Swift",
-      "length": "3:22"
-    },
-    {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "artist": "Lil Nas X",
       "length": "3:30"
@@ -170,24 +165,24 @@
       "length": "2:56"
     },
     {
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
+    },
+    {
       "name": "Late Night Talking",
       "artist": "Harry Styles",
       "length": "2:57"
     },
     {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
     },
     {
       "name": "Nobody Gets Me",
       "artist": "SZA",
       "length": "3:00"
-    },
-    {
-      "name": "About Damn Time",
-      "artist": "Lizzo",
-      "length": "3:11"
     },
     {
       "name": "Something in the Orange",
@@ -210,19 +205,14 @@
       "length": "3:05"
     },
     {
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "artist": "Rihanna",
-      "length": "3:16"
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
     },
     {
-      "name": "LLYLM",
-      "artist": "ROSALÍA",
-      "length": "2:54"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
+      "name": "About Damn Time",
+      "artist": "Lizzo",
+      "length": "3:11"
     },
     {
       "name": "La Bachata",
@@ -245,9 +235,19 @@
       "length": "4:03"
     },
     {
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "artist": "Rihanna",
+      "length": "3:16"
+    },
+    {
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "artist": "Doja Cat",
       "length": "3:02"
+    },
+    {
+      "name": "LLYLM",
+      "artist": "ROSALÍA",
+      "length": "2:54"
     },
     {
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",

@@ -1,7 +1,7 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002881d18a0924be8baa657b022",
+  "art": "https://i.scdn.co/image/ab67706f0000000272517925846c0c3dcebce2e1",
   "length": 100,
   "tracks": [
     {
@@ -20,6 +20,11 @@
       "length": "2:22"
     },
     {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
+    },
+    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
@@ -28,6 +33,26 @@
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
+    },
+    {
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "length": "3:30"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "Sure Thing",
@@ -45,19 +70,14 @@
       "length": "3:22"
     },
     {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
+      "name": "We Go Down Together (with Khalid)",
+      "artist": "Dove Cameron, Khalid",
+      "length": "3:04"
     },
     {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -70,9 +90,9 @@
       "length": "7:13"
     },
     {
-      "name": "We Go Down Together (with Khalid)",
-      "artist": "Dove Cameron, Khalid",
-      "length": "3:04"
+      "name": "drunk text",
+      "artist": "Henry Moodie",
+      "length": "3:07"
     },
     {
       "name": "Placebo Effect",
@@ -80,14 +100,14 @@
       "length": "3:11"
     },
     {
+      "name": "a little more time",
+      "artist": "ROLE MODEL",
+      "length": "3:30"
+    },
+    {
       "name": "Best Friend Breakup",
       "artist": "Lauren Spencer Smith",
       "length": "2:21"
-    },
-    {
-      "name": "drunk text",
-      "artist": "Henry Moodie",
-      "length": "3:07"
     },
     {
       "name": "Green Green Grass",
@@ -100,9 +120,9 @@
       "length": "2:26"
     },
     {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
+      "name": "Call Me What You Like",
+      "artist": "Lovejoy",
+      "length": "3:46"
     },
     {
       "name": "Red Flags",
@@ -115,19 +135,9 @@
       "length": "3:20"
     },
     {
-      "name": "Who Is She ?",
-      "artist": "I Monster",
-      "length": "3:33"
-    },
-    {
-      "name": "Rockstar",
-      "artist": "BoyWithUke",
-      "length": "3:13"
-    },
-    {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
+      "name": "Locksmith",
+      "artist": "Sadie Jean",
+      "length": "2:44"
     },
     {
       "name": "Memories",
@@ -135,9 +145,19 @@
       "length": "4:08"
     },
     {
-      "name": "Call Me What You Like",
-      "artist": "Lovejoy",
-      "length": "3:46"
+      "name": "Rockstar",
+      "artist": "BoyWithUke",
+      "length": "3:13"
+    },
+    {
+      "name": "Who Is She ?",
+      "artist": "I Monster",
+      "length": "3:33"
+    },
+    {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     },
     {
       "name": "Back That Up To The Beat - sped up version",
@@ -215,11 +235,6 @@
       "length": "2:16"
     },
     {
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "artist": "Lana Del Rey",
-      "length": "4:45"
-    },
-    {
       "name": "That's What I Get",
       "artist": "charlieonnafriday",
       "length": "2:30"
@@ -233,16 +248,6 @@
       "name": "You Make Me Sick!",
       "artist": "Ashnikko",
       "length": "2:18"
-    },
-    {
-      "name": "VIBE (feat. Jimin of BTS)",
-      "artist": "TAEYANG, Jimin",
-      "length": "2:55"
-    },
-    {
-      "name": "Environmental Anxiety.",
-      "artist": "RAYE",
-      "length": "3:14"
     },
     {
       "name": "Bad Habit",
@@ -295,11 +300,6 @@
       "length": "3:33"
     },
     {
-      "name": "It's Corn",
-      "artist": "Tariq, The Gregory Brothers, Recess Therapy",
-      "length": "2:47"
-    },
-    {
       "name": "Where do we go now?",
       "artist": "Gracie Abrams",
       "length": "4:03"
@@ -343,11 +343,6 @@
       "name": "Paper Crown",
       "artist": "Alec Benjamin",
       "length": "3:12"
-    },
-    {
-      "name": "Ugly Crier",
-      "artist": "Mckenna Grace",
-      "length": "2:32"
     },
     {
       "name": "Ditto",
@@ -445,11 +440,6 @@
       "length": "2:27"
     },
     {
-      "name": "Nxde",
-      "artist": "(G)I-DLE",
-      "length": "2:58"
-    },
-    {
       "name": "just wanna rock (Lil Uzi Vert) - Sped Up Version",
       "artist": "sped up nightcore, Lil Uzi Vert",
       "length": "1:40"
@@ -503,6 +493,16 @@
       "name": "Another Love",
       "artist": "Tom Odell",
       "length": "4:04"
+    },
+    {
+      "name": "Teenage Dirtbag",
+      "artist": "Wheatus",
+      "length": "4:01"
+    },
+    {
+      "name": "1985",
+      "artist": "Bo Burnham",
+      "length": "2:26"
     }
   ]
 }

@@ -1,9 +1,14 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000286847f5215f01f9817fbd43f",
+  "art": "https://i.scdn.co/image/ab67706f00000002f14550a3906cd371d33cf937",
   "length": 86,
   "tracks": [
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
+    },
     {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
@@ -25,14 +30,19 @@
       "length": "2:15"
     },
     {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
     },
     {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
     },
     {
       "name": "Flowers",
@@ -50,24 +60,24 @@
       "length": "2:54"
     },
     {
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
+    },
+    {
       "name": "Rush",
       "artist": "Ayra Starr",
       "length": "3:05"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
+      "name": "i'm yours",
+      "artist": "Isabel LaRosa",
+      "length": "2:25"
+    },
+    {
+      "name": "Heart Wants What It Wants",
+      "artist": "Bebe Rexha",
       "length": "3:02"
-    },
-    {
-      "name": "Ghost",
-      "artist": "Ava Max",
-      "length": "3:01"
-    },
-    {
-      "name": "Best Friend Breakup",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:21"
     },
     {
       "name": "SAD B!TCH",
@@ -75,9 +85,14 @@
       "length": "2:12"
     },
     {
-      "name": "i'm yours",
-      "artist": "Isabel LaRosa",
-      "length": "2:25"
+      "name": "Ghost",
+      "artist": "Ava Max",
+      "length": "3:01"
+    },
+    {
+      "name": "Saturday/Sunday",
+      "artist": "Jason Derulo, David Guetta",
+      "length": "2:46"
     },
     {
       "name": "I'm Not Here To Make Friends",
@@ -90,14 +105,24 @@
       "length": "2:43"
     },
     {
-      "name": "What Happened to Ryan",
-      "artist": "Jessie Murph",
-      "length": "2:35"
+      "name": "A&W",
+      "artist": "Lana Del Rey",
+      "length": "7:13"
     },
     {
-      "name": "Placebo Effect",
-      "artist": "d4vd",
-      "length": "3:11"
+      "name": "Best Friend Breakup",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:21"
+    },
+    {
+      "name": "a little more time",
+      "artist": "ROLE MODEL",
+      "length": "3:30"
+    },
+    {
+      "name": "Call Me What You Like",
+      "artist": "Lovejoy",
+      "length": "3:46"
     },
     {
       "name": "Escapism.",
@@ -105,9 +130,24 @@
       "length": "4:32"
     },
     {
+      "name": "BANG BANG!",
+      "artist": "Nessa Barrett",
+      "length": "2:16"
+    },
+    {
+      "name": "What Happened to Ryan",
+      "artist": "Jessie Murph",
+      "length": "2:35"
+    },
+    {
       "name": "Too Well",
       "artist": "Reneé Rapp",
       "length": "2:36"
+    },
+    {
+      "name": "Placebo Effect",
+      "artist": "d4vd",
+      "length": "3:11"
     },
     {
       "name": "Kill Bill",
@@ -118,6 +158,11 @@
       "name": "Can't Tame Her",
       "artist": "Zara Larsson",
       "length": "3:16"
+    },
+    {
+      "name": "BABY SAID",
+      "artist": "Måneskin",
+      "length": "2:44"
     },
     {
       "name": "Borderline",
@@ -135,14 +180,9 @@
       "length": "3:22"
     },
     {
-      "name": "BABY SAID",
-      "artist": "Måneskin",
-      "length": "2:44"
-    },
-    {
-      "name": "Call Me What You Like",
-      "artist": "Lovejoy",
-      "length": "3:46"
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
     },
     {
       "name": "Evangeline",
@@ -155,14 +195,9 @@
       "length": "4:03"
     },
     {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
-    },
-    {
-      "name": "Green Honda",
-      "artist": "BENEE",
-      "length": "2:46"
+      "name": "people pleaser",
+      "artist": "Cat Burns",
+      "length": "2:26"
     },
     {
       "name": "Who We Love (feat. Ed Sheeran)",
@@ -175,14 +210,29 @@
       "length": "3:23"
     },
     {
+      "name": "Green Honda",
+      "artist": "BENEE",
+      "length": "2:46"
+    },
+    {
       "name": "Voices (feat. Oliver Tree)",
       "artist": "KSI, Oliver Tree",
       "length": "3:08"
     },
     {
+      "name": "Low",
+      "artist": "SZA",
+      "length": "3:01"
+    },
+    {
       "name": "Rockstar",
       "artist": "BoyWithUke",
       "length": "3:13"
+    },
+    {
+      "name": "GOSSIP (feat. Tom Morello)",
+      "artist": "Måneskin, Tom Morello",
+      "length": "2:48"
     },
     {
       "name": "MUST BE NICE",
@@ -200,14 +250,9 @@
       "length": "2:55"
     },
     {
-      "name": "Kids Are Growing Up (Part 1)",
-      "artist": "The Kid LAROI",
-      "length": "2:01"
-    },
-    {
-      "name": "Low",
-      "artist": "SZA",
-      "length": "3:01"
+      "name": "messy in heaven",
+      "artist": "venbee, goddard.",
+      "length": "2:50"
     },
     {
       "name": "OMG",
@@ -215,34 +260,24 @@
       "length": "3:32"
     },
     {
-      "name": "LLYLM",
-      "artist": "ROSALÍA",
-      "length": "2:54"
-    },
-    {
-      "name": "GOSSIP (feat. Tom Morello)",
-      "artist": "Måneskin, Tom Morello",
-      "length": "2:48"
-    },
-    {
       "name": "That's What I Get",
       "artist": "charlieonnafriday",
       "length": "2:30"
     },
     {
-      "name": "messy in heaven",
-      "artist": "venbee, goddard.",
-      "length": "2:50"
+      "name": "Kids Are Growing Up (Part 1)",
+      "artist": "The Kid LAROI",
+      "length": "2:01"
+    },
+    {
+      "name": "LLYLM",
+      "artist": "ROSALÍA",
+      "length": "2:54"
     },
     {
       "name": "Luv Me A Little",
       "artist": "ILLENIUM, Nina Nesbitt",
       "length": "3:44"
-    },
-    {
-      "name": "people pleaser",
-      "artist": "Cat Burns",
-      "length": "2:26"
     },
     {
       "name": "F64",
@@ -335,16 +370,6 @@
       "length": "2:18"
     },
     {
-      "name": "brrr",
-      "artist": "Kim Petras",
-      "length": "2:32"
-    },
-    {
-      "name": "Ghost of You",
-      "artist": "Mimi Webb",
-      "length": "2:38"
-    },
-    {
       "name": "I Wish you Roses",
       "artist": "Kali Uchis",
       "length": "3:45"
@@ -365,34 +390,14 @@
       "length": "2:57"
     },
     {
-      "name": "Something in the Orange",
-      "artist": "Zach Bryan",
-      "length": "3:48"
-    },
-    {
       "name": "Eyes On You",
       "artist": "Nicky Youre",
       "length": "2:57"
     },
     {
-      "name": "Sorry To Me Too",
-      "artist": "Julia Michaels",
-      "length": "3:29"
-    },
-    {
-      "name": "October Passed Me By",
-      "artist": "girl in red",
-      "length": "2:45"
-    },
-    {
       "name": "Locksmith",
       "artist": "Sadie Jean",
       "length": "2:44"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "Before You",
@@ -405,9 +410,9 @@
       "length": "3:25"
     },
     {
-      "name": "Rumble",
-      "artist": "Skrillex, Fred again.., Flowdan",
-      "length": "2:26"
+      "name": "Shut Up",
+      "artist": "Alan Walker, UPSAHL",
+      "length": "2:12"
     },
     {
       "name": "Die For You",
@@ -415,19 +420,14 @@
       "length": "3:31"
     },
     {
-      "name": "Shut Up",
-      "artist": "Alan Walker, UPSAHL",
-      "length": "2:12"
-    },
-    {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "artist": "Lil Nas X",
       "length": "3:30"
     },
     {
-      "name": "Nothing Is Lost (You Give Me Strength)",
-      "artist": "The Weeknd",
-      "length": "4:27"
+      "name": "Rumble",
+      "artist": "Skrillex, Fred again.., Flowdan",
+      "length": "2:26"
     },
     {
       "name": "AVA",
