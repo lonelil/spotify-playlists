@@ -5,6 +5,11 @@
   "length": 60,
   "tracks": [
     {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
+    },
+    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
@@ -18,11 +23,6 @@
       "name": "My Stupid Heart",
       "artist": "Walk Off the Earth",
       "length": "2:40"
-    },
-    {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
     },
     {
       "name": "Who We Love (feat. Ed Sheeran)",
