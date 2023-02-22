@@ -15,19 +15,24 @@
       "length": "2:22"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
-    },
-    {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
     },
     {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
       "name": "Sure Thing - Sped Up",
       "artist": "Miguel",
       "length": "2:30"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
     },
     {
       "name": "Where Have You Been",
@@ -40,11 +45,6 @@
       "length": "4:02"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
@@ -55,9 +55,19 @@
       "length": "3:02"
     },
     {
+      "name": "Collide (Sped Up Remix)",
+      "artist": "Justine Skye, Tyga",
+      "length": "3:41"
+    },
+    {
       "name": "Shut up My Moms Calling - (Sped Up)",
       "artist": "Hotel Ugly",
       "length": "2:15"
+    },
+    {
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "length": "2:43"
     },
     {
       "name": "Flowers",
@@ -68,11 +78,6 @@
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
-    },
-    {
-      "name": "Collide (Sped Up Remix)",
-      "artist": "Justine Skye, Tyga",
-      "length": "3:41"
     },
     {
       "name": "Glue Song",
@@ -115,6 +120,11 @@
       "length": "4:09"
     },
     {
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
+      "length": "3:44"
+    },
+    {
       "name": "Those Eyes - Sped Up",
       "artist": "New West",
       "length": "2:47"
@@ -148,11 +158,6 @@
       "name": "Queen of Kings",
       "artist": "Alessandra",
       "length": "2:27"
-    },
-    {
-      "name": "Love On The Brain",
-      "artist": "Rihanna",
-      "length": "3:44"
     },
     {
       "name": "Shake That",
@@ -498,11 +503,6 @@
       "name": "Nonsense - Sped Up Version",
       "artist": "Sabrina Carpenter",
       "length": "2:17"
-    },
-    {
-      "name": "Melting",
-      "artist": "Kali Uchis",
-      "length": "3:28"
     }
   ]
 }

@@ -15,19 +15,9 @@
       "length": "3:04"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
     },
     {
       "name": "ceilings",
@@ -35,14 +25,24 @@
       "length": "3:02"
     },
     {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
+    },
+    {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
     },
     {
       "name": "Flowers",
@@ -65,14 +65,14 @@
       "length": "3:06"
     },
     {
-      "name": "Rush",
-      "artist": "Ayra Starr",
-      "length": "3:05"
-    },
-    {
       "name": "i'm yours",
       "artist": "Isabel LaRosa",
       "length": "2:25"
+    },
+    {
+      "name": "Rush",
+      "artist": "Ayra Starr",
+      "length": "3:05"
     },
     {
       "name": "Heart Wants What It Wants",
@@ -90,11 +90,6 @@
       "length": "3:01"
     },
     {
-      "name": "Saturday/Sunday",
-      "artist": "Jason Derulo, David Guetta",
-      "length": "2:46"
-    },
-    {
       "name": "I'm Not Here To Make Friends",
       "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
       "length": "3:49"
@@ -103,6 +98,11 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "Call Me What You Like",
+      "artist": "Lovejoy",
+      "length": "3:46"
     },
     {
       "name": "A&W",
@@ -120,19 +120,24 @@
       "length": "3:30"
     },
     {
-      "name": "Call Me What You Like",
-      "artist": "Lovejoy",
-      "length": "3:46"
-    },
-    {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
     },
     {
+      "name": "Saturday/Sunday",
+      "artist": "Jason Derulo, David Guetta",
+      "length": "2:46"
+    },
+    {
       "name": "BANG BANG!",
       "artist": "Nessa Barrett",
       "length": "2:16"
+    },
+    {
+      "name": "DANCING ALL ALONE",
+      "artist": "Clinton Kane",
+      "length": "2:51"
     },
     {
       "name": "What Happened to Ryan",
@@ -163,6 +168,11 @@
       "name": "BABY SAID",
       "artist": "Måneskin",
       "length": "2:44"
+    },
+    {
+      "name": "SHOOTING STAR",
+      "artist": "XG",
+      "length": "3:23"
     },
     {
       "name": "Borderline",
@@ -205,9 +215,9 @@
       "length": "2:42"
     },
     {
-      "name": "SHOOTING STAR",
-      "artist": "XG",
-      "length": "3:23"
+      "name": "GOSSIP (feat. Tom Morello)",
+      "artist": "Måneskin, Tom Morello",
+      "length": "2:48"
     },
     {
       "name": "Green Honda",
@@ -228,11 +238,6 @@
       "name": "Rockstar",
       "artist": "BoyWithUke",
       "length": "3:13"
-    },
-    {
-      "name": "GOSSIP (feat. Tom Morello)",
-      "artist": "Måneskin, Tom Morello",
-      "length": "2:48"
     },
     {
       "name": "MUST BE NICE",
@@ -428,11 +433,6 @@
       "name": "Rumble",
       "artist": "Skrillex, Fred again.., Flowdan",
       "length": "2:26"
-    },
-    {
-      "name": "AVA",
-      "artist": "Natalie Jane",
-      "length": "2:39"
     }
   ]
 }
