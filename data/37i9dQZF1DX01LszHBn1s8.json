@@ -1,13 +1,23 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002762775686db4c63d70ab7817",
-  "length": 100,
+  "art": "https://i.scdn.co/image/ab67706f00000002a724fdf152ff186afc9b6db4",
+  "length": 99,
   "tracks": [
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
     {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Don't Hate Me",
+      "artist": "Lola Young",
+      "length": "2:42"
     },
     {
       "name": "If We Ever Broke Up",
@@ -20,9 +30,14 @@
       "length": "2:51"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "length": "2:43"
+    },
+    {
+      "name": "22",
+      "artist": "JayO",
+      "length": "2:22"
     },
     {
       "name": "Sure Thing - Sped Up",
@@ -35,21 +50,6 @@
       "length": "3:16"
     },
     {
-      "name": "Where Have You Been",
-      "artist": "Rihanna",
-      "length": "4:02"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
-    },
-    {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
-    },
-    {
       "name": "Collide (Sped Up Remix)",
       "artist": "Justine Skye, Tyga",
       "length": "3:41"
@@ -60,14 +60,29 @@
       "length": "2:09"
     },
     {
+      "name": "Where Have You Been",
+      "artist": "Rihanna",
+      "length": "4:02"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "Where's My Love - Slowed",
+      "artist": "SYML",
+      "length": "4:49"
+    },
+    {
       "name": "Shut up My Moms Calling - (Sped Up)",
       "artist": "Hotel Ugly",
       "length": "2:15"
     },
     {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
+      "name": "No Bad Days - Sped Up",
+      "artist": "Flo Rida, Jimmie Allen",
+      "length": "1:56"
     },
     {
       "name": "Flowers",
@@ -95,6 +110,11 @@
       "length": "2:56"
     },
     {
+      "name": "You Don't Call Me Anymore - Sped Up",
+      "artist": "Sam Fischer, sped up + slowed",
+      "length": "2:21"
+    },
+    {
       "name": "Die For You - Sped Up",
       "artist": "The Weeknd, xxtristanxo, Speed Radio",
       "length": "3:43"
@@ -110,9 +130,29 @@
       "length": "3:08"
     },
     {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
+      "name": "i'm yours sped up",
+      "artist": "Isabel LaRosa",
+      "length": "2:07"
+    },
+    {
+      "name": "In This Darkness",
+      "artist": "Clara La San",
+      "length": "3:17"
+    },
+    {
+      "name": "Can You Remember the Rain - Sequence Remix",
+      "artist": "Garrett Atterberry",
+      "length": "3:06"
+    },
+    {
+      "name": "golden hour",
+      "artist": "JVKE",
+      "length": "3:29"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "Low",
@@ -123,6 +163,11 @@
       "name": "CUFF IT - WETTER REMIX",
       "artist": "Beyoncé",
       "length": "4:09"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     },
     {
       "name": "Love On The Brain",
@@ -138,11 +183,6 @@
       "name": "It's Called: Freefall",
       "artist": "Rainbow Kitten Surprise",
       "length": "2:32"
-    },
-    {
-      "name": "a little more time",
-      "artist": "ROLE MODEL",
-      "length": "3:30"
     },
     {
       "name": "Placebo Effect",
@@ -205,11 +245,6 @@
       "length": "4:04"
     },
     {
-      "name": "i'm yours sped up",
-      "artist": "Isabel LaRosa",
-      "length": "2:07"
-    },
-    {
       "name": "Who Is She ?",
       "artist": "I Monster",
       "length": "3:33"
@@ -223,16 +258,6 @@
       "name": "people pleaser - higher & faster",
       "artist": "Cat Burns, sped up + slowed",
       "length": "1:58"
-    },
-    {
-      "name": "golden hour",
-      "artist": "JVKE",
-      "length": "3:29"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
     },
     {
       "name": "Kill Bill",
@@ -473,36 +498,6 @@
       "name": "SPIT IN MY FACE!",
       "artist": "ThxSoMch",
       "length": "2:27"
-    },
-    {
-      "name": "messy in heaven",
-      "artist": "venbee, goddard.",
-      "length": "2:50"
-    },
-    {
-      "name": "Miss You - Sped Up Version",
-      "artist": "Oliver Tree, sped up nightcore",
-      "length": "2:51"
-    },
-    {
-      "name": "People You Know",
-      "artist": "Selena Gomez",
-      "length": "3:14"
-    },
-    {
-      "name": "Shut up My Moms Calling",
-      "artist": "Hotel Ugly",
-      "length": "2:44"
-    },
-    {
-      "name": "Sweater Weather",
-      "artist": "The Neighbourhood",
-      "length": "4:00"
-    },
-    {
-      "name": "Nonsense - Sped Up Version",
-      "artist": "Sabrina Carpenter",
-      "length": "2:17"
     }
   ]
 }
