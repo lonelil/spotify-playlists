@@ -10,6 +10,11 @@
       "length": "2:11"
     },
     {
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
+    },
+    {
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
@@ -20,9 +25,9 @@
       "length": "2:22"
     },
     {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
     },
     {
       "name": "Flowers",
@@ -30,9 +35,19 @@
       "length": "3:20"
     },
     {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
+      "name": "Bruises",
+      "artist": "Reneé Rapp",
+      "length": "2:41"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "Players",
@@ -40,19 +55,24 @@
       "length": "2:19"
     },
     {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
+      "name": "I GUESS IT'S LOVE?",
+      "artist": "The Kid LAROI",
+      "length": "2:17"
+    },
+    {
+      "name": "Teacher's Pet",
+      "artist": "Melanie Martinez",
+      "length": "4:01"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "artist": "Lil Nas X",
       "length": "3:30"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
     },
     {
       "name": "Sure Thing",
@@ -70,9 +90,9 @@
       "length": "2:56"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
     },
     {
       "name": "We Go Down Together (with Khalid)",
@@ -80,9 +100,9 @@
       "length": "3:04"
     },
     {
-      "name": "Teacher's Pet",
-      "artist": "Melanie Martinez",
-      "length": "4:01"
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
     },
     {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
@@ -90,9 +110,19 @@
       "length": "2:43"
     },
     {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
+    },
+    {
       "name": "Escapism. - Sped Up",
       "artist": "RAYE, 070 Shake",
       "length": "3:59"
+    },
+    {
+      "name": "22",
+      "artist": "JayO",
+      "length": "2:22"
     },
     {
       "name": "Placebo Effect",
@@ -108,6 +138,11 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "LIMBO",
+      "artist": "keshi",
+      "length": "3:32"
     },
     {
       "name": "Memories",
@@ -143,6 +178,11 @@
       "name": "Love Again",
       "artist": "The Kid LAROI",
       "length": "2:26"
+    },
+    {
+      "name": "Don't Hate Me",
+      "artist": "Lola Young",
+      "length": "2:42"
     },
     {
       "name": "Call Me What You Like",
@@ -225,11 +265,6 @@
       "length": "3:23"
     },
     {
-      "name": "Amelie",
-      "artist": "Gracie Abrams",
-      "length": "4:19"
-    },
-    {
       "name": "Too Well",
       "artist": "Reneé Rapp",
       "length": "2:36"
@@ -295,11 +330,6 @@
       "length": "3:04"
     },
     {
-      "name": "Body Better",
-      "artist": "Maisie Peters",
-      "length": "3:09"
-    },
-    {
       "name": "AVA (Sped Up)",
       "artist": "Natalie Jane",
       "length": "2:17"
@@ -308,16 +338,6 @@
       "name": "NO",
       "artist": "Meghan Trainor",
       "length": "3:33"
-    },
-    {
-      "name": "Where do we go now?",
-      "artist": "Gracie Abrams",
-      "length": "4:03"
-    },
-    {
-      "name": "blame's on me",
-      "artist": "Alexander Stewart",
-      "length": "2:18"
     },
     {
       "name": "golden hour",
@@ -355,19 +375,9 @@
       "length": "3:12"
     },
     {
-      "name": "Ditto",
-      "artist": "NewJeans",
-      "length": "3:05"
-    },
-    {
       "name": "Remember - Acoustic / Sped Up",
       "artist": "Becky Hill, Speed Radio, xxtristanxo",
       "length": "2:34"
-    },
-    {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
     },
     {
       "name": "dumb dumb",
@@ -395,11 +405,6 @@
       "length": "2:57"
     },
     {
-      "name": "My Mind & Me",
-      "artist": "Selena Gomez",
-      "length": "2:27"
-    },
-    {
       "name": "Heather",
       "artist": "Conan Gray",
       "length": "3:18"
@@ -410,19 +415,9 @@
       "length": "5:20"
     },
     {
-      "name": "Music For a Sushi Restaurant",
-      "artist": "Harry Styles",
-      "length": "3:13"
-    },
-    {
       "name": "Summertime Sadness - Sped Up",
       "artist": "Lana Del Rey, Speed Radio",
       "length": "3:17"
-    },
-    {
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "artist": "Rihanna",
-      "length": "3:16"
     },
     {
       "name": "Romantic Homicide",
@@ -503,6 +498,11 @@
       "name": "Another Love",
       "artist": "Tom Odell",
       "length": "4:04"
+    },
+    {
+      "name": "Teenage Dirtbag",
+      "artist": "Wheatus",
+      "length": "4:01"
     }
   ]
 }

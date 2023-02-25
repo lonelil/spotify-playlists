@@ -1,7 +1,7 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002f14550a3906cd371d33cf937",
+  "art": "https://i.scdn.co/image/ab67706f0000000239edd108faeaba811003f7f1",
   "length": 86,
   "tracks": [
     {
@@ -10,9 +10,24 @@
       "length": "3:06"
     },
     {
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
+    },
+    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
+    },
+    {
+      "name": "I GUESS IT'S LOVE?",
+      "artist": "The Kid LAROI",
+      "length": "2:17"
+    },
+    {
+      "name": "Bruises",
+      "artist": "Reneé Rapp",
+      "length": "2:41"
     },
     {
       "name": "Red Flags",
@@ -20,14 +35,9 @@
       "length": "2:21"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
+      "name": "Die 4 Me",
+      "artist": "Halsey",
+      "length": "3:35"
     },
     {
       "name": "TRUSTFALL",
@@ -40,9 +50,14 @@
       "length": "2:22"
     },
     {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
       "name": "Flowers",
@@ -50,9 +65,14 @@
       "length": "3:20"
     },
     {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
+    },
+    {
+      "name": "Wings",
+      "artist": "Jonas Brothers",
+      "length": "1:58"
     },
     {
       "name": "Special (feat. SZA)",
@@ -70,6 +90,26 @@
       "length": "2:25"
     },
     {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
+      "name": "HOPE",
+      "artist": "NF",
+      "length": "4:24"
+    },
+    {
+      "name": "SAD B!TCH",
+      "artist": "Anne-Marie",
+      "length": "2:12"
+    },
+    {
       "name": "Rush",
       "artist": "Ayra Starr",
       "length": "3:05"
@@ -78,11 +118,6 @@
       "name": "Heart Wants What It Wants",
       "artist": "Bebe Rexha",
       "length": "3:02"
-    },
-    {
-      "name": "SAD B!TCH",
-      "artist": "Anne-Marie",
-      "length": "2:12"
     },
     {
       "name": "Ghost",
@@ -95,9 +130,19 @@
       "length": "3:49"
     },
     {
+      "name": "3 Boys",
+      "artist": "Omar Apollo",
+      "length": "3:29"
+    },
+    {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "Shut Me Up",
+      "artist": "Nicky Youre",
+      "length": "2:21"
     },
     {
       "name": "Call Me What You Like",
@@ -105,9 +150,24 @@
       "length": "3:46"
     },
     {
-      "name": "A&W",
-      "artist": "Lana Del Rey",
-      "length": "7:13"
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
+    },
+    {
+      "name": "BANG BANG!",
+      "artist": "Nessa Barrett",
+      "length": "2:16"
+    },
+    {
+      "name": "SHOOTING STAR",
+      "artist": "XG",
+      "length": "3:23"
     },
     {
       "name": "Best Friend Breakup",
@@ -120,39 +180,19 @@
       "length": "3:30"
     },
     {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
-      "name": "Saturday/Sunday",
-      "artist": "Jason Derulo, David Guetta",
-      "length": "2:46"
-    },
-    {
-      "name": "BANG BANG!",
-      "artist": "Nessa Barrett",
-      "length": "2:16"
-    },
-    {
-      "name": "DANCING ALL ALONE",
-      "artist": "Clinton Kane",
-      "length": "2:51"
-    },
-    {
       "name": "What Happened to Ryan",
       "artist": "Jessie Murph",
       "length": "2:35"
     },
     {
-      "name": "Too Well",
-      "artist": "Reneé Rapp",
-      "length": "2:36"
+      "name": "A&W",
+      "artist": "Lana Del Rey",
+      "length": "7:13"
     },
     {
-      "name": "Placebo Effect",
-      "artist": "d4vd",
-      "length": "3:11"
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
     },
     {
       "name": "Kill Bill",
@@ -160,9 +200,19 @@
       "length": "2:33"
     },
     {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
+    },
+    {
+      "name": "Too Well",
+      "artist": "Reneé Rapp",
+      "length": "2:36"
+    },
+    {
+      "name": "DANCING ALL ALONE",
+      "artist": "Clinton Kane",
+      "length": "2:51"
     },
     {
       "name": "BABY SAID",
@@ -170,9 +220,9 @@
       "length": "2:44"
     },
     {
-      "name": "SHOOTING STAR",
-      "artist": "XG",
-      "length": "3:23"
+      "name": "Saturday/Sunday",
+      "artist": "Jason Derulo, David Guetta",
+      "length": "2:46"
     },
     {
       "name": "Borderline",
@@ -183,26 +233,6 @@
       "name": "PSYCHO",
       "artist": "Anne-Marie, Aitch",
       "length": "2:42"
-    },
-    {
-      "name": "Lavender Haze",
-      "artist": "Taylor Swift",
-      "length": "3:22"
-    },
-    {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
-    },
-    {
-      "name": "Evangeline",
-      "artist": "Stephen Sanchez",
-      "length": "2:57"
-    },
-    {
-      "name": "Where do we go now?",
-      "artist": "Gracie Abrams",
-      "length": "4:03"
     },
     {
       "name": "people pleaser",
@@ -220,9 +250,14 @@
       "length": "2:48"
     },
     {
-      "name": "Green Honda",
-      "artist": "BENEE",
-      "length": "2:46"
+      "name": "Evangeline",
+      "artist": "Stephen Sanchez",
+      "length": "2:57"
+    },
+    {
+      "name": "Placebo Effect",
+      "artist": "d4vd",
+      "length": "3:11"
     },
     {
       "name": "Voices (feat. Oliver Tree)",
@@ -235,14 +270,24 @@
       "length": "3:01"
     },
     {
-      "name": "Rockstar",
-      "artist": "BoyWithUke",
-      "length": "3:13"
+      "name": "That's What I Get",
+      "artist": "charlieonnafriday",
+      "length": "2:30"
     },
     {
       "name": "MUST BE NICE",
       "artist": "Ruel",
       "length": "2:55"
+    },
+    {
+      "name": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "length": "4:03"
+    },
+    {
+      "name": "Rockstar",
+      "artist": "BoyWithUke",
+      "length": "3:13"
     },
     {
       "name": "Ice Cream Man.",
@@ -260,34 +305,19 @@
       "length": "2:50"
     },
     {
+      "name": "Green Honda",
+      "artist": "BENEE",
+      "length": "2:46"
+    },
+    {
       "name": "OMG",
       "artist": "NewJeans",
       "length": "3:32"
     },
     {
-      "name": "That's What I Get",
-      "artist": "charlieonnafriday",
-      "length": "2:30"
-    },
-    {
-      "name": "Kids Are Growing Up (Part 1)",
-      "artist": "The Kid LAROI",
-      "length": "2:01"
-    },
-    {
-      "name": "LLYLM",
-      "artist": "ROSALÍA",
-      "length": "2:54"
-    },
-    {
       "name": "Luv Me A Little",
       "artist": "ILLENIUM, Nina Nesbitt",
       "length": "3:44"
-    },
-    {
-      "name": "F64",
-      "artist": "Ed Sheeran",
-      "length": "3:24"
     },
     {
       "name": "Pointless",
@@ -315,24 +345,14 @@
       "length": "2:40"
     },
     {
-      "name": "The Lows",
-      "artist": "Quinn XCII",
-      "length": "2:50"
-    },
-    {
-      "name": "Men On The Moon",
-      "artist": "Chelsea Cutler",
-      "length": "3:40"
-    },
-    {
-      "name": "Girl Like Me",
-      "artist": "Dove Cameron",
-      "length": "2:29"
-    },
-    {
       "name": "Midnight Rain",
       "artist": "Taylor Swift",
       "length": "2:54"
+    },
+    {
+      "name": "Stick Season",
+      "artist": "Noah Kahan",
+      "length": "3:02"
     },
     {
       "name": "I'll Be Waiting",
@@ -345,24 +365,9 @@
       "length": "3:57"
     },
     {
-      "name": "Stick Season",
-      "artist": "Noah Kahan",
-      "length": "3:02"
-    },
-    {
-      "name": "In The Kitchen",
-      "artist": "Reneé Rapp",
-      "length": "3:47"
-    },
-    {
       "name": "10:35",
       "artist": "Tiësto, Tate McRae",
       "length": "2:52"
-    },
-    {
-      "name": "Hero",
-      "artist": "Martin Garrix, JVKE",
-      "length": "2:40"
     },
     {
       "name": "Back To You",
@@ -370,33 +375,18 @@
       "length": "2:37"
     },
     {
-      "name": "blame's on me",
-      "artist": "Alexander Stewart",
-      "length": "2:18"
-    },
-    {
-      "name": "I Wish you Roses",
-      "artist": "Kali Uchis",
-      "length": "3:45"
-    },
-    {
-      "name": "uh oh",
-      "artist": "Tate McRae",
-      "length": "2:49"
-    },
-    {
       "name": "My Mind & Me",
       "artist": "Selena Gomez",
       "length": "2:27"
     },
     {
-      "name": "Teenage Dream",
-      "artist": "Stephen Dawes",
-      "length": "2:57"
+      "name": "blame's on me",
+      "artist": "Alexander Stewart",
+      "length": "2:18"
     },
     {
-      "name": "Eyes On You",
-      "artist": "Nicky Youre",
+      "name": "Teenage Dream",
+      "artist": "Stephen Dawes",
       "length": "2:57"
     },
     {
@@ -405,14 +395,19 @@
       "length": "2:44"
     },
     {
-      "name": "Before You",
-      "artist": "Benson Boone",
-      "length": "3:07"
+      "name": "uh oh",
+      "artist": "Tate McRae",
+      "length": "2:49"
     },
     {
       "name": "Fall In Love Alone",
       "artist": "Stacey Ryan",
       "length": "3:25"
+    },
+    {
+      "name": "Hero",
+      "artist": "Martin Garrix, JVKE",
+      "length": "2:40"
     },
     {
       "name": "Shut Up",
@@ -423,6 +418,11 @@
       "name": "Die For You",
       "artist": "Joji",
       "length": "3:31"
+    },
+    {
+      "name": "I Wish you Roses",
+      "artist": "Kali Uchis",
+      "length": "3:45"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",

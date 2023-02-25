@@ -2,7 +2,7 @@
   "name": "pov",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002a724fdf152ff186afc9b6db4",
-  "length": 99,
+  "length": 100,
   "tracks": [
     {
       "name": "Players",
@@ -28,6 +28,11 @@
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
     },
     {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
