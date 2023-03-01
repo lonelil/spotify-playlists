@@ -20,6 +20,11 @@
       "length": "3:04"
     },
     {
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
+    },
+    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
@@ -65,14 +70,14 @@
       "length": "3:20"
     },
     {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
-    },
-    {
       "name": "Wings",
       "artist": "Jonas Brothers",
       "length": "1:58"
+    },
+    {
+      "name": "HOPE",
+      "artist": "NF",
+      "length": "4:24"
     },
     {
       "name": "Special (feat. SZA)",
@@ -90,6 +95,11 @@
       "length": "2:25"
     },
     {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
+    },
+    {
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
@@ -98,11 +108,6 @@
       "name": "Love Again",
       "artist": "The Kid LAROI",
       "length": "2:26"
-    },
-    {
-      "name": "HOPE",
-      "artist": "NF",
-      "length": "4:24"
     },
     {
       "name": "SAD B!TCH",
@@ -120,9 +125,19 @@
       "length": "3:02"
     },
     {
+      "name": "SHOOTING STAR",
+      "artist": "XG",
+      "length": "3:23"
+    },
+    {
       "name": "Ghost",
       "artist": "Ava Max",
       "length": "3:01"
+    },
+    {
+      "name": "Shut Me Up",
+      "artist": "Nicky Youre",
+      "length": "2:21"
     },
     {
       "name": "I'm Not Here To Make Friends",
@@ -138,11 +153,6 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
-    },
-    {
-      "name": "Shut Me Up",
-      "artist": "Nicky Youre",
-      "length": "2:21"
     },
     {
       "name": "Call Me What You Like",
@@ -163,11 +173,6 @@
       "name": "BANG BANG!",
       "artist": "Nessa Barrett",
       "length": "2:16"
-    },
-    {
-      "name": "SHOOTING STAR",
-      "artist": "XG",
-      "length": "3:23"
     },
     {
       "name": "Best Friend Breakup",
@@ -418,11 +423,6 @@
       "name": "Die For You",
       "artist": "Joji",
       "length": "3:31"
-    },
-    {
-      "name": "I Wish you Roses",
-      "artist": "Kali Uchis",
-      "length": "3:45"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
