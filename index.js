@@ -1,5 +1,3 @@
-import * as dotenv from "dotenv";
-dotenv.config();
 import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs";
@@ -7,7 +5,7 @@ import fs from "fs";
 [
   //Today's Top Hits
   "37i9dQZF1DXcBWIGoYBM5M",
-  /*//Pop Rising
+  //Pop Rising
   "37i9dQZF1DWUa8ZRTfalHk",
   //Hot Hits USA
   "37i9dQZF1DX0kbJZpiYdZl",
@@ -18,7 +16,9 @@ import fs from "fs";
   //pov
   "37i9dQZF1DX01LszHBn1s8",
   //Poki's Picks
-  "37i9dQZF1DX7pdfPOj4HBA",*/
+  "37i9dQZF1DX7pdfPOj4HBA",
+  //Taylor Swift Complete Collection
+  "4GtQVhGjAwcHFz82UKy3Ca",
 ].forEach(async (playlist) => {
   fs.writeFileSync(
     `./data/${playlist}.json`,
@@ -37,35 +37,13 @@ async function getPlaylist(id) {
     let trackName = track.find("h3.n9j4yH8fTb18m0l2QCJb").text();
     let artist = track.find("h4.QZ8JzsYF4qfkAAbajDIU").text();
     let length = track.find("div.qokoRz32JIxABTWdTy41").text();
-    let albumArt;
-    if (artist.startsWith("E")) artist = artist.substring(1);
 
-    await axios
-      .get(
-        `${process.env.ITUNES_API_PROXY}${encodeURIComponent(
-          `${trackName} ${artist}`
-        )}`
-      )
-      .then((data) => {
-        if (data.data.resultCount === 0) return (albumArt = "");
-        albumArt = data.data.results[0].artworkUrl100.replace(
-          /100x100/,
-          "2000x2000"
-        );
-      })
-      .catch((error) => {
-        albumArt = "";
-        console.error(
-          `There was an error fetching the album art for "${trackName}".`,
-          error
-        );
-      });
+    if (artist.startsWith("E")) artist = artist.substring(1);
 
     data.push({
       name: trackName,
       artist: artist,
       length: length,
-      albumArt: albumArt,
     });
   });
 
