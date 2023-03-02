@@ -1,7 +1,7 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a724fdf152ff186afc9b6db4",
+  "art": "https://i.scdn.co/image/ab67706f0000000225519767886b140a464c1070",
   "length": 100,
   "tracks": [
     {
@@ -13,11 +13,6 @@
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
-    },
-    {
-      "name": "Don't Hate Me",
-      "artist": "Lola Young",
-      "length": "2:42"
     },
     {
       "name": "If We Ever Broke Up",
@@ -35,6 +30,11 @@
       "length": "3:52"
     },
     {
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
+    },
+    {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
       "length": "2:43"
@@ -43,6 +43,11 @@
       "name": "22",
       "artist": "JayO",
       "length": "2:22"
+    },
+    {
+      "name": "Don't Hate Me",
+      "artist": "Lola Young",
+      "length": "2:42"
     },
     {
       "name": "Sure Thing - Sped Up",
@@ -63,6 +68,11 @@
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
+    },
+    {
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
     },
     {
       "name": "Where Have You Been",
@@ -98,6 +108,11 @@
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
+    },
+    {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
     },
     {
       "name": "Kill Bill - Sped Up Version",
@@ -488,21 +503,6 @@
       "name": "Space Song",
       "artist": "Beach House",
       "length": "5:20"
-    },
-    {
-      "name": "The Most Beautiful Boy - Felsmann + Tiley Reinterpretation",
-      "artist": "The Irrepressibles, Felsmann + Tiley",
-      "length": "3:03"
-    },
-    {
-      "name": "Teenage Dream",
-      "artist": "Stephen Dawes",
-      "length": "2:57"
-    },
-    {
-      "name": "SPIT IN MY FACE!",
-      "artist": "ThxSoMch",
-      "length": "2:27"
     }
   ]
 }

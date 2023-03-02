@@ -1,13 +1,18 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000024b6432046f0c1337cb469d62",
+  "art": "https://i.scdn.co/image/ab67706f00000002202ac8aa23f7ecdf3920bdef",
   "length": 100,
   "tracks": [
     {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Die For You - Remix",
@@ -20,9 +25,9 @@
       "length": "2:17"
     },
     {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
     },
     {
       "name": "In Ha Mood",
@@ -45,14 +50,14 @@
       "length": "3:06"
     },
     {
+      "name": "Teacher's Pet",
+      "artist": "Melanie Martinez",
+      "length": "4:01"
+    },
+    {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
     },
     {
       "name": "Glue Song",
@@ -63,11 +68,6 @@
       "name": "I GUESS IT'S LOVE?",
       "artist": "The Kid LAROI",
       "length": "2:17"
-    },
-    {
-      "name": "Teacher's Pet",
-      "artist": "Melanie Martinez",
-      "length": "4:01"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
