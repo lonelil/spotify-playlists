@@ -27,7 +27,10 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "yarn"
       - run: yarn install --frozen-lockfile
-      - run: node index.js
+      - name: Run
+        env:
+          ITUNES_API_PROXY: ${{ secrets.ITUNES_API_PROXY }}
+        run: node index.js
       - name: Miscellaneous
         run: echo `date +%s` > last-updated.txt
       - name: Push to GitHub
