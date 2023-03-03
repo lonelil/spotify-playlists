@@ -80,6 +80,11 @@
       "length": "3:15"
     },
     {
+      "name": "Cupid",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "Bloody Mary",
       "artist": "Lady Gaga",
       "length": "4:04"
@@ -498,11 +503,6 @@
       "name": "Another Love",
       "artist": "Tom Odell",
       "length": "4:04"
-    },
-    {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "length": "4:01"
     }
   ]
 }
