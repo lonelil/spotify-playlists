@@ -1,13 +1,33 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002144a8b3d8d5853e536f6476e",
+  "art": "https://i.scdn.co/image/ab67706f000000029ce5028a4ad3af0b3e899e25",
   "length": 60,
   "tracks": [
+    {
+      "name": "NO BAD DAYS (feat. Collett)",
+      "artist": "Macklemore, Collett",
+      "length": "2:53"
+    },
     {
       "name": "Wings",
       "artist": "Jonas Brothers",
       "length": "1:58"
+    },
+    {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
+    },
+    {
+      "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION",
+      "artist": "Kacey Musgraves, Mark Ronson",
+      "length": "2:22"
+    },
+    {
+      "name": "My Stupid Heart",
+      "artist": "Walk Off the Earth",
+      "length": "2:40"
     },
     {
       "name": "Flowers",
@@ -15,9 +35,14 @@
       "length": "3:20"
     },
     {
-      "name": "My Stupid Heart",
-      "artist": "Walk Off the Earth",
-      "length": "2:40"
+      "name": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "length": "2:49"
+    },
+    {
+      "name": "Stronger (Grey's Anatomy Version)",
+      "artist": "Thunderstorm Artis",
+      "length": "2:59"
     },
     {
       "name": "Next To You (feat. Kane Brown)",
@@ -30,14 +55,19 @@
       "length": "3:06"
     },
     {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
+    },
+    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
     },
     {
-      "name": "Stronger (Grey's Anatomy Version)",
-      "artist": "Thunderstorm Artis",
-      "length": "2:59"
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "length": "2:57"
     },
     {
       "name": "Die For You - Remix",
@@ -45,24 +75,14 @@
       "length": "3:52"
     },
     {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
-    },
-    {
-      "name": "Shut Me Up",
-      "artist": "Nicky Youre",
-      "length": "2:21"
-    },
-    {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
-    },
-    {
       "name": "Who We Love (feat. Ed Sheeran)",
       "artist": "Sam Smith, Ed Sheeran",
       "length": "2:42"
+    },
+    {
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "artist": "Smith & Thell",
+      "length": "3:23"
     },
     {
       "name": "Mountain With A View",
@@ -70,9 +90,24 @@
       "length": "2:57"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
+      "name": "Shut Me Up",
+      "artist": "Nicky Youre",
+      "length": "2:21"
+    },
+    {
+      "name": "Horizons",
+      "artist": "Gus Dapperton",
+      "length": "3:03"
+    },
+    {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
+    },
+    {
+      "name": "Love You Anyway",
+      "artist": "Luke Combs",
+      "length": "3:49"
     },
     {
       "name": "Last Night",
@@ -100,16 +135,6 @@
       "length": "3:23"
     },
     {
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "artist": "Smith & Thell",
-      "length": "3:23"
-    },
-    {
-      "name": "Love You Anyway",
-      "artist": "Luke Combs",
-      "length": "3:49"
-    },
-    {
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "artist": "Rihanna",
       "length": "3:16"
@@ -125,6 +150,11 @@
       "length": "2:57"
     },
     {
+      "name": "Runnin (with JP Saxe)",
+      "artist": "Ingrid Andress, JP Saxe",
+      "length": "3:26"
+    },
+    {
       "name": "Alive",
       "artist": "The Scarlet Opera",
       "length": "3:12"
@@ -133,11 +163,6 @@
       "name": "Made You Look",
       "artist": "Meghan Trainor",
       "length": "2:14"
-    },
-    {
-      "name": "Treated Me Good",
-      "artist": "Ingrid Andress",
-      "length": "3:20"
     },
     {
       "name": "Bones",
@@ -180,7 +205,7 @@
       "length": "4:06"
     },
     {
-      "name": "she",
+      "name": "She",
       "artist": "Jelly Roll",
       "length": "2:53"
     },
@@ -215,24 +240,9 @@
       "length": "3:48"
     },
     {
-      "name": "Believer",
-      "artist": "SYML",
-      "length": "4:23"
-    },
-    {
-      "name": "Changes",
-      "artist": "Joy Oladokun",
-      "length": "3:09"
-    },
-    {
       "name": "How Do I Say Goodbye",
       "artist": "Dean Lewis",
       "length": "2:43"
-    },
-    {
-      "name": "Can't Help Falling in Love",
-      "artist": "Kacey Musgraves",
-      "length": "2:48"
     },
     {
       "name": "Something in the Orange",
@@ -253,11 +263,6 @@
       "name": "Northern Attitude",
       "artist": "Noah Kahan",
       "length": "4:27"
-    },
-    {
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "artist": "Post Malone, Doja Cat",
-      "length": "3:12"
     },
     {
       "name": "Hold My Hand",
@@ -288,11 +293,6 @@
       "name": "Wonder Woman",
       "artist": "John Legend",
       "length": "2:48"
-    },
-    {
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "artist": "Meghan Trainor, Teddy Swims",
-      "length": "3:33"
     },
     {
       "name": "High Heels",

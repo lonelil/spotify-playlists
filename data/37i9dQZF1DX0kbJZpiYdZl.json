@@ -1,13 +1,18 @@
 {
   "name": "Hot Hits USA",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000268882000b3d40d52f31336cb",
+  "art": "https://i.scdn.co/image/ab67706f00000002b9113c06a36be4fc085b0552",
   "length": 50,
   "tracks": [
     {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
     },
     {
       "name": "Flowers",
@@ -20,9 +25,9 @@
       "length": "2:11"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
+      "name": "Red Ruby Da Sleeze",
+      "artist": "Nicki Minaj",
+      "length": "3:34"
     },
     {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
@@ -30,24 +35,19 @@
       "length": "3:41"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
     },
     {
-      "name": "TQG",
-      "artist": "KAROL G, Shakira",
-      "length": "3:17"
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
-      "name": "Just Wanna Rock",
-      "artist": "Lil Uzi Vert",
-      "length": "2:03"
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "length": "2:57"
     },
     {
       "name": "Special (feat. SZA)",
@@ -55,14 +55,24 @@
       "length": "2:54"
     },
     {
+      "name": "TQG",
+      "artist": "KAROL G, Shakira",
+      "length": "3:17"
+    },
+    {
       "name": "Bad Habit",
       "artist": "Steve Lacy",
       "length": "3:52"
     },
     {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
+    },
+    {
+      "name": "Just Wanna Rock",
+      "artist": "Lil Uzi Vert",
+      "length": "2:03"
     },
     {
       "name": "ceilings",
@@ -70,9 +80,29 @@
       "length": "3:02"
     },
     {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
+    },
+    {
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
+    },
+    {
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
     },
     {
       "name": "Escapism.",
@@ -85,9 +115,9 @@
       "length": "3:20"
     },
     {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
     },
     {
       "name": "Unholy (feat. Kim Petras)",
@@ -105,14 +135,9 @@
       "length": "3:11"
     },
     {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
-    },
-    {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "artist": "Don Toliver, Justin Bieber, Future",
+      "length": "3:58"
     },
     {
       "name": "golden hour",
@@ -120,29 +145,29 @@
       "length": "3:29"
     },
     {
-      "name": "Rich Flex",
-      "artist": "Drake, 21 Savage",
-      "length": "3:59"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
-    },
-    {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
-    },
-    {
       "name": "Romantic Homicide",
       "artist": "d4vd",
       "length": "2:12"
     },
     {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
       "length": "2:43"
+    },
+    {
+      "name": "Love You Anyway",
+      "artist": "Luke Combs",
+      "length": "3:49"
+    },
+    {
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
+    },
+    {
+      "name": "Rich Flex",
+      "artist": "Drake, 21 Savage",
+      "length": "3:59"
     },
     {
       "name": "Love Again",
@@ -155,9 +180,9 @@
       "length": "3:34"
     },
     {
-      "name": "Love You Anyway",
-      "artist": "Luke Combs",
-      "length": "3:49"
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "artist": "Metro Boomin, Future, Chris Brown",
+      "length": "3:02"
     },
     {
       "name": "Lavender Haze",
@@ -165,19 +190,9 @@
       "length": "3:22"
     },
     {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
-    },
-    {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
-    },
-    {
-      "name": "10:35",
-      "artist": "Tiësto, Tate McRae",
-      "length": "2:52"
+      "name": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "length": "2:28"
     },
     {
       "name": "Something in the Orange",
@@ -185,9 +200,9 @@
       "length": "3:48"
     },
     {
-      "name": "Snooze",
-      "artist": "SZA",
-      "length": "3:21"
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
     },
     {
       "name": "I Like You (A Happier Song) (with Doja Cat)",
@@ -195,24 +210,24 @@
       "length": "3:12"
     },
     {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
+      "name": "I'm Good (Blue)",
+      "artist": "David Guetta, Bebe Rexha",
+      "length": "2:55"
     },
     {
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "artist": "Metro Boomin, Future, Chris Brown",
-      "length": "3:02"
+      "name": "Tití Me Preguntó",
+      "artist": "Bad Bunny",
+      "length": "4:03"
     },
     {
-      "name": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "length": "2:28"
+      "name": "10:35",
+      "artist": "Tiësto, Tate McRae",
+      "length": "2:52"
     },
     {
-      "name": "Heart Like A Truck",
-      "artist": "Lainey Wilson",
-      "length": "3:19"
+      "name": "Snooze",
+      "artist": "SZA",
+      "length": "3:21"
     },
     {
       "name": "Here With Me",
@@ -220,9 +235,9 @@
       "length": "4:02"
     },
     {
-      "name": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "length": "4:03"
+      "name": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "length": "3:19"
     },
     {
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
@@ -235,24 +250,9 @@
       "length": "3:32"
     },
     {
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "artist": "Quavo, Takeoff",
-      "length": "2:22"
-    },
-    {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
-    },
-    {
       "name": "La Bachata",
       "artist": "Manuel Turizo",
       "length": "2:42"
-    },
-    {
-      "name": "I'm Good (Blue)",
-      "artist": "David Guetta, Bebe Rexha",
-      "length": "2:55"
     }
   ]
 }

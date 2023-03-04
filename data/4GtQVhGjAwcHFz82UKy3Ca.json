@@ -10,6 +10,31 @@
       "length": "3:22"
     },
     {
+      "name": "Lavender Haze - Snakehips Remix",
+      "artist": "Taylor Swift, Snakehips",
+      "length": "3:07"
+    },
+    {
+      "name": "Lavender Haze - Tensnake Remix",
+      "artist": "Taylor Swift, Tensnake",
+      "length": "3:34"
+    },
+    {
+      "name": "Lavender Haze - Jungle Remix",
+      "artist": "Taylor Swift, Jungle",
+      "length": "3:55"
+    },
+    {
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "artist": "Taylor Swift, Felix Jaehn",
+      "length": "2:51"
+    },
+    {
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
+    },
+    {
       "name": "Lavender Haze - Felix Jaehn Remix",
       "artist": "Taylor Swift, Felix Jaehn",
       "length": "2:51"
@@ -478,31 +503,6 @@
       "name": "You’re Not Sorry (Taylor’s Version)",
       "artist": "Taylor Swift",
       "length": "4:21"
-    },
-    {
-      "name": "The Way I Loved You (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:03"
-    },
-    {
-      "name": "Forever & Always (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:45"
-    },
-    {
-      "name": "The Best Day (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:05"
-    },
-    {
-      "name": "Change (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:39"
-    },
-    {
-      "name": "Jump Then Fall (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:57"
     }
   ]
 }
