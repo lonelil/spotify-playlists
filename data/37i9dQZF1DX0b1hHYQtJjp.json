@@ -55,6 +55,11 @@
       "length": "3:06"
     },
     {
+      "name": "By Myself",
+      "artist": "Daisy Jones",
+      "length": "2:45"
+    },
+    {
       "name": "Unstoppable",
       "artist": "Sia",
       "length": "3:37"
@@ -63,6 +68,11 @@
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
+    },
+    {
+      "name": "Blindsided",
+      "artist": "Kelsea Ballerini",
+      "length": "2:50"
     },
     {
       "name": "Thinkin’ Bout Me",
@@ -83,11 +93,6 @@
       "name": "I Wanna Dance With Somebody - Who Loves Me",
       "artist": "Smith & Thell",
       "length": "3:23"
-    },
-    {
-      "name": "Mountain With A View",
-      "artist": "Kelsea Ballerini",
-      "length": "2:57"
     },
     {
       "name": "Shut Me Up",
@@ -278,11 +283,6 @@
       "name": "Won't Be Long Now",
       "artist": "Blessing Offor",
       "length": "3:15"
-    },
-    {
-      "name": "Rock and A Hard Place",
-      "artist": "Bailey Zimmerman",
-      "length": "3:27"
     },
     {
       "name": "Good Day",
