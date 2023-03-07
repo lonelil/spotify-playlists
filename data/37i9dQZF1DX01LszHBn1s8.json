@@ -1,7 +1,7 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000029e1f4840bec2b1190339ecbe",
+  "art": "https://i.scdn.co/image/ab67706f000000023c66cd0c097cd16ce187a2c5",
   "length": 100,
   "tracks": [
     {
@@ -25,6 +25,16 @@
       "length": "2:22"
     },
     {
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
+    },
+    {
+      "name": "JACKIE BROWN",
+      "artist": "Brent Faiyaz",
+      "length": "2:49"
+    },
+    {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
@@ -40,6 +50,11 @@
       "length": "1:55"
     },
     {
+      "name": "Sure Thing - Sped Up",
+      "artist": "Miguel",
+      "length": "2:30"
+    },
+    {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
       "length": "2:43"
@@ -50,14 +65,14 @@
       "length": "2:42"
     },
     {
-      "name": "JACKIE BROWN",
-      "artist": "Brent Faiyaz",
-      "length": "2:49"
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "artist": "Don Toliver, Justin Bieber, Future",
+      "length": "3:58"
     },
     {
-      "name": "Sure Thing - Sped Up",
-      "artist": "Miguel",
-      "length": "2:30"
+      "name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj",
+      "length": "3:47"
     },
     {
       "name": "Here With Me",
@@ -75,19 +90,29 @@
       "length": "3:41"
     },
     {
+      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
+      "artist": "Logic, Seth MacFarlane, Redman, Statik Selektah",
+      "length": "5:15"
+    },
+    {
+      "name": "Lonesome & Mad",
+      "artist": "Under The Rug, Ariel Posen",
+      "length": "3:57"
+    },
+    {
       "name": "Love On The Brain",
       "artist": "Rihanna",
       "length": "3:44"
     },
     {
+      "name": "PAINTING PICTURES",
+      "artist": "Superstar Pride",
+      "length": "2:02"
+    },
+    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
-    },
-    {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
     },
     {
       "name": "Where Have You Been",
@@ -110,19 +135,9 @@
       "length": "2:15"
     },
     {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
-    },
-    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
-    },
-    {
-      "name": "PAINTING PICTURES",
-      "artist": "Superstar Pride",
-      "length": "2:02"
     },
     {
       "name": "ceilings",
@@ -178,6 +193,11 @@
       "name": "Can You Remember the Rain - Sequence Remix",
       "artist": "Garrett Atterberry",
       "length": "3:06"
+    },
+    {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
     },
     {
       "name": "No Bad Days - Sped Up",
@@ -483,26 +503,6 @@
       "name": "Made You Look",
       "artist": "Meghan Trainor",
       "length": "2:14"
-    },
-    {
-      "name": "I'm Not Like Alice",
-      "artist": "SkyeChristy",
-      "length": "2:16"
-    },
-    {
-      "name": "Another Love",
-      "artist": "Tom Odell",
-      "length": "4:04"
-    },
-    {
-      "name": "Remember - Acoustic / Sped Up",
-      "artist": "Becky Hill, Speed Radio, xxtristanxo",
-      "length": "2:34"
-    },
-    {
-      "name": "Kiwi",
-      "artist": "Harry Styles",
-      "length": "2:56"
     }
   ]
 }
