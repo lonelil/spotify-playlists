@@ -45,6 +45,11 @@
       "length": "3:57"
     },
     {
+      "name": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "length": "2:49"
+    },
+    {
       "name": "Here We Go Again",
       "artist": "Oliver Tree, David Guetta",
       "length": "2:44"
@@ -70,11 +75,6 @@
       "length": "3:02"
     },
     {
-      "name": "Sugar Sweet",
-      "artist": "Benson Boone",
-      "length": "2:49"
-    },
-    {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
@@ -90,9 +90,9 @@
       "length": "2:21"
     },
     {
-      "name": "How Does It Feel",
-      "artist": "Chlöe, Chris Brown",
-      "length": "2:46"
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
     },
     {
       "name": "HOPE",
@@ -105,16 +105,6 @@
       "length": "1:58"
     },
     {
-      "name": "Lottery (feat. LU KALA)",
-      "artist": "Latto, LU KALA",
-      "length": "3:06"
-    },
-    {
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "artist": "Don Toliver, Justin Bieber, Future",
-      "length": "3:58"
-    },
-    {
       "name": "i'm yours",
       "artist": "Isabel LaRosa",
       "length": "2:25"
@@ -125,19 +115,9 @@
       "length": "2:50"
     },
     {
-      "name": "Special (feat. SZA)",
-      "artist": "Lizzo, SZA",
-      "length": "2:54"
-    },
-    {
       "name": "CHRONICALLY CAUTIOUS",
       "artist": "Braden Bales",
       "length": "1:59"
-    },
-    {
-      "name": "SAD B!TCH",
-      "artist": "Anne-Marie",
-      "length": "2:12"
     },
     {
       "name": "Can't Tame Her",
@@ -145,9 +125,29 @@
       "length": "3:16"
     },
     {
+      "name": "Special (feat. SZA)",
+      "artist": "Lizzo, SZA",
+      "length": "2:54"
+    },
+    {
       "name": "SHOOTING STAR",
       "artist": "XG",
       "length": "3:23"
+    },
+    {
+      "name": "SAD B!TCH",
+      "artist": "Anne-Marie",
+      "length": "2:12"
+    },
+    {
+      "name": "How Does It Feel",
+      "artist": "Chlöe, Chris Brown",
+      "length": "2:46"
+    },
+    {
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "artist": "Don Toliver, Justin Bieber, Future",
+      "length": "3:58"
     },
     {
       "name": "Heart Wants What It Wants",
@@ -203,6 +203,11 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "That's What I Get",
+      "artist": "charlieonnafriday",
+      "length": "2:30"
     },
     {
       "name": "3 Boys",
@@ -303,11 +308,6 @@
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
-    },
-    {
-      "name": "That's What I Get",
-      "artist": "charlieonnafriday",
-      "length": "2:30"
     },
     {
       "name": "Placebo Effect",
