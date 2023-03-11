@@ -1,13 +1,13 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002204b059d8f9f285acb95da6a",
+  "art": "https://i.scdn.co/image/ab67706f000000021d4d42217e1468edab411fbf",
   "length": 50,
   "tracks": [
     {
-      "name": "Flowers",
+      "name": "River",
       "artist": "Miley Cyrus",
-      "length": "3:20"
+      "length": "2:42"
     },
     {
       "name": "Die For You - Remix",
@@ -15,14 +15,14 @@
       "length": "3:52"
     },
     {
-      "name": "TQG",
-      "artist": "KAROL G, Shakira",
-      "length": "3:17"
-    },
-    {
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
+    },
+    {
+      "name": "TQG",
+      "artist": "KAROL G, Shakira",
+      "length": "3:17"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -35,9 +35,9 @@
       "length": "4:32"
     },
     {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Players",
@@ -45,14 +45,14 @@
       "length": "2:19"
     },
     {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
       "length": "3:59"
-    },
-    {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
     },
     {
       "name": "ceilings",
@@ -60,9 +60,19 @@
       "length": "3:02"
     },
     {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
+    },
+    {
       "name": "CUFF IT",
       "artist": "Beyoncé",
       "length": "3:45"
+    },
+    {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     },
     {
       "name": "Anti-Hero",
@@ -75,6 +85,11 @@
       "length": "3:29"
     },
     {
+      "name": "Tormenta (feat. Bad Bunny)",
+      "artist": "Gorillaz, Bad Bunny",
+      "length": "3:13"
+    },
+    {
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
@@ -85,9 +100,9 @@
       "length": "3:34"
     },
     {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
+      "name": "Red Ruby Da Sleeze",
+      "artist": "Nicki Minaj",
+      "length": "3:34"
     },
     {
       "name": "Love Again",
@@ -100,19 +115,19 @@
       "length": "3:21"
     },
     {
-      "name": "I'm Good (Blue)",
-      "artist": "David Guetta, Bebe Rexha",
-      "length": "2:55"
-    },
-    {
       "name": "LET GO",
       "artist": "Central Cee",
       "length": "2:54"
     },
     {
-      "name": "Thinkin’ Bout Me",
+      "name": "Last Night",
       "artist": "Morgan Wallen",
-      "length": "2:57"
+      "length": "2:43"
+    },
+    {
+      "name": "I'm Good (Blue)",
+      "artist": "David Guetta, Bebe Rexha",
+      "length": "2:55"
     },
     {
       "name": "Here With Me",
@@ -135,9 +150,9 @@
       "length": "2:52"
     },
     {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
+      "name": "on the street (with J. Cole)",
+      "artist": "j-hope, J. Cole",
+      "length": "3:34"
     },
     {
       "name": "I Ain't Worried",
@@ -150,9 +165,14 @@
       "length": "3:12"
     },
     {
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "artist": "Lil Nas X",
-      "length": "3:30"
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
+    },
+    {
+      "name": "Made You Look",
+      "artist": "Meghan Trainor",
+      "length": "2:14"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -160,14 +180,14 @@
       "length": "2:56"
     },
     {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
-    },
-    {
       "name": "Late Night Talking",
       "artist": "Harry Styles",
       "length": "2:57"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     },
     {
       "name": "Lavender Haze",
@@ -180,14 +200,14 @@
       "length": "3:00"
     },
     {
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "length": "3:30"
+    },
+    {
       "name": "Rich Flex",
       "artist": "Drake, 21 Savage",
       "length": "3:59"
-    },
-    {
-      "name": "Miss You",
-      "artist": "Oliver Tree, Robin Schulz",
-      "length": "3:26"
     },
     {
       "name": "THE LONELIEST",
@@ -195,14 +215,14 @@
       "length": "4:07"
     },
     {
+      "name": "Bones",
+      "artist": "Imagine Dragons",
+      "length": "2:45"
+    },
+    {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
-    },
-    {
-      "name": "I'm Not Here To Make Friends",
-      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
-      "length": "3:49"
     },
     {
       "name": "Bad Habit",
@@ -210,14 +230,14 @@
       "length": "3:52"
     },
     {
+      "name": "Miss You",
+      "artist": "Oliver Tree, Robin Schulz",
+      "length": "3:26"
+    },
+    {
       "name": "La Bachata",
       "artist": "Manuel Turizo",
       "length": "2:42"
-    },
-    {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "length": "2:45"
     },
     {
       "name": "Something in the Orange",
@@ -230,29 +250,9 @@
       "length": "3:05"
     },
     {
-      "name": "About Damn Time",
-      "artist": "Lizzo",
-      "length": "3:11"
-    },
-    {
       "name": "Yandel 150",
       "artist": "Yandel, Feid",
       "length": "3:36"
-    },
-    {
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "artist": "Doja Cat",
-      "length": "3:02"
-    },
-    {
-      "name": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "length": "4:03"
-    },
-    {
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "artist": "Metro Boomin, Future, Chris Brown",
-      "length": "3:02"
     }
   ]
 }

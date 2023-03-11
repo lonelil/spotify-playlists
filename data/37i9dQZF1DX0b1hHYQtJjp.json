@@ -1,9 +1,29 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000029ce5028a4ad3af0b3e899e25",
+  "art": "https://i.scdn.co/image/ab67706f000000026ea7e964f74fae2235fc0509",
   "length": 60,
   "tracks": [
+    {
+      "name": "Thank God I Do",
+      "artist": "Lauren Daigle",
+      "length": "4:18"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "artist": "Miley Cyrus, Brandi Carlile",
+      "length": "3:51"
+    },
+    {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
+    },
     {
       "name": "NO BAD DAYS (feat. Collett)",
       "artist": "Macklemore, Collett",
@@ -15,29 +35,14 @@
       "length": "1:58"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
-    },
-    {
-      "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION - Bonus Track",
-      "artist": "Kacey Musgraves, Mark Ronson",
-      "length": "2:22"
-    },
-    {
       "name": "My Stupid Heart",
       "artist": "Walk Off the Earth",
       "length": "2:40"
     },
     {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "Sugar Sweet",
-      "artist": "Benson Boone",
-      "length": "2:49"
+      "name": "Lucky",
+      "artist": "Megan Moroney",
+      "length": "2:41"
     },
     {
       "name": "Stronger (Grey's Anatomy Version)",
@@ -45,19 +50,34 @@
       "length": "2:59"
     },
     {
+      "name": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "length": "2:49"
+    },
+    {
+      "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION - Bonus Track",
+      "artist": "Kacey Musgraves, Mark Ronson",
+      "length": "2:22"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "Have You A Heart",
+      "artist": "The War and Treaty",
+      "length": "4:20"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
       "name": "Next To You (feat. Kane Brown)",
       "artist": "Loud Luxury, DVBBS, Kane Brown",
       "length": "2:41"
-    },
-    {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
-    },
-    {
-      "name": "By Myself",
-      "artist": "Daisy Jones",
-      "length": "2:45"
     },
     {
       "name": "Unstoppable",
@@ -65,14 +85,34 @@
       "length": "3:37"
     },
     {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     },
     {
       "name": "Blindsided",
       "artist": "Kelsea Ballerini",
       "length": "2:50"
+    },
+    {
+      "name": "Love You Anyway",
+      "artist": "Luke Combs",
+      "length": "3:49"
+    },
+    {
+      "name": "You",
+      "artist": "Miley Cyrus",
+      "length": "2:59"
+    },
+    {
+      "name": "By Myself",
+      "artist": "Daisy Jones",
+      "length": "2:45"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
     },
     {
       "name": "Thinkin’ Bout Me",
@@ -100,24 +140,9 @@
       "length": "2:21"
     },
     {
-      "name": "Horizons",
-      "artist": "Gus Dapperton",
-      "length": "3:03"
-    },
-    {
       "name": "As It Was",
       "artist": "Harry Styles",
       "length": "2:47"
-    },
-    {
-      "name": "Love You Anyway",
-      "artist": "Luke Combs",
-      "length": "3:49"
-    },
-    {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
     },
     {
       "name": "Dawns (feat. Maggie Rogers)",
@@ -165,19 +190,9 @@
       "length": "3:12"
     },
     {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
-    },
-    {
       "name": "Bones",
       "artist": "Imagine Dragons",
       "length": "2:45"
-    },
-    {
-      "name": "Heart Like A Truck",
-      "artist": "Lainey Wilson",
-      "length": "3:19"
     },
     {
       "name": "Love Go By",
@@ -188,11 +203,6 @@
       "name": "Dancing With Your Shadows",
       "artist": "Phillip Phillips",
       "length": "2:57"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "Sunroof (feat. Thomas Rhett)",
@@ -265,11 +275,6 @@
       "length": "3:33"
     },
     {
-      "name": "Northern Attitude",
-      "artist": "Noah Kahan",
-      "length": "4:27"
-    },
-    {
       "name": "Hold My Hand",
       "artist": "Lady Gaga",
       "length": "3:45"
@@ -288,11 +293,6 @@
       "name": "Good Day",
       "artist": "Jake Scott",
       "length": "2:53"
-    },
-    {
-      "name": "Wonder Woman",
-      "artist": "John Legend",
-      "length": "2:48"
     },
     {
       "name": "High Heels",
