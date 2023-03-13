@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000023f743012434d2b922801e709",
+  "art": "https://i.scdn.co/image/ab67706f000000022f1b3b1f5087e2c7d68a3357",
   "length": 100,
   "tracks": [
+    {
+      "name": "Under Pressure - Remastered 2011",
+      "artist": "Queen, David Bowie",
+      "length": "4:08"
+    },
     {
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
@@ -100,7 +105,7 @@
       "length": "3:47"
     },
     {
-      "name": "Worthless",
+      "name": "WORTHLESS",
       "artist": "d4vd",
       "length": "2:43"
     },
@@ -498,11 +503,6 @@
       "name": "AVA",
       "artist": "Natalie Jane",
       "length": "2:39"
-    },
-    {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
     }
   ]
 }

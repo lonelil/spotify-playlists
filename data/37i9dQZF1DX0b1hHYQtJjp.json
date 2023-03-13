@@ -40,13 +40,13 @@
       "length": "2:40"
     },
     {
-      "name": "Lucky",
-      "artist": "Megan Moroney",
-      "length": "2:41"
-    },
-    {
       "name": "Stronger (Grey's Anatomy Version)",
       "artist": "Thunderstorm Artis",
+      "length": "2:59"
+    },
+    {
+      "name": "You",
+      "artist": "Miley Cyrus",
       "length": "2:59"
     },
     {
@@ -58,6 +58,16 @@
       "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION - Bonus Track",
       "artist": "Kacey Musgraves, Mark Ronson",
       "length": "2:22"
+    },
+    {
+      "name": "Lucky",
+      "artist": "Megan Moroney",
+      "length": "2:41"
+    },
+    {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
     },
     {
       "name": "Flowers",
@@ -80,11 +90,6 @@
       "length": "2:41"
     },
     {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
@@ -98,11 +103,6 @@
       "name": "Love You Anyway",
       "artist": "Luke Combs",
       "length": "3:49"
-    },
-    {
-      "name": "You",
-      "artist": "Miley Cyrus",
-      "length": "2:59"
     },
     {
       "name": "By Myself",

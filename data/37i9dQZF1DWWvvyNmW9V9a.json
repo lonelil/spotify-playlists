@@ -10,14 +10,14 @@
       "length": "2:22"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
     },
     {
       "name": "SET ME FREE - ENG",
@@ -75,7 +75,7 @@
       "length": "3:37"
     },
     {
-      "name": "Worthless",
+      "name": "WORTHLESS",
       "artist": "d4vd",
       "length": "2:43"
     },
@@ -98,6 +98,11 @@
       "name": "Favorite Song - Sped Up",
       "artist": "Toosii",
       "length": "2:40"
+    },
+    {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
     },
     {
       "name": "Heaven",
@@ -180,6 +185,11 @@
       "length": "3:47"
     },
     {
+      "name": "novocaine",
+      "artist": "GenriX, CORBAL, Shiloh Dynasty",
+      "length": "3:15"
+    },
+    {
       "name": "Placebo Effect",
       "artist": "d4vd",
       "length": "3:11"
@@ -208,11 +218,6 @@
       "name": "Where Do You Go",
       "artist": "Jessie Murph",
       "length": "2:50"
-    },
-    {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
     },
     {
       "name": "22",
@@ -498,11 +503,6 @@
       "name": "TV",
       "artist": "Billie Eilish",
       "length": "4:41"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }
