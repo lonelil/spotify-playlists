@@ -1,13 +1,18 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000022f1b3b1f5087e2c7d68a3357",
+  "art": "https://i.scdn.co/image/ab67706f00000002519dc0462e06e769085f3e50",
   "length": 100,
   "tracks": [
     {
-      "name": "Under Pressure - Remastered 2011",
-      "artist": "Queen, David Bowie",
-      "length": "4:08"
+      "name": "The Last of Us",
+      "artist": "Gustavo Santaolalla",
+      "length": "1:07"
+    },
+    {
+      "name": "The Sun Always Shines on T.V.",
+      "artist": "a-ha",
+      "length": "5:02"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -35,6 +40,11 @@
       "length": "2:30"
     },
     {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
+    },
+    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
@@ -43,6 +53,11 @@
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
+      "artist": "sped up nightcore",
+      "length": "2:08"
     },
     {
       "name": "JACKIE BROWN",
@@ -65,9 +80,19 @@
       "length": "3:52"
     },
     {
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "length": "2:43"
+    },
+    {
       "name": "Mother",
       "artist": "Meghan Trainor",
       "length": "2:27"
+    },
+    {
+      "name": "Under Pressure - Remastered 2011",
+      "artist": "Queen, David Bowie",
+      "length": "4:08"
     },
     {
       "name": "Hey, Mickey!",
@@ -75,19 +100,9 @@
       "length": "1:55"
     },
     {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
-    },
-    {
       "name": "Love On The Brain",
       "artist": "Rihanna",
       "length": "3:44"
-    },
-    {
-      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
-      "artist": "sped up nightcore",
-      "length": "2:08"
     },
     {
       "name": "Don't Hate Me",
@@ -488,21 +503,6 @@
       "name": "Chill Like That",
       "artist": "Sunday Scaries, PiCKUPLiNES",
       "length": "2:58"
-    },
-    {
-      "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
-      "artist": "Meghan Trainor, Scott Hoying, Elyse Myers, Sri, Chris Olsen",
-      "length": "2:12"
-    },
-    {
-      "name": "The Great War",
-      "artist": "Taylor Swift",
-      "length": "4:00"
-    },
-    {
-      "name": "AVA",
-      "artist": "Natalie Jane",
-      "length": "2:39"
     }
   ]
 }

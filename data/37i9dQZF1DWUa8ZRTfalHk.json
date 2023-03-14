@@ -60,6 +60,11 @@
       "length": "2:22"
     },
     {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
       "name": "Rose Colored Lenses",
       "artist": "Miley Cyrus",
       "length": "3:43"
@@ -120,11 +125,6 @@
       "length": "3:06"
     },
     {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
-    },
-    {
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
@@ -160,6 +160,11 @@
       "length": "2:25"
     },
     {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
       "name": "Can't Tame Her",
       "artist": "Zara Larsson",
       "length": "3:16"
@@ -168,6 +173,11 @@
       "name": "Special (feat. SZA)",
       "artist": "Lizzo, SZA",
       "length": "2:54"
+    },
+    {
+      "name": "LEFT RIGHT",
+      "artist": "XG",
+      "length": "3:28"
     },
     {
       "name": "Shut Me Up",
@@ -185,11 +195,6 @@
       "length": "2:50"
     },
     {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
-    },
-    {
       "name": "About You",
       "artist": "The 1975",
       "length": "5:26"
@@ -198,11 +203,6 @@
       "name": "How Does It Feel",
       "artist": "Chlöe, Chris Brown",
       "length": "2:46"
-    },
-    {
-      "name": "LEFT RIGHT",
-      "artist": "XG",
-      "length": "3:28"
     },
     {
       "name": "Heart Wants What It Wants",
