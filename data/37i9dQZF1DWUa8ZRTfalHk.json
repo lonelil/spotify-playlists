@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002385be87804bb72409969f848",
-  "length": 85,
+  "length": 86,
   "tracks": [
     {
       "name": "Miracle (with Ellie Goulding)",
@@ -10,14 +10,14 @@
       "length": "3:06"
     },
     {
-      "name": "River",
-      "artist": "Miley Cyrus",
-      "length": "2:42"
-    },
-    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
+    },
+    {
+      "name": "Rose Colored Lenses",
+      "artist": "Miley Cyrus",
+      "length": "3:43"
     },
     {
       "name": "Freezing",
@@ -35,6 +35,11 @@
       "length": "3:52"
     },
     {
+      "name": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "length": "2:49"
+    },
+    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
@@ -43,11 +48,6 @@
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
-    },
-    {
-      "name": "Sugar Sweet",
-      "artist": "Benson Boone",
-      "length": "2:49"
     },
     {
       "name": "I know it won't work",
@@ -65,9 +65,9 @@
       "length": "2:27"
     },
     {
-      "name": "Rose Colored Lenses",
+      "name": "River",
       "artist": "Miley Cyrus",
-      "length": "3:43"
+      "length": "2:42"
     },
     {
       "name": "Here We Go Again",
@@ -95,6 +95,11 @@
       "length": "3:03"
     },
     {
+      "name": "I GUESS IT'S LOVE?",
+      "artist": "The Kid LAROI",
+      "length": "2:17"
+    },
+    {
       "name": "I DON'T WANNA BE LIKE YOU",
       "artist": "Ruel",
       "length": "2:43"
@@ -110,11 +115,6 @@
       "length": "3:28"
     },
     {
-      "name": "I GUESS IT'S LOVE?",
-      "artist": "The Kid LAROI",
-      "length": "2:17"
-    },
-    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
@@ -123,6 +123,11 @@
       "name": "Lottery (feat. LU KALA)",
       "artist": "Latto, LU KALA",
       "length": "3:06"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
     },
     {
       "name": "Red Flags",

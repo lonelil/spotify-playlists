@@ -20,6 +20,11 @@
       "length": "2:19"
     },
     {
+      "name": "The Climb",
+      "artist": "Miley Cyrus",
+      "length": "3:56"
+    },
+    {
       "name": "SET ME FREE - ENG",
       "artist": "TWICE",
       "length": "3:01"
@@ -40,6 +45,11 @@
       "length": "3:52"
     },
     {
+      "name": "Cupid - Twin Version",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
@@ -48,6 +58,11 @@
       "name": "Escapism. - Sped Up",
       "artist": "RAYE, 070 Shake",
       "length": "3:59"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Beauty And A Beat",
@@ -63,11 +78,6 @@
       "name": "Teacher's Pet",
       "artist": "Melanie Martinez",
       "length": "4:01"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
     },
     {
       "name": "Kill Em With Kindness",
@@ -110,14 +120,19 @@
       "length": "3:06"
     },
     {
+      "name": "Lovers Rock",
+      "artist": "TV Girl",
+      "length": "3:33"
+    },
+    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
     },
     {
-      "name": "Cupid",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "novocaine",
+      "artist": "GenriX, CORBAL, Shiloh Dynasty",
+      "length": "3:15"
     },
     {
       "name": "Favorite Song",
@@ -155,11 +170,6 @@
       "length": "3:15"
     },
     {
-      "name": "on the street (with J. Cole)",
-      "artist": "j-hope, J. Cole",
-      "length": "3:34"
-    },
-    {
       "name": "Green Green Grass",
       "artist": "George Ezra",
       "length": "2:47"
@@ -175,24 +185,24 @@
       "length": "2:56"
     },
     {
-      "name": "Buzzkill Baby",
-      "artist": "Mckenna Grace",
-      "length": "3:12"
-    },
-    {
       "name": "The Heart Wants What It Wants",
       "artist": "Selena Gomez",
       "length": "3:47"
     },
     {
-      "name": "novocaine",
-      "artist": "GenriX, CORBAL, Shiloh Dynasty",
-      "length": "3:15"
+      "name": "22",
+      "artist": "JayO",
+      "length": "2:22"
     },
     {
       "name": "Placebo Effect",
       "artist": "d4vd",
       "length": "3:11"
+    },
+    {
+      "name": "Lisa",
+      "artist": "Young Miko",
+      "length": "2:39"
     },
     {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
@@ -220,14 +230,14 @@
       "length": "2:50"
     },
     {
-      "name": "22",
-      "artist": "JayO",
-      "length": "2:22"
-    },
-    {
       "name": "Freezing",
       "artist": "Mimi Webb",
       "length": "2:56"
+    },
+    {
+      "name": "Buzzkill Baby",
+      "artist": "Mckenna Grace",
+      "length": "3:12"
     },
     {
       "name": "Lavender Haze",
@@ -238,6 +248,11 @@
       "name": "drunk text",
       "artist": "Henry Moodie",
       "length": "3:07"
+    },
+    {
+      "name": "on the street (with J. Cole)",
+      "artist": "j-hope, J. Cole",
+      "length": "3:34"
     },
     {
       "name": "I GUESS IT'S LOVE?",
@@ -315,16 +330,6 @@
       "length": "3:20"
     },
     {
-      "name": "Locksmith",
-      "artist": "Sadie Jean",
-      "length": "2:44"
-    },
-    {
-      "name": "Rockstar",
-      "artist": "BoyWithUke",
-      "length": "3:13"
-    },
-    {
       "name": "Who Is She ?",
       "artist": "I Monster",
       "length": "3:33"
@@ -340,11 +345,6 @@
       "length": "3:12"
     },
     {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
-    },
-    {
       "name": "Snooze",
       "artist": "SZA",
       "length": "3:21"
@@ -353,11 +353,6 @@
       "name": "Too Well",
       "artist": "Reneé Rapp",
       "length": "2:36"
-    },
-    {
-      "name": "You Make Me Sick!",
-      "artist": "Ashnikko",
-      "length": "2:18"
     },
     {
       "name": "Bad Habit",
@@ -385,11 +380,6 @@
       "length": "3:37"
     },
     {
-      "name": "AVA (Sped Up)",
-      "artist": "Natalie Jane",
-      "length": "2:17"
-    },
-    {
       "name": "NO",
       "artist": "Meghan Trainor",
       "length": "3:33"
@@ -410,11 +400,6 @@
       "length": "3:31"
     },
     {
-      "name": "Night Changes",
-      "artist": "One Direction",
-      "length": "3:46"
-    },
-    {
       "name": "Mockingbird",
       "artist": "Eminem",
       "length": "4:10"
@@ -430,11 +415,6 @@
       "length": "2:57"
     },
     {
-      "name": "10:35",
-      "artist": "Tiësto, Tate McRae",
-      "length": "2:52"
-    },
-    {
       "name": "Heather",
       "artist": "Conan Gray",
       "length": "3:18"
@@ -443,21 +423,6 @@
       "name": "Space Song",
       "artist": "Beach House",
       "length": "5:20"
-    },
-    {
-      "name": "Summertime Sadness - Sped Up",
-      "artist": "Lana Del Rey, Speed Radio",
-      "length": "3:17"
-    },
-    {
-      "name": "BILLIE EILISH.",
-      "artist": "Armani White",
-      "length": "1:39"
-    },
-    {
-      "name": "Super Freaky Girl",
-      "artist": "Nicki Minaj",
-      "length": "2:50"
     },
     {
       "name": "Miss You",
@@ -503,6 +468,41 @@
       "name": "TV",
       "artist": "Billie Eilish",
       "length": "4:41"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
+    },
+    {
+      "name": "brutal",
+      "artist": "Olivia Rodrigo",
+      "length": "2:23"
+    },
+    {
+      "name": "The One That Got Away",
+      "artist": "Katy Perry",
+      "length": "3:47"
+    },
+    {
+      "name": "Another Love",
+      "artist": "Tom Odell",
+      "length": "4:04"
+    },
+    {
+      "name": "Teenage Dirtbag",
+      "artist": "Wheatus",
+      "length": "4:01"
+    },
+    {
+      "name": "1985",
+      "artist": "Bo Burnham",
+      "length": "2:26"
+    },
+    {
+      "name": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "length": "4:00"
     }
   ]
 }
