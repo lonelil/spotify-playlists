@@ -40,11 +40,6 @@
       "length": "3:41"
     },
     {
-      "name": "River",
-      "artist": "Miley Cyrus",
-      "length": "2:42"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
@@ -80,9 +75,24 @@
       "length": "3:52"
     },
     {
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
+    },
+    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
+    },
+    {
+      "name": "River",
+      "artist": "Miley Cyrus",
+      "length": "2:42"
+    },
+    {
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "length": "2:57"
     },
     {
       "name": "Just Wanna Rock",
@@ -105,11 +115,6 @@
       "length": "2:43"
     },
     {
-      "name": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen",
-      "length": "2:57"
-    },
-    {
       "name": "Anti-Hero",
       "artist": "Taylor Swift",
       "length": "3:20"
@@ -118,11 +123,6 @@
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
-    },
-    {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
     },
     {
       "name": "HOPE",

@@ -50,14 +50,14 @@
       "length": "3:06"
     },
     {
-      "name": "I know it won't work",
-      "artist": "Gracie Abrams",
-      "length": "4:05"
-    },
-    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "LEFT RIGHT",
+      "artist": "XG",
+      "length": "3:28"
     },
     {
       "name": "Mother",
@@ -70,14 +70,19 @@
       "length": "2:42"
     },
     {
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
+    },
+    {
+      "name": "The Hard Way",
+      "artist": "PNAU, Khalid",
+      "length": "3:03"
+    },
+    {
       "name": "Here We Go Again",
       "artist": "Oliver Tree, David Guetta",
       "length": "2:44"
-    },
-    {
-      "name": "SET ME FREE - ENG",
-      "artist": "TWICE",
-      "length": "3:01"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -90,9 +95,14 @@
       "length": "2:41"
     },
     {
-      "name": "The Hard Way",
-      "artist": "PNAU, Khalid",
-      "length": "3:03"
+      "name": "SET ME FREE - ENG",
+      "artist": "TWICE",
+      "length": "3:01"
+    },
+    {
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
     },
     {
       "name": "I GUESS IT'S LOVE?",
@@ -110,19 +120,9 @@
       "length": "3:02"
     },
     {
-      "name": "Stay Anything",
-      "artist": "Chelsea Cutler",
-      "length": "3:28"
-    },
-    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
-    },
-    {
-      "name": "Lottery (feat. LU KALA)",
-      "artist": "Latto, LU KALA",
-      "length": "3:06"
     },
     {
       "name": "Moonlight",
@@ -133,6 +133,11 @@
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
+    },
+    {
+      "name": "Cupid - Twin Version",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "SHOOTING STAR",
@@ -155,11 +160,6 @@
       "length": "1:59"
     },
     {
-      "name": "Lose My Mind",
-      "artist": "Stephen Dawes",
-      "length": "2:26"
-    },
-    {
       "name": "i'm yours",
       "artist": "Isabel LaRosa",
       "length": "2:25"
@@ -170,9 +170,19 @@
       "length": "2:15"
     },
     {
+      "name": "Stay Anything",
+      "artist": "Chelsea Cutler",
+      "length": "3:28"
+    },
+    {
       "name": "Can't Tame Her",
       "artist": "Zara Larsson",
       "length": "3:16"
+    },
+    {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "Special (feat. SZA)",
@@ -180,14 +190,14 @@
       "length": "2:54"
     },
     {
-      "name": "LEFT RIGHT",
-      "artist": "XG",
-      "length": "3:28"
-    },
-    {
       "name": "Shut Me Up",
       "artist": "Nicky Youre",
       "length": "2:21"
+    },
+    {
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
     },
     {
       "name": "Wings",
@@ -200,9 +210,9 @@
       "length": "2:50"
     },
     {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
+      "name": "Lose My Mind",
+      "artist": "Stephen Dawes",
+      "length": "2:26"
     },
     {
       "name": "How Does It Feel",
@@ -305,6 +315,11 @@
       "length": "2:51"
     },
     {
+      "name": "Evangeline",
+      "artist": "Stephen Sanchez",
+      "length": "2:57"
+    },
+    {
       "name": "Who We Love (feat. Ed Sheeran)",
       "artist": "Sam Smith, Ed Sheeran",
       "length": "2:42"
@@ -335,6 +350,11 @@
       "length": "2:36"
     },
     {
+      "name": "Where do we go now?",
+      "artist": "Gracie Abrams",
+      "length": "4:03"
+    },
+    {
       "name": "Saturday/Sunday",
       "artist": "Jason Derulo, David Guetta",
       "length": "2:46"
@@ -343,11 +363,6 @@
       "name": "GOSSIP (feat. Tom Morello)",
       "artist": "Måneskin, Tom Morello",
       "length": "2:48"
-    },
-    {
-      "name": "Evangeline",
-      "artist": "Stephen Sanchez",
-      "length": "2:57"
     },
     {
       "name": "Rockstar",
@@ -400,11 +415,6 @@
       "length": "3:02"
     },
     {
-      "name": "A&W",
-      "artist": "Lana Del Rey",
-      "length": "7:13"
-    },
-    {
       "name": "I'll Be Waiting",
       "artist": "Cian Ducrot",
       "length": "2:52"
@@ -415,19 +425,9 @@
       "length": "2:18"
     },
     {
-      "name": "Where do we go now?",
-      "artist": "Gracie Abrams",
-      "length": "4:03"
-    },
-    {
       "name": "Fall In Love Alone",
       "artist": "Stacey Ryan",
       "length": "3:25"
-    },
-    {
-      "name": "Hero",
-      "artist": "Martin Garrix, JVKE",
-      "length": "2:40"
     },
     {
       "name": "Die For You",
