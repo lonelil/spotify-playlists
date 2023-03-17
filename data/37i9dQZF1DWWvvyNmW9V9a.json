@@ -25,19 +25,14 @@
       "length": "3:56"
     },
     {
-      "name": "SET ME FREE - ENG",
-      "artist": "TWICE",
-      "length": "3:01"
-    },
-    {
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
     },
     {
-      "name": "Ring",
-      "artist": "Selena Gomez",
-      "length": "2:28"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Die For You - Remix",
@@ -45,14 +40,19 @@
       "length": "3:52"
     },
     {
-      "name": "Cupid - Twin Version",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
+    },
+    {
+      "name": "Kill Em With Kindness",
+      "artist": "Selena Gomez",
+      "length": "3:37"
+    },
+    {
+      "name": "always be a fan",
+      "artist": "Eva Grace",
+      "length": "2:18"
     },
     {
       "name": "Escapism. - Sped Up",
@@ -75,6 +75,26 @@
       "length": "3:14"
     },
     {
+      "name": "WORTHLESS",
+      "artist": "d4vd",
+      "length": "2:43"
+    },
+    {
+      "name": "The Grants",
+      "artist": "Lana Del Rey",
+      "length": "4:55"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
+    },
+    {
+      "name": "Break Free",
+      "artist": "Ariana Grande, Zedd",
+      "length": "3:34"
+    },
+    {
       "name": "I know it won't work",
       "artist": "Gracie Abrams",
       "length": "4:05"
@@ -85,24 +105,19 @@
       "length": "4:01"
     },
     {
-      "name": "Kill Em With Kindness",
-      "artist": "Selena Gomez",
-      "length": "3:37"
+      "name": "SET ME FREE - ENG",
+      "artist": "TWICE",
+      "length": "3:01"
     },
     {
-      "name": "WORTHLESS",
-      "artist": "d4vd",
-      "length": "2:43"
+      "name": "Ring",
+      "artist": "Selena Gomez",
+      "length": "2:28"
     },
     {
       "name": "Worms",
       "artist": "Ashnikko",
       "length": "2:28"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
     },
     {
       "name": "Bruises",
@@ -190,6 +205,11 @@
       "length": "2:56"
     },
     {
+      "name": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "length": "4:50"
+    },
+    {
       "name": "The Heart Wants What It Wants",
       "artist": "Selena Gomez",
       "length": "3:47"
@@ -258,6 +278,11 @@
       "name": "I GUESS IT'S LOVE?",
       "artist": "The Kid LAROI",
       "length": "2:17"
+    },
+    {
+      "name": "Christmas Kids",
+      "artist": "Roar",
+      "length": "2:15"
     },
     {
       "name": "Nonsense",
@@ -478,31 +503,6 @@
       "name": "brutal",
       "artist": "Olivia Rodrigo",
       "length": "2:23"
-    },
-    {
-      "name": "The One That Got Away",
-      "artist": "Katy Perry",
-      "length": "3:47"
-    },
-    {
-      "name": "Another Love",
-      "artist": "Tom Odell",
-      "length": "4:04"
-    },
-    {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "length": "4:01"
-    },
-    {
-      "name": "1985",
-      "artist": "Bo Burnham",
-      "length": "2:26"
-    },
-    {
-      "name": "Sweater Weather",
-      "artist": "The Neighbourhood",
-      "length": "4:00"
     }
   ]
 }
