@@ -1,28 +1,28 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002385be87804bb72409969f848",
+  "art": "https://i.scdn.co/image/ab67706f00000002073709483ca26bad8236249b",
   "length": 86,
   "tracks": [
-    {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
-    },
     {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
     },
     {
-      "name": "Rose Colored Lenses",
-      "artist": "Miley Cyrus",
-      "length": "3:43"
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
     },
     {
-      "name": "Freezing",
-      "artist": "Mimi Webb",
-      "length": "2:56"
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
+    },
+    {
+      "name": "LEFT RIGHT",
+      "artist": "XG",
+      "length": "3:28"
     },
     {
       "name": "We Go Down Together (with Khalid)",
@@ -30,9 +30,29 @@
       "length": "3:04"
     },
     {
+      "name": "Rose Colored Lenses",
+      "artist": "Miley Cyrus",
+      "length": "3:43"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "Freezing",
+      "artist": "Mimi Webb",
+      "length": "2:56"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
+    },
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
     },
     {
       "name": "Sugar Sweet",
@@ -55,19 +75,24 @@
       "length": "2:22"
     },
     {
-      "name": "LEFT RIGHT",
-      "artist": "XG",
-      "length": "3:28"
+      "name": "DEATH",
+      "artist": "Melanie Martinez",
+      "length": "5:06"
     },
     {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
+      "name": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "length": "2:52"
     },
     {
       "name": "River",
       "artist": "Miley Cyrus",
       "length": "2:42"
+    },
+    {
+      "name": "How I'm Feeling Now",
+      "artist": "Lewis Capaldi",
+      "length": "3:46"
     },
     {
       "name": "I know it won't work",
@@ -80,6 +105,11 @@
       "length": "3:03"
     },
     {
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
+    },
+    {
       "name": "Here We Go Again",
       "artist": "Oliver Tree, David Guetta",
       "length": "2:44"
@@ -90,44 +120,9 @@
       "length": "2:11"
     },
     {
-      "name": "Bruises",
-      "artist": "Reneé Rapp",
-      "length": "2:41"
-    },
-    {
-      "name": "SET ME FREE - ENG",
-      "artist": "TWICE",
-      "length": "3:01"
-    },
-    {
-      "name": "Lottery (feat. LU KALA)",
-      "artist": "Latto, LU KALA",
-      "length": "3:06"
-    },
-    {
-      "name": "I GUESS IT'S LOVE?",
-      "artist": "The Kid LAROI",
-      "length": "2:17"
-    },
-    {
-      "name": "I DON'T WANNA BE LIKE YOU",
-      "artist": "Ruel",
-      "length": "2:43"
-    },
-    {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
     },
     {
       "name": "Red Flags",
@@ -135,29 +130,29 @@
       "length": "2:21"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "SET ME FREE - ENG",
+      "artist": "TWICE",
+      "length": "3:01"
     },
     {
-      "name": "SHOOTING STAR",
-      "artist": "XG",
-      "length": "3:23"
+      "name": "I GUESS IT'S LOVE?",
+      "artist": "The Kid LAROI",
+      "length": "2:17"
     },
     {
-      "name": "WORTHLESS",
-      "artist": "d4vd",
+      "name": "Bruises",
+      "artist": "Reneé Rapp",
+      "length": "2:41"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "I DON'T WANNA BE LIKE YOU",
+      "artist": "Ruel",
       "length": "2:43"
-    },
-    {
-      "name": "HOPE",
-      "artist": "NF",
-      "length": "4:24"
-    },
-    {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
     },
     {
       "name": "i'm yours",
@@ -170,9 +165,24 @@
       "length": "2:15"
     },
     {
-      "name": "Stay Anything",
-      "artist": "Chelsea Cutler",
-      "length": "3:28"
+      "name": "HOPE",
+      "artist": "NF",
+      "length": "4:24"
+    },
+    {
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Can't Tame Her",
@@ -180,19 +190,34 @@
       "length": "3:16"
     },
     {
+      "name": "SHOOTING STAR",
+      "artist": "XG",
+      "length": "3:23"
+    },
+    {
+      "name": "WORTHLESS",
+      "artist": "d4vd",
+      "length": "2:43"
+    },
+    {
+      "name": "Stay Anything",
+      "artist": "Chelsea Cutler",
+      "length": "3:28"
+    },
+    {
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
     },
     {
-      "name": "Special (feat. SZA)",
-      "artist": "Lizzo, SZA",
-      "length": "2:54"
-    },
-    {
       "name": "Shut Me Up",
       "artist": "Nicky Youre",
       "length": "2:21"
+    },
+    {
+      "name": "Where Do You Go",
+      "artist": "Jessie Murph",
+      "length": "2:50"
     },
     {
       "name": "About You",
@@ -205,19 +230,14 @@
       "length": "1:58"
     },
     {
-      "name": "Where Do You Go",
-      "artist": "Jessie Murph",
-      "length": "2:50"
+      "name": "Special (feat. SZA)",
+      "artist": "Lizzo, SZA",
+      "length": "2:54"
     },
     {
-      "name": "Lose My Mind",
-      "artist": "Stephen Dawes",
-      "length": "2:26"
-    },
-    {
-      "name": "How Does It Feel",
-      "artist": "Chlöe, Chris Brown",
-      "length": "2:46"
+      "name": "BABY SAID",
+      "artist": "Måneskin",
+      "length": "2:44"
     },
     {
       "name": "Heart Wants What It Wants",
@@ -230,9 +250,19 @@
       "length": "2:12"
     },
     {
-      "name": "Rush",
-      "artist": "Ayra Starr",
-      "length": "3:05"
+      "name": "Ghost",
+      "artist": "Ava Max",
+      "length": "3:01"
+    },
+    {
+      "name": "Borderline",
+      "artist": "Tove Lo",
+      "length": "3:13"
+    },
+    {
+      "name": "How Does It Feel",
+      "artist": "Chlöe, Chris Brown",
+      "length": "2:46"
     },
     {
       "name": "Private Landing (feat. Justin Bieber & Future)",
@@ -245,24 +275,19 @@
       "length": "2:26"
     },
     {
-      "name": "Ghost",
-      "artist": "Ava Max",
-      "length": "3:01"
+      "name": "Lose My Mind",
+      "artist": "Stephen Dawes",
+      "length": "2:26"
     },
     {
-      "name": "Borderline",
-      "artist": "Tove Lo",
-      "length": "3:13"
+      "name": "Rush",
+      "artist": "Ayra Starr",
+      "length": "3:05"
     },
     {
       "name": "Call Me What You Like",
       "artist": "Lovejoy",
       "length": "3:46"
-    },
-    {
-      "name": "BABY SAID",
-      "artist": "Måneskin",
-      "length": "2:44"
     },
     {
       "name": "I'm Not Here To Make Friends",
@@ -275,6 +300,11 @@
       "length": "2:43"
     },
     {
+      "name": "That's What I Get",
+      "artist": "charlieonnafriday",
+      "length": "2:30"
+    },
+    {
       "name": "people pleaser",
       "artist": "Cat Burns",
       "length": "2:26"
@@ -285,11 +315,6 @@
       "length": "4:32"
     },
     {
-      "name": "That's What I Get",
-      "artist": "charlieonnafriday",
-      "length": "2:30"
-    },
-    {
       "name": "LIMBO",
       "artist": "keshi",
       "length": "3:32"
@@ -298,11 +323,6 @@
       "name": "3 Boys",
       "artist": "Omar Apollo",
       "length": "3:29"
-    },
-    {
-      "name": "What Happened to Ryan",
-      "artist": "Jessie Murph",
-      "length": "2:35"
     },
     {
       "name": "BANG BANG!",
@@ -345,11 +365,6 @@
       "length": "3:22"
     },
     {
-      "name": "Too Well",
-      "artist": "Reneé Rapp",
-      "length": "2:36"
-    },
-    {
       "name": "Where do we go now?",
       "artist": "Gracie Abrams",
       "length": "4:03"
@@ -370,11 +385,6 @@
       "length": "3:13"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
       "name": "Luv Me A Little",
       "artist": "ILLENIUM, Nina Nesbitt",
       "length": "3:44"
@@ -393,11 +403,6 @@
       "name": "Pointless",
       "artist": "Lewis Capaldi",
       "length": "3:48"
-    },
-    {
-      "name": "LET GO",
-      "artist": "Central Cee",
-      "length": "2:54"
     },
     {
       "name": "My Mind & Me",
@@ -428,11 +433,6 @@
       "name": "Fall In Love Alone",
       "artist": "Stacey Ryan",
       "length": "3:25"
-    },
-    {
-      "name": "Die For You",
-      "artist": "Joji",
-      "length": "3:31"
     }
   ]
 }

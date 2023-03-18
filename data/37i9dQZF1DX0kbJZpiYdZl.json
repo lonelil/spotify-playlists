@@ -1,18 +1,13 @@
 {
   "name": "Hot Hits USA",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002530d3484b5c1f23c6692334c",
+  "art": "https://i.scdn.co/image/ab67706f0000000216ae5727b6b39da0cc39461e",
   "length": 50,
   "tracks": [
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
       "name": "Die For You - Remix",
@@ -20,99 +15,14 @@
       "length": "3:52"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
       "length": "3:59"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
-      "name": "Red Ruby Da Sleeze",
-      "artist": "Nicki Minaj",
-      "length": "3:34"
-    },
-    {
-      "name": "Sure Thing",
-      "artist": "Miguel",
-      "length": "3:15"
-    },
-    {
-      "name": "TQG",
-      "artist": "KAROL G, Shakira",
-      "length": "3:17"
-    },
-    {
-      "name": "Special (feat. SZA)",
-      "artist": "Lizzo, SZA",
-      "length": "2:54"
-    },
-    {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
-    },
-    {
-      "name": "Bad Habit",
-      "artist": "Steve Lacy",
-      "length": "3:52"
-    },
-    {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
-    },
-    {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
-    },
-    {
-      "name": "River",
+      "name": "Flowers",
       "artist": "Miley Cyrus",
-      "length": "2:42"
-    },
-    {
-      "name": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen",
-      "length": "2:57"
-    },
-    {
-      "name": "Just Wanna Rock",
-      "artist": "Lil Uzi Vert",
-      "length": "2:03"
-    },
-    {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "artist": "Don Toliver, Justin Bieber, Future",
-      "length": "3:58"
-    },
-    {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
+      "length": "3:20"
     },
     {
       "name": "Anti-Hero",
@@ -120,19 +30,84 @@
       "length": "3:20"
     },
     {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
+      "name": "Red Ruby Da Sleeze",
+      "artist": "Nicki Minaj",
+      "length": "3:34"
+    },
+    {
+      "name": "Just Wanna Rock",
+      "artist": "Lil Uzi Vert",
+      "length": "2:03"
+    },
+    {
+      "name": "TQG",
+      "artist": "KAROL G, Shakira",
+      "length": "3:17"
+    },
+    {
+      "name": "Sure Thing",
+      "artist": "Miguel",
+      "length": "3:15"
+    },
+    {
+      "name": "Bad Habit",
+      "artist": "Steve Lacy",
+      "length": "3:52"
+    },
+    {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
+    },
+    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
     },
     {
-      "name": "HOPE",
-      "artist": "NF",
-      "length": "4:24"
-    },
-    {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "artist": "Don Toliver, Justin Bieber, Future",
+      "length": "3:58"
     },
     {
       "name": "Heaven",
@@ -140,9 +115,19 @@
       "length": "3:06"
     },
     {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
+    },
+    {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "length": "2:47"
+    },
+    {
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
     },
     {
       "name": "golden hour",
@@ -150,89 +135,9 @@
       "length": "3:29"
     },
     {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
-    },
-    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
-    },
-    {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
-    },
-    {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
-    },
-    {
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "artist": "Bizarrap, Shakira",
-      "length": "3:34"
-    },
-    {
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "artist": "Post Malone, Doja Cat",
-      "length": "3:12"
-    },
-    {
-      "name": "Love You Anyway",
-      "artist": "Luke Combs",
-      "length": "3:49"
-    },
-    {
-      "name": "Rich Flex",
-      "artist": "Drake, 21 Savage",
-      "length": "3:59"
-    },
-    {
-      "name": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "length": "2:28"
-    },
-    {
-      "name": "I'm Good (Blue)",
-      "artist": "David Guetta, Bebe Rexha",
-      "length": "2:55"
-    },
-    {
-      "name": "Tití Me Preguntó",
-      "artist": "Bad Bunny",
-      "length": "4:03"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
-      "name": "Romantic Homicide",
-      "artist": "d4vd",
-      "length": "2:12"
-    },
-    {
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "artist": "Doja Cat",
-      "length": "3:02"
-    },
-    {
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "artist": "Metro Boomin, Future, Chris Brown",
-      "length": "3:02"
-    },
-    {
-      "name": "La Bachata",
-      "artist": "Manuel Turizo",
-      "length": "2:42"
     },
     {
       "name": "Something in the Orange",
@@ -240,19 +145,114 @@
       "length": "3:48"
     },
     {
+      "name": "Favorite Song",
+      "artist": "Toosii",
+      "length": "3:28"
+    },
+    {
+      "name": "Special (feat. SZA)",
+      "artist": "Lizzo, SZA",
+      "length": "2:54"
+    },
+    {
       "name": "Snooze",
       "artist": "SZA",
       "length": "3:21"
     },
     {
+      "name": "Rich Flex",
+      "artist": "Drake, 21 Savage",
+      "length": "3:59"
+    },
+    {
+      "name": "Yandel 150",
+      "artist": "Yandel, Feid",
+      "length": "3:36"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
+    },
+    {
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "artist": "Bizarrap, Shakira",
+      "length": "3:34"
+    },
+    {
+      "name": "River",
+      "artist": "Miley Cyrus",
+      "length": "2:42"
+    },
+    {
+      "name": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "length": "2:28"
+    },
+    {
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "artist": "Metro Boomin, Future, Chris Brown",
+      "length": "3:02"
+    },
+    {
+      "name": "PAINTING PICTURES",
+      "artist": "Superstar Pride",
+      "length": "2:02"
+    },
+    {
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "artist": "Post Malone, Doja Cat",
+      "length": "3:12"
+    },
+    {
+      "name": "HOPE",
+      "artist": "NF",
+      "length": "4:24"
+    },
+    {
+      "name": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "length": "2:57"
+    },
+    {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
+      "name": "Love You Anyway",
+      "artist": "Luke Combs",
+      "length": "3:49"
+    },
+    {
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
+      "length": "2:43"
+    },
+    {
+      "name": "I'm Good (Blue)",
+      "artist": "David Guetta, Bebe Rexha",
+      "length": "2:55"
+    },
+    {
+      "name": "La Bachata",
+      "artist": "Manuel Turizo",
+      "length": "2:42"
+    },
+    {
+      "name": "Romantic Homicide",
+      "artist": "d4vd",
+      "length": "2:12"
+    },
+    {
       "name": "OMG",
       "artist": "NewJeans",
       "length": "3:32"
-    },
-    {
-      "name": "Heart Like A Truck",
-      "artist": "Lainey Wilson",
-      "length": "3:19"
     }
   ]
 }

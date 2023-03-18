@@ -1,23 +1,13 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002519dc0462e06e769085f3e50",
+  "art": "https://i.scdn.co/image/ab67706f00000002b1ceffe35d69eec6244b9036",
   "length": 100,
   "tracks": [
     {
-      "name": "The Last of Us",
-      "artist": "Gustavo Santaolalla",
-      "length": "1:07"
-    },
-    {
-      "name": "The Sun Always Shines on T.V.",
-      "artist": "a-ha",
-      "length": "5:02"
-    },
-    {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
     },
     {
       "name": "Players",
@@ -25,29 +15,14 @@
       "length": "2:19"
     },
     {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
-      "name": "Sure Thing - Sped Up",
-      "artist": "Miguel",
-      "length": "2:30"
-    },
-    {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
     },
     {
       "name": "Give It To Me",
@@ -55,19 +30,54 @@
       "length": "2:51"
     },
     {
-      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
-      "artist": "sped up nightcore",
-      "length": "2:08"
+      "name": "Sure Thing - Sped Up",
+      "artist": "Miguel",
+      "length": "2:30"
     },
     {
-      "name": "JACKIE BROWN",
-      "artist": "Brent Faiyaz",
-      "length": "2:49"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
+      "name": "Clouds - Sped Up",
+      "artist": "BUNT.",
+      "length": "2:24"
+    },
+    {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
+    },
+    {
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Whenever, Wherever",
       "artist": "Shakira",
       "length": "3:16"
+    },
+    {
+      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
+      "artist": "sped up nightcore",
+      "length": "2:08"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "JACKIE BROWN",
+      "artist": "Brent Faiyaz",
+      "length": "2:49"
     },
     {
       "name": "Collide (Sped Up Remix)",
@@ -80,9 +90,44 @@
       "length": "3:52"
     },
     {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
+    },
+    {
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
+      "length": "3:44"
+    },
+    {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
       "length": "2:43"
+    },
+    {
+      "name": "Blue Hair",
+      "artist": "TV Girl",
+      "length": "3:37"
+    },
+    {
+      "name": "Resonance",
+      "artist": "Home",
+      "length": "3:32"
+    },
+    {
+      "name": "missin something",
+      "artist": "Zach Templar",
+      "length": "2:25"
+    },
+    {
+      "name": "sdp interlude",
+      "artist": "Travis Scott",
+      "length": "3:11"
+    },
+    {
+      "name": "novocaine",
+      "artist": "GenriX, CORBAL, Shiloh Dynasty",
+      "length": "3:15"
     },
     {
       "name": "Mother",
@@ -93,16 +138,6 @@
       "name": "Under Pressure - Remastered 2011",
       "artist": "Queen, David Bowie",
       "length": "4:08"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
-    },
-    {
-      "name": "Love On The Brain",
-      "artist": "Rihanna",
-      "length": "3:44"
     },
     {
       "name": "Don't Hate Me",
@@ -468,41 +503,6 @@
       "name": "Sex, Drugs, Etc.",
       "artist": "Beach Weather",
       "length": "3:16"
-    },
-    {
-      "name": "Pistol",
-      "artist": "Cigarettes After Sex",
-      "length": "3:54"
-    },
-    {
-      "name": "1001 Arabian Nights",
-      "artist": "Chipz",
-      "length": "3:06"
-    },
-    {
-      "name": "Parado no Bailão",
-      "artist": "MC L da Vinte, MC Gury",
-      "length": "2:51"
-    },
-    {
-      "name": "West Coast",
-      "artist": "Lana Del Rey",
-      "length": "4:16"
-    },
-    {
-      "name": "The Ballet Girl",
-      "artist": "Aden Foyer",
-      "length": "3:21"
-    },
-    {
-      "name": "Crazy",
-      "artist": "Natalie Jane",
-      "length": "2:48"
-    },
-    {
-      "name": "Chill Like That",
-      "artist": "Sunday Scaries, PiCKUPLiNES",
-      "length": "2:58"
     }
   ]
 }

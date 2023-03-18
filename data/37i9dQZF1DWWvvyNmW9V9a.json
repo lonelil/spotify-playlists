@@ -1,9 +1,14 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002202ac8aa23f7ecdf3920bdef",
+  "art": "https://i.scdn.co/image/ab67706f000000025c37b0ebd1b5d0313bc9826c",
   "length": 100,
   "tracks": [
+    {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
+    },
     {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
@@ -13,6 +18,11 @@
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "DEATH",
+      "artist": "Melanie Martinez",
+      "length": "5:06"
     },
     {
       "name": "Players",
@@ -25,6 +35,11 @@
       "length": "3:56"
     },
     {
+      "name": "If This Was A Movie (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "length": "3:57"
+    },
+    {
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
@@ -35,9 +50,34 @@
       "length": "2:54"
     },
     {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
+      "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
+      "artist": "Taylor Swift, Joy Williams, John Paul White",
+      "length": "3:59"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
+    },
+    {
+      "name": "The Grants",
+      "artist": "Lana Del Rey",
+      "length": "4:55"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
     },
     {
       "name": "In Ha Mood",
@@ -53,6 +93,16 @@
       "name": "always be a fan",
       "artist": "Eva Grace",
       "length": "2:18"
+    },
+    {
+      "name": "Eyes Open (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:03"
+    },
+    {
+      "name": "novocaine",
+      "artist": "GenriX, CORBAL, Shiloh Dynasty",
+      "length": "3:15"
     },
     {
       "name": "Escapism. - Sped Up",
@@ -80,14 +130,9 @@
       "length": "2:43"
     },
     {
-      "name": "The Grants",
-      "artist": "Lana Del Rey",
-      "length": "4:55"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
+      "name": "Set Me Free Pt.2",
+      "artist": "Jimin",
+      "length": "3:20"
     },
     {
       "name": "Break Free",
@@ -125,11 +170,6 @@
       "length": "2:41"
     },
     {
-      "name": "Favorite Song - Sped Up",
-      "artist": "Toosii",
-      "length": "2:40"
-    },
-    {
       "name": "CHRONICALLY CAUTIOUS",
       "artist": "Braden Bales",
       "length": "1:59"
@@ -140,6 +180,11 @@
       "length": "3:06"
     },
     {
+      "name": "Green Green Grass",
+      "artist": "George Ezra",
+      "length": "2:47"
+    },
+    {
       "name": "Lovers Rock",
       "artist": "TV Girl",
       "length": "3:33"
@@ -148,11 +193,6 @@
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
-    },
-    {
-      "name": "novocaine",
-      "artist": "GenriX, CORBAL, Shiloh Dynasty",
-      "length": "3:15"
     },
     {
       "name": "Favorite Song",
@@ -188,11 +228,6 @@
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
-    },
-    {
-      "name": "Green Green Grass",
-      "artist": "George Ezra",
-      "length": "2:47"
     },
     {
       "name": "Bloody Mary",
@@ -275,11 +310,6 @@
       "length": "3:34"
     },
     {
-      "name": "I GUESS IT'S LOVE?",
-      "artist": "The Kid LAROI",
-      "length": "2:17"
-    },
-    {
       "name": "Christmas Kids",
       "artist": "Roar",
       "length": "2:15"
@@ -305,11 +335,6 @@
       "length": "2:20"
     },
     {
-      "name": "A&W",
-      "artist": "Lana Del Rey",
-      "length": "7:13"
-    },
-    {
       "name": "Don't Hate Me",
       "artist": "Lola Young",
       "length": "2:42"
@@ -325,19 +350,9 @@
       "length": "2:26"
     },
     {
-      "name": "make you sick",
-      "artist": "Jake Cornell",
-      "length": "2:01"
-    },
-    {
       "name": "Call Me What You Like",
       "artist": "Lovejoy",
       "length": "3:46"
-    },
-    {
-      "name": "Red Flags",
-      "artist": "Mimi Webb",
-      "length": "2:21"
     },
     {
       "name": "i'm yours sped up",
@@ -348,11 +363,6 @@
       "name": "JACKIE BROWN",
       "artist": "Brent Faiyaz",
       "length": "2:49"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "Who Is She ?",
@@ -370,11 +380,6 @@
       "length": "3:12"
     },
     {
-      "name": "Snooze",
-      "artist": "SZA",
-      "length": "3:21"
-    },
-    {
       "name": "Too Well",
       "artist": "Reneé Rapp",
       "length": "2:36"
@@ -388,11 +393,6 @@
       "name": "Crazy",
       "artist": "Natalie Jane",
       "length": "2:48"
-    },
-    {
-      "name": "Vigilante Shit",
-      "artist": "Taylor Swift",
-      "length": "2:44"
     },
     {
       "name": "Creepin' (with The Weeknd & 21 Savage)",

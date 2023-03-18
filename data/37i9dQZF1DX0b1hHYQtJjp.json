@@ -1,23 +1,23 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000026ea7e964f74fae2235fc0509",
-  "length": 60,
+  "art": "https://i.scdn.co/image/ab67706f00000002e3bed87dd5662d32ecf30558",
+  "length": 65,
   "tracks": [
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
+    },
+    {
+      "name": "Wild Dogs (Running in a Slow Dream)",
+      "artist": "Matchbox Twenty",
+      "length": "3:30"
+    },
     {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
-    },
-    {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
-    },
-    {
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "artist": "Miley Cyrus, Brandi Carlile",
-      "length": "3:51"
     },
     {
       "name": "When I Get There",
@@ -25,14 +25,14 @@
       "length": "3:20"
     },
     {
-      "name": "NO BAD DAYS (feat. Collett)",
-      "artist": "Macklemore, Collett",
-      "length": "2:53"
+      "name": "FACE MYSELF",
+      "artist": "Elley Duhé, Teddy Swims",
+      "length": "3:47"
     },
     {
-      "name": "Wings",
-      "artist": "Jonas Brothers",
-      "length": "1:58"
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "artist": "Miley Cyrus, Brandi Carlile",
+      "length": "3:51"
     },
     {
       "name": "My Stupid Heart",
@@ -40,14 +40,44 @@
       "length": "2:40"
     },
     {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
+    },
+    {
+      "name": "NO BAD DAYS (feat. Collett)",
+      "artist": "Macklemore, Collett",
+      "length": "2:53"
+    },
+    {
+      "name": "We’re All Gonna Die (with Noah Kahan)",
+      "artist": "Joy Oladokun, Noah Kahan",
+      "length": "2:59"
+    },
+    {
       "name": "Stronger (Grey's Anatomy Version)",
       "artist": "Thunderstorm Artis",
       "length": "2:59"
     },
     {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
       "name": "You",
       "artist": "Miley Cyrus",
       "length": "2:59"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "Wings",
+      "artist": "Jonas Brothers",
+      "length": "1:58"
     },
     {
       "name": "Sugar Sweet",
@@ -70,6 +100,21 @@
       "length": "3:37"
     },
     {
+      "name": "Big Big Love",
+      "artist": "Belinda Carlisle",
+      "length": "3:46"
+    },
+    {
+      "name": "Next To You (feat. Kane Brown)",
+      "artist": "Loud Luxury, DVBBS, Kane Brown",
+      "length": "2:41"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
@@ -78,16 +123,6 @@
       "name": "Have You A Heart",
       "artist": "The War and Treaty",
       "length": "4:20"
-    },
-    {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
-      "name": "Next To You (feat. Kane Brown)",
-      "artist": "Loud Luxury, DVBBS, Kane Brown",
-      "length": "2:41"
     },
     {
       "name": "Heaven",
@@ -105,11 +140,6 @@
       "length": "3:49"
     },
     {
-      "name": "By Myself",
-      "artist": "Daisy Jones",
-      "length": "2:45"
-    },
-    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
@@ -118,6 +148,11 @@
       "name": "Thinkin’ Bout Me",
       "artist": "Morgan Wallen",
       "length": "2:57"
+    },
+    {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
     },
     {
       "name": "Die For You - Remix",
@@ -145,11 +180,6 @@
       "length": "2:47"
     },
     {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
-    },
-    {
       "name": "I Feel Like Dancing",
       "artist": "Jason Mraz",
       "length": "3:38"
@@ -168,11 +198,6 @@
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "artist": "Rihanna",
       "length": "3:16"
-    },
-    {
-      "name": "Special (feat. SZA)",
-      "artist": "Lizzo, SZA",
-      "length": "2:54"
     },
     {
       "name": "Until I Found You",
