@@ -30,6 +30,11 @@
       "length": "2:19"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
       "name": "The Climb",
       "artist": "Miley Cyrus",
       "length": "3:56"
@@ -55,11 +60,6 @@
       "length": "3:05"
     },
     {
-      "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
-      "artist": "Taylor Swift, Joy Williams, John Paul White",
-      "length": "3:59"
-    },
-    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
@@ -70,14 +70,14 @@
       "length": "4:55"
     },
     {
+      "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
+      "artist": "Taylor Swift, Joy Williams, John Paul White",
+      "length": "3:59"
+    },
+    {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "In Ha Mood",
@@ -98,6 +98,11 @@
       "name": "Eyes Open (Taylor's Version)",
       "artist": "Taylor Swift",
       "length": "4:03"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
     },
     {
       "name": "novocaine",
@@ -498,11 +503,6 @@
       "name": "Sex, Drugs, Etc.",
       "artist": "Beach Weather",
       "length": "3:16"
-    },
-    {
-      "name": "brutal",
-      "artist": "Olivia Rodrigo",
-      "length": "2:23"
     }
   ]
 }
