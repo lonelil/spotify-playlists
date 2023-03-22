@@ -30,9 +30,19 @@
       "length": "2:19"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "length": "2:58"
+    },
+    {
+      "name": "Kill Bill - Sped Up Version",
+      "artist": "SZA",
+      "length": "2:17"
     },
     {
       "name": "The Climb",
@@ -45,16 +55,6 @@
       "length": "3:57"
     },
     {
-      "name": "Kill Bill - Sped Up Version",
-      "artist": "SZA",
-      "length": "2:17"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "Feather",
       "artist": "Sabrina Carpenter",
       "length": "3:05"
@@ -65,14 +65,14 @@
       "length": "3:52"
     },
     {
-      "name": "The Grants",
-      "artist": "Lana Del Rey",
-      "length": "4:55"
-    },
-    {
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
       "artist": "Taylor Swift, Joy Williams, John Paul White",
       "length": "3:59"
+    },
+    {
+      "name": "The Grants",
+      "artist": "Lana Del Rey",
+      "length": "4:55"
     },
     {
       "name": "Hey, Mickey!",
@@ -95,14 +95,14 @@
       "length": "2:18"
     },
     {
+      "name": "Break Free",
+      "artist": "Ariana Grande, Zedd",
+      "length": "3:34"
+    },
+    {
       "name": "Eyes Open (Taylor's Version)",
       "artist": "Taylor Swift",
       "length": "4:03"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "novocaine",
@@ -140,14 +140,19 @@
       "length": "3:20"
     },
     {
-      "name": "Break Free",
-      "artist": "Ariana Grande, Zedd",
-      "length": "3:34"
-    },
-    {
       "name": "I know it won't work",
       "artist": "Gracie Abrams",
       "length": "4:05"
+    },
+    {
+      "name": "Silver Springs - 2004 Remaster",
+      "artist": "Fleetwood Mac",
+      "length": "4:48"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
     },
     {
       "name": "Teacher's Pet",
@@ -498,11 +503,6 @@
       "name": "TV",
       "artist": "Billie Eilish",
       "length": "4:41"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }
