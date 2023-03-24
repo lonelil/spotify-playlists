@@ -1,29 +1,9 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002b1ceffe35d69eec6244b9036",
+  "art": "https://i.scdn.co/image/ab67706f00000002bf203499f09f0f74e215403a",
   "length": 100,
   "tracks": [
-    {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
-    },
-    {
-      "name": "Hell N Back",
-      "artist": "Bakar",
-      "length": "3:33"
-    },
     {
       "name": "Give It To Me",
       "artist": "Lofis",
@@ -33,6 +13,41 @@
       "name": "Sure Thing - Sped Up",
       "artist": "Miguel",
       "length": "2:30"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
+    },
+    {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
+    },
+    {
+      "name": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell",
+      "length": "4:46"
+    },
+    {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
+    },
+    {
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -45,14 +60,24 @@
       "length": "2:24"
     },
     {
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
+      "length": "3:44"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
     },
     {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
+      "name": "Christmas Kids",
+      "artist": "Roar",
+      "length": "2:15"
     },
     {
       "name": "If We Ever Broke Up",
@@ -60,9 +85,14 @@
       "length": "2:22"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
+      "name": "I Know",
+      "artist": "Kanii",
+      "length": "2:32"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
@@ -85,6 +115,11 @@
       "length": "3:41"
     },
     {
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
@@ -95,9 +130,19 @@
       "length": "1:55"
     },
     {
-      "name": "Love On The Brain",
+      "name": "Where Have You Been",
       "artist": "Rihanna",
-      "length": "3:44"
+      "length": "4:02"
+    },
+    {
+      "name": "Human",
+      "artist": "Rag'n'Bone Man",
+      "length": "3:20"
+    },
+    {
+      "name": "Where's My Love - Slowed",
+      "artist": "SYML",
+      "length": "4:49"
     },
     {
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
@@ -168,21 +213,6 @@
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
-    },
-    {
-      "name": "Where Have You Been",
-      "artist": "Rihanna",
-      "length": "4:02"
-    },
-    {
-      "name": "Human",
-      "artist": "Rag'n'Bone Man",
-      "length": "3:20"
-    },
-    {
-      "name": "Where's My Love - Slowed",
-      "artist": "SYML",
-      "length": "4:49"
     },
     {
       "name": "Shut up My Moms Calling - (Sped Up)",
@@ -473,36 +503,6 @@
       "name": "NO",
       "artist": "Meghan Trainor",
       "length": "3:33"
-    },
-    {
-      "name": "Tubarão Te Amo",
-      "artist": "Dj LK da Escócia, Tchakabum, MC Ryan SP, mc jhenny, Mc RF",
-      "length": "2:29"
-    },
-    {
-      "name": "In The Kitchen",
-      "artist": "Reneé Rapp",
-      "length": "3:47"
-    },
-    {
-      "name": "I'll Be Waiting",
-      "artist": "Cian Ducrot",
-      "length": "2:52"
-    },
-    {
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "artist": "Lana Del Rey",
-      "length": "4:45"
-    },
-    {
-      "name": "Nobody Gets Me",
-      "artist": "SZA",
-      "length": "3:00"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }
