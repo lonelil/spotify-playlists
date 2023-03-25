@@ -25,6 +25,11 @@
       "length": "5:06"
     },
     {
+      "name": "Heart Attack - Rock Version",
+      "artist": "Demi Lovato",
+      "length": "3:59"
+    },
+    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
@@ -65,24 +70,24 @@
       "length": "3:52"
     },
     {
+      "name": "I Know",
+      "artist": "Kanii",
+      "length": "2:32"
+    },
+    {
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
+    },
+    {
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
       "artist": "Taylor Swift, Joy Williams, John Paul White",
       "length": "3:59"
     },
     {
-      "name": "The Grants",
-      "artist": "Lana Del Rey",
-      "length": "4:55"
-    },
-    {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
-    },
-    {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
     },
     {
       "name": "Kill Em With Kindness",
@@ -98,6 +103,16 @@
       "name": "Break Free",
       "artist": "Ariana Grande, Zedd",
       "length": "3:34"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
     },
     {
       "name": "Feather",
@@ -120,6 +135,11 @@
       "length": "3:59"
     },
     {
+      "name": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "length": "4:50"
+    },
+    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
@@ -128,11 +148,6 @@
       "name": "Beauty And A Beat",
       "artist": "Justin Bieber, Nicki Minaj",
       "length": "3:47"
-    },
-    {
-      "name": "You're On Your Own, Kid",
-      "artist": "Taylor Swift",
-      "length": "3:14"
     },
     {
       "name": "WORTHLESS",
@@ -145,11 +160,6 @@
       "length": "3:20"
     },
     {
-      "name": "I know it won't work",
-      "artist": "Gracie Abrams",
-      "length": "4:05"
-    },
-    {
       "name": "Silver Springs - 2004 Remaster",
       "artist": "Fleetwood Mac",
       "length": "4:48"
@@ -158,6 +168,11 @@
       "name": "Anti-Hero",
       "artist": "Taylor Swift",
       "length": "3:20"
+    },
+    {
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
     },
     {
       "name": "Teacher's Pet",
@@ -205,6 +220,11 @@
       "length": "3:33"
     },
     {
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
+    },
+    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -235,11 +255,6 @@
       "length": "2:43"
     },
     {
-      "name": ">one - greater than one",
-      "artist": "VALORANT, ericdoa",
-      "length": "2:10"
-    },
-    {
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
@@ -253,11 +268,6 @@
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "artist": "Stephen Sanchez, Em Beihold",
       "length": "2:56"
-    },
-    {
-      "name": "Apocalypse",
-      "artist": "Cigarettes After Sex",
-      "length": "4:50"
     },
     {
       "name": "The Heart Wants What It Wants",
@@ -275,11 +285,6 @@
       "length": "3:11"
     },
     {
-      "name": "Lisa",
-      "artist": "Young Miko",
-      "length": "2:39"
-    },
-    {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "artist": "Lil Nas X",
       "length": "3:30"
@@ -295,21 +300,6 @@
       "length": "3:04"
     },
     {
-      "name": "Where Do You Go",
-      "artist": "Jessie Murph",
-      "length": "2:50"
-    },
-    {
-      "name": "Freezing",
-      "artist": "Mimi Webb",
-      "length": "2:56"
-    },
-    {
-      "name": "Buzzkill Baby",
-      "artist": "Mckenna Grace",
-      "length": "3:12"
-    },
-    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
@@ -318,11 +308,6 @@
       "name": "drunk text",
       "artist": "Henry Moodie",
       "length": "3:07"
-    },
-    {
-      "name": "on the street (with J. Cole)",
-      "artist": "j-hope, J. Cole",
-      "length": "3:34"
     },
     {
       "name": "Christmas Kids",
@@ -368,11 +353,6 @@
       "name": "i'm yours sped up",
       "artist": "Isabel LaRosa",
       "length": "2:07"
-    },
-    {
-      "name": "JACKIE BROWN",
-      "artist": "Brent Faiyaz",
-      "length": "2:49"
     },
     {
       "name": "Who Is She ?",
@@ -503,6 +483,26 @@
       "name": "TV",
       "artist": "Billie Eilish",
       "length": "4:41"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
+    },
+    {
+      "name": "brutal",
+      "artist": "Olivia Rodrigo",
+      "length": "2:23"
+    },
+    {
+      "name": "The One That Got Away",
+      "artist": "Katy Perry",
+      "length": "3:47"
+    },
+    {
+      "name": "Another Love",
+      "artist": "Tom Odell",
+      "length": "4:04"
     }
   ]
 }

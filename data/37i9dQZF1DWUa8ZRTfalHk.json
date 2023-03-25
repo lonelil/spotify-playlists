@@ -1,8 +1,8 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002073709483ca26bad8236249b",
-  "length": 86,
+  "art": "https://i.scdn.co/image/ab67706f00000002eacd4505f194142803f40055",
+  "length": 85,
   "tracks": [
     {
       "name": "LEFT RIGHT",
@@ -10,29 +10,14 @@
       "length": "3:28"
     },
     {
-      "name": "Die 4 Me",
-      "artist": "Halsey",
-      "length": "3:35"
-    },
-    {
       "name": "All Of The Girls You Loved Before",
       "artist": "Taylor Swift",
       "length": "3:41"
     },
     {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
-    },
-    {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
-    },
-    {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
     },
     {
       "name": "Eat Your Young",
@@ -40,9 +25,29 @@
       "length": "4:02"
     },
     {
+      "name": "Die 4 Me",
+      "artist": "Halsey",
+      "length": "3:35"
+    },
+    {
+      "name": "Mother",
+      "artist": "Meghan Trainor",
+      "length": "2:27"
+    },
+    {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
+    },
+    {
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
     },
     {
       "name": "Rose Colored Lenses",
@@ -55,9 +60,14 @@
       "length": "2:56"
     },
     {
-      "name": "DEATH",
-      "artist": "Melanie Martinez",
-      "length": "5:06"
+      "name": "With All My Heart",
+      "artist": "ILLENIUM, JVKE",
+      "length": "2:57"
+    },
+    {
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
     },
     {
       "name": "Die For You - Remix",
@@ -65,19 +75,39 @@
       "length": "3:52"
     },
     {
-      "name": "Sugar Sweet",
-      "artist": "Benson Boone",
-      "length": "2:49"
-    },
-    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
     },
     {
+      "name": "DEATH",
+      "artist": "Melanie Martinez",
+      "length": "5:06"
+    },
+    {
+      "name": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "length": "2:49"
+    },
+    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
+    },
+    {
+      "name": "more than friends",
+      "artist": "Isabel LaRosa",
+      "length": "2:27"
     },
     {
       "name": "If We Ever Broke Up",
@@ -95,9 +125,29 @@
       "length": "3:06"
     },
     {
+      "name": "By The End Of The Night",
+      "artist": "llie Goulding",
+      "length": "3:08"
+    },
+    {
+      "name": "The Hard Way",
+      "artist": "PNAU, Khalid",
+      "length": "3:03"
+    },
+    {
+      "name": "Favorite Song",
+      "artist": "Toosii",
+      "length": "3:28"
+    },
+    {
       "name": "River",
       "artist": "Miley Cyrus",
       "length": "2:42"
+    },
+    {
+      "name": "Flip A Switch.",
+      "artist": "RAYE",
+      "length": "3:21"
     },
     {
       "name": "How I'm Feeling Now",
@@ -110,24 +160,9 @@
       "length": "4:05"
     },
     {
-      "name": "The Hard Way",
-      "artist": "PNAU, Khalid",
-      "length": "3:03"
-    },
-    {
       "name": "Here We Go Again",
       "artist": "Oliver Tree, David Guetta",
       "length": "2:44"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
     },
     {
       "name": "CHRONICALLY CAUTIOUS",
@@ -135,34 +170,19 @@
       "length": "1:59"
     },
     {
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
+    },
+    {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
-    },
-    {
-      "name": "i'm yours",
-      "artist": "Isabel LaRosa",
-      "length": "2:25"
-    },
-    {
-      "name": "SET ME FREE - ENG",
-      "artist": "TWICE",
-      "length": "3:01"
-    },
-    {
-      "name": "I GUESS IT'S LOVE?",
-      "artist": "The Kid LAROI",
-      "length": "2:17"
-    },
-    {
-      "name": "Bruises",
-      "artist": "Reneé Rapp",
-      "length": "2:41"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
     },
     {
       "name": "Glue Song",
@@ -170,9 +190,19 @@
       "length": "2:15"
     },
     {
-      "name": "I DON'T WANNA BE LIKE YOU",
-      "artist": "Ruel",
-      "length": "2:43"
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "i'm yours",
+      "artist": "Isabel LaRosa",
+      "length": "2:25"
+    },
+    {
+      "name": "I GUESS IT'S LOVE?",
+      "artist": "The Kid LAROI",
+      "length": "2:17"
     },
     {
       "name": "HOPE",
@@ -180,29 +210,24 @@
       "length": "4:24"
     },
     {
+      "name": "I DON'T WANNA BE LIKE YOU",
+      "artist": "Ruel",
+      "length": "2:43"
+    },
+    {
+      "name": "SET ME FREE - ENG",
+      "artist": "TWICE",
+      "length": "3:01"
+    },
+    {
+      "name": "Bruises",
+      "artist": "Reneé Rapp",
+      "length": "2:41"
+    },
+    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
-    },
-    {
-      "name": "SHOOTING STAR",
-      "artist": "XG",
-      "length": "3:23"
     },
     {
       "name": "WORTHLESS",
@@ -210,14 +235,29 @@
       "length": "2:43"
     },
     {
-      "name": "Stay Anything",
-      "artist": "Chelsea Cutler",
-      "length": "3:28"
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
+    },
+    {
+      "name": "BABY SAID",
+      "artist": "Måneskin",
+      "length": "2:44"
+    },
+    {
+      "name": "SHOOTING STAR",
+      "artist": "XG",
+      "length": "3:23"
     },
     {
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Shut Me Up",
@@ -230,11 +270,6 @@
       "length": "2:50"
     },
     {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
-    },
-    {
       "name": "Wings",
       "artist": "Jonas Brothers",
       "length": "1:58"
@@ -243,11 +278,6 @@
       "name": "Special (feat. SZA)",
       "artist": "Lizzo, SZA",
       "length": "2:54"
-    },
-    {
-      "name": "BABY SAID",
-      "artist": "Måneskin",
-      "length": "2:44"
     },
     {
       "name": "Heart Wants What It Wants",
@@ -270,24 +300,9 @@
       "length": "3:13"
     },
     {
-      "name": "How Does It Feel",
-      "artist": "Chlöe, Chris Brown",
-      "length": "2:46"
-    },
-    {
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "artist": "Don Toliver, Justin Bieber, Future",
       "length": "3:58"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
-      "name": "Lose My Mind",
-      "artist": "Stephen Dawes",
-      "length": "2:26"
     },
     {
       "name": "Rush",
@@ -295,19 +310,19 @@
       "length": "3:05"
     },
     {
-      "name": "Call Me What You Like",
-      "artist": "Lovejoy",
-      "length": "3:46"
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
+      "name": "Stay Anything",
+      "artist": "Chelsea Cutler",
+      "length": "3:28"
     },
     {
       "name": "I'm Not Here To Make Friends",
       "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
       "length": "3:49"
-    },
-    {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
     },
     {
       "name": "That's What I Get",
@@ -320,24 +335,14 @@
       "length": "2:26"
     },
     {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
       "name": "LIMBO",
       "artist": "keshi",
       "length": "3:32"
     },
     {
-      "name": "3 Boys",
-      "artist": "Omar Apollo",
-      "length": "3:29"
-    },
-    {
-      "name": "BANG BANG!",
-      "artist": "Nessa Barrett",
-      "length": "2:16"
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
     },
     {
       "name": "DANCING ALL ALONE",
@@ -360,14 +365,14 @@
       "length": "2:21"
     },
     {
-      "name": "a little more time",
-      "artist": "ROLE MODEL",
-      "length": "3:30"
-    },
-    {
       "name": "Low",
       "artist": "SZA",
       "length": "3:01"
+    },
+    {
+      "name": "3 Boys",
+      "artist": "Omar Apollo",
+      "length": "3:29"
     },
     {
       "name": "Lavender Haze",
@@ -380,6 +385,11 @@
       "length": "4:03"
     },
     {
+      "name": "a little more time",
+      "artist": "ROLE MODEL",
+      "length": "3:30"
+    },
+    {
       "name": "Saturday/Sunday",
       "artist": "Jason Derulo, David Guetta",
       "length": "2:46"
@@ -390,24 +400,19 @@
       "length": "2:48"
     },
     {
-      "name": "Luv Me A Little",
-      "artist": "ILLENIUM, Nina Nesbitt",
-      "length": "3:44"
-    },
-    {
       "name": "Back To You",
       "artist": "Lost Frequencies, Elley Duhé, X Ambassadors",
       "length": "2:37"
     },
     {
-      "name": "Too Late (with AJR)",
-      "artist": "Quinn XCII, AJR",
-      "length": "2:55"
-    },
-    {
       "name": "My Mind & Me",
       "artist": "Selena Gomez",
       "length": "2:27"
+    },
+    {
+      "name": "Too Late (with AJR)",
+      "artist": "Quinn XCII, AJR",
+      "length": "2:55"
     },
     {
       "name": "Midnight Rain",
@@ -420,19 +425,9 @@
       "length": "3:02"
     },
     {
-      "name": "I'll Be Waiting",
-      "artist": "Cian Ducrot",
-      "length": "2:52"
-    },
-    {
       "name": "blame's on me",
       "artist": "Alexander Stewart",
       "length": "2:18"
-    },
-    {
-      "name": "Fall In Love Alone",
-      "artist": "Stacey Ryan",
-      "length": "3:25"
     }
   ]
 }

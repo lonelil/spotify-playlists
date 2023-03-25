@@ -1,13 +1,28 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002e3bed87dd5662d32ecf30558",
+  "art": "https://i.scdn.co/image/ab67706f0000000267f6d6559abdca525c386fed",
   "length": 65,
   "tracks": [
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
+    },
     {
       "name": "Eat Your Young",
       "artist": "Hozier",
       "length": "4:02"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Wild Dogs (Running in a Slow Dream)",
@@ -20,14 +35,24 @@
       "length": "4:18"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
     },
     {
       "name": "FACE MYSELF",
       "artist": "Elley Duhé, Teddy Swims",
       "length": "3:47"
+    },
+    {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
     },
     {
       "name": "Thousand Miles (feat. Brandi Carlile)",
@@ -58,11 +83,6 @@
       "name": "Stronger (Grey's Anatomy Version)",
       "artist": "Thunderstorm Artis",
       "length": "2:59"
-    },
-    {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
     },
     {
       "name": "You",
@@ -100,11 +120,6 @@
       "length": "3:37"
     },
     {
-      "name": "Big Big Love",
-      "artist": "Belinda Carlisle",
-      "length": "3:46"
-    },
-    {
       "name": "Next To You (feat. Kane Brown)",
       "artist": "Loud Luxury, DVBBS, Kane Brown",
       "length": "2:41"
@@ -113,11 +128,6 @@
       "name": "Last Night",
       "artist": "Morgan Wallen",
       "length": "2:43"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
     },
     {
       "name": "Have You A Heart",
@@ -133,11 +143,6 @@
       "name": "Blindsided",
       "artist": "Kelsea Ballerini",
       "length": "2:50"
-    },
-    {
-      "name": "Love You Anyway",
-      "artist": "Luke Combs",
-      "length": "3:49"
     },
     {
       "name": "TRUSTFALL",
@@ -248,11 +253,6 @@
       "name": "She",
       "artist": "Jelly Roll",
       "length": "2:53"
-    },
-    {
-      "name": "Giddy Up!",
-      "artist": "Shania Twain",
-      "length": "2:42"
     },
     {
       "name": "These Tears",
