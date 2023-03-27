@@ -55,9 +55,9 @@
       "length": "2:17"
     },
     {
-      "name": "The Climb",
-      "artist": "Miley Cyrus",
-      "length": "3:56"
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
     },
     {
       "name": "If This Was A Movie (Taylor’s Version)",
@@ -65,19 +65,24 @@
       "length": "3:57"
     },
     {
+      "name": "The Climb",
+      "artist": "Miley Cyrus",
+      "length": "3:56"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
     },
     {
-      "name": "I Know",
-      "artist": "Kanii",
-      "length": "2:32"
-    },
-    {
       "name": "I know it won't work",
       "artist": "Gracie Abrams",
       "length": "4:05"
+    },
+    {
+      "name": "Paris, Texas (feat. SYML)",
+      "artist": "Lana Del Rey, SYML",
+      "length": "3:26"
     },
     {
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
@@ -90,6 +95,11 @@
       "length": "1:55"
     },
     {
+      "name": "Break Free",
+      "artist": "Ariana Grande, Zedd",
+      "length": "3:34"
+    },
+    {
       "name": "Kill Em With Kindness",
       "artist": "Selena Gomez",
       "length": "3:37"
@@ -98,11 +108,6 @@
       "name": "always be a fan",
       "artist": "Eva Grace",
       "length": "2:18"
-    },
-    {
-      "name": "Break Free",
-      "artist": "Ariana Grande, Zedd",
-      "length": "3:34"
     },
     {
       "name": "Mother",
@@ -195,6 +200,11 @@
       "length": "2:28"
     },
     {
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
+    },
+    {
       "name": "Bruises",
       "artist": "Reneé Rapp",
       "length": "2:41"
@@ -218,11 +228,6 @@
       "name": "Lovers Rock",
       "artist": "TV Girl",
       "length": "3:33"
-    },
-    {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
     },
     {
       "name": "ceilings",
@@ -263,6 +268,11 @@
       "name": "Bloody Mary",
       "artist": "Lady Gaga",
       "length": "4:04"
+    },
+    {
+      "name": "I Know",
+      "artist": "Kanii",
+      "length": "2:32"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -493,16 +503,6 @@
       "name": "brutal",
       "artist": "Olivia Rodrigo",
       "length": "2:23"
-    },
-    {
-      "name": "The One That Got Away",
-      "artist": "Katy Perry",
-      "length": "3:47"
-    },
-    {
-      "name": "Another Love",
-      "artist": "Tom Odell",
-      "length": "4:04"
     }
   ]
 }
