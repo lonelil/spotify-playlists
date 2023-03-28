@@ -5,11 +5,6 @@
   "length": 85,
   "tracks": [
     {
-      "name": "LEFT RIGHT",
-      "artist": "XG",
-      "length": "3:28"
-    },
-    {
       "name": "All Of The Girls You Loved Before",
       "artist": "Taylor Swift",
       "length": "3:41"
@@ -28,6 +23,11 @@
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
+    },
+    {
+      "name": "LEFT RIGHT",
+      "artist": "XG",
+      "length": "3:28"
     },
     {
       "name": "Mother",
@@ -60,9 +60,14 @@
       "length": "2:56"
     },
     {
-      "name": "With All My Heart",
-      "artist": "ILLENIUM, JVKE",
-      "length": "2:57"
+      "name": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "length": "2:52"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
     },
     {
       "name": "Miracle (with Ellie Goulding)",
@@ -73,11 +78,6 @@
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
-    },
-    {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
     },
     {
       "name": "DEATH",
@@ -110,19 +110,24 @@
       "length": "2:27"
     },
     {
+      "name": "With All My Heart",
+      "artist": "ILLENIUM, JVKE",
+      "length": "2:57"
+    },
+    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
     },
     {
-      "name": "this is what losing someone feels like",
-      "artist": "JVKE",
-      "length": "2:52"
-    },
-    {
       "name": "Lottery (feat. LU KALA)",
       "artist": "Latto, LU KALA",
       "length": "3:06"
+    },
+    {
+      "name": "Flip A Switch.",
+      "artist": "RAYE",
+      "length": "3:21"
     },
     {
       "name": "By The End Of The Night",
@@ -135,9 +140,9 @@
       "length": "3:03"
     },
     {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
     },
     {
       "name": "River",
@@ -145,14 +150,19 @@
       "length": "2:42"
     },
     {
-      "name": "Flip A Switch.",
-      "artist": "RAYE",
-      "length": "3:21"
+      "name": "Favorite Song",
+      "artist": "Toosii",
+      "length": "3:28"
     },
     {
       "name": "How I'm Feeling Now",
       "artist": "Lewis Capaldi",
       "length": "3:46"
+    },
+    {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
     },
     {
       "name": "I know it won't work",
@@ -170,24 +180,14 @@
       "length": "1:59"
     },
     {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
     },
     {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
       "name": "Moonlight",
@@ -203,6 +203,16 @@
       "name": "I GUESS IT'S LOVE?",
       "artist": "The Kid LAROI",
       "length": "2:17"
+    },
+    {
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
+    },
+    {
+      "name": "BABY SAID",
+      "artist": "Måneskin",
+      "length": "2:44"
     },
     {
       "name": "HOPE",
@@ -233,16 +243,6 @@
       "name": "WORTHLESS",
       "artist": "d4vd",
       "length": "2:43"
-    },
-    {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
-    },
-    {
-      "name": "BABY SAID",
-      "artist": "Måneskin",
-      "length": "2:44"
     },
     {
       "name": "SHOOTING STAR",
