@@ -15,19 +15,14 @@
       "length": "2:30"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
-    },
-    {
       "name": "labour",
       "artist": "Paris Paloma",
       "length": "3:57"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
     },
     {
       "name": "Hell N Back",
@@ -35,9 +30,19 @@
       "length": "3:33"
     },
     {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
       "name": "What You Won't Do for Love",
       "artist": "Bobby Caldwell",
       "length": "4:46"
+    },
+    {
+      "name": "Rainbow",
+      "artist": "Jesse®",
+      "length": "2:56"
     },
     {
       "name": "All Of The Girls You Loved Before",
@@ -60,9 +65,19 @@
       "length": "2:24"
     },
     {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
       "name": "Love On The Brain",
       "artist": "Rihanna",
       "length": "3:44"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Cruel Summer",
@@ -75,14 +90,14 @@
       "length": "3:03"
     },
     {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
       "name": "Christmas Kids",
       "artist": "Roar",
       "length": "2:15"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
     },
     {
       "name": "I Know",
@@ -98,11 +113,6 @@
       "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
       "artist": "sped up nightcore",
       "length": "2:08"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
     },
     {
       "name": "JACKIE BROWN",
@@ -493,16 +503,6 @@
       "name": "Rush",
       "artist": "Ayra Starr",
       "length": "3:05"
-    },
-    {
-      "name": "Somewhere Only We Know",
-      "artist": "Keane",
-      "length": "3:57"
-    },
-    {
-      "name": "NO",
-      "artist": "Meghan Trainor",
-      "length": "3:33"
     }
   ]
 }
