@@ -1,33 +1,28 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000025c37b0ebd1b5d0313bc9826c",
+  "art": "https://i.scdn.co/image/ab67706f000000025b631540cd8cdd0333bcaa1d",
   "length": 100,
   "tracks": [
+    {
+      "name": "EVIL",
+      "artist": "Melanie Martinez",
+      "length": "4:06"
+    },
+    {
+      "name": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "length": "3:28"
+    },
     {
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
     },
     {
-      "name": "All Of The Girls You Loved Before",
+      "name": "Don’t Blame Me",
       "artist": "Taylor Swift",
-      "length": "3:41"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
-    },
-    {
-      "name": "labour",
-      "artist": "Paris Paloma",
-      "length": "3:57"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
+      "length": "3:56"
     },
     {
       "name": "Heart Attack - Rock Version",
@@ -35,14 +30,74 @@
       "length": "3:59"
     },
     {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "FLOWER",
+      "artist": "JISOO",
+      "length": "2:53"
+    },
+    {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
+    },
+    {
+      "name": "THE CONTORTIONIST",
+      "artist": "Melanie Martinez",
+      "length": "3:20"
+    },
+    {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
+    },
+    {
+      "name": "Joker",
+      "artist": "Jesse®",
+      "length": "1:56"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
+    },
+    {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "length": "2:29"
+    },
+    {
+      "name": "SPIDER WEB",
+      "artist": "Melanie Martinez",
+      "length": "3:03"
+    },
+    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
     },
     {
+      "name": "Peppers (feat. Tommy Genesis)",
+      "artist": "Lana Del Rey, Tommy Genesis",
+      "length": "4:08"
+    },
+    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
+    },
+    {
+      "name": "Lost The Breakup",
+      "artist": "Maisie Peters",
+      "length": "3:09"
     },
     {
       "name": "Nonsense (with Coi Leray) - Remix",
@@ -55,9 +110,9 @@
       "length": "5:06"
     },
     {
-      "name": "Peppers (feat. Tommy Genesis)",
-      "artist": "Lana Del Rey, Tommy Genesis",
-      "length": "4:08"
+      "name": "All Eyes On Me",
+      "artist": "JISOO",
+      "length": "2:43"
     },
     {
       "name": "Cruel Summer",
@@ -70,11 +125,6 @@
       "length": "3:15"
     },
     {
-      "name": "Kill Bill - Sped Up Version",
-      "artist": "SZA",
-      "length": "2:17"
-    },
-    {
       "name": "The Climb",
       "artist": "Miley Cyrus",
       "length": "3:56"
@@ -83,6 +133,16 @@
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
+    },
+    {
+      "name": "Same Friends (with Lil Tjay)",
+      "artist": "charlieonnafriday, Lil Tjay",
+      "length": "2:44"
+    },
+    {
+      "name": "Set Me Free Pt.2",
+      "artist": "Jimin",
+      "length": "3:20"
     },
     {
       "name": "I know it won't work",
@@ -95,24 +155,19 @@
       "length": "4:35"
     },
     {
-      "name": "Joker",
-      "artist": "Jesse®",
-      "length": "1:56"
-    },
-    {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
     },
     {
-      "name": "Set Me Free Pt.2",
-      "artist": "Jimin",
-      "length": "3:20"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
+    },
+    {
+      "name": "NYMPHOLOGY",
+      "artist": "Melanie Martinez",
+      "length": "5:06"
     },
     {
       "name": "Paris, Texas (feat. SYML)",
@@ -175,19 +230,9 @@
       "length": "2:43"
     },
     {
-      "name": "If This Was A Movie (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:57"
-    },
-    {
       "name": "Silver Springs - 2004 Remaster",
       "artist": "Fleetwood Mac",
       "length": "4:48"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "SunKissing",
@@ -325,21 +370,6 @@
       "length": "4:08"
     },
     {
-      "name": "feelings",
-      "artist": "EMELINE",
-      "length": "2:20"
-    },
-    {
-      "name": "Best Friend Breakup",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:21"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
       "name": "i'm yours sped up",
       "artist": "Isabel LaRosa",
       "length": "2:07"
@@ -358,11 +388,6 @@
       "name": "Back That Up To The Beat - sped up version",
       "artist": "Madonna",
       "length": "3:12"
-    },
-    {
-      "name": "Too Well",
-      "artist": "Reneé Rapp",
-      "length": "2:36"
     },
     {
       "name": "Bad Habit",
@@ -420,24 +445,9 @@
       "length": "2:57"
     },
     {
-      "name": "Heather",
-      "artist": "Conan Gray",
-      "length": "3:18"
-    },
-    {
       "name": "Space Song",
       "artist": "Beach House",
       "length": "5:20"
-    },
-    {
-      "name": "Miss You",
-      "artist": "Oliver Tree, Robin Schulz",
-      "length": "3:26"
-    },
-    {
-      "name": "SPIT IN MY FACE!",
-      "artist": "ThxSoMch",
-      "length": "2:27"
     },
     {
       "name": "just wanna rock (Lil Uzi Vert) - Sped Up Version",
@@ -493,16 +503,6 @@
       "name": "Another Love",
       "artist": "Tom Odell",
       "length": "4:04"
-    },
-    {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "length": "4:01"
-    },
-    {
-      "name": "1985",
-      "artist": "Bo Burnham",
-      "length": "2:26"
     }
   ]
 }

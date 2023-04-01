@@ -5,6 +5,11 @@
   "length": 100,
   "tracks": [
     {
+      "name": "Lavender Haze - Acoustic Version",
+      "artist": "Taylor Swift",
+      "length": "2:54"
+    },
+    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
@@ -498,11 +503,6 @@
       "name": "Hey Stephen (Taylor’s Version)",
       "artist": "Taylor Swift",
       "length": "4:14"
-    },
-    {
-      "name": "White Horse (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:54"
     }
   ]
 }
