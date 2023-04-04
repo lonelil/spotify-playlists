@@ -155,19 +155,14 @@
       "length": "2:52"
     },
     {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
-    },
-    {
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
     },
     {
-      "name": "River",
-      "artist": "Miley Cyrus",
-      "length": "2:42"
+      "name": "OMG",
+      "artist": "NewJeans",
+      "length": "3:32"
     },
     {
       "name": "I Ain't Worried",
@@ -193,6 +188,11 @@
       "name": "La Bebe - Remix",
       "artist": "Yng Lvcas, Peso Pluma",
       "length": "3:54"
+    },
+    {
+      "name": "River",
+      "artist": "Miley Cyrus",
+      "length": "2:42"
     },
     {
       "name": "Bones",
@@ -235,14 +235,14 @@
       "length": "3:22"
     },
     {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
-    },
-    {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     },
     {
       "name": "Something in the Orange",

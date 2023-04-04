@@ -10,29 +10,14 @@
       "length": "4:06"
     },
     {
-      "name": "...Ready For It?",
+      "name": "Death By A Thousand Cuts",
       "artist": "Taylor Swift",
-      "length": "3:28"
+      "length": "3:18"
     },
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
-      "name": "Don’t Blame Me",
-      "artist": "Taylor Swift",
-      "length": "3:56"
-    },
-    {
-      "name": "Heart Attack - Rock Version",
-      "artist": "Demi Lovato",
-      "length": "3:59"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Kill Bill",
@@ -40,14 +25,44 @@
       "length": "2:33"
     },
     {
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
+    },
+    {
+      "name": "Heart Attack - Rock Version",
+      "artist": "Demi Lovato",
+      "length": "3:59"
+    },
+    {
+      "name": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "length": "3:28"
+    },
+    {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
       "name": "FLOWER",
       "artist": "JISOO",
       "length": "2:53"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "labour",
       "artist": "Paris Paloma",
       "length": "3:57"
+    },
+    {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "length": "2:29"
     },
     {
       "name": "THE CONTORTIONIST",
@@ -65,16 +80,6 @@
       "length": "1:56"
     },
     {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
-    },
-    {
-      "name": "Hold On Tight",
-      "artist": "aespa",
-      "length": "2:29"
-    },
-    {
       "name": "SPIDER WEB",
       "artist": "Melanie Martinez",
       "length": "3:03"
@@ -90,14 +95,14 @@
       "length": "4:08"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "Lost The Breakup",
       "artist": "Maisie Peters",
       "length": "3:09"
+    },
+    {
+      "name": "Enchanted",
+      "artist": "Taylor Swift",
+      "length": "5:52"
     },
     {
       "name": "Nonsense (with Coi Leray) - Remix",
@@ -115,11 +120,6 @@
       "length": "2:43"
     },
     {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
-    },
-    {
       "name": "Kitsch",
       "artist": "IVE",
       "length": "3:15"
@@ -128,6 +128,16 @@
       "name": "The Climb",
       "artist": "Miley Cyrus",
       "length": "3:56"
+    },
+    {
+      "name": "Ours",
+      "artist": "Taylor Swift",
+      "length": "3:57"
+    },
+    {
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
     },
     {
       "name": "Die For You - Remix",
@@ -143,11 +153,6 @@
       "name": "Set Me Free Pt.2",
       "artist": "Jimin",
       "length": "3:20"
-    },
-    {
-      "name": "I know it won't work",
-      "artist": "Gracie Abrams",
-      "length": "4:05"
     },
     {
       "name": "Hey, Mickey!",
@@ -238,11 +243,6 @@
       "name": "Teacher's Pet",
       "artist": "Melanie Martinez",
       "length": "4:01"
-    },
-    {
-      "name": "SET ME FREE - ENG",
-      "artist": "TWICE",
-      "length": "3:01"
     },
     {
       "name": "Ring",
