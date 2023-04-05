@@ -40,6 +40,11 @@
       "length": "3:28"
     },
     {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "length": "2:29"
+    },
+    {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
@@ -58,11 +63,6 @@
       "name": "labour",
       "artist": "Paris Paloma",
       "length": "3:57"
-    },
-    {
-      "name": "Hold On Tight",
-      "artist": "aespa",
-      "length": "2:29"
     },
     {
       "name": "THE CONTORTIONIST",
@@ -93,6 +93,11 @@
       "name": "Peppers (feat. Tommy Genesis)",
       "artist": "Lana Del Rey, Tommy Genesis",
       "length": "4:08"
+    },
+    {
+      "name": "Zero",
+      "artist": "NewJeans",
+      "length": "2:34"
     },
     {
       "name": "Lost The Breakup",
@@ -498,11 +503,6 @@
       "name": "Another Love",
       "artist": "Tom Odell",
       "length": "4:04"
-    },
-    {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "length": "4:01"
     }
   ]
 }
