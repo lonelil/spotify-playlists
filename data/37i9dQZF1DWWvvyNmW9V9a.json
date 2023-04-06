@@ -5,19 +5,9 @@
   "length": 100,
   "tracks": [
     {
-      "name": "EVIL",
+      "name": "MILK OF THE SIREN",
       "artist": "Melanie Martinez",
-      "length": "4:06"
-    },
-    {
-      "name": "Death By A Thousand Cuts",
-      "artist": "Taylor Swift",
-      "length": "3:18"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
+      "length": "4:25"
     },
     {
       "name": "Kill Bill",
@@ -25,14 +15,19 @@
       "length": "2:33"
     },
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Heart Attack - Rock Version",
       "artist": "Demi Lovato",
       "length": "3:59"
+    },
+    {
+      "name": "PLUTO",
+      "artist": "Melanie Martinez",
+      "length": "3:01"
     },
     {
       "name": "...Ready For It?",
@@ -48,6 +43,11 @@
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "EVIL",
+      "artist": "Melanie Martinez",
+      "length": "4:06"
     },
     {
       "name": "FLOWER",
@@ -80,11 +80,6 @@
       "length": "1:56"
     },
     {
-      "name": "SPIDER WEB",
-      "artist": "Melanie Martinez",
-      "length": "3:03"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
@@ -95,9 +90,19 @@
       "length": "4:08"
     },
     {
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
+    },
+    {
       "name": "Zero",
       "artist": "NewJeans",
       "length": "2:34"
+    },
+    {
+      "name": "In Ha Mood",
+      "artist": "Ice Spice",
+      "length": "2:09"
     },
     {
       "name": "Lost The Breakup",
@@ -105,19 +110,14 @@
       "length": "3:09"
     },
     {
-      "name": "Enchanted",
+      "name": "Death By A Thousand Cuts",
       "artist": "Taylor Swift",
-      "length": "5:52"
+      "length": "3:18"
     },
     {
       "name": "Nonsense (with Coi Leray) - Remix",
       "artist": "Sabrina Carpenter, Coi Leray",
       "length": "2:55"
-    },
-    {
-      "name": "DEATH",
-      "artist": "Melanie Martinez",
-      "length": "5:06"
     },
     {
       "name": "All Eyes On Me",
@@ -158,6 +158,11 @@
       "name": "Set Me Free Pt.2",
       "artist": "Jimin",
       "length": "3:20"
+    },
+    {
+      "name": "Enchanted",
+      "artist": "Taylor Swift",
+      "length": "5:52"
     },
     {
       "name": "Hey, Mickey!",
@@ -203,11 +208,6 @@
       "name": "Mother",
       "artist": "Meghan Trainor",
       "length": "2:27"
-    },
-    {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
     },
     {
       "name": "Escapism. - Sped Up",
