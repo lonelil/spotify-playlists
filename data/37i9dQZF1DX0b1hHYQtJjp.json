@@ -1,13 +1,23 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000027b962e0e1ddfee740bee3888",
+  "art": "https://i.scdn.co/image/ab67706f00000002b95394a1a2a334c9ac1778c7",
   "length": 65,
   "tracks": [
+    {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
       "artist": "Charlie Puth, Dan + Shay",
       "length": "2:45"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Eyes Closed",
@@ -15,14 +25,14 @@
       "length": "3:14"
     },
     {
-      "name": "Waiting",
-      "artist": "Lauren Daigle",
-      "length": "3:11"
+      "name": "I Don't Miss You",
+      "artist": "JP Saxe",
+      "length": "3:37"
     },
     {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
+      "name": "Thank God I Do",
+      "artist": "Lauren Daigle",
+      "length": "4:18"
     },
     {
       "name": "Fast Car",
@@ -30,14 +40,14 @@
       "length": "4:25"
     },
     {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
       "name": "Stronger (Grey's Anatomy Version)",
       "artist": "Thunderstorm Artis",
       "length": "2:59"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
     },
     {
       "name": "Eat Your Young",
@@ -50,9 +60,24 @@
       "length": "3:20"
     },
     {
-      "name": "Tulips & Roses",
-      "artist": "G-Eazy",
-      "length": "3:16"
+      "name": "My Stupid Heart",
+      "artist": "Walk Off the Earth",
+      "length": "2:40"
+    },
+    {
+      "name": "Dark Skies",
+      "artist": "A R I Z O N A",
+      "length": "3:14"
+    },
+    {
+      "name": "Waiting",
+      "artist": "Lauren Daigle",
+      "length": "3:11"
+    },
+    {
+      "name": "Stand Up Eight",
+      "artist": "Thunderstorm Artis",
+      "length": "3:07"
     },
     {
       "name": "SunKissing",
@@ -60,14 +85,9 @@
       "length": "2:57"
     },
     {
-      "name": "My Stupid Heart",
-      "artist": "Walk Off the Earth",
-      "length": "2:40"
-    },
-    {
-      "name": "You Might Like It",
-      "artist": "Jason Mraz",
-      "length": "3:37"
+      "name": "HAPPY",
+      "artist": "NF",
+      "length": "4:02"
     },
     {
       "name": "Wild Dogs (Running in a Slow Dream)",
@@ -75,14 +95,9 @@
       "length": "3:30"
     },
     {
-      "name": "Thank God I Do",
-      "artist": "Lauren Daigle",
-      "length": "4:18"
-    },
-    {
-      "name": "Give A Little Kindness",
-      "artist": "Lloyiso",
-      "length": "2:44"
+      "name": "You Might Like It",
+      "artist": "Jason Mraz",
+      "length": "3:37"
     },
     {
       "name": "FACE MYSELF",
@@ -105,9 +120,14 @@
       "length": "2:53"
     },
     {
-      "name": "We’re All Gonna Die (with Noah Kahan)",
-      "artist": "Joy Oladokun, Noah Kahan",
+      "name": "SNAP",
+      "artist": "Rosa Linn",
       "length": "2:59"
+    },
+    {
+      "name": "Tulips & Roses",
+      "artist": "G-Eazy",
+      "length": "3:16"
     },
     {
       "name": "You",
@@ -135,11 +155,6 @@
       "length": "3:28"
     },
     {
-      "name": "SNAP",
-      "artist": "Rosa Linn",
-      "length": "2:59"
-    },
-    {
       "name": "Unstoppable",
       "artist": "Sia",
       "length": "3:37"
@@ -148,6 +163,11 @@
       "name": "Sugar Sweet",
       "artist": "Benson Boone",
       "length": "2:49"
+    },
+    {
+      "name": "Give A Little Kindness",
+      "artist": "Lloyiso",
+      "length": "2:44"
     },
     {
       "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION - Bonus Track",
@@ -165,6 +185,11 @@
       "length": "3:45"
     },
     {
+      "name": "We’re All Gonna Die (with Noah Kahan)",
+      "artist": "Joy Oladokun, Noah Kahan",
+      "length": "2:59"
+    },
+    {
       "name": "Lucky",
       "artist": "Megan Moroney",
       "length": "2:41"
@@ -178,11 +203,6 @@
       "name": "Last Night",
       "artist": "Morgan Wallen",
       "length": "2:43"
-    },
-    {
-      "name": "Have You A Heart",
-      "artist": "The War and Treaty",
-      "length": "4:20"
     },
     {
       "name": "Mother",
@@ -260,11 +280,6 @@
       "length": "3:12"
     },
     {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "length": "2:45"
-    },
-    {
       "name": "Love Go By",
       "artist": "lle King",
       "length": "3:42"
@@ -278,11 +293,6 @@
       "name": "Sunroof (feat. Thomas Rhett)",
       "artist": "Nicky Youre, dazy, Thomas Rhett",
       "length": "2:43"
-    },
-    {
-      "name": "Worth It.",
-      "artist": "RAYE",
-      "length": "4:06"
     },
     {
       "name": "These Tears",
@@ -318,16 +328,6 @@
       "name": "Run Away to Mars",
       "artist": "TALK",
       "length": "3:33"
-    },
-    {
-      "name": "Good Day",
-      "artist": "Jake Scott",
-      "length": "2:53"
-    },
-    {
-      "name": "World's Smallest Violin",
-      "artist": "AJR",
-      "length": "3:00"
     }
   ]
 }

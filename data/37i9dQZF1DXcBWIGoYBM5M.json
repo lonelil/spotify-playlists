@@ -1,7 +1,7 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000028e3910929b4d597cc73f0a52",
+  "art": "https://i.scdn.co/image/ab67706f00000002cc30f3a49fc761da4a805612",
   "length": 50,
   "tracks": [
     {
@@ -15,14 +15,14 @@
       "length": "3:20"
     },
     {
-      "name": "BESO",
-      "artist": "ROSALÍA, Rauw Alejandro",
-      "length": "3:14"
-    },
-    {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "BESO",
+      "artist": "ROSALÍA, Rauw Alejandro",
+      "length": "3:14"
     },
     {
       "name": "Players",
@@ -35,11 +35,6 @@
       "length": "3:52"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
       "length": "3:59"
@@ -47,6 +42,16 @@
     {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
+      "name": "Search & Rescue",
+      "artist": "Drake",
       "length": "4:32"
     },
     {
@@ -70,9 +75,9 @@
       "length": "3:20"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
     },
     {
       "name": "golden hour",
@@ -80,19 +85,9 @@
       "length": "3:29"
     },
     {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
-    },
-    {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
-    },
-    {
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "artist": "Bizarrap, Shakira",
-      "length": "3:34"
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
     },
     {
       "name": "Snooze",
@@ -100,14 +95,9 @@
       "length": "3:21"
     },
     {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
-    },
-    {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
     },
     {
       "name": "Unholy (feat. Kim Petras)",
@@ -115,9 +105,9 @@
       "length": "2:36"
     },
     {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
     },
     {
       "name": "Here With Me",
@@ -125,9 +115,9 @@
       "length": "4:02"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "artist": "Bizarrap, Shakira",
+      "length": "3:34"
     },
     {
       "name": "I'm Good (Blue)",
@@ -140,14 +130,14 @@
       "length": "2:03"
     },
     {
-      "name": "DOGTOOTH",
-      "artist": "Tyler, The Creator",
-      "length": "2:41"
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
     },
     {
-      "name": "TQG",
-      "artist": "KAROL G, Shakira",
-      "length": "3:17"
+      "name": "La Bebe - Remix",
+      "artist": "Yng Lvcas, Peso Pluma",
+      "length": "3:54"
     },
     {
       "name": "10:35",
@@ -155,19 +145,44 @@
       "length": "2:52"
     },
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
+    },
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
+    },
+    {
+      "name": "LET GO",
+      "artist": "Central Cee",
+      "length": "2:54"
+    },
+    {
+      "name": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "length": "2:41"
+    },
+    {
+      "name": "River",
+      "artist": "Miley Cyrus",
+      "length": "2:42"
+    },
+    {
+      "name": "FLOWER",
+      "artist": "JISOO",
+      "length": "2:53"
+    },
+    {
+      "name": "OMG",
+      "artist": "NewJeans",
+      "length": "3:32"
     },
     {
       "name": "Made You Look",
@@ -180,19 +195,9 @@
       "length": "2:22"
     },
     {
-      "name": "LET GO",
-      "artist": "Central Cee",
-      "length": "2:54"
-    },
-    {
-      "name": "La Bebe - Remix",
-      "artist": "Yng Lvcas, Peso Pluma",
-      "length": "3:54"
-    },
-    {
-      "name": "River",
-      "artist": "Miley Cyrus",
-      "length": "2:42"
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
     },
     {
       "name": "Bones",
@@ -200,9 +205,9 @@
       "length": "2:45"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
+      "name": "TQG",
+      "artist": "KAROL G, Shakira",
+      "length": "3:17"
     },
     {
       "name": "Late Night Talking",
@@ -210,19 +215,14 @@
       "length": "2:57"
     },
     {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
-    },
-    {
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "artist": "Post Malone, Doja Cat",
       "length": "3:12"
     },
     {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
     },
     {
       "name": "Bad Habit",
@@ -230,14 +230,19 @@
       "length": "3:52"
     },
     {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
     },
     {
       "name": "Heaven",
@@ -248,11 +253,6 @@
       "name": "Something in the Orange",
       "artist": "Zach Bryan",
       "length": "3:48"
-    },
-    {
-      "name": "Rich Flex",
-      "artist": "Drake, 21 Savage",
-      "length": "3:59"
     }
   ]
 }
