@@ -1,18 +1,13 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000025b631540cd8cdd0333bcaa1d",
+  "art": "https://i.scdn.co/image/ab67706f00000002731aa0e8c1bb261c06c81ab5",
   "length": 100,
   "tracks": [
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Never Felt So Alone",
@@ -20,14 +15,29 @@
       "length": "2:40"
     },
     {
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
+    },
+    {
+      "name": "the 1",
+      "artist": "Taylor Swift",
+      "length": "3:30"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
+    },
+    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
-    },
-    {
-      "name": "Enchanted",
-      "artist": "Taylor Swift",
-      "length": "5:52"
     },
     {
       "name": "Heart Attack - Rock Version",
@@ -50,24 +60,29 @@
       "length": "2:11"
     },
     {
+      "name": "Enchanted",
+      "artist": "Taylor Swift",
+      "length": "5:52"
+    },
+    {
       "name": "EVIL",
       "artist": "Melanie Martinez",
       "length": "4:06"
     },
     {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "Peaches",
+      "artist": "Jack Black",
+      "length": "1:35"
     },
     {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "FLOWER",
+      "artist": "JISOO",
+      "length": "2:53"
     },
     {
       "name": "labour",
@@ -165,11 +180,6 @@
       "length": "4:05"
     },
     {
-      "name": "UNDERSTAND",
-      "artist": "keshi",
-      "length": "2:30"
-    },
-    {
       "name": "Ours",
       "artist": "Taylor Swift",
       "length": "3:57"
@@ -190,14 +200,14 @@
       "length": "3:20"
     },
     {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
-    },
-    {
       "name": "Paris, Texas (feat. SYML)",
       "artist": "Lana Del Rey, SYML",
       "length": "3:26"
+    },
+    {
+      "name": "UNDERSTAND",
+      "artist": "keshi",
+      "length": "2:30"
     },
     {
       "name": "Joker",
@@ -493,16 +503,6 @@
       "name": "The One That Got Away",
       "artist": "Katy Perry",
       "length": "3:47"
-    },
-    {
-      "name": "Another Love",
-      "artist": "Tom Odell",
-      "length": "4:04"
-    },
-    {
-      "name": "Teenage Dirtbag",
-      "artist": "Wheatus",
-      "length": "4:01"
     }
   ]
 }
