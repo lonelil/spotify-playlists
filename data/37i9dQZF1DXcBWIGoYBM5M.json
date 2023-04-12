@@ -5,14 +5,14 @@
   "length": 50,
   "tracks": [
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -30,14 +30,14 @@
       "length": "2:19"
     },
     {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
-    },
-    {
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
       "length": "3:59"
+    },
+    {
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
     },
     {
       "name": "Escapism.",
@@ -95,19 +95,19 @@
       "length": "3:21"
     },
     {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
-    },
-    {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "artist": "Stephen Sanchez, Em Beihold",
       "length": "2:56"
+    },
+    {
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "artist": "Bizarrap, Shakira",
+      "length": "3:34"
+    },
+    {
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
     },
     {
       "name": "Here With Me",
@@ -115,9 +115,9 @@
       "length": "4:02"
     },
     {
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "artist": "Bizarrap, Shakira",
-      "length": "3:34"
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     },
     {
       "name": "I'm Good (Blue)",
@@ -128,11 +128,6 @@
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
-    },
-    {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
     },
     {
       "name": "La Bebe - Remix",
@@ -193,6 +188,11 @@
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
     },
     {
       "name": "VOID",

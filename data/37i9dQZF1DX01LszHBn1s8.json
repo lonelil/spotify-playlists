@@ -1,18 +1,18 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a04c2a1b5ece4286901fdafa",
+  "art": "https://i.scdn.co/image/ab67706f00000002d751337d7bcaf0fa30ce4c23",
   "length": 100,
   "tracks": [
-    {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
-    },
     {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
     },
     {
       "name": "Whenever, Wherever",
@@ -53,11 +53,6 @@
       "name": "What You Won't Do for Love",
       "artist": "Bobby Caldwell",
       "length": "4:46"
-    },
-    {
-      "name": "I know it won't work - Live",
-      "artist": "Gracie Abrams",
-      "length": "3:46"
     },
     {
       "name": "All Of The Girls You Loved Before",
@@ -108,6 +103,11 @@
       "name": "Love On The Brain",
       "artist": "Rihanna",
       "length": "3:44"
+    },
+    {
+      "name": "I know it won't work - Live",
+      "artist": "Gracie Abrams",
+      "length": "3:46"
     },
     {
       "name": "If We Ever Broke Up",
