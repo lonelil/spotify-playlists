@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f0000000220f2e478eab5e620ea54ad6c",
-  "length": 85,
+  "length": 86,
   "tracks": [
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -77,7 +77,7 @@
     {
       "name": "VOID",
       "artist": "Melanie Martinez",
-      "length": "4:07"
+      "length": "4:10"
     },
     {
       "name": "We Go Down Together (with Khalid)",
@@ -98,6 +98,11 @@
       "name": "Feather",
       "artist": "Sabrina Carpenter",
       "length": "3:05"
+    },
+    {
+      "name": "Always",
+      "artist": "Daniel Caesar",
+      "length": "3:45"
     },
     {
       "name": "Flip A Switch.",

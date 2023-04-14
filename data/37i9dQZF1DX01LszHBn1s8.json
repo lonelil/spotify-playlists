@@ -1,13 +1,33 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002d751337d7bcaf0fa30ce4c23",
+  "art": "https://i.scdn.co/image/ab67706f00000002d1721dbea6f41c491ea65735",
   "length": 100,
   "tracks": [
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
     {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "Clouds - Sped Up",
+      "artist": "BUNT.",
+      "length": "2:24"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
+    },
+    {
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
     },
     {
       "name": "Never Felt So Alone",
@@ -15,9 +35,9 @@
       "length": "2:40"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
     },
     {
       "name": "Sure Thing - Sped Up",
@@ -30,9 +50,9 @@
       "length": "3:22"
     },
     {
-      "name": "Hell N Back",
-      "artist": "Bakar",
-      "length": "3:33"
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
     },
     {
       "name": "Miracle (with Ellie Goulding) - Church Version",
@@ -50,14 +70,14 @@
       "length": "4:46"
     },
     {
+      "name": "Ikväll Igen",
+      "artist": "Bolaget",
+      "length": "2:17"
+    },
+    {
       "name": "All Of The Girls You Loved Before",
       "artist": "Taylor Swift",
       "length": "3:41"
-    },
-    {
-      "name": "If We Ever Broke Up - Sped Up",
-      "artist": "Mae Stephens, Speed Radio, xxtristanxo",
-      "length": "2:04"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -65,19 +85,24 @@
       "length": "3:59"
     },
     {
-      "name": "Clouds - Sped Up",
-      "artist": "BUNT.",
-      "length": "2:24"
-    },
-    {
       "name": "Search & Rescue",
       "artist": "Drake",
       "length": "4:32"
     },
     {
+      "name": "Flip A Switch. - Sped Up",
+      "artist": "RAYE",
+      "length": "3:05"
+    },
+    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
+    },
+    {
+      "name": "If We Ever Broke Up - Sped Up",
+      "artist": "Mae Stephens, Speed Radio, xxtristanxo",
+      "length": "2:04"
     },
     {
       "name": "Christmas Kids",
@@ -88,16 +113,6 @@
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
-    },
-    {
-      "name": "Flip A Switch. - Sped Up",
-      "artist": "RAYE",
-      "length": "3:05"
-    },
-    {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
     },
     {
       "name": "Moonlight",
@@ -125,6 +140,11 @@
       "length": "2:58"
     },
     {
+      "name": "Other Side of the Moon",
+      "artist": "Aden Foyer",
+      "length": "2:51"
+    },
+    {
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
@@ -133,6 +153,16 @@
       "name": "Look At Us Now (Honeycomb)",
       "artist": "Daisy Jones & The Six",
       "length": "5:32"
+    },
+    {
+      "name": "atomic",
+      "artist": "Aziya",
+      "length": "2:49"
+    },
+    {
+      "name": "Dancing Thing",
+      "artist": "VisionV",
+      "length": "3:04"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -473,36 +503,6 @@
       "name": "Victoria's Secret - Sped Up Version",
       "artist": "Jax, sped up nightcore",
       "length": "2:16"
-    },
-    {
-      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
-      "artist": "Caroline Polachek, Charli XCX, George Daniel",
-      "length": "3:22"
-    },
-    {
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "artist": "Bizarrap, Shakira",
-      "length": "3:34"
-    },
-    {
-      "name": "Judas",
-      "artist": "Lady Gaga",
-      "length": "4:09"
-    },
-    {
-      "name": "Hundred Miles",
-      "artist": "Yall, Gabriela Richardson",
-      "length": "2:52"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "length": "4:10"
-    },
-    {
-      "name": "Bel Mercy",
-      "artist": "Jengi",
-      "length": "2:49"
     }
   ]
 }
