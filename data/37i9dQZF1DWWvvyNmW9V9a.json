@@ -1,14 +1,9 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002731aa0e8c1bb261c06c81ab5",
+  "art": "https://i.scdn.co/image/ab67706f000000022ae2eb00807532458dd3b077",
   "length": 100,
   "tracks": [
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
     {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
@@ -20,14 +15,34 @@
       "length": "4:10"
     },
     {
-      "name": "the 1",
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
+      "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+      "length": "2:46"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "Cruel Summer",
       "artist": "Taylor Swift",
-      "length": "3:30"
+      "length": "2:58"
     },
     {
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
+    },
+    {
+      "name": "Princess Diana (with Nicki Minaj)",
+      "artist": "Ice Spice, Nicki Minaj",
+      "length": "2:52"
     },
     {
       "name": "Hey, Mickey!",
@@ -40,6 +55,26 @@
       "length": "2:22"
     },
     {
+      "name": "THE CONTORTIONIST",
+      "artist": "Melanie Martinez",
+      "length": "3:20"
+    },
+    {
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
+      "length": "2:55"
+    },
+    {
+      "name": "Peaches",
+      "artist": "Jack Black",
+      "length": "1:35"
+    },
+    {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "length": "2:29"
+    },
+    {
       "name": "Heart Attack - Rock Version",
       "artist": "Demi Lovato",
       "length": "3:59"
@@ -50,9 +85,9 @@
       "length": "4:25"
     },
     {
-      "name": "Hold On Tight",
-      "artist": "aespa",
-      "length": "2:29"
+      "name": "Sleep Well",
+      "artist": "d4vd",
+      "length": "2:55"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -65,19 +100,19 @@
       "length": "5:52"
     },
     {
-      "name": "EVIL",
-      "artist": "Melanie Martinez",
-      "length": "4:06"
-    },
-    {
-      "name": "Peaches",
-      "artist": "Jack Black",
-      "length": "1:35"
-    },
-    {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "Hooked",
+      "artist": "Sam Short",
+      "length": "2:28"
+    },
+    {
+      "name": "WEEDKILLER",
+      "artist": "Ashnikko",
+      "length": "2:06"
     },
     {
       "name": "FLOWER",
@@ -90,9 +125,9 @@
       "length": "3:57"
     },
     {
-      "name": "THE CONTORTIONIST",
-      "artist": "Melanie Martinez",
-      "length": "3:20"
+      "name": "30",
+      "artist": "Zach Hood",
+      "length": "2:30"
     },
     {
       "name": "All Of The Girls You Loved Before",
@@ -110,11 +145,6 @@
       "length": "4:08"
     },
     {
-      "name": "WEEDKILLER",
-      "artist": "Ashnikko",
-      "length": "2:06"
-    },
-    {
       "name": "Zero",
       "artist": "NewJeans",
       "length": "2:34"
@@ -130,6 +160,11 @@
       "length": "3:09"
     },
     {
+      "name": "the 1",
+      "artist": "Taylor Swift",
+      "length": "3:30"
+    },
+    {
       "name": "All Eyes On Me",
       "artist": "JISOO",
       "length": "2:43"
@@ -140,9 +175,9 @@
       "length": "3:28"
     },
     {
-      "name": "PLUTO",
-      "artist": "Melanie Martinez",
-      "length": "3:01"
+      "name": "What Was",
+      "artist": "Benson Boone",
+      "length": "3:35"
     },
     {
       "name": "eighteen",
@@ -180,24 +215,19 @@
       "length": "4:05"
     },
     {
-      "name": "Ours",
-      "artist": "Taylor Swift",
-      "length": "3:57"
-    },
-    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
     },
     {
-      "name": "Same Friends (with Lil Tjay)",
-      "artist": "charlieonnafriday, Lil Tjay",
-      "length": "2:44"
-    },
-    {
       "name": "Set Me Free Pt.2",
       "artist": "Jimin",
       "length": "3:20"
+    },
+    {
+      "name": "Bad Thing",
+      "artist": "Jesy Nelson",
+      "length": "3:33"
     },
     {
       "name": "Paris, Texas (feat. SYML)",
@@ -345,11 +375,6 @@
       "length": "3:47"
     },
     {
-      "name": "Placebo Effect",
-      "artist": "d4vd",
-      "length": "3:11"
-    },
-    {
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "artist": "Lil Nas X",
       "length": "3:30"
@@ -455,11 +480,6 @@
       "length": "5:20"
     },
     {
-      "name": "just wanna rock (Lil Uzi Vert) - Sped Up Version",
-      "artist": "sped up nightcore, Lil Uzi Vert",
-      "length": "1:40"
-    },
-    {
       "name": "How Do I Say Goodbye",
       "artist": "Dean Lewis",
       "length": "2:43"
@@ -480,29 +500,9 @@
       "length": "4:02"
     },
     {
-      "name": "we fell in love in october",
-      "artist": "girl in red",
-      "length": "3:04"
-    },
-    {
-      "name": "TV",
-      "artist": "Billie Eilish",
-      "length": "4:41"
-    },
-    {
       "name": "Sex, Drugs, Etc.",
       "artist": "Beach Weather",
       "length": "3:16"
-    },
-    {
-      "name": "brutal",
-      "artist": "Olivia Rodrigo",
-      "length": "2:23"
-    },
-    {
-      "name": "The One That Got Away",
-      "artist": "Katy Perry",
-      "length": "3:47"
     }
   ]
 }

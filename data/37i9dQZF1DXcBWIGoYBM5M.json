@@ -1,18 +1,13 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002cc30f3a49fc761da4a805612",
+  "art": "https://i.scdn.co/image/ab67706f0000000283829f7cdd2443271b6a6ec2",
   "length": 50,
   "tracks": [
     {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
     },
     {
       "name": "Boy's a liar Pt. 2",
@@ -20,19 +15,24 @@
       "length": "2:11"
     },
     {
-      "name": "BESO",
-      "artist": "ROSALÍA, Rauw Alejandro",
-      "length": "3:14"
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
+    },
+    {
+      "name": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA, Doja Cat",
+      "length": "2:55"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
-    },
-    {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
     },
     {
       "name": "Die For You - Remix",
@@ -45,19 +45,9 @@
       "length": "4:32"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
+      "name": "BESO",
+      "artist": "ROSALÍA, Rauw Alejandro",
       "length": "3:14"
-    },
-    {
-      "name": "Search & Rescue",
-      "artist": "Drake",
-      "length": "4:32"
-    },
-    {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
     },
     {
       "name": "As It Was",
@@ -65,14 +55,39 @@
       "length": "2:47"
     },
     {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
       "name": "People",
       "artist": "Libianca",
       "length": "3:04"
     },
     {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
+      "name": "Search & Rescue",
+      "artist": "Drake",
+      "length": "4:32"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
+      "name": "golden hour",
+      "artist": "JVKE",
+      "length": "3:29"
     },
     {
       "name": "Miracle (with Ellie Goulding)",
@@ -80,9 +95,9 @@
       "length": "3:06"
     },
     {
-      "name": "golden hour",
-      "artist": "JVKE",
-      "length": "3:29"
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "length": "2:56"
     },
     {
       "name": "ceilings",
@@ -93,16 +108,6 @@
       "name": "Snooze",
       "artist": "SZA",
       "length": "3:21"
-    },
-    {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
-    },
-    {
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "artist": "Bizarrap, Shakira",
-      "length": "3:34"
     },
     {
       "name": "CUFF IT",
@@ -120,29 +125,9 @@
       "length": "2:36"
     },
     {
-      "name": "I'm Good (Blue)",
-      "artist": "David Guetta, Bebe Rexha",
-      "length": "2:55"
-    },
-    {
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
-    },
-    {
-      "name": "La Bebe - Remix",
-      "artist": "Yng Lvcas, Peso Pluma",
-      "length": "3:54"
-    },
-    {
-      "name": "10:35",
-      "artist": "Tiësto, Tate McRae",
-      "length": "2:52"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
     },
     {
       "name": "I Ain't Worried",
@@ -150,9 +135,19 @@
       "length": "2:28"
     },
     {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
+      "name": "I'm Good (Blue)",
+      "artist": "David Guetta, Bebe Rexha",
+      "length": "2:55"
+    },
+    {
+      "name": "OMG",
+      "artist": "NewJeans",
+      "length": "3:32"
+    },
+    {
+      "name": "10:35",
+      "artist": "Tiësto, Tate McRae",
+      "length": "2:52"
     },
     {
       "name": "LET GO",
@@ -165,19 +160,9 @@
       "length": "2:41"
     },
     {
-      "name": "River",
-      "artist": "Miley Cyrus",
-      "length": "2:42"
-    },
-    {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
-    },
-    {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
+      "name": "La Bebe - Remix",
+      "artist": "Yng Lvcas, Peso Pluma",
+      "length": "3:54"
     },
     {
       "name": "Made You Look",
@@ -185,14 +170,14 @@
       "length": "2:14"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
-    },
-    {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
     },
     {
       "name": "VOID",
@@ -205,9 +190,14 @@
       "length": "2:45"
     },
     {
-      "name": "TQG",
-      "artist": "KAROL G, Shakira",
-      "length": "3:17"
+      "name": "FLOWER",
+      "artist": "JISOO",
+      "length": "2:53"
+    },
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
     },
     {
       "name": "Late Night Talking",
@@ -215,19 +205,9 @@
       "length": "2:57"
     },
     {
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "artist": "Post Malone, Doja Cat",
-      "length": "3:12"
-    },
-    {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
-      "name": "Bad Habit",
-      "artist": "Steve Lacy",
-      "length": "3:52"
+      "name": "TQG",
+      "artist": "KAROL G, Shakira",
+      "length": "3:17"
     },
     {
       "name": "Moonlight",
@@ -235,9 +215,19 @@
       "length": "3:07"
     },
     {
+      "name": "Bad Habit",
+      "artist": "Steve Lacy",
+      "length": "3:52"
+    },
+    {
       "name": "Lavender Haze",
       "artist": "Taylor Swift",
       "length": "3:22"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
     },
     {
       "name": "Nonsense",
@@ -245,14 +235,24 @@
       "length": "2:43"
     },
     {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
+      "name": "Like Crazy (English Version)",
+      "artist": "Jimin",
+      "length": "3:32"
+    },
+    {
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "artist": "Post Malone, Doja Cat",
+      "length": "3:12"
     },
     {
       "name": "Something in the Orange",
       "artist": "Zach Bryan",
       "length": "3:48"
+    },
+    {
+      "name": "Heaven",
+      "artist": "Niall Horan",
+      "length": "3:06"
     }
   ]
 }

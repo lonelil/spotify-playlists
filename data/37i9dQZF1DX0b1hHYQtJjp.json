@@ -1,13 +1,33 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002b95394a1a2a334c9ac1778c7",
+  "art": "https://i.scdn.co/image/ab67706f00000002a60606a5753ec9631197066c",
   "length": 65,
   "tracks": [
+    {
+      "name": "mine",
+      "artist": "Kelly Clarkson",
+      "length": "3:11"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
     {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -15,8 +35,8 @@
       "length": "2:45"
     },
     {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
+      "name": "When I Get There",
+      "artist": "P!nk",
       "length": "3:20"
     },
     {
@@ -25,24 +45,24 @@
       "length": "3:14"
     },
     {
-      "name": "I Don't Miss You",
-      "artist": "JP Saxe",
-      "length": "3:37"
-    },
-    {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
+      "name": "Stand Up Eight",
+      "artist": "Thunderstorm Artis",
+      "length": "3:07"
     },
     {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
+      "name": "Change",
+      "artist": "LAUREL",
+      "length": "3:42"
+    },
+    {
+      "name": "me",
+      "artist": "Kelly Clarkson",
+      "length": "3:34"
     },
     {
       "name": "Stronger (Grey's Anatomy Version)",
@@ -50,14 +70,19 @@
       "length": "2:59"
     },
     {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
       "name": "Eat Your Young",
       "artist": "Hozier",
       "length": "4:02"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
+      "name": "Jaded",
+      "artist": "Miley Cyrus",
+      "length": "3:05"
     },
     {
       "name": "My Stupid Heart",
@@ -65,9 +90,14 @@
       "length": "2:40"
     },
     {
-      "name": "Dark Skies",
-      "artist": "A R I Z O N A",
-      "length": "3:14"
+      "name": "Love Again - from the Motion Picture Soundtrack",
+      "artist": "Céline Dion",
+      "length": "3:32"
+    },
+    {
+      "name": "I Don't Miss You",
+      "artist": "JP Saxe",
+      "length": "3:37"
     },
     {
       "name": "Waiting",
@@ -75,9 +105,14 @@
       "length": "3:11"
     },
     {
-      "name": "Stand Up Eight",
-      "artist": "Thunderstorm Artis",
-      "length": "3:07"
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Dark Skies",
+      "artist": "A R I Z O N A",
+      "length": "3:14"
     },
     {
       "name": "SunKissing",
@@ -105,6 +140,11 @@
       "length": "3:47"
     },
     {
+      "name": "Beacon",
+      "artist": "morgxn",
+      "length": "3:47"
+    },
+    {
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "artist": "Miley Cyrus, Brandi Carlile",
       "length": "3:51"
@@ -123,21 +163,6 @@
       "name": "SNAP",
       "artist": "Rosa Linn",
       "length": "2:59"
-    },
-    {
-      "name": "Tulips & Roses",
-      "artist": "G-Eazy",
-      "length": "3:16"
-    },
-    {
-      "name": "You",
-      "artist": "Miley Cyrus",
-      "length": "2:59"
-    },
-    {
-      "name": "Wings",
-      "artist": "Jonas Brothers",
-      "length": "1:58"
     },
     {
       "name": "Softest Touch",
@@ -170,11 +195,6 @@
       "length": "2:44"
     },
     {
-      "name": "Can't Help Falling in Love (From the Original Motion Picture Soundtrack ELVIS) DELUXE EDITION - Bonus Track",
-      "artist": "Kacey Musgraves, Mark Ronson",
-      "length": "2:22"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
@@ -190,11 +210,6 @@
       "length": "2:59"
     },
     {
-      "name": "Lucky",
-      "artist": "Megan Moroney",
-      "length": "2:41"
-    },
-    {
       "name": "Next To You (feat. Kane Brown)",
       "artist": "Loud Luxury, DVBBS, Kane Brown",
       "length": "2:41"
@@ -203,11 +218,6 @@
       "name": "Last Night",
       "artist": "Morgan Wallen",
       "length": "2:43"
-    },
-    {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
     },
     {
       "name": "Blindsided",
@@ -260,19 +270,9 @@
       "length": "3:23"
     },
     {
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "artist": "Rihanna",
-      "length": "3:16"
-    },
-    {
       "name": "Until I Found You",
       "artist": "Stephen Sanchez",
       "length": "2:57"
-    },
-    {
-      "name": "Runnin (with JP Saxe)",
-      "artist": "Ingrid Andress, JP Saxe",
-      "length": "3:26"
     },
     {
       "name": "Alive",
