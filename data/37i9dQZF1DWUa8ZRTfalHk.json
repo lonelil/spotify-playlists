@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f000000029a7be8a462a4bc3ed67efefd",
-  "length": 86,
+  "length": 85,
   "tracks": [
     {
       "name": "Never Felt So Alone",
@@ -15,19 +15,24 @@
       "length": "3:04"
     },
     {
-      "name": "SunKissing",
-      "artist": "Hailee Steinfeld",
-      "length": "2:57"
-    },
-    {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
       "artist": "Charlie Puth, Dan + Shay",
       "length": "2:45"
     },
     {
+      "name": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA, Doja Cat",
+      "length": "2:55"
+    },
+    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
+    },
+    {
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
     },
     {
       "name": "LEFT RIGHT",
@@ -40,14 +45,9 @@
       "length": "2:55"
     },
     {
-      "name": "Dancing In The Courthouse",
-      "artist": "Dominic Fike",
-      "length": "2:37"
-    },
-    {
-      "name": "Jaded",
-      "artist": "Miley Cyrus",
-      "length": "3:05"
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
     },
     {
       "name": "TRUSTFALL",
@@ -55,9 +55,9 @@
       "length": "3:57"
     },
     {
-      "name": "Baby Don't Hurt Me",
-      "artist": "David Guetta, Anne-Marie, Coi Leray",
-      "length": "2:20"
+      "name": "Jaded",
+      "artist": "Miley Cyrus",
+      "length": "3:05"
     },
     {
       "name": "Die 4 Me",
@@ -65,14 +65,19 @@
       "length": "3:35"
     },
     {
+      "name": "Dancing In The Courthouse",
+      "artist": "Dominic Fike",
+      "length": "2:37"
+    },
+    {
       "name": "Eyes Closed",
       "artist": "d Sheeran",
       "length": "3:14"
     },
     {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
     },
     {
       "name": "What Was",
@@ -80,9 +85,9 @@
       "length": "3:35"
     },
     {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
     },
     {
       "name": "Waffle House",
@@ -120,14 +125,14 @@
       "length": "2:21"
     },
     {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
-    },
-    {
       "name": "Flip A Switch.",
       "artist": "RAYE",
       "length": "3:21"
+    },
+    {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
     },
     {
       "name": "HAPPY",
@@ -175,6 +180,11 @@
       "length": "2:44"
     },
     {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
@@ -188,11 +198,6 @@
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
     },
     {
       "name": "Lost The Breakup",
@@ -293,11 +298,6 @@
       "name": "Here We Go Again",
       "artist": "Oliver Tree, David Guetta",
       "length": "2:44"
-    },
-    {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
     },
     {
       "name": "I DON'T WANNA BE LIKE YOU",
@@ -418,11 +418,6 @@
       "name": "Midnight Rain",
       "artist": "Taylor Swift",
       "length": "2:54"
-    },
-    {
-      "name": "Where do we go now?",
-      "artist": "Gracie Abrams",
-      "length": "4:03"
     },
     {
       "name": "blame's on me",
