@@ -5,9 +5,9 @@
   "length": 100,
   "tracks": [
     {
-      "name": "Lavender Haze - Acoustic Version",
+      "name": "Karma",
       "artist": "Taylor Swift",
-      "length": "2:54"
+      "length": "3:24"
     },
     {
       "name": "Lavender Haze",
@@ -20,9 +20,24 @@
       "length": "3:41"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version)",
       "artist": "Taylor Swift, Joy Williams, John Paul White",
       "length": "3:59"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
+      "name": "Lavender Haze - Acoustic Version",
+      "artist": "Taylor Swift",
+      "length": "2:54"
     },
     {
       "name": "Eyes Open (Taylor's Version)",
@@ -63,11 +78,6 @@
       "name": "Lavender Haze - Felix Jaehn Remix",
       "artist": "Taylor Swift, Felix Jaehn",
       "length": "2:51"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "Anti-Hero - ILLENIUM Remix",
@@ -143,11 +153,6 @@
       "name": "Labyrinth",
       "artist": "Taylor Swift",
       "length": "4:07"
-    },
-    {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
     },
     {
       "name": "Sweet Nothing",
@@ -498,11 +503,6 @@
       "name": "Love Story (Taylor’s Version)",
       "artist": "Taylor Swift",
       "length": "3:55"
-    },
-    {
-      "name": "Hey Stephen (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:14"
     }
   ]
 }

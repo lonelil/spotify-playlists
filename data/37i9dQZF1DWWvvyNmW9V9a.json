@@ -10,29 +10,14 @@
       "length": "2:40"
     },
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:10"
-    },
-    {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
       "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
       "length": "2:46"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
     },
     {
       "name": "Kill Bill",
@@ -40,9 +25,34 @@
       "length": "2:33"
     },
     {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Mean",
+      "artist": "Taylor Swift",
+      "length": "3:57"
+    },
+    {
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "Princess Diana (with Nicki Minaj)",
       "artist": "Ice Spice, Nicki Minaj",
       "length": "2:52"
+    },
+    {
+      "name": "THE CONTORTIONIST",
+      "artist": "Melanie Martinez",
+      "length": "3:20"
     },
     {
       "name": "Hey, Mickey!",
@@ -55,19 +65,14 @@
       "length": "2:22"
     },
     {
-      "name": "THE CONTORTIONIST",
-      "artist": "Melanie Martinez",
-      "length": "3:20"
-    },
-    {
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
       "length": "2:55"
     },
     {
-      "name": "Peaches",
-      "artist": "Jack Black",
-      "length": "1:35"
+      "name": "Tally",
+      "artist": "BLACKPINK",
+      "length": "3:04"
     },
     {
       "name": "Hold On Tight",
@@ -75,9 +80,19 @@
       "length": "2:29"
     },
     {
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
       "name": "Heart Attack - Rock Version",
       "artist": "Demi Lovato",
       "length": "3:59"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "MILK OF THE SIREN",
@@ -85,14 +100,19 @@
       "length": "4:25"
     },
     {
+      "name": "UNDERSTAND",
+      "artist": "keshi",
+      "length": "2:30"
+    },
+    {
       "name": "Sleep Well",
       "artist": "d4vd",
       "length": "2:55"
     },
     {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
+      "name": "Peaches",
+      "artist": "Jack Black",
+      "length": "1:35"
     },
     {
       "name": "Enchanted",
@@ -103,6 +123,11 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "Perfume",
+      "artist": "NCT DOJAEJUNG",
+      "length": "2:47"
     },
     {
       "name": "Hooked",
@@ -130,14 +155,14 @@
       "length": "2:30"
     },
     {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
+    },
+    {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
     },
     {
       "name": "Peppers (feat. Tommy Genesis)",
@@ -160,19 +185,9 @@
       "length": "3:09"
     },
     {
-      "name": "the 1",
-      "artist": "Taylor Swift",
-      "length": "3:30"
-    },
-    {
       "name": "All Eyes On Me",
       "artist": "JISOO",
       "length": "2:43"
-    },
-    {
-      "name": "...Ready For It?",
-      "artist": "Taylor Swift",
-      "length": "3:28"
     },
     {
       "name": "What Was",
@@ -183,6 +198,11 @@
       "name": "eighteen",
       "artist": "Henry Moodie",
       "length": "3:09"
+    },
+    {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
     },
     {
       "name": "ceilings",
@@ -203,11 +223,6 @@
       "name": "The Climb",
       "artist": "Miley Cyrus",
       "length": "3:56"
-    },
-    {
-      "name": "WW3",
-      "artist": "Addison Grace",
-      "length": "3:12"
     },
     {
       "name": "I know it won't work",
@@ -233,16 +248,6 @@
       "name": "Paris, Texas (feat. SYML)",
       "artist": "Lana Del Rey, SYML",
       "length": "3:26"
-    },
-    {
-      "name": "UNDERSTAND",
-      "artist": "keshi",
-      "length": "2:30"
-    },
-    {
-      "name": "Joker",
-      "artist": "Jesse®",
-      "length": "1:56"
     },
     {
       "name": "Break Free",
@@ -498,11 +503,6 @@
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }
