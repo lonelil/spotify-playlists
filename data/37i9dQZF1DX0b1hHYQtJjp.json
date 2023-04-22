@@ -15,24 +15,9 @@
       "length": "4:25"
     },
     {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
-    },
-    {
-      "name": "That’s Not How This Works (feat. Dan + Shay)",
-      "artist": "Charlie Puth, Dan + Shay",
-      "length": "2:45"
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
     },
     {
       "name": "When I Get There",
@@ -40,14 +25,49 @@
       "length": "3:20"
     },
     {
-      "name": "Eyes Closed",
+      "name": "Boat",
       "artist": "d Sheeran",
-      "length": "3:14"
+      "length": "3:05"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
     },
     {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay)",
+      "artist": "Charlie Puth, Dan + Shay",
+      "length": "2:45"
+    },
+    {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
+      "name": "Satellite",
+      "artist": "Bebe Rexha, Snoop Dogg",
+      "length": "3:28"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
     },
     {
       "name": "Stand Up Eight",
@@ -63,6 +83,11 @@
       "name": "me",
       "artist": "Kelly Clarkson",
       "length": "3:34"
+    },
+    {
+      "name": "superglue",
+      "artist": "joan",
+      "length": "4:05"
     },
     {
       "name": "Stronger (Grey's Anatomy Version)",
@@ -83,6 +108,11 @@
       "name": "Jaded",
       "artist": "Miley Cyrus",
       "length": "3:05"
+    },
+    {
+      "name": "in my city",
+      "artist": "New West",
+      "length": "4:07"
     },
     {
       "name": "My Stupid Heart",
@@ -165,11 +195,6 @@
       "length": "2:59"
     },
     {
-      "name": "Softest Touch",
-      "artist": "Khalid",
-      "length": "2:44"
-    },
-    {
       "name": "I Wanna Dance With Somebody - Who Loves Me",
       "artist": "Smith & Thell",
       "length": "3:23"
@@ -190,11 +215,6 @@
       "length": "2:49"
     },
     {
-      "name": "Give A Little Kindness",
-      "artist": "Lloyiso",
-      "length": "2:44"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
@@ -203,11 +223,6 @@
       "name": "Hold My Hand",
       "artist": "Lady Gaga",
       "length": "3:45"
-    },
-    {
-      "name": "We’re All Gonna Die (with Noah Kahan)",
-      "artist": "Joy Oladokun, Noah Kahan",
-      "length": "2:59"
     },
     {
       "name": "Next To You (feat. Kane Brown)",
@@ -240,11 +255,6 @@
       "length": "4:50"
     },
     {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
-    },
-    {
       "name": "Who We Love (feat. Ed Sheeran)",
       "artist": "Sam Smith, Ed Sheeran",
       "length": "2:42"
@@ -258,11 +268,6 @@
       "name": "As It Was",
       "artist": "Harry Styles",
       "length": "2:47"
-    },
-    {
-      "name": "I Feel Like Dancing",
-      "artist": "Jason Mraz",
-      "length": "3:38"
     },
     {
       "name": "Thrill Of It All",
@@ -283,11 +288,6 @@
       "name": "Love Go By",
       "artist": "lle King",
       "length": "3:42"
-    },
-    {
-      "name": "Dancing With Your Shadows",
-      "artist": "Phillip Phillips",
-      "length": "2:57"
     },
     {
       "name": "Sunroof (feat. Thomas Rhett)",

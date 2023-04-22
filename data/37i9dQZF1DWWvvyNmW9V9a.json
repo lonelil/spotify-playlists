@@ -1,7 +1,7 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000022ae2eb00807532458dd3b077",
+  "art": "https://i.scdn.co/image/ab67706f00000002e4f0b3d97e0db55652faa006",
   "length": 100,
   "tracks": [
     {
@@ -15,9 +15,9 @@
       "length": "2:46"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "artist": "corook, Olivia Barton",
+      "length": "2:21"
     },
     {
       "name": "Kill Bill",
@@ -40,9 +40,19 @@
       "length": "4:07"
     },
     {
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
+    },
+    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "Princess Diana (with Nicki Minaj)",
@@ -53,11 +63,6 @@
       "name": "THE CONTORTIONIST",
       "artist": "Melanie Martinez",
       "length": "3:20"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
     },
     {
       "name": "If We Ever Broke Up",
@@ -83,6 +88,11 @@
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
     },
     {
       "name": "Heart Attack - Rock Version",
@@ -118,6 +128,11 @@
       "name": "Enchanted",
       "artist": "Taylor Swift",
       "length": "5:52"
+    },
+    {
+      "name": "You",
+      "artist": "Ari Abdul",
+      "length": "2:30"
     },
     {
       "name": "Nonsense",
@@ -238,11 +253,6 @@
       "name": "Set Me Free Pt.2",
       "artist": "Jimin",
       "length": "3:20"
-    },
-    {
-      "name": "Bad Thing",
-      "artist": "Jesy Nelson",
-      "length": "3:33"
     },
     {
       "name": "Paris, Texas (feat. SYML)",
@@ -493,16 +503,6 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
     }
   ]
 }
