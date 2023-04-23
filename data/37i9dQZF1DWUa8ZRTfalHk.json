@@ -100,11 +100,6 @@
       "length": "3:41"
     },
     {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
-    },
-    {
       "name": "Alone (with Nicki Minaj)",
       "artist": "Kim Petras, Nicki Minaj",
       "length": "3:05"
@@ -128,6 +123,11 @@
       "name": "Mother - Radio Edit",
       "artist": "Meghan Trainor",
       "length": "2:25"
+    },
+    {
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
     },
     {
       "name": "Wish You The Best",
