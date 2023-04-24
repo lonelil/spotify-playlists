@@ -80,14 +80,14 @@
       "length": "3:04"
     },
     {
-      "name": "Hold On Tight",
-      "artist": "aespa",
-      "length": "2:29"
-    },
-    {
       "name": "Boy's a liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Hold On Tight",
+      "artist": "aespa",
+      "length": "2:29"
     },
     {
       "name": "Moonlight",
@@ -105,6 +105,11 @@
       "length": "2:58"
     },
     {
+      "name": "Peaches",
+      "artist": "Jack Black",
+      "length": "1:35"
+    },
+    {
       "name": "MILK OF THE SIREN",
       "artist": "Melanie Martinez",
       "length": "4:25"
@@ -118,11 +123,6 @@
       "name": "Sleep Well",
       "artist": "d4vd",
       "length": "2:55"
-    },
-    {
-      "name": "Peaches",
-      "artist": "Jack Black",
-      "length": "1:35"
     },
     {
       "name": "Enchanted",
