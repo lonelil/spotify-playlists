@@ -5,11 +5,6 @@
   "length": 100,
   "tracks": [
     {
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "artist": "corook, Olivia Barton",
-      "length": "2:21"
-    },
-    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
@@ -20,14 +15,24 @@
       "length": "4:21"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "artist": "corook, Olivia Barton",
+      "length": "2:21"
     },
     {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "Angels Like You",
+      "artist": "Miley Cyrus",
+      "length": "3:16"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
     },
     {
       "name": "Clouds - Sped Up",
@@ -38,6 +43,11 @@
       "name": "Hell N Back",
       "artist": "Bakar",
       "length": "3:33"
+    },
+    {
+      "name": "What You Won't Do for Love",
+      "artist": "Bobby Caldwell",
+      "length": "4:46"
     },
     {
       "name": "Whenever, Wherever",
@@ -55,26 +65,6 @@
       "length": "2:44"
     },
     {
-      "name": "labour",
-      "artist": "Paris Paloma",
-      "length": "3:57"
-    },
-    {
-      "name": "What You Won't Do for Love",
-      "artist": "Bobby Caldwell",
-      "length": "4:46"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "Flip A Switch. - Sped Up",
       "artist": "RAYE",
       "length": "3:05"
@@ -83,6 +73,31 @@
       "name": "Ikväll Igen",
       "artist": "Bolaget",
       "length": "2:17"
+    },
+    {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
+      "length": "3:44"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -143,11 +158,6 @@
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
-    },
-    {
-      "name": "Love On The Brain",
-      "artist": "Rihanna",
-      "length": "3:44"
     },
     {
       "name": "I know it won't work - Live",
@@ -493,16 +503,6 @@
       "name": "people pleaser - higher & faster",
       "artist": "Cat Burns, sped up + slowed",
       "length": "1:58"
-    },
-    {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
     }
   ]
 }

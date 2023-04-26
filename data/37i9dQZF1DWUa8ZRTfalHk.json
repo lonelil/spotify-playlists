@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002b3bd98c0dece3bfe3854bc5d",
-  "length": 85,
+  "length": 86,
   "tracks": [
     {
       "name": "Daylight",
@@ -30,16 +30,6 @@
       "length": "2:45"
     },
     {
-      "name": "Kill Bill (feat. Doja Cat)",
-      "artist": "SZA, Doja Cat",
-      "length": "2:55"
-    },
-    {
-      "name": "Double Fantasy (with Future)",
-      "artist": "The Weeknd, Future",
-      "length": "4:28"
-    },
-    {
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
       "length": "2:55"
@@ -48,6 +38,11 @@
       "name": "LEFT RIGHT",
       "artist": "XG",
       "length": "3:28"
+    },
+    {
+      "name": "Double Fantasy (with Future)",
+      "artist": "The Weeknd, Future",
+      "length": "4:28"
     },
     {
       "name": "Up & Down",
@@ -65,13 +60,18 @@
       "length": "3:24"
     },
     {
+      "name": "Boat",
+      "artist": "d Sheeran",
+      "length": "3:05"
+    },
+    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
     },
     {
-      "name": "Boat",
-      "artist": "d Sheeran",
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
       "length": "3:05"
     },
     {
@@ -85,49 +85,14 @@
       "length": "3:35"
     },
     {
+      "name": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA, Doja Cat",
+      "length": "2:55"
+    },
+    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
-    },
-    {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
-    },
-    {
-      "name": "Alone (with Nicki Minaj)",
-      "artist": "Kim Petras, Nicki Minaj",
-      "length": "3:05"
-    },
-    {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
-    },
-    {
-      "name": "Dancing In The Courthouse",
-      "artist": "Dominic Fike",
-      "length": "2:37"
-    },
-    {
-      "name": "this is what losing someone feels like",
-      "artist": "JVKE",
-      "length": "2:52"
-    },
-    {
-      "name": "Mother - Radio Edit",
-      "artist": "Meghan Trainor",
-      "length": "2:25"
-    },
-    {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
     },
     {
       "name": "Wish You The Best",
@@ -135,9 +100,49 @@
       "length": "3:30"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
+      "name": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "length": "2:52"
+    },
+    {
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
+    },
+    {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
+      "name": "Mother - Radio Edit",
+      "artist": "Meghan Trainor",
+      "length": "2:25"
+    },
+    {
+      "name": "Jericho",
+      "artist": "Iniko",
+      "length": "2:38"
+    },
+    {
+      "name": "We Go Down Together (with Khalid)",
+      "artist": "Dove Cameron, Khalid",
+      "length": "3:04"
+    },
+    {
+      "name": "Dancing In The Courthouse",
+      "artist": "Dominic Fike",
+      "length": "2:37"
+    },
+    {
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
     },
     {
       "name": "Can't Tame Her",
@@ -145,14 +150,14 @@
       "length": "3:16"
     },
     {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "artist": "RAYE, Coi Leray",
       "length": "3:21"
-    },
-    {
-      "name": "We Go Down Together (with Khalid)",
-      "artist": "Dove Cameron, Khalid",
-      "length": "3:04"
     },
     {
       "name": "Eat Your Young",
@@ -170,6 +175,11 @@
       "length": "3:06"
     },
     {
+      "name": "Clouds",
+      "artist": "BUNT., Nate Traveller",
+      "length": "2:38"
+    },
+    {
       "name": "Red Flags",
       "artist": "Mimi Webb",
       "length": "2:21"
@@ -180,24 +190,14 @@
       "length": "3:05"
     },
     {
-      "name": "HAPPY",
-      "artist": "NF",
-      "length": "4:02"
-    },
-    {
       "name": "i'm yours",
       "artist": "Isabel LaRosa",
       "length": "2:25"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "I AM",
-      "artist": "IVE",
-      "length": "3:03"
+      "name": "HAPPY",
+      "artist": "NF",
+      "length": "4:02"
     },
     {
       "name": "Lost The Breakup",
@@ -205,9 +205,14 @@
       "length": "3:09"
     },
     {
-      "name": "Clouds",
-      "artist": "BUNT., Nate Traveller",
-      "length": "2:38"
+      "name": "I AM",
+      "artist": "IVE",
+      "length": "3:03"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "With All My Heart",

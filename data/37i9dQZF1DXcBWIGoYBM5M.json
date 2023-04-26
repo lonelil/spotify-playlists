@@ -45,6 +45,11 @@
       "length": "4:32"
     },
     {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
@@ -65,9 +70,9 @@
       "length": "2:47"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
     },
     {
       "name": "BESO",
@@ -78,11 +83,6 @@
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "artist": "Metro Boomin, The Weeknd, 21 Savage",
       "length": "3:41"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
     },
     {
       "name": "Search & Rescue",
@@ -140,6 +140,11 @@
       "length": "3:32"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "Unholy (feat. Kim Petras)",
       "artist": "Sam Smith, Kim Petras",
       "length": "2:36"
@@ -155,6 +160,11 @@
       "length": "2:03"
     },
     {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
       "name": "Made You Look",
       "artist": "Meghan Trainor",
       "length": "2:14"
@@ -165,11 +175,6 @@
       "length": "2:52"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "Bones",
       "artist": "Imagine Dragons",
       "length": "2:45"
@@ -178,11 +183,6 @@
       "name": "un x100to",
       "artist": "Grupo Frontera, Bad Bunny",
       "length": "3:14"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
     },
     {
       "name": "If We Ever Broke Up",

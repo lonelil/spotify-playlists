@@ -30,9 +30,14 @@
       "length": "3:32"
     },
     {
-      "name": "Mean",
-      "artist": "Taylor Swift",
-      "length": "3:57"
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "artist": "Labrinth, Zendaya",
+      "length": "3:12"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "VOID",
@@ -40,19 +45,19 @@
       "length": "4:07"
     },
     {
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "length": "3:00"
-    },
-    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
     },
     {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
+      "name": "Mean",
+      "artist": "Taylor Swift",
+      "length": "3:57"
+    },
+    {
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
     },
     {
       "name": "Princess Diana (with Nicki Minaj)",
@@ -225,11 +230,6 @@
       "length": "3:02"
     },
     {
-      "name": "Kitsch",
-      "artist": "IVE",
-      "length": "3:15"
-    },
-    {
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
@@ -270,11 +270,6 @@
       "length": "3:37"
     },
     {
-      "name": "always be a fan",
-      "artist": "Eva Grace",
-      "length": "2:18"
-    },
-    {
       "name": "Mother",
       "artist": "Meghan Trainor",
       "length": "2:27"
@@ -293,16 +288,6 @@
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
-    },
-    {
-      "name": "Beauty And A Beat",
-      "artist": "Justin Bieber, Nicki Minaj",
-      "length": "3:47"
-    },
-    {
-      "name": "WORTHLESS",
-      "artist": "d4vd",
-      "length": "2:43"
     },
     {
       "name": "Silver Springs - 2004 Remaster",
@@ -503,6 +488,21 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
+    },
+    {
+      "name": "Those Eyes - Sped Up",
+      "artist": "New West",
+      "length": "2:47"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
     }
   ]
 }
