@@ -5,16 +5,6 @@
   "length": 100,
   "tracks": [
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
-    },
-    {
-      "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
-      "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
-      "length": "2:46"
-    },
-    {
       "name": "if i were a fish (feat. Olivia Barton)",
       "artist": "corook, Olivia Barton",
       "length": "2:21"
@@ -23,6 +13,16 @@
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
+      "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+      "length": "2:46"
     },
     {
       "name": "Daylight",
@@ -45,14 +45,14 @@
       "length": "4:07"
     },
     {
+      "name": "Call It What You Want",
+      "artist": "Taylor Swift",
+      "length": "3:23"
+    },
+    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
-    },
-    {
-      "name": "Mean",
-      "artist": "Taylor Swift",
-      "length": "3:57"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -73,6 +73,11 @@
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "Mean",
+      "artist": "Taylor Swift",
+      "length": "3:57"
     },
     {
       "name": "Fantasy (with GAYLE & Em Beihold)",
@@ -98,6 +103,11 @@
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
+    },
+    {
+      "name": "Open Arms (feat. Travis Scott)",
+      "artist": "SZA, Travis Scott",
+      "length": "3:59"
     },
     {
       "name": "Heart Attack - Rock Version",
@@ -128,11 +138,6 @@
       "name": "Sleep Well",
       "artist": "d4vd",
       "length": "2:55"
-    },
-    {
-      "name": "Enchanted",
-      "artist": "Taylor Swift",
-      "length": "5:52"
     },
     {
       "name": "You",
@@ -498,11 +503,6 @@
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }
