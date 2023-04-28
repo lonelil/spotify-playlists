@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000209b04c76ec33bf77e1b1366c",
+  "art": "https://i.scdn.co/image/ab67706f0000000201097e8948938bcf62c8aa79",
   "length": 100,
   "tracks": [
+    {
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
+    },
     {
       "name": "Daylight",
       "artist": "David Kushner",
@@ -30,6 +35,16 @@
       "length": "3:16"
     },
     {
+      "name": "I Know - PR1SVX Edit",
+      "artist": "Kanii, PR1ISVX",
+      "length": "2:13"
+    },
+    {
+      "name": "The Feels",
+      "artist": "Labrinth",
+      "length": "3:17"
+    },
+    {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
@@ -38,6 +53,16 @@
       "name": "Clouds - Sped Up",
       "artist": "BUNT.",
       "length": "2:24"
+    },
+    {
+      "name": "Nights",
+      "artist": "Frank Ocean",
+      "length": "5:07"
+    },
+    {
+      "name": "Open Arms (feat. Travis Scott)",
+      "artist": "SZA, Travis Scott",
+      "length": "3:59"
     },
     {
       "name": "Hell N Back",
@@ -55,6 +80,21 @@
       "length": "3:16"
     },
     {
+      "name": "4Runner",
+      "artist": "Brenn!",
+      "length": "4:25"
+    },
+    {
+      "name": "Princess Diana (with Nicki Minaj)",
+      "artist": "Ice Spice, Nicki Minaj",
+      "length": "2:52"
+    },
+    {
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
+      "length": "3:05"
+    },
+    {
       "name": "Sure Thing - Sped Up",
       "artist": "Miguel",
       "length": "2:30"
@@ -63,6 +103,16 @@
       "name": "Miracle (with Ellie Goulding) - Church Version",
       "artist": "Calvin Harris, Ellie Goulding",
       "length": "2:44"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
+    },
+    {
+      "name": "White Tee (with NO1-NOAH)",
+      "artist": "Summer Walker, NO1-NOAH",
+      "length": "3:31"
     },
     {
       "name": "Flip A Switch. - Sped Up",
@@ -90,9 +140,9 @@
       "length": "3:04"
     },
     {
-      "name": "Would I Lie To You?",
-      "artist": "Charles & Eddie",
-      "length": "3:37"
+      "name": "Jericho",
+      "artist": "Iniko",
+      "length": "2:38"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -103,11 +153,6 @@
       "name": "Love On The Brain",
       "artist": "Rihanna",
       "length": "3:44"
-    },
-    {
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "length": "3:00"
     },
     {
       "name": "All Of The Girls You Loved Before",
@@ -143,6 +188,11 @@
       "name": "If We Ever Broke Up - Sped Up",
       "artist": "Mae Stephens, Speed Radio, xxtristanxo",
       "length": "2:04"
+    },
+    {
+      "name": "UNDERSTAND",
+      "artist": "keshi",
+      "length": "2:30"
     },
     {
       "name": "Christmas Kids",
@@ -453,56 +503,6 @@
       "name": "Queen of Kings",
       "artist": "Alessandra",
       "length": "2:27"
-    },
-    {
-      "name": "Shake That",
-      "artist": "Gang Speed, Treetalk",
-      "length": "2:59"
-    },
-    {
-      "name": "Escapism. - Sped Up",
-      "artist": "RAYE, 070 Shake",
-      "length": "3:59"
-    },
-    {
-      "name": "Back That Up To The Beat - demo version",
-      "artist": "Madonna",
-      "length": "3:31"
-    },
-    {
-      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "artist": "TWISTED, Oliver Tree",
-      "length": "2:44"
-    },
-    {
-      "name": "Du & Jag",
-      "artist": "Einár",
-      "length": "2:12"
-    },
-    {
-      "name": "Sure Thing",
-      "artist": "Miguel",
-      "length": "3:15"
-    },
-    {
-      "name": "I Wish - Radio Edit",
-      "artist": "Skee-Lo",
-      "length": "4:12"
-    },
-    {
-      "name": "Bloody Mary",
-      "artist": "Lady Gaga",
-      "length": "4:04"
-    },
-    {
-      "name": "Who Is She ?",
-      "artist": "I Monster",
-      "length": "3:33"
-    },
-    {
-      "name": "LLYLM",
-      "artist": "ROSALÍA",
-      "length": "2:54"
     }
   ]
 }
