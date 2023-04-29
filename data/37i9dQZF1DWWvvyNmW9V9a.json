@@ -1,7 +1,7 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002e4f0b3d97e0db55652faa006",
+  "art": "https://i.scdn.co/image/ab67706f00000002642377162bdc102af57062f9",
   "length": 100,
   "tracks": [
     {
@@ -15,6 +15,11 @@
       "length": "2:33"
     },
     {
+      "name": "american jesus",
+      "artist": "Nessa Barrett",
+      "length": "2:48"
+    },
+    {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
@@ -25,14 +30,19 @@
       "length": "2:46"
     },
     {
+      "name": "The Alcott (feat. Taylor Swift)",
+      "artist": "The National, Taylor Swift",
+      "length": "4:27"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
-    },
-    {
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "artist": "Labrinth, Zendaya",
-      "length": "3:12"
     },
     {
       "name": "Hey, Mickey!",
@@ -43,6 +53,11 @@
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
+    },
+    {
+      "name": "The Feels",
+      "artist": "Labrinth",
+      "length": "3:17"
     },
     {
       "name": "Call It What You Want",
@@ -75,6 +90,11 @@
       "length": "2:22"
     },
     {
+      "name": "Meltdown",
+      "artist": "Niall Horan",
+      "length": "2:33"
+    },
+    {
       "name": "Mean",
       "artist": "Taylor Swift",
       "length": "3:57"
@@ -100,14 +120,19 @@
       "length": "2:29"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
       "name": "Open Arms (feat. Travis Scott)",
       "artist": "SZA, Travis Scott",
       "length": "3:59"
+    },
+    {
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "artist": "TAEYANG, LISA",
+      "length": "3:25"
+    },
+    {
+      "name": "Too Well",
+      "artist": "Reneé Rapp",
+      "length": "2:36"
     },
     {
       "name": "Heart Attack - Rock Version",
@@ -130,14 +155,19 @@
       "length": "4:25"
     },
     {
-      "name": "UNDERSTAND",
-      "artist": "keshi",
-      "length": "2:30"
-    },
-    {
       "name": "Sleep Well",
       "artist": "d4vd",
       "length": "2:55"
+    },
+    {
+      "name": "4Runner",
+      "artist": "Brenn!",
+      "length": "4:25"
+    },
+    {
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
     },
     {
       "name": "You",
@@ -145,9 +175,19 @@
       "length": "2:30"
     },
     {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
+    },
+    {
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "UNDERSTAND",
+      "artist": "keshi",
+      "length": "2:30"
     },
     {
       "name": "Perfume",
@@ -168,11 +208,6 @@
       "name": "FLOWER",
       "artist": "JISOO",
       "length": "2:53"
-    },
-    {
-      "name": "labour",
-      "artist": "Paris Paloma",
-      "length": "3:57"
     },
     {
       "name": "30",
@@ -230,9 +265,9 @@
       "length": "3:41"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
     },
     {
       "name": "Heaven",
@@ -300,11 +335,6 @@
       "length": "4:48"
     },
     {
-      "name": "SunKissing",
-      "artist": "Hailee Steinfeld",
-      "length": "2:57"
-    },
-    {
       "name": "Ring",
       "artist": "Selena Gomez",
       "length": "2:28"
@@ -313,11 +343,6 @@
       "name": "Like Crazy (English Version)",
       "artist": "Jimin",
       "length": "3:32"
-    },
-    {
-      "name": "Bruises",
-      "artist": "Reneé Rapp",
-      "length": "2:41"
     },
     {
       "name": "CHRONICALLY CAUTIOUS",
@@ -350,11 +375,6 @@
       "length": "2:15"
     },
     {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
-    },
-    {
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
@@ -365,11 +385,6 @@
       "length": "4:04"
     },
     {
-      "name": "I Know",
-      "artist": "Kanii",
-      "length": "2:32"
-    },
-    {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "artist": "Stephen Sanchez, Em Beihold",
       "length": "2:56"
@@ -378,11 +393,6 @@
       "name": "The Heart Wants What It Wants",
       "artist": "Selena Gomez",
       "length": "3:47"
-    },
-    {
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "artist": "Lil Nas X",
-      "length": "3:30"
     },
     {
       "name": "Sugar Sweet",
@@ -430,24 +440,9 @@
       "length": "3:52"
     },
     {
-      "name": "Crazy",
-      "artist": "Natalie Jane",
-      "length": "2:48"
-    },
-    {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "artist": "Metro Boomin, The Weeknd, 21 Savage",
       "length": "3:41"
-    },
-    {
-      "name": "Wannabe",
-      "artist": "why mona",
-      "length": "3:37"
-    },
-    {
-      "name": "NO",
-      "artist": "Meghan Trainor",
-      "length": "3:33"
     },
     {
       "name": "golden hour",
@@ -485,11 +480,6 @@
       "length": "5:20"
     },
     {
-      "name": "How Do I Say Goodbye",
-      "artist": "Dean Lewis",
-      "length": "2:43"
-    },
-    {
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
@@ -503,6 +493,16 @@
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
+    },
+    {
+      "name": "1985",
+      "artist": "Bo Burnham",
+      "length": "2:26"
     }
   ]
 }

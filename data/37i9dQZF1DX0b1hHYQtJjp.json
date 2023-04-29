@@ -1,13 +1,13 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a60606a5753ec9631197066c",
-  "length": 65,
+  "art": "https://i.scdn.co/image/ab67706f000000021476bb7dddbd2ce04b59edcc",
+  "length": 75,
   "tracks": [
     {
-      "name": "mine",
-      "artist": "Kelly Clarkson",
-      "length": "3:11"
+      "name": "Seasons",
+      "artist": "Bebe Rexha, Dolly Parton",
+      "length": "3:23"
     },
     {
       "name": "Fast Car",
@@ -15,34 +15,9 @@
       "length": "4:25"
     },
     {
-      "name": "Wish You The Best",
-      "artist": "Lewis Capaldi",
-      "length": "3:30"
-    },
-    {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
-    },
-    {
-      "name": "Boat",
-      "artist": "d Sheeran",
-      "length": "3:05"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
+      "name": "mine",
+      "artist": "Kelly Clarkson",
+      "length": "3:11"
     },
     {
       "name": "Thank God I Do",
@@ -50,19 +25,59 @@
       "length": "4:18"
     },
     {
-      "name": "That’s Not How This Works (feat. Dan + Shay)",
-      "artist": "Charlie Puth, Dan + Shay",
-      "length": "2:45"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
     },
     {
-      "name": "Satellite",
-      "artist": "Bebe Rexha, Snoop Dogg",
-      "length": "3:28"
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "I'll Follow",
+      "artist": "ROZES",
+      "length": "2:52"
+    },
+    {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
+    },
+    {
+      "name": "Glad U Came",
+      "artist": "Jason Derulo",
+      "length": "2:58"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay)",
+      "artist": "Charlie Puth, Dan + Shay",
+      "length": "2:45"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
+      "name": "Somebody Like Me",
+      "artist": "Joy Oladokun",
+      "length": "3:56"
+    },
+    {
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
     },
     {
       "name": "Eyes Closed",
@@ -70,14 +85,19 @@
       "length": "3:14"
     },
     {
+      "name": "The Alcott (feat. Taylor Swift)",
+      "artist": "The National, Taylor Swift",
+      "length": "4:27"
+    },
+    {
       "name": "Stand Up Eight",
       "artist": "Thunderstorm Artis",
       "length": "3:07"
     },
     {
-      "name": "Change",
-      "artist": "LAUREL",
-      "length": "3:42"
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
       "name": "me",
@@ -85,19 +105,9 @@
       "length": "3:34"
     },
     {
-      "name": "superglue",
-      "artist": "joan",
-      "length": "4:05"
-    },
-    {
-      "name": "Stronger (Grey's Anatomy Version)",
-      "artist": "Thunderstorm Artis",
-      "length": "2:59"
-    },
-    {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
+      "name": "Eat The Acid",
+      "artist": "Kesha",
+      "length": "4:02"
     },
     {
       "name": "Eat Your Young",
@@ -105,34 +115,39 @@
       "length": "4:02"
     },
     {
-      "name": "Jaded",
-      "artist": "Miley Cyrus",
-      "length": "3:05"
-    },
-    {
-      "name": "in my city",
-      "artist": "New West",
-      "length": "4:07"
-    },
-    {
-      "name": "My Stupid Heart",
-      "artist": "Walk Off the Earth",
-      "length": "2:40"
-    },
-    {
-      "name": "Love Again - from the Motion Picture Soundtrack",
-      "artist": "Céline Dion",
-      "length": "3:32"
-    },
-    {
-      "name": "I Don't Miss You",
-      "artist": "JP Saxe",
+      "name": "Unstoppable",
+      "artist": "Sia",
       "length": "3:37"
     },
     {
-      "name": "Waiting",
-      "artist": "Lauren Daigle",
-      "length": "3:11"
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
+      "name": "Meltdown",
+      "artist": "Niall Horan",
+      "length": "2:33"
+    },
+    {
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
+    },
+    {
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
+    },
+    {
+      "name": "Living In A Haze",
+      "artist": "Milky Chance",
+      "length": "2:53"
     },
     {
       "name": "Daylight",
@@ -140,9 +155,54 @@
       "length": "3:32"
     },
     {
-      "name": "Dark Skies",
-      "artist": "A R I Z O N A",
-      "length": "3:14"
+      "name": "Those Eyes",
+      "artist": "New West",
+      "length": "3:40"
+    },
+    {
+      "name": "Jaded",
+      "artist": "Miley Cyrus",
+      "length": "3:05"
+    },
+    {
+      "name": "superglue",
+      "artist": "joan",
+      "length": "4:05"
+    },
+    {
+      "name": "Change",
+      "artist": "LAUREL",
+      "length": "3:42"
+    },
+    {
+      "name": "Part Of Me",
+      "artist": "Cian Ducrot",
+      "length": "3:22"
+    },
+    {
+      "name": "Sunroof (feat. Thomas Rhett)",
+      "artist": "Nicky Youre, dazy, Thomas Rhett",
+      "length": "2:43"
+    },
+    {
+      "name": "Stronger (Grey's Anatomy Version)",
+      "artist": "Thunderstorm Artis",
+      "length": "2:59"
+    },
+    {
+      "name": "Only Girl",
+      "artist": "Stephen Sanchez",
+      "length": "2:39"
+    },
+    {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
+      "name": "I Don't Miss You",
+      "artist": "JP Saxe",
+      "length": "3:37"
     },
     {
       "name": "SunKissing",
@@ -150,44 +210,24 @@
       "length": "2:57"
     },
     {
+      "name": "in my city",
+      "artist": "New West",
+      "length": "4:07"
+    },
+    {
+      "name": "Boat",
+      "artist": "d Sheeran",
+      "length": "3:05"
+    },
+    {
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
+    },
+    {
       "name": "HAPPY",
       "artist": "NF",
       "length": "4:02"
-    },
-    {
-      "name": "Wild Dogs (Running in a Slow Dream)",
-      "artist": "Matchbox Twenty",
-      "length": "3:30"
-    },
-    {
-      "name": "You Might Like It",
-      "artist": "Jason Mraz",
-      "length": "3:37"
-    },
-    {
-      "name": "FACE MYSELF",
-      "artist": "Elley Duhé, Teddy Swims",
-      "length": "3:47"
-    },
-    {
-      "name": "Beacon",
-      "artist": "morgxn",
-      "length": "3:47"
-    },
-    {
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "artist": "Miley Cyrus, Brandi Carlile",
-      "length": "3:51"
-    },
-    {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
-    },
-    {
-      "name": "NO BAD DAYS (feat. Collett)",
-      "artist": "Macklemore, Collett",
-      "length": "2:53"
     },
     {
       "name": "SNAP",
@@ -200,14 +240,44 @@
       "length": "3:23"
     },
     {
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "artist": "Miley Cyrus, Brandi Carlile",
+      "length": "3:51"
+    },
+    {
+      "name": "My Stupid Heart",
+      "artist": "Walk Off the Earth",
+      "length": "2:40"
+    },
+    {
+      "name": "Dark Skies",
+      "artist": "A R I Z O N A",
+      "length": "3:14"
+    },
+    {
+      "name": "Wild Dogs (Running in a Slow Dream)",
+      "artist": "Matchbox Twenty",
+      "length": "3:30"
+    },
+    {
+      "name": "FACE MYSELF",
+      "artist": "Elley Duhé, Teddy Swims",
+      "length": "3:47"
+    },
+    {
+      "name": "Beacon",
+      "artist": "morgxn",
+      "length": "3:47"
+    },
+    {
+      "name": "NO BAD DAYS (feat. Collett)",
+      "artist": "Macklemore, Collett",
+      "length": "2:53"
+    },
+    {
       "name": "Before I Loved You",
       "artist": "Phillip Phillips",
       "length": "3:28"
-    },
-    {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
     },
     {
       "name": "Sugar Sweet",
@@ -225,9 +295,19 @@
       "length": "3:45"
     },
     {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
+    },
+    {
       "name": "Next To You (feat. Kane Brown)",
       "artist": "Loud Luxury, DVBBS, Kane Brown",
       "length": "2:41"
+    },
+    {
+      "name": "Straight and Narrow",
+      "artist": "Sam Barber",
+      "length": "3:19"
     },
     {
       "name": "Last Night",
@@ -240,29 +320,14 @@
       "length": "2:50"
     },
     {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
-    },
-    {
       "name": "Thinkin’ Bout Me",
       "artist": "Morgan Wallen",
       "length": "2:57"
     },
     {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
-    },
-    {
       "name": "Who We Love (feat. Ed Sheeran)",
       "artist": "Sam Smith, Ed Sheeran",
       "length": "2:42"
-    },
-    {
-      "name": "Shut Me Up",
-      "artist": "Nicky Youre",
-      "length": "2:21"
     },
     {
       "name": "As It Was",
@@ -290,16 +355,6 @@
       "length": "3:42"
     },
     {
-      "name": "Sunroof (feat. Thomas Rhett)",
-      "artist": "Nicky Youre, dazy, Thomas Rhett",
-      "length": "2:43"
-    },
-    {
-      "name": "These Tears",
-      "artist": "Andy Grammer",
-      "length": "2:49"
-    },
-    {
       "name": "Rollin'",
       "artist": "Blessing Offor",
       "length": "3:18"
@@ -313,11 +368,6 @@
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
-    },
-    {
-      "name": "Pointless",
-      "artist": "Lewis Capaldi",
-      "length": "3:48"
     },
     {
       "name": "How Do I Say Goodbye",

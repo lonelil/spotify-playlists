@@ -1,18 +1,28 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002b3bd98c0dece3bfe3854bc5d",
-  "length": 86,
+  "art": "https://i.scdn.co/image/ab67706f00000002e84b064aec8a3613d4a05ce0",
+  "length": 85,
   "tracks": [
+    {
+      "name": "Meltdown",
+      "artist": "Niall Horan",
+      "length": "2:33"
+    },
+    {
+      "name": "doomsday",
+      "artist": "Lizzy McAlpine",
+      "length": "4:28"
+    },
     {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
     },
     {
-      "name": "Never Felt So Alone",
+      "name": "The Feels",
       "artist": "Labrinth",
-      "length": "2:40"
+      "length": "3:17"
     },
     {
       "name": "Chemical",
@@ -45,6 +55,11 @@
       "length": "4:28"
     },
     {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
       "name": "Up & Down",
       "artist": "The Chainsmokers, 347aidan",
       "length": "2:34"
@@ -53,6 +68,11 @@
       "name": "Baby Don't Hurt Me",
       "artist": "David Guetta, Anne-Marie, Coi Leray",
       "length": "2:20"
+    },
+    {
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
+      "length": "3:05"
     },
     {
       "name": "Karma",
@@ -65,14 +85,29 @@
       "length": "3:05"
     },
     {
+      "name": "Be The One (with Khalid)",
+      "artist": "Bree Runway, Khalid",
+      "length": "3:20"
+    },
+    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
     },
     {
-      "name": "Alone (with Nicki Minaj)",
-      "artist": "Kim Petras, Nicki Minaj",
-      "length": "3:05"
+      "name": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA, Doja Cat",
+      "length": "2:55"
+    },
+    {
+      "name": "american jesus",
+      "artist": "Nessa Barrett",
+      "length": "2:48"
+    },
+    {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
     },
     {
       "name": "Jaded",
@@ -85,9 +120,9 @@
       "length": "3:35"
     },
     {
-      "name": "Kill Bill (feat. Doja Cat)",
-      "artist": "SZA, Doja Cat",
-      "length": "2:55"
+      "name": "Eyes Wide Shut",
+      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
+      "length": "2:32"
     },
     {
       "name": "Die 4 Me",
@@ -100,9 +135,9 @@
       "length": "3:30"
     },
     {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
+      "name": "Last Train To London (I Won't Look Back)",
+      "artist": "Mimi Webb",
+      "length": "3:52"
     },
     {
       "name": "this is what losing someone feels like",
@@ -110,9 +145,9 @@
       "length": "2:52"
     },
     {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
+      "name": "Mother - Radio Edit",
+      "artist": "Meghan Trainor",
+      "length": "2:25"
     },
     {
       "name": "Waffle House",
@@ -120,9 +155,9 @@
       "length": "2:25"
     },
     {
-      "name": "Mother - Radio Edit",
-      "artist": "Meghan Trainor",
-      "length": "2:25"
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
     },
     {
       "name": "Jericho",
@@ -130,9 +165,24 @@
       "length": "2:38"
     },
     {
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
+    },
+    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
+    },
+    {
+      "name": "UNDERSTAND",
+      "artist": "keshi",
+      "length": "2:30"
+    },
+    {
+      "name": "i'm yours",
+      "artist": "Isabel LaRosa",
+      "length": "2:25"
     },
     {
       "name": "Dancing In The Courthouse",
@@ -140,14 +190,9 @@
       "length": "2:37"
     },
     {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
-    },
-    {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
+      "name": "All Of The Girls You Loved Before",
+      "artist": "Taylor Swift",
+      "length": "3:41"
     },
     {
       "name": "Eyes Closed",
@@ -155,13 +200,23 @@
       "length": "3:14"
     },
     {
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "artist": "RAYE, Coi Leray",
-      "length": "3:21"
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
     },
     {
       "name": "Eat Your Young",
       "artist": "Hozier",
+      "length": "4:02"
+    },
+    {
+      "name": "Clouds",
+      "artist": "BUNT., Nate Traveller",
+      "length": "2:38"
+    },
+    {
+      "name": "HAPPY",
+      "artist": "NF",
       "length": "4:02"
     },
     {
@@ -170,19 +225,9 @@
       "length": "2:55"
     },
     {
-      "name": "Lottery (feat. LU KALA)",
-      "artist": "Latto, LU KALA",
-      "length": "3:06"
-    },
-    {
-      "name": "Clouds",
-      "artist": "BUNT., Nate Traveller",
-      "length": "2:38"
-    },
-    {
-      "name": "Red Flags",
-      "artist": "Mimi Webb",
-      "length": "2:21"
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "artist": "RAYE, Coi Leray",
+      "length": "3:21"
     },
     {
       "name": "Feather",
@@ -190,14 +235,9 @@
       "length": "3:05"
     },
     {
-      "name": "i'm yours",
-      "artist": "Isabel LaRosa",
-      "length": "2:25"
-    },
-    {
-      "name": "HAPPY",
-      "artist": "NF",
-      "length": "4:02"
+      "name": "Red Flags",
+      "artist": "Mimi Webb",
+      "length": "2:21"
     },
     {
       "name": "Lost The Breakup",
@@ -213,11 +253,6 @@
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
-    },
-    {
-      "name": "With All My Heart",
-      "artist": "ILLENIUM, JVKE",
-      "length": "2:57"
     },
     {
       "name": "Softest Touch",
@@ -238,11 +273,6 @@
       "name": "Miracle (with Ellie Goulding)",
       "artist": "Calvin Harris, Ellie Goulding",
       "length": "3:06"
-    },
-    {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
     },
     {
       "name": "Rose Colored Lenses",
@@ -270,24 +300,29 @@
       "length": "2:22"
     },
     {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
-      "name": "Same Friends (with Lil Tjay)",
-      "artist": "charlieonnafriday, Lil Tjay",
-      "length": "2:44"
-    },
-    {
-      "name": "Freezing",
-      "artist": "Mimi Webb",
-      "length": "2:56"
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
     },
     {
       "name": "more than friends",
       "artist": "Isabel LaRosa",
       "length": "2:27"
+    },
+    {
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
+      "name": "About You",
+      "artist": "The 1975",
+      "length": "5:26"
     },
     {
       "name": "The Hard Way",
@@ -300,34 +335,19 @@
       "length": "3:28"
     },
     {
-      "name": "About You",
-      "artist": "The 1975",
-      "length": "5:26"
-    },
-    {
       "name": "Who We Love (feat. Ed Sheeran)",
       "artist": "Sam Smith, Ed Sheeran",
       "length": "2:42"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
-      "name": "Boy's a liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "BABY SAID",
       "artist": "Måneskin",
       "length": "2:44"
+    },
+    {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
     },
     {
       "name": "Back To You",
@@ -340,19 +360,14 @@
       "length": "2:44"
     },
     {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
+      "name": "Boy's a liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
     },
     {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
     },
     {
       "name": "Special (feat. SZA)",
@@ -370,11 +385,6 @@
       "length": "3:22"
     },
     {
-      "name": "Borderline",
-      "artist": "Tove Lo",
-      "length": "3:13"
-    },
-    {
       "name": "Shut Me Up",
       "artist": "Nicky Youre",
       "length": "2:21"
@@ -390,29 +400,9 @@
       "length": "2:26"
     },
     {
-      "name": "LIMBO",
-      "artist": "keshi",
-      "length": "3:32"
-    },
-    {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
-    },
-    {
-      "name": "Evangeline",
-      "artist": "Stephen Sanchez",
-      "length": "2:57"
-    },
-    {
-      "name": "Best Friend Breakup",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:21"
-    },
-    {
-      "name": "people pleaser",
-      "artist": "Cat Burns",
-      "length": "2:26"
     },
     {
       "name": "Low",
@@ -420,14 +410,19 @@
       "length": "3:01"
     },
     {
-      "name": "My Mind & Me",
-      "artist": "Selena Gomez",
-      "length": "2:27"
+      "name": "FLOWER",
+      "artist": "JISOO",
+      "length": "2:53"
     },
     {
       "name": "blame's on me",
       "artist": "Alexander Stewart",
       "length": "2:18"
+    },
+    {
+      "name": "My Mind & Me",
+      "artist": "Selena Gomez",
+      "length": "2:27"
     },
     {
       "name": "Stick Season",
