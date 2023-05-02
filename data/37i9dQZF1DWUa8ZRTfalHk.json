@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002e84b064aec8a3613d4a05ce0",
-  "length": 85,
+  "length": 86,
   "tracks": [
     {
       "name": "Meltdown",
@@ -10,14 +10,14 @@
       "length": "2:33"
     },
     {
-      "name": "doomsday",
-      "artist": "Lizzy McAlpine",
-      "length": "4:28"
-    },
-    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
+    },
+    {
+      "name": "doomsday",
+      "artist": "Lizzy McAlpine",
+      "length": "4:28"
     },
     {
       "name": "The Feels",
@@ -55,9 +55,9 @@
       "length": "4:28"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
     },
     {
       "name": "Up & Down",
@@ -65,9 +65,9 @@
       "length": "2:34"
     },
     {
-      "name": "Baby Don't Hurt Me",
-      "artist": "David Guetta, Anne-Marie, Coi Leray",
-      "length": "2:20"
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
     },
     {
       "name": "Alone (with Nicki Minaj)",
@@ -108,6 +108,11 @@
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
+    },
+    {
+      "name": "4Runner",
+      "artist": "Brenn!",
+      "length": "4:25"
     },
     {
       "name": "Jaded",
