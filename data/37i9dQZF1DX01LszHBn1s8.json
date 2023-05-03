@@ -10,14 +10,24 @@
       "length": "3:00"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
+      "name": "Keep Dat Nigga",
+      "artist": "Icandy",
+      "length": "2:18"
     },
     {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
+    },
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Josefin",
+      "artist": "Albin Lee Meldau",
+      "length": "3:41"
     },
     {
       "name": "if i were a fish (feat. Olivia Barton)",
@@ -33,6 +43,11 @@
       "name": "Angels Like You",
       "artist": "Miley Cyrus",
       "length": "3:16"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
     },
     {
       "name": "I Know - PR1SVX Edit",
@@ -65,6 +80,11 @@
       "length": "3:59"
     },
     {
+      "name": "lovely (with Khalid)",
+      "artist": "Billie Eilish, Khalid",
+      "length": "3:20"
+    },
+    {
       "name": "Hell N Back",
       "artist": "Bakar",
       "length": "3:33"
@@ -80,7 +100,7 @@
       "length": "3:16"
     },
     {
-      "name": "4Runner",
+      "name": "4runner",
       "artist": "Brenn!",
       "length": "4:25"
     },
@@ -103,11 +123,6 @@
       "name": "Miracle (with Ellie Goulding) - Church Version",
       "artist": "Calvin Harris, Ellie Goulding",
       "length": "2:44"
-    },
-    {
-      "name": "Would I Lie To You?",
-      "artist": "Charles & Eddie",
-      "length": "3:37"
     },
     {
       "name": "White Tee (with NO1-NOAH)",
@@ -488,21 +503,6 @@
       "name": "Placebo Effect",
       "artist": "d4vd",
       "length": "3:11"
-    },
-    {
-      "name": "Her Way - Sped Up",
-      "artist": "PARTYNEXTDOOR",
-      "length": "3:02"
-    },
-    {
-      "name": "Green Green Grass",
-      "artist": "George Ezra",
-      "length": "2:47"
-    },
-    {
-      "name": "Queen of Kings",
-      "artist": "Alessandra",
-      "length": "2:27"
     }
   ]
 }
