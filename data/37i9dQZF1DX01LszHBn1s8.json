@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000201097e8948938bcf62c8aa79",
+  "art": "https://i.scdn.co/image/ab67706f0000000252e0f3827e2d49d4c153ecad",
   "length": 100,
   "tracks": [
+    {
+      "name": "Satellite",
+      "artist": "Harry Styles",
+      "length": "3:38"
+    },
     {
       "name": "See You Again (feat. Kali Uchis)",
       "artist": "Tyler, The Creator, Kali Uchis",
@@ -20,24 +25,24 @@
       "length": "4:21"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
       "name": "Josefin",
       "artist": "Albin Lee Meldau",
       "length": "3:41"
     },
     {
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "artist": "corook, Olivia Barton",
-      "length": "2:21"
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
     },
     {
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "I Know - PR1SVX Edit",
+      "artist": "Kanii, PR1ISVX",
+      "length": "2:13"
     },
     {
       "name": "Angels Like You",
@@ -50,9 +55,9 @@
       "length": "3:37"
     },
     {
-      "name": "I Know - PR1SVX Edit",
-      "artist": "Kanii, PR1ISVX",
-      "length": "2:13"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "The Feels",
@@ -60,9 +65,24 @@
       "length": "3:17"
     },
     {
+      "name": "Just Because",
+      "artist": "Sadie Jean",
+      "length": "2:12"
+    },
+    {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
+    },
+    {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
+    },
+    {
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
     },
     {
       "name": "Clouds - Sped Up",
@@ -70,19 +90,9 @@
       "length": "2:24"
     },
     {
-      "name": "Nights",
-      "artist": "Frank Ocean",
-      "length": "5:07"
-    },
-    {
       "name": "Open Arms (feat. Travis Scott)",
       "artist": "SZA, Travis Scott",
       "length": "3:59"
-    },
-    {
-      "name": "lovely (with Khalid)",
-      "artist": "Billie Eilish, Khalid",
-      "length": "3:20"
     },
     {
       "name": "Hell N Back",
@@ -95,9 +105,24 @@
       "length": "4:46"
     },
     {
+      "name": "lovely (with Khalid)",
+      "artist": "Billie Eilish, Khalid",
+      "length": "3:20"
+    },
+    {
       "name": "Whenever, Wherever",
       "artist": "Shakira",
       "length": "3:16"
+    },
+    {
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "artist": "Odetari",
+      "length": "1:50"
+    },
+    {
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "artist": "corook, Olivia Barton",
+      "length": "2:21"
     },
     {
       "name": "4runner",
@@ -158,11 +183,6 @@
       "name": "Jericho",
       "artist": "Iniko",
       "length": "2:38"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
     },
     {
       "name": "Love On The Brain",
@@ -483,26 +503,6 @@
       "name": "Heaven",
       "artist": "Niall Horan",
       "length": "3:06"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
-    },
-    {
-      "name": "It's Called: Freefall",
-      "artist": "Rainbow Kitten Surprise",
-      "length": "2:32"
-    },
-    {
-      "name": "22",
-      "artist": "JayO",
-      "length": "2:22"
-    },
-    {
-      "name": "Placebo Effect",
-      "artist": "d4vd",
-      "length": "3:11"
     }
   ]
 }
