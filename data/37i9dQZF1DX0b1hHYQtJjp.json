@@ -2,7 +2,7 @@
   "name": "Just Good Music",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f000000021476bb7dddbd2ce04b59edcc",
-  "length": 75,
+  "length": 80,
   "tracks": [
     {
       "name": "Seasons",
@@ -20,14 +20,19 @@
       "length": "3:11"
     },
     {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
     },
     {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
+      "name": "What More Can I Say",
+      "artist": "Teddy Swims",
+      "length": "2:21"
     },
     {
       "name": "Wish You The Best",
@@ -35,9 +40,14 @@
       "length": "3:30"
     },
     {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
+      "name": "When I Get There",
+      "artist": "P!nk",
       "length": "3:20"
+    },
+    {
+      "name": "Traitor Joe",
+      "artist": "Megan Moroney",
+      "length": "2:33"
     },
     {
       "name": "I'll Follow",
@@ -45,19 +55,14 @@
       "length": "2:52"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
       "length": "3:20"
     },
     {
-      "name": "Glad U Came",
-      "artist": "Jason Derulo",
-      "length": "2:58"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
+      "name": "I'll Be",
+      "artist": "Céline Dion",
+      "length": "3:03"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -65,54 +70,19 @@
       "length": "2:45"
     },
     {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
+    },
+    {
+      "name": "Colourblind",
+      "artist": "d Sheeran",
+      "length": "3:29"
+    },
+    {
       "name": "Chemical",
       "artist": "Post Malone",
       "length": "3:04"
-    },
-    {
-      "name": "Somebody Like Me",
-      "artist": "Joy Oladokun",
-      "length": "3:56"
-    },
-    {
-      "name": "Hell N Back",
-      "artist": "Bakar",
-      "length": "3:33"
-    },
-    {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
-      "name": "The Alcott (feat. Taylor Swift)",
-      "artist": "The National, Taylor Swift",
-      "length": "4:27"
-    },
-    {
-      "name": "Stand Up Eight",
-      "artist": "Thunderstorm Artis",
-      "length": "3:07"
-    },
-    {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
-    },
-    {
-      "name": "me",
-      "artist": "Kelly Clarkson",
-      "length": "3:34"
-    },
-    {
-      "name": "Eat The Acid",
-      "artist": "Kesha",
-      "length": "4:02"
-    },
-    {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
     },
     {
       "name": "Unstoppable",
@@ -120,9 +90,74 @@
       "length": "3:37"
     },
     {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
+    },
+    {
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
+    },
+    {
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
+    },
+    {
+      "name": "Everyone’s A Guru Now",
+      "artist": "Saint Motel",
+      "length": "3:21"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
+      "name": "Somebody Like Me",
+      "artist": "Joy Oladokun",
+      "length": "3:56"
+    },
+    {
+      "name": "The Alcott (feat. Taylor Swift)",
+      "artist": "The National, Taylor Swift",
+      "length": "4:27"
+    },
+    {
+      "name": "We Were Never Really Friends",
+      "artist": "Bruno Major",
+      "length": "3:24"
+    },
+    {
+      "name": "Stand Up Eight",
+      "artist": "Thunderstorm Artis",
+      "length": "3:07"
+    },
+    {
+      "name": "me",
+      "artist": "Kelly Clarkson",
+      "length": "3:34"
+    },
+    {
+      "name": "Wild Dogs (Running in a Slow Dream)",
+      "artist": "Matchbox Twenty",
+      "length": "3:30"
+    },
+    {
+      "name": "Glad U Came",
+      "artist": "Jason Derulo",
+      "length": "2:58"
+    },
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
+    },
+    {
+      "name": "Living In A Haze",
+      "artist": "Milky Chance",
+      "length": "2:53"
     },
     {
       "name": "Meltdown",
@@ -130,24 +165,24 @@
       "length": "2:33"
     },
     {
+      "name": "Eat The Acid",
+      "artist": "Kesha",
+      "length": "4:02"
+    },
+    {
+      "name": "ceilings",
+      "artist": "Lizzy McAlpine",
+      "length": "3:02"
+    },
+    {
       "name": "The Dumb Song",
       "artist": "AJR",
       "length": "3:46"
     },
     {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
-    },
-    {
       "name": "Baby Don't Hurt Me",
       "artist": "David Guetta, Anne-Marie, Coi Leray",
       "length": "2:20"
-    },
-    {
-      "name": "Living In A Haze",
-      "artist": "Milky Chance",
-      "length": "2:53"
     },
     {
       "name": "Daylight",
@@ -220,11 +255,6 @@
       "length": "3:05"
     },
     {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
-    },
-    {
       "name": "HAPPY",
       "artist": "NF",
       "length": "4:02"
@@ -253,11 +283,6 @@
       "name": "Dark Skies",
       "artist": "A R I Z O N A",
       "length": "3:14"
-    },
-    {
-      "name": "Wild Dogs (Running in a Slow Dream)",
-      "artist": "Matchbox Twenty",
-      "length": "3:30"
     },
     {
       "name": "FACE MYSELF",

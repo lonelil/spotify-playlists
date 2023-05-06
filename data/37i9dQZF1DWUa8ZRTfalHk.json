@@ -1,13 +1,13 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002e84b064aec8a3613d4a05ce0",
-  "length": 86,
+  "art": "https://i.scdn.co/image/ab67706f0000000277f4029f30d7a4e1b5e3c93b",
+  "length": 84,
   "tracks": [
     {
-      "name": "Meltdown",
-      "artist": "Niall Horan",
-      "length": "2:33"
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
     },
     {
       "name": "Daylight",
@@ -15,14 +15,24 @@
       "length": "3:32"
     },
     {
-      "name": "doomsday",
-      "artist": "Lizzy McAlpine",
-      "length": "4:28"
+      "name": "Meltdown",
+      "artist": "Niall Horan",
+      "length": "2:33"
+    },
+    {
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
     },
     {
       "name": "The Feels",
       "artist": "Labrinth",
       "length": "3:17"
+    },
+    {
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
+      "length": "2:55"
     },
     {
       "name": "Chemical",
@@ -35,14 +45,29 @@
       "length": "2:57"
     },
     {
+      "name": "Curtains",
+      "artist": "d Sheeran",
+      "length": "3:44"
+    },
+    {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
       "artist": "Charlie Puth, Dan + Shay",
       "length": "2:45"
     },
     {
-      "name": "Fantasy (with GAYLE & Em Beihold)",
-      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
-      "length": "2:55"
+      "name": "Little Runaway",
+      "artist": "Benson Boone",
+      "length": "3:15"
+    },
+    {
+      "name": "doomsday",
+      "artist": "Lizzy McAlpine",
+      "length": "4:28"
+    },
+    {
+      "name": "american jesus",
+      "artist": "Nessa Barrett",
+      "length": "2:48"
     },
     {
       "name": "LEFT RIGHT",
@@ -50,34 +75,9 @@
       "length": "3:28"
     },
     {
-      "name": "Double Fantasy (with Future)",
-      "artist": "The Weeknd, Future",
-      "length": "4:28"
-    },
-    {
-      "name": "Baby Don't Hurt Me",
-      "artist": "David Guetta, Anne-Marie, Coi Leray",
-      "length": "2:20"
-    },
-    {
       "name": "Up & Down",
       "artist": "The Chainsmokers, 347aidan",
       "length": "2:34"
-    },
-    {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
-    },
-    {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
     },
     {
       "name": "Alone (with Nicki Minaj)",
@@ -85,9 +85,34 @@
       "length": "3:05"
     },
     {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
+      "name": "Fell In Love",
+      "artist": "Marshmello, Brent Faiyaz",
+      "length": "2:01"
+    },
+    {
+      "name": "Double Fantasy (with Future)",
+      "artist": "The Weeknd, Future",
+      "length": "4:28"
+    },
+    {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
+    },
+    {
       "name": "TRUSTFALL",
       "artist": "P!nk",
       "length": "3:57"
+    },
+    {
+      "name": "Hero",
+      "artist": "Alan Walker, Sasha Alex Sloan",
+      "length": "2:55"
     },
     {
       "name": "Be The One (with Khalid)",
@@ -95,19 +120,9 @@
       "length": "3:20"
     },
     {
-      "name": "Boat",
-      "artist": "d Sheeran",
-      "length": "3:05"
-    },
-    {
       "name": "Kill Bill (feat. Doja Cat)",
       "artist": "SZA, Doja Cat",
       "length": "2:55"
-    },
-    {
-      "name": "american jesus",
-      "artist": "Nessa Barrett",
-      "length": "2:48"
     },
     {
       "name": "4runner",
@@ -120,11 +135,6 @@
       "length": "3:05"
     },
     {
-      "name": "What Was",
-      "artist": "Benson Boone",
-      "length": "3:35"
-    },
-    {
       "name": "Eyes Wide Shut",
       "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
       "length": "2:32"
@@ -133,6 +143,11 @@
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
+    },
+    {
+      "name": "Favorite Song (with Khalid) [Remix]",
+      "artist": "Toosii, Khalid",
+      "length": "3:43"
     },
     {
       "name": "Wish You The Best",
@@ -145,9 +160,14 @@
       "length": "3:52"
     },
     {
-      "name": "this is what losing someone feels like",
-      "artist": "JVKE",
-      "length": "2:52"
+      "name": "Flip A Switch.",
+      "artist": "RAYE",
+      "length": "3:21"
+    },
+    {
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
     },
     {
       "name": "Mother - Radio Edit",
@@ -160,9 +180,9 @@
       "length": "2:25"
     },
     {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
+      "name": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "length": "2:52"
     },
     {
       "name": "Jericho",
@@ -175,9 +195,19 @@
       "length": "3:06"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
+    },
+    {
+      "name": "Eat Your Young",
+      "artist": "Hozier",
+      "length": "4:02"
     },
     {
       "name": "UNDERSTAND",
@@ -190,29 +220,14 @@
       "length": "2:25"
     },
     {
-      "name": "Dancing In The Courthouse",
-      "artist": "Dominic Fike",
-      "length": "2:37"
-    },
-    {
       "name": "All Of The Girls You Loved Before",
       "artist": "Taylor Swift",
       "length": "3:41"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
-    },
-    {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
+      "name": "Dancing In The Courthouse",
+      "artist": "Dominic Fike",
+      "length": "2:37"
     },
     {
       "name": "Clouds",
@@ -225,19 +240,14 @@
       "length": "4:02"
     },
     {
-      "name": "Sleep Well",
-      "artist": "d4vd",
-      "length": "2:55"
-    },
-    {
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "artist": "RAYE, Coi Leray",
-      "length": "3:21"
-    },
-    {
       "name": "Feather",
       "artist": "Sabrina Carpenter",
       "length": "3:05"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
     },
     {
       "name": "Red Flags",
@@ -245,19 +255,24 @@
       "length": "2:21"
     },
     {
-      "name": "Lost The Breakup",
-      "artist": "Maisie Peters",
-      "length": "3:09"
-    },
-    {
       "name": "I AM",
       "artist": "IVE",
       "length": "3:03"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "The Dumb Song",
+      "artist": "AJR",
+      "length": "3:46"
+    },
+    {
+      "name": "Lost The Breakup",
+      "artist": "Maisie Peters",
+      "length": "3:09"
+    },
+    {
+      "name": "Rose Colored Lenses",
+      "artist": "Miley Cyrus",
+      "length": "3:43"
     },
     {
       "name": "Softest Touch",
@@ -265,14 +280,14 @@
       "length": "2:44"
     },
     {
-      "name": "Always",
-      "artist": "Daniel Caesar",
-      "length": "3:45"
+      "name": "Sleep Well",
+      "artist": "d4vd",
+      "length": "2:55"
     },
     {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
     },
     {
       "name": "Miracle (with Ellie Goulding)",
@@ -280,9 +295,14 @@
       "length": "3:06"
     },
     {
-      "name": "Rose Colored Lenses",
-      "artist": "Miley Cyrus",
-      "length": "3:43"
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
+    },
+    {
+      "name": "Always",
+      "artist": "Daniel Caesar",
+      "length": "3:45"
     },
     {
       "name": "Heaven",
@@ -295,29 +315,9 @@
       "length": "1:59"
     },
     {
-      "name": "By The End Of The Night",
-      "artist": "llie Goulding",
-      "length": "3:08"
-    },
-    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
-    },
-    {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
-    },
-    {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
-      "name": "more than friends",
-      "artist": "Isabel LaRosa",
-      "length": "2:27"
     },
     {
       "name": "ceilings",
@@ -335,24 +335,14 @@
       "length": "3:03"
     },
     {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
-    },
-    {
-      "name": "Who We Love (feat. Ed Sheeran)",
-      "artist": "Sam Smith, Ed Sheeran",
-      "length": "2:42"
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "BABY SAID",
       "artist": "Måneskin",
       "length": "2:44"
-    },
-    {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
     },
     {
       "name": "Back To You",
@@ -375,6 +365,56 @@
       "length": "3:07"
     },
     {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
+      "name": "My Mind & Me",
+      "artist": "Selena Gomez",
+      "length": "2:27"
+    },
+    {
+      "name": "Low",
+      "artist": "SZA",
+      "length": "3:01"
+    },
+    {
+      "name": "Shut Me Up",
+      "artist": "Nicky Youre",
+      "length": "2:21"
+    },
+    {
+      "name": "Love Again",
+      "artist": "The Kid LAROI",
+      "length": "2:26"
+    },
+    {
+      "name": "Look At Us Now (Honeycomb)",
+      "artist": "Daisy Jones & The Six",
+      "length": "5:32"
+    },
+    {
+      "name": "Stick Season",
+      "artist": "Noah Kahan",
+      "length": "3:02"
+    },
+    {
+      "name": "I know it won't work",
+      "artist": "Gracie Abrams",
+      "length": "4:05"
+    },
+    {
+      "name": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "length": "3:22"
+    },
+    {
+      "name": "blame's on me",
+      "artist": "Alexander Stewart",
+      "length": "2:18"
+    },
+    {
       "name": "Special (feat. SZA)",
       "artist": "Lizzo, SZA",
       "length": "2:54"
@@ -383,56 +423,6 @@
       "name": "I'm Not Here To Make Friends",
       "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
       "length": "3:49"
-    },
-    {
-      "name": "Lavender Haze",
-      "artist": "Taylor Swift",
-      "length": "3:22"
-    },
-    {
-      "name": "Shut Me Up",
-      "artist": "Nicky Youre",
-      "length": "2:21"
-    },
-    {
-      "name": "I know it won't work",
-      "artist": "Gracie Abrams",
-      "length": "4:05"
-    },
-    {
-      "name": "Love Again",
-      "artist": "The Kid LAROI",
-      "length": "2:26"
-    },
-    {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
-      "name": "Low",
-      "artist": "SZA",
-      "length": "3:01"
-    },
-    {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
-    },
-    {
-      "name": "blame's on me",
-      "artist": "Alexander Stewart",
-      "length": "2:18"
-    },
-    {
-      "name": "My Mind & Me",
-      "artist": "Selena Gomez",
-      "length": "2:27"
-    },
-    {
-      "name": "Stick Season",
-      "artist": "Noah Kahan",
-      "length": "3:02"
     }
   ]
 }
