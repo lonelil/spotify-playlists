@@ -1,7 +1,7 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002642377162bdc102af57062f9",
+  "art": "https://i.scdn.co/image/ab67706f00000002c8cb46f7b4d14443070aefd2",
   "length": 100,
   "tracks": [
     {
@@ -15,9 +15,9 @@
       "length": "2:48"
     },
     {
-      "name": "Cruel Summer",
+      "name": "Enchanted",
       "artist": "Taylor Swift",
-      "length": "2:58"
+      "length": "5:52"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -48,6 +48,11 @@
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
@@ -498,11 +503,6 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
     }
   ]
 }
