@@ -175,6 +175,11 @@
       "length": "3:59"
     },
     {
+      "name": "Jericho",
+      "artist": "Iniko",
+      "length": "2:38"
+    },
+    {
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
@@ -250,16 +255,6 @@
       "length": "3:24"
     },
     {
-      "name": "Peppers (feat. Tommy Genesis)",
-      "artist": "Lana Del Rey, Tommy Genesis",
-      "length": "4:08"
-    },
-    {
-      "name": "Zero",
-      "artist": "NewJeans",
-      "length": "2:34"
-    },
-    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
@@ -273,16 +268,6 @@
       "name": "All Eyes On Me",
       "artist": "JISOO",
       "length": "2:43"
-    },
-    {
-      "name": "What Was",
-      "artist": "Benson Boone",
-      "length": "3:35"
-    },
-    {
-      "name": "eighteen",
-      "artist": "Henry Moodie",
-      "length": "3:09"
     },
     {
       "name": "All Of The Girls You Loved Before",
@@ -363,11 +348,6 @@
       "name": "Ring",
       "artist": "Selena Gomez",
       "length": "2:28"
-    },
-    {
-      "name": "Like Crazy (English Version)",
-      "artist": "Jimin",
-      "length": "3:32"
     },
     {
       "name": "CHRONICALLY CAUTIOUS",
@@ -503,6 +483,26 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
+    },
+    {
+      "name": "Those Eyes - Sped Up",
+      "artist": "New West",
+      "length": "2:47"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
+    },
+    {
+      "name": "1985",
+      "artist": "Bo Burnham",
+      "length": "2:26"
     }
   ]
 }
