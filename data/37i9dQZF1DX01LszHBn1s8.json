@@ -10,6 +10,11 @@
       "length": "3:38"
     },
     {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
+    },
+    {
       "name": "See You Again (feat. Kali Uchis)",
       "artist": "Tyler, The Creator, Kali Uchis",
       "length": "3:00"
@@ -20,14 +25,14 @@
       "length": "2:18"
     },
     {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
-    },
-    {
       "name": "Josefin",
       "artist": "Albin Lee Meldau",
       "length": "3:41"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
     },
     {
       "name": "Daylight",
@@ -50,9 +55,9 @@
       "length": "3:16"
     },
     {
-      "name": "Would I Lie To You?",
-      "artist": "Charles & Eddie",
-      "length": "3:37"
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -65,14 +70,9 @@
       "length": "3:17"
     },
     {
-      "name": "Just Because",
-      "artist": "Sadie Jean",
-      "length": "2:12"
-    },
-    {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
     },
     {
       "name": "Never Felt So Alone",
@@ -98,6 +98,11 @@
       "name": "Hell N Back",
       "artist": "Bakar",
       "length": "3:33"
+    },
+    {
+      "name": "Just Because",
+      "artist": "Sadie Jean",
+      "length": "2:12"
     },
     {
       "name": "What You Won't Do for Love",
@@ -203,11 +208,6 @@
       "name": "enough for you",
       "artist": "Olivia Rodrigo",
       "length": "3:22"
-    },
-    {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
     },
     {
       "name": "Search & Rescue",
