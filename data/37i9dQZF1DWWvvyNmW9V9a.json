@@ -55,6 +55,11 @@
       "length": "2:58"
     },
     {
+      "name": "Hare Hare",
+      "artist": "TWICE",
+      "length": "3:23"
+    },
+    {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
       "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
       "length": "2:46"
@@ -63,6 +68,11 @@
       "name": "Little Runaway",
       "artist": "Benson Boone",
       "length": "3:15"
+    },
+    {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
     },
     {
       "name": "The Alcott (feat. Taylor Swift)",
@@ -105,9 +115,19 @@
       "length": "3:57"
     },
     {
+      "name": "Fictional",
+      "artist": "Khloe Rose",
+      "length": "3:43"
+    },
+    {
       "name": "The Feels",
       "artist": "Labrinth",
       "length": "3:17"
+    },
+    {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
     },
     {
       "name": "Meltdown",
@@ -483,26 +503,6 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
-    },
-    {
-      "name": "1985",
-      "artist": "Bo Burnham",
-      "length": "2:26"
     }
   ]
 }

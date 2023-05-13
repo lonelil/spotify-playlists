@@ -1,9 +1,14 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000021476bb7dddbd2ce04b59edcc",
-  "length": 80,
+  "art": "https://i.scdn.co/image/ab67706f000000029df624046efe22c5319137e8",
+  "length": 81,
   "tracks": [
+    {
+      "name": "Thank God I Do",
+      "artist": "Lauren Daigle",
+      "length": "4:18"
+    },
     {
       "name": "Seasons",
       "artist": "Bebe Rexha, Dolly Parton",
@@ -15,24 +20,24 @@
       "length": "4:25"
     },
     {
-      "name": "mine",
-      "artist": "Kelly Clarkson",
-      "length": "3:11"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
     },
     {
-      "name": "Thank God I Do",
-      "artist": "Lauren Daigle",
-      "length": "4:18"
+      "name": "mine",
+      "artist": "Kelly Clarkson",
+      "length": "3:11"
     },
     {
       "name": "What More Can I Say",
       "artist": "Teddy Swims",
       "length": "2:21"
+    },
+    {
+      "name": "These Are The Days",
+      "artist": "Lauren Daigle",
+      "length": "3:50"
     },
     {
       "name": "Wish You The Best",
@@ -45,14 +50,19 @@
       "length": "3:20"
     },
     {
-      "name": "Traitor Joe",
-      "artist": "Megan Moroney",
-      "length": "2:33"
+      "name": "Graveyard",
+      "artist": "A R I Z O N A",
+      "length": "3:43"
     },
     {
       "name": "I'll Follow",
       "artist": "ROZES",
       "length": "2:52"
+    },
+    {
+      "name": "Lipstick Lover",
+      "artist": "Janelle Monáe",
+      "length": "2:49"
     },
     {
       "name": "Flowers",
@@ -80,6 +90,16 @@
       "length": "3:29"
     },
     {
+      "name": "Tennessee Orange",
+      "artist": "Megan Moroney",
+      "length": "3:43"
+    },
+    {
+      "name": "Summer Baby",
+      "artist": "Jonas Brothers",
+      "length": "2:41"
+    },
+    {
       "name": "Chemical",
       "artist": "Post Malone",
       "length": "3:04"
@@ -105,9 +125,19 @@
       "length": "3:33"
     },
     {
+      "name": "Hallelujah",
+      "artist": "Rosa Linn",
+      "length": "3:09"
+    },
+    {
       "name": "Everyone’s A Guru Now",
       "artist": "Saint Motel",
       "length": "3:21"
+    },
+    {
+      "name": "Malibu",
+      "artist": "Ali Gatie",
+      "length": "3:12"
     },
     {
       "name": "Eyes Closed",
@@ -118,6 +148,16 @@
       "name": "Somebody Like Me",
       "artist": "Joy Oladokun",
       "length": "3:56"
+    },
+    {
+      "name": "me",
+      "artist": "Kelly Clarkson",
+      "length": "3:34"
+    },
+    {
+      "name": "Girls",
+      "artist": "Rachel Platten",
+      "length": "2:51"
     },
     {
       "name": "The Alcott (feat. Taylor Swift)",
@@ -133,11 +173,6 @@
       "name": "Stand Up Eight",
       "artist": "Thunderstorm Artis",
       "length": "3:07"
-    },
-    {
-      "name": "me",
-      "artist": "Kelly Clarkson",
-      "length": "3:34"
     },
     {
       "name": "Wild Dogs (Running in a Slow Dream)",
@@ -175,11 +210,6 @@
       "length": "3:02"
     },
     {
-      "name": "The Dumb Song",
-      "artist": "AJR",
-      "length": "3:46"
-    },
-    {
       "name": "Baby Don't Hurt Me",
       "artist": "David Guetta, Anne-Marie, Coi Leray",
       "length": "2:20"
@@ -203,11 +233,6 @@
       "name": "superglue",
       "artist": "joan",
       "length": "4:05"
-    },
-    {
-      "name": "Change",
-      "artist": "LAUREL",
-      "length": "3:42"
     },
     {
       "name": "Part Of Me",
@@ -305,16 +330,6 @@
       "length": "3:28"
     },
     {
-      "name": "Sugar Sweet",
-      "artist": "Benson Boone",
-      "length": "2:49"
-    },
-    {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
-    },
-    {
       "name": "Hold My Hand",
       "artist": "Lady Gaga",
       "length": "3:45"
@@ -355,11 +370,6 @@
       "length": "2:42"
     },
     {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "length": "2:47"
-    },
-    {
       "name": "Thrill Of It All",
       "artist": "Berre",
       "length": "3:23"
@@ -368,11 +378,6 @@
       "name": "Until I Found You",
       "artist": "Stephen Sanchez",
       "length": "2:57"
-    },
-    {
-      "name": "Alive",
-      "artist": "The Scarlet Opera",
-      "length": "3:12"
     },
     {
       "name": "Love Go By",
