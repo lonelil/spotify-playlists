@@ -2,12 +2,17 @@
   "name": "teen beats",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002c8cb46f7b4d14443070aefd2",
-  "length": 100,
+  "length": 99,
   "tracks": [
     {
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "american jesus",
@@ -20,9 +25,9 @@
       "length": "5:52"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
     },
     {
       "name": "if i were a fish (feat. Olivia Barton)",
@@ -30,14 +35,24 @@
       "length": "2:21"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
     },
     {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
+    },
+    {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
+      "name": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "length": "4:11"
     },
     {
       "name": "Satellite",
@@ -48,6 +63,16 @@
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
+    },
+    {
+      "name": "Portrait of a Blank Slate",
+      "artist": "Lovejoy",
+      "length": "3:47"
+    },
+    {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
     },
     {
       "name": "Cruel Summer",
@@ -65,29 +90,14 @@
       "length": "2:46"
     },
     {
-      "name": "Little Runaway",
-      "artist": "Benson Boone",
-      "length": "3:15"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
-    },
-    {
-      "name": "The Alcott (feat. Taylor Swift)",
-      "artist": "The National, Taylor Swift",
-      "length": "4:27"
-    },
-    {
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "length": "3:00"
-    },
-    {
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "THE CONTORTIONIST",
@@ -95,9 +105,19 @@
       "length": "3:20"
     },
     {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
+    },
+    {
+      "name": "Little Runaway",
+      "artist": "Benson Boone",
+      "length": "3:15"
+    },
+    {
+      "name": "The Alcott (feat. Taylor Swift)",
+      "artist": "The National, Taylor Swift",
+      "length": "4:27"
     },
     {
       "name": "Area Codes",
@@ -115,6 +135,11 @@
       "length": "3:57"
     },
     {
+      "name": "Little Girl Gone",
+      "artist": "CHINCHILLA",
+      "length": "3:08"
+    },
+    {
       "name": "Fictional",
       "artist": "Khloe Rose",
       "length": "3:43"
@@ -125,19 +150,9 @@
       "length": "3:17"
     },
     {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
-    },
-    {
       "name": "Meltdown",
       "artist": "Niall Horan",
       "length": "2:33"
-    },
-    {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
     },
     {
       "name": "Call It What You Want",
@@ -195,11 +210,6 @@
       "length": "3:59"
     },
     {
-      "name": "Jericho",
-      "artist": "Iniko",
-      "length": "2:38"
-    },
-    {
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
@@ -240,11 +250,6 @@
       "length": "2:30"
     },
     {
-      "name": "Perfume",
-      "artist": "NCT DOJAEJUNG",
-      "length": "2:47"
-    },
-    {
       "name": "Hooked",
       "artist": "Sam Short",
       "length": "2:28"
@@ -280,16 +285,6 @@
       "length": "2:09"
     },
     {
-      "name": "Lost The Breakup",
-      "artist": "Maisie Peters",
-      "length": "3:09"
-    },
-    {
-      "name": "All Eyes On Me",
-      "artist": "JISOO",
-      "length": "2:43"
-    },
-    {
       "name": "All Of The Girls You Loved Before",
       "artist": "Taylor Swift",
       "length": "3:41"
@@ -318,11 +313,6 @@
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
-    },
-    {
-      "name": "Set Me Free Pt.2",
-      "artist": "Jimin",
-      "length": "3:20"
     },
     {
       "name": "Paris, Texas (feat. SYML)",
@@ -360,11 +350,6 @@
       "length": "3:20"
     },
     {
-      "name": "Silver Springs - 2004 Remaster",
-      "artist": "Fleetwood Mac",
-      "length": "4:48"
-    },
-    {
       "name": "Ring",
       "artist": "Selena Gomez",
       "length": "2:28"
@@ -388,11 +373,6 @@
       "name": "Favorite Song",
       "artist": "Toosii",
       "length": "3:28"
-    },
-    {
-      "name": "Never Goes Away",
-      "artist": "Claire Rosinkranz",
-      "length": "2:26"
     },
     {
       "name": "Glue Song",
@@ -503,6 +483,21 @@
       "name": "死ぬのがいいわ",
       "artist": "Fujii Kaze",
       "length": "3:05"
+    },
+    {
+      "name": "Those Eyes - Sped Up",
+      "artist": "New West",
+      "length": "2:47"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
     }
   ]
 }
