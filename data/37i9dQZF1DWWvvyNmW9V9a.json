@@ -2,7 +2,7 @@
   "name": "teen beats",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002c8cb46f7b4d14443070aefd2",
-  "length": 99,
+  "length": 100,
   "tracks": [
     {
       "name": "Kill Bill",
@@ -93,6 +93,11 @@
       "name": "Hey, Mickey!",
       "artist": "Baby Tate",
       "length": "1:55"
+    },
+    {
+      "name": "Allergy",
+      "artist": "(G)I-DLE",
+      "length": "2:42"
     },
     {
       "name": "If We Ever Broke Up",

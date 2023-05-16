@@ -60,6 +60,11 @@
       "length": "4:32"
     },
     {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
+    },
+    {
       "name": "People",
       "artist": "Libianca",
       "length": "3:04"
@@ -138,6 +143,11 @@
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
+    },
+    {
+      "name": "All My Life (feat. J. Cole)",
+      "artist": "Lil Durk, J. Cole",
+      "length": "3:43"
     },
     {
       "name": "BESO",
@@ -240,19 +250,9 @@
       "length": "2:43"
     },
     {
-      "name": "Meltdown",
-      "artist": "Niall Horan",
-      "length": "2:33"
-    },
-    {
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "artist": "Post Malone, Doja Cat",
       "length": "3:12"
-    },
-    {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
     }
   ]
 }

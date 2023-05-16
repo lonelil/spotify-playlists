@@ -135,6 +135,11 @@
       "length": "3:30"
     },
     {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
       "name": "OK",
       "artist": "Jeremy Zucker",
       "length": "4:23"
@@ -170,9 +175,9 @@
       "length": "3:05"
     },
     {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "Orange Juice - Spotify Singles",
@@ -223,11 +228,6 @@
       "name": "Flip A Switch.",
       "artist": "RAYE",
       "length": "3:21"
-    },
-    {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
     },
     {
       "name": "Jericho",
