@@ -5,14 +5,14 @@
   "length": 100,
   "tracks": [
     {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
-    },
-    {
       "name": "Cha Cha Cha",
       "artist": "Käärijä",
       "length": "2:55"
+    },
+    {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "Queen of Kings",
@@ -20,14 +20,14 @@
       "length": "2:27"
     },
     {
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "length": "3:00"
-    },
-    {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
+    },
+    {
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
     },
     {
       "name": "Keep Dat Nigga",
@@ -38,6 +38,11 @@
       "name": "Josefin",
       "artist": "Albin Lee Meldau",
       "length": "3:41"
+    },
+    {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
     },
     {
       "name": "Would I Lie To You?",
@@ -53,6 +58,16 @@
       "name": "Give It To Me",
       "artist": "Lofis",
       "length": "2:51"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Satellite",
@@ -75,11 +90,6 @@
       "length": "3:16"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "The Feels",
       "artist": "Labrinth",
       "length": "3:17"
@@ -93,11 +103,6 @@
       "name": "Clouds - Sped Up",
       "artist": "BUNT.",
       "length": "2:24"
-    },
-    {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
     },
     {
       "name": "Open Arms (feat. Travis Scott)",
@@ -498,11 +503,6 @@
       "name": "Can You Remember the Rain - Sequence Remix",
       "artist": "Garrett Atterberry",
       "length": "3:06"
-    },
-    {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
     }
   ]
 }
