@@ -1,14 +1,9 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002f0cd26a5cf6d58055c57387d",
+  "art": "https://i.scdn.co/image/ab67706f00000002b46d7cf5c3aeccfac5e7b1b3",
   "length": 85,
   "tracks": [
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
     {
       "name": "Summer Baby",
       "artist": "Jonas Brothers",
@@ -20,9 +15,19 @@
       "length": "3:38"
     },
     {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Never Felt So Alone",
@@ -45,14 +50,14 @@
       "length": "2:33"
     },
     {
+      "name": "Hero",
+      "artist": "Alan Walker, Sasha Alex Sloan",
+      "length": "2:55"
+    },
+    {
       "name": "Side Effects",
       "artist": "Becky Hill, Lewis Thompson",
       "length": "2:33"
-    },
-    {
-      "name": "Baby Don't Hurt Me",
-      "artist": "David Guetta, Anne-Marie, Coi Leray",
-      "length": "2:20"
     },
     {
       "name": "Chemical",
@@ -75,9 +80,9 @@
       "length": "2:58"
     },
     {
-      "name": "SunKissing",
-      "artist": "Hailee Steinfeld",
-      "length": "2:57"
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -85,14 +90,9 @@
       "length": "2:45"
     },
     {
-      "name": "The Feels",
-      "artist": "Labrinth",
-      "length": "3:17"
-    },
-    {
-      "name": "Hero",
-      "artist": "Alan Walker, Sasha Alex Sloan",
-      "length": "2:55"
+      "name": "SunKissing",
+      "artist": "Hailee Steinfeld",
+      "length": "2:57"
     },
     {
       "name": "A Year Ago",
@@ -100,19 +100,24 @@
       "length": "2:50"
     },
     {
+      "name": "The Feels",
+      "artist": "Labrinth",
+      "length": "3:17"
+    },
+    {
       "name": "Alone (with Nicki Minaj)",
       "artist": "Kim Petras, Nicki Minaj",
       "length": "3:05"
     },
     {
-      "name": "Little Runaway",
-      "artist": "Benson Boone",
-      "length": "3:15"
-    },
-    {
       "name": "Karma",
       "artist": "Taylor Swift",
       "length": "3:24"
+    },
+    {
+      "name": "Little Runaway",
+      "artist": "Benson Boone",
+      "length": "3:15"
     },
     {
       "name": "Up & Down",
@@ -133,11 +138,6 @@
       "name": "Wish You The Best",
       "artist": "Lewis Capaldi",
       "length": "3:30"
-    },
-    {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
     },
     {
       "name": "OK",
@@ -325,11 +325,6 @@
       "length": "2:55"
     },
     {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
       "name": "I AM",
       "artist": "IVE",
       "length": "3:03"
@@ -370,11 +365,6 @@
       "length": "2:22"
     },
     {
-      "name": "CHRONICALLY CAUTIOUS",
-      "artist": "Braden Bales",
-      "length": "1:59"
-    },
-    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -385,9 +375,19 @@
       "length": "2:21"
     },
     {
+      "name": "CHRONICALLY CAUTIOUS",
+      "artist": "Braden Bales",
+      "length": "1:59"
+    },
+    {
       "name": "BABY SAID",
       "artist": "Måneskin",
       "length": "2:44"
+    },
+    {
+      "name": "VOID",
+      "artist": "Melanie Martinez",
+      "length": "4:07"
     },
     {
       "name": "Back To You",
