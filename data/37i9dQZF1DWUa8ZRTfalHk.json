@@ -5,6 +5,11 @@
   "length": 85,
   "tracks": [
     {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
       "name": "Summer Baby",
       "artist": "Jonas Brothers",
       "length": "2:41"
@@ -13,11 +18,6 @@
       "name": "Satellite",
       "artist": "Harry Styles",
       "length": "3:38"
-    },
-    {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
     },
     {
       "name": "Glue Song",
@@ -400,7 +400,7 @@
       "length": "4:32"
     },
     {
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
     },

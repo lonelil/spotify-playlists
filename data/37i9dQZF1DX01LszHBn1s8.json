@@ -1,23 +1,23 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002eb2b258bcccf7349689fa0dc",
+  "art": "https://i.scdn.co/image/ab67706f00000002d8b9633d4a2f118c7e09fa3d",
   "length": 100,
   "tracks": [
+    {
+      "name": "Keep Dat Nigga",
+      "artist": "Icandy",
+      "length": "2:18"
+    },
     {
       "name": "Cha Cha Cha",
       "artist": "Käärijä",
       "length": "2:55"
     },
     {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
-    },
-    {
-      "name": "Queen of Kings",
-      "artist": "Alessandra",
-      "length": "2:27"
+      "name": "Say Yes To Heaven - Sped Up",
+      "artist": "Lana Del Rey",
+      "length": "2:36"
     },
     {
       "name": "Maria Maria (feat. The Product G&B)",
@@ -25,14 +25,14 @@
       "length": "4:21"
     },
     {
+      "name": "Like This (feat. Eve)",
+      "artist": "Kelly Rowland, Eve",
+      "length": "3:35"
+    },
+    {
       "name": "See You Again (feat. Kali Uchis)",
       "artist": "Tyler, The Creator, Kali Uchis",
       "length": "3:00"
-    },
-    {
-      "name": "Keep Dat Nigga",
-      "artist": "Icandy",
-      "length": "2:18"
     },
     {
       "name": "Josefin",
@@ -50,6 +50,16 @@
       "length": "3:37"
     },
     {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
+    },
+    {
+      "name": "Queen of Kings",
+      "artist": "Alessandra",
+      "length": "2:27"
+    },
+    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
@@ -60,14 +70,9 @@
       "length": "2:51"
     },
     {
-      "name": "Whenever, Wherever",
-      "artist": "Shakira",
-      "length": "3:16"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "GOOD LOYAL THOTS",
+      "artist": "Odetari",
+      "length": "1:42"
     },
     {
       "name": "Satellite",
@@ -90,6 +95,11 @@
       "length": "3:16"
     },
     {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "The Feels",
       "artist": "Labrinth",
       "length": "3:17"
@@ -103,6 +113,11 @@
       "name": "Clouds - Sped Up",
       "artist": "BUNT.",
       "length": "2:24"
+    },
+    {
+      "name": "Whenever, Wherever",
+      "artist": "Shakira",
+      "length": "3:16"
     },
     {
       "name": "Open Arms (feat. Travis Scott)",
@@ -148,11 +163,6 @@
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "artist": "Davido, Musa Keys",
       "length": "2:49"
-    },
-    {
-      "name": "GOOD LOYAL THOTS",
-      "artist": "Odetari",
-      "length": "1:42"
     },
     {
       "name": "if i were a fish (feat. Olivia Barton)",
@@ -275,7 +285,7 @@
       "length": "3:45"
     },
     {
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
     },
@@ -493,16 +503,6 @@
       "name": "i'm yours sped up",
       "artist": "Isabel LaRosa",
       "length": "2:07"
-    },
-    {
-      "name": "In This Darkness",
-      "artist": "Clara La San",
-      "length": "3:17"
-    },
-    {
-      "name": "Can You Remember the Rain - Sequence Remix",
-      "artist": "Garrett Atterberry",
-      "length": "3:06"
     }
   ]
 }
