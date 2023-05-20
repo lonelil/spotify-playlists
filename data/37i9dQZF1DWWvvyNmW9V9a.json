@@ -1,9 +1,14 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002c8cb46f7b4d14443070aefd2",
+  "art": "https://i.scdn.co/image/ab67706f0000000215a3fac28719e7270307d0a8",
   "length": 100,
   "tracks": [
+    {
+      "name": "Never Ending Song",
+      "artist": "Conan Gray",
+      "length": "2:35"
+    },
     {
       "name": "Kill Bill",
       "artist": "SZA",
@@ -18,6 +23,11 @@
       "name": "american jesus",
       "artist": "Nessa Barrett",
       "length": "2:48"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
     },
     {
       "name": "Enchanted",
@@ -50,6 +60,11 @@
       "length": "1:00"
     },
     {
+      "name": "Allergy",
+      "artist": "(G)I-DLE",
+      "length": "2:42"
+    },
+    {
       "name": "Dog Days Are Over",
       "artist": "Florence + The Machine",
       "length": "4:11"
@@ -65,14 +80,24 @@
       "length": "3:32"
     },
     {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
+    },
+    {
       "name": "Portrait of a Blank Slate",
       "artist": "Lovejoy",
       "length": "3:47"
     },
     {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
+      "length": "2:55"
+    },
+    {
+      "name": "Hey, Mickey!",
+      "artist": "Baby Tate",
+      "length": "1:55"
     },
     {
       "name": "Cruel Summer",
@@ -90,19 +115,14 @@
       "length": "2:46"
     },
     {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
-    },
-    {
-      "name": "Allergy",
-      "artist": "(G)I-DLE",
-      "length": "2:42"
-    },
-    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "I'm trying",
+      "artist": "Alexander Stewart",
+      "length": "2:44"
     },
     {
       "name": "THE CONTORTIONIST",
@@ -483,26 +503,6 @@
       "name": "Teenage Dream",
       "artist": "Stephen Dawes",
       "length": "2:57"
-    },
-    {
-      "name": "Space Song",
-      "artist": "Beach House",
-      "length": "5:20"
-    },
-    {
-      "name": "死ぬのがいいわ",
-      "artist": "Fujii Kaze",
-      "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
     }
   ]
 }

@@ -1,13 +1,28 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000029df624046efe22c5319137e8",
-  "length": 81,
+  "art": "https://i.scdn.co/image/ab67706f00000002a624b941dd750cf352cdc9b6",
+  "length": 70,
   "tracks": [
+    {
+      "name": "Middle Ground",
+      "artist": "Maroon 5",
+      "length": "3:39"
+    },
+    {
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
+    },
     {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
+    },
+    {
+      "name": "favorite kind of high",
+      "artist": "Kelly Clarkson",
+      "length": "2:55"
     },
     {
       "name": "Seasons",
@@ -15,14 +30,24 @@
       "length": "3:23"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
+    },
+    {
+      "name": "UNHEALTHY (feat. Shania Twain)",
+      "artist": "Anne-Marie, Shania Twain",
+      "length": "2:29"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
     },
     {
       "name": "mine",
@@ -35,13 +60,28 @@
       "length": "2:21"
     },
     {
+      "name": "The Journey",
+      "artist": "H.E.R.",
+      "length": "4:22"
+    },
+    {
       "name": "These Are The Days",
       "artist": "Lauren Daigle",
       "length": "3:50"
     },
     {
-      "name": "Wish You The Best",
-      "artist": "Lewis Capaldi",
+      "name": "Francesca",
+      "artist": "Hozier",
+      "length": "4:30"
+    },
+    {
+      "name": "Tennessee Orange",
+      "artist": "Megan Moroney",
+      "length": "3:43"
+    },
+    {
+      "name": "Life Goes On (feat. Luke Combs)",
+      "artist": "d Sheeran, Luke Combs",
       "length": "3:30"
     },
     {
@@ -50,9 +90,19 @@
       "length": "3:20"
     },
     {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
       "name": "Graveyard",
       "artist": "A R I Z O N A",
       "length": "3:43"
+    },
+    {
+      "name": "I'll Be",
+      "artist": "Céline Dion",
+      "length": "3:03"
     },
     {
       "name": "I'll Follow",
@@ -60,19 +110,19 @@
       "length": "2:52"
     },
     {
+      "name": "Only Love Can Save Us Now",
+      "artist": "Kesha",
+      "length": "2:34"
+    },
+    {
       "name": "Lipstick Lover",
       "artist": "Janelle Monáe",
       "length": "2:49"
     },
     {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "I'll Be",
-      "artist": "Céline Dion",
-      "length": "3:03"
+      "name": "Haven't You Ever Been In Love Before?",
+      "artist": "Lewis Capaldi",
+      "length": "3:50"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -85,24 +135,14 @@
       "length": "3:20"
     },
     {
-      "name": "Colourblind",
-      "artist": "d Sheeran",
-      "length": "3:29"
-    },
-    {
-      "name": "Tennessee Orange",
-      "artist": "Megan Moroney",
-      "length": "3:43"
+      "name": "Married Young",
+      "artist": "Jake Scott",
+      "length": "3:05"
     },
     {
       "name": "Summer Baby",
       "artist": "Jonas Brothers",
       "length": "2:41"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
     },
     {
       "name": "Unstoppable",
@@ -125,6 +165,11 @@
       "length": "3:33"
     },
     {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
       "name": "Hallelujah",
       "artist": "Rosa Linn",
       "length": "3:09"
@@ -145,14 +190,9 @@
       "length": "3:14"
     },
     {
-      "name": "Somebody Like Me",
-      "artist": "Joy Oladokun",
-      "length": "3:56"
-    },
-    {
-      "name": "me",
-      "artist": "Kelly Clarkson",
-      "length": "3:34"
+      "name": "Next Thing You Know",
+      "artist": "Jordan Davis",
+      "length": "2:55"
     },
     {
       "name": "Girls",
@@ -165,11 +205,6 @@
       "length": "4:27"
     },
     {
-      "name": "We Were Never Really Friends",
-      "artist": "Bruno Major",
-      "length": "3:24"
-    },
-    {
       "name": "Stand Up Eight",
       "artist": "Thunderstorm Artis",
       "length": "3:07"
@@ -178,11 +213,6 @@
       "name": "Wild Dogs (Running in a Slow Dream)",
       "artist": "Matchbox Twenty",
       "length": "3:30"
-    },
-    {
-      "name": "Glad U Came",
-      "artist": "Jason Derulo",
-      "length": "2:58"
     },
     {
       "name": "Eat Your Young",
@@ -198,11 +228,6 @@
       "name": "Meltdown",
       "artist": "Niall Horan",
       "length": "2:33"
-    },
-    {
-      "name": "Eat The Acid",
-      "artist": "Kesha",
-      "length": "4:02"
     },
     {
       "name": "ceilings",
@@ -250,11 +275,6 @@
       "length": "2:59"
     },
     {
-      "name": "Only Girl",
-      "artist": "Stephen Sanchez",
-      "length": "2:39"
-    },
-    {
       "name": "Look At Us Now (Honeycomb)",
       "artist": "Daisy Jones & The Six",
       "length": "5:32"
@@ -268,16 +288,6 @@
       "name": "SunKissing",
       "artist": "Hailee Steinfeld",
       "length": "2:57"
-    },
-    {
-      "name": "in my city",
-      "artist": "New West",
-      "length": "4:07"
-    },
-    {
-      "name": "Boat",
-      "artist": "d Sheeran",
-      "length": "3:05"
     },
     {
       "name": "HAPPY",
@@ -305,21 +315,6 @@
       "length": "2:40"
     },
     {
-      "name": "Dark Skies",
-      "artist": "A R I Z O N A",
-      "length": "3:14"
-    },
-    {
-      "name": "FACE MYSELF",
-      "artist": "Elley Duhé, Teddy Swims",
-      "length": "3:47"
-    },
-    {
-      "name": "Beacon",
-      "artist": "morgxn",
-      "length": "3:47"
-    },
-    {
       "name": "NO BAD DAYS (feat. Collett)",
       "artist": "Macklemore, Collett",
       "length": "2:53"
@@ -335,54 +330,14 @@
       "length": "3:45"
     },
     {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
-    },
-    {
-      "name": "Next To You (feat. Kane Brown)",
-      "artist": "Loud Luxury, DVBBS, Kane Brown",
-      "length": "2:41"
-    },
-    {
       "name": "Straight and Narrow",
       "artist": "Sam Barber",
       "length": "3:19"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
       "name": "Blindsided",
       "artist": "Kelsea Ballerini",
       "length": "2:50"
-    },
-    {
-      "name": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen",
-      "length": "2:57"
-    },
-    {
-      "name": "Who We Love (feat. Ed Sheeran)",
-      "artist": "Sam Smith, Ed Sheeran",
-      "length": "2:42"
-    },
-    {
-      "name": "Thrill Of It All",
-      "artist": "Berre",
-      "length": "3:23"
-    },
-    {
-      "name": "Until I Found You",
-      "artist": "Stephen Sanchez",
-      "length": "2:57"
-    },
-    {
-      "name": "Love Go By",
-      "artist": "lle King",
-      "length": "3:42"
     },
     {
       "name": "Rollin'",
@@ -393,16 +348,6 @@
       "name": "Drunk (And I Don't Wanna Go Home)",
       "artist": "lle King, Miranda Lambert",
       "length": "4:05"
-    },
-    {
-      "name": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "length": "2:28"
-    },
-    {
-      "name": "How Do I Say Goodbye",
-      "artist": "Dean Lewis",
-      "length": "2:43"
     },
     {
       "name": "Run Away to Mars",
