@@ -5,11 +5,6 @@
   "length": 50,
   "tracks": [
     {
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "artist": "Beyoncé, Kendrick Lamar",
-      "length": "4:20"
-    },
-    {
       "name": "Kill Bill",
       "artist": "SZA",
       "length": "2:33"
@@ -28,6 +23,11 @@
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
+    },
+    {
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "artist": "Beyoncé, Kendrick Lamar",
+      "length": "4:20"
     },
     {
       "name": "Boy's a Liar Pt. 2",
