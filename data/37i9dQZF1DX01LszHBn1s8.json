@@ -5,9 +5,9 @@
   "length": 100,
   "tracks": [
     {
-      "name": "Keep Dat Nigga",
-      "artist": "Icandy",
-      "length": "2:18"
+      "name": "Say Yes To Heaven - Sped Up",
+      "artist": "Lana Del Rey",
+      "length": "2:36"
     },
     {
       "name": "Cha Cha Cha",
@@ -15,9 +15,9 @@
       "length": "2:55"
     },
     {
-      "name": "Say Yes To Heaven - Sped Up",
-      "artist": "Lana Del Rey",
-      "length": "2:36"
+      "name": "Keep Dat Nigga",
+      "artist": "Icandy",
+      "length": "2:18"
     },
     {
       "name": "Maria Maria (feat. The Product G&B)",
@@ -25,9 +25,19 @@
       "length": "4:21"
     },
     {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
       "name": "Like This (feat. Eve)",
       "artist": "Kelly Rowland, Eve",
       "length": "3:35"
+    },
+    {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -40,11 +50,6 @@
       "length": "3:41"
     },
     {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
-    },
-    {
       "name": "Would I Lie To You?",
       "artist": "Charles & Eddie",
       "length": "3:37"
@@ -53,6 +58,11 @@
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Queen of Kings",
@@ -85,19 +95,9 @@
       "length": "2:13"
     },
     {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
-    },
-    {
       "name": "Angels Like You",
       "artist": "Miley Cyrus",
       "length": "3:16"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
     },
     {
       "name": "The Feels",
@@ -138,6 +138,11 @@
       "name": "Hell N Back",
       "artist": "Bakar",
       "length": "3:33"
+    },
+    {
+      "name": "Not You",
+      "artist": "Alan Walker, Emma Steinbakken",
+      "length": "2:33"
     },
     {
       "name": "Area Codes",
@@ -498,11 +503,6 @@
       "name": "She Wolf",
       "artist": "Shakira",
       "length": "3:08"
-    },
-    {
-      "name": "i'm yours sped up",
-      "artist": "Isabel LaRosa",
-      "length": "2:07"
     }
   ]
 }
