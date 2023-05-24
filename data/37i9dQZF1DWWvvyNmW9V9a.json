@@ -85,6 +85,11 @@
       "length": "3:38"
     },
     {
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "artist": "Halle",
+      "length": "3:34"
+    },
+    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
@@ -105,11 +110,6 @@
       "length": "1:55"
     },
     {
-      "name": "Hare Hare",
-      "artist": "TWICE",
-      "length": "3:23"
-    },
-    {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
       "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
       "length": "2:46"
@@ -118,6 +118,11 @@
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
     },
     {
       "name": "I'm trying",
@@ -182,6 +187,11 @@
     {
       "name": "Call It What You Want",
       "artist": "Taylor Swift",
+      "length": "3:23"
+    },
+    {
+      "name": "Hare Hare",
+      "artist": "TWICE",
       "length": "3:23"
     },
     {
@@ -493,16 +503,6 @@
       "name": "Teenage Dream",
       "artist": "Stephen Dawes",
       "length": "2:57"
-    },
-    {
-      "name": "Space Song",
-      "artist": "Beach House",
-      "length": "5:20"
-    },
-    {
-      "name": "死ぬのがいいわ",
-      "artist": "Fujii Kaze",
-      "length": "3:05"
     }
   ]
 }
