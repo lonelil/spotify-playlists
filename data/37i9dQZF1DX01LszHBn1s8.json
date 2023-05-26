@@ -10,6 +10,11 @@
       "length": "2:36"
     },
     {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
       "name": "Would I Lie To You?",
       "artist": "Charles & Eddie",
       "length": "3:37"
@@ -25,11 +30,6 @@
       "length": "4:21"
     },
     {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
-    },
-    {
       "name": "Keep Dat Nigga",
       "artist": "Icandy",
       "length": "2:18"
@@ -38,6 +38,11 @@
       "name": "Like This (feat. Eve)",
       "artist": "Kelly Rowland, Eve",
       "length": "3:35"
+    },
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
     },
     {
       "name": "This Is The Life",
@@ -498,11 +503,6 @@
       "name": "Die For You - Sped Up",
       "artist": "The Weeknd, xxtristanxo, Speed Radio",
       "length": "3:43"
-    },
-    {
-      "name": "Girl With The Tattoo Enter.lewd",
-      "artist": "Miguel",
-      "length": "1:42"
     }
   ]
 }
