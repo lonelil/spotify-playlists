@@ -5,6 +5,21 @@
   "length": 100,
   "tracks": [
     {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
+    {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
+    },
+    {
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "artist": "Taylor Swift, Lana Del Rey",
+      "length": "3:49"
+    },
+    {
       "name": "Karma",
       "artist": "Taylor Swift",
       "length": "3:24"
@@ -483,21 +498,6 @@
       "name": "the lakes - bonus track",
       "artist": "Taylor Swift",
       "length": "3:31"
-    },
-    {
-      "name": "Love Story (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:55"
-    },
-    {
-      "name": "Fearless (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:01"
-    },
-    {
-      "name": "Fifteen (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "4:54"
     },
     {
       "name": "Love Story (Taylor’s Version)",

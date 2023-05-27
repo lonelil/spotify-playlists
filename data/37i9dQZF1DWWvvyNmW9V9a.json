@@ -1,9 +1,14 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000215a3fac28719e7270307d0a8",
+  "art": "https://i.scdn.co/image/ab67706f0000000259902ff0713e0dd8cced97b6",
   "length": 100,
   "tracks": [
+    {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
     {
       "name": "Never Ending Song",
       "artist": "Conan Gray",
@@ -20,6 +25,11 @@
       "length": "3:29"
     },
     {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
+    },
+    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
@@ -28,11 +38,6 @@
       "name": "american jesus",
       "artist": "Nessa Barrett",
       "length": "2:48"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
     },
     {
       "name": "hotline (edit)",
@@ -50,6 +55,11 @@
       "length": "4:21"
     },
     {
+      "name": "Cowboys And Angels",
+      "artist": "Jessie Murph",
+      "length": "2:13"
+    },
+    {
       "name": "if i were a fish (feat. Olivia Barton)",
       "artist": "corook, Olivia Barton",
       "length": "2:21"
@@ -58,6 +68,11 @@
       "name": "From The Start",
       "artist": "Laufey",
       "length": "2:49"
+    },
+    {
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "artist": "Taylor Swift, Lana Del Rey",
+      "length": "3:49"
     },
     {
       "name": "Moonlight",
@@ -95,14 +110,29 @@
       "length": "3:32"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
       "name": "Portrait of a Blank Slate",
       "artist": "Lovejoy",
       "length": "3:47"
     },
     {
+      "name": "That Part",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:54"
+    },
+    {
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
       "length": "2:55"
+    },
+    {
+      "name": "Cool for the Summer - Rock Version",
+      "artist": "Demi Lovato",
+      "length": "3:32"
     },
     {
       "name": "Hey, Mickey!",
@@ -118,6 +148,11 @@
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "Crushing Me - From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'",
+      "artist": "Ari Notartomaso, Tricia Fukuhara, The Cast of Grease: Rise of the Pink Ladies",
+      "length": "1:47"
     },
     {
       "name": "What It Is (Solo Version)",
@@ -143,11 +178,6 @@
       "name": "Little Runaway",
       "artist": "Benson Boone",
       "length": "3:15"
-    },
-    {
-      "name": "The Alcott (feat. Taylor Swift)",
-      "artist": "The National, Taylor Swift",
-      "length": "4:27"
     },
     {
       "name": "Boy's a Liar Pt. 2",
@@ -185,11 +215,6 @@
       "length": "2:33"
     },
     {
-      "name": "Call It What You Want",
-      "artist": "Taylor Swift",
-      "length": "3:23"
-    },
-    {
       "name": "Hare Hare",
       "artist": "TWICE",
       "length": "3:23"
@@ -215,16 +240,6 @@
       "length": "3:02"
     },
     {
-      "name": "Mean",
-      "artist": "Taylor Swift",
-      "length": "3:57"
-    },
-    {
-      "name": "Fantasy (with GAYLE & Em Beihold)",
-      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
-      "length": "2:55"
-    },
-    {
       "name": "Hold On Tight",
       "artist": "aespa",
       "length": "2:29"
@@ -235,9 +250,9 @@
       "length": "3:59"
     },
     {
-      "name": "Shoong! (feat. LISA of BLACKPINK)",
-      "artist": "TAEYANG, LISA",
-      "length": "3:25"
+      "name": "When I'm Gone",
+      "artist": "Johnny Orlando, Ali Gatie",
+      "length": "2:20"
     },
     {
       "name": "Too Well",
@@ -248,11 +263,6 @@
       "name": "Better People to Leave on Read",
       "artist": "mei",
       "length": "2:11"
-    },
-    {
-      "name": "Heart Attack - Rock Version",
-      "artist": "Demi Lovato",
-      "length": "3:59"
     },
     {
       "name": "VOID",
@@ -270,11 +280,6 @@
       "length": "2:55"
     },
     {
-      "name": "4runner",
-      "artist": "Brenn!",
-      "length": "4:25"
-    },
-    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -290,44 +295,14 @@
       "length": "2:43"
     },
     {
-      "name": "UNDERSTAND",
-      "artist": "keshi",
-      "length": "2:30"
-    },
-    {
-      "name": "Hooked",
-      "artist": "Sam Short",
-      "length": "2:28"
-    },
-    {
-      "name": "Go (Xtayalive 2) - Sped Up",
-      "artist": "Kanii, 9lives, Sped Up Songs + Nightcore",
-      "length": "1:27"
-    },
-    {
-      "name": "FLOWER",
-      "artist": "JISOO",
-      "length": "2:53"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
     },
     {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "In Ha Mood",
       "artist": "Ice Spice",
       "length": "2:09"
-    },
-    {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
     },
     {
       "name": "SunKissing",
@@ -503,6 +478,31 @@
       "name": "Teenage Dream",
       "artist": "Stephen Dawes",
       "length": "2:57"
+    },
+    {
+      "name": "Space Song",
+      "artist": "Beach House",
+      "length": "5:20"
+    },
+    {
+      "name": "死ぬのがいいわ",
+      "artist": "Fujii Kaze",
+      "length": "3:05"
+    },
+    {
+      "name": "Those Eyes - Sped Up",
+      "artist": "New West",
+      "length": "2:47"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
+    },
+    {
+      "name": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "length": "3:16"
     }
   ]
 }

@@ -1,9 +1,19 @@
 {
   "name": "Today's Top Hits",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002f3a80455a5ee2e18d8208fda",
+  "art": "https://i.scdn.co/image/ab67706f0000000213c7661d3f88d1e8132c9170",
   "length": 50,
   "tracks": [
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
+    },
     {
       "name": "WHERE SHE GOES",
       "artist": "Bad Bunny",
@@ -15,34 +25,14 @@
       "length": "2:33"
     },
     {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "artist": "Beyoncé, Kendrick Lamar",
-      "length": "4:20"
-    },
-    {
-      "name": "Boy's a Liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
     },
     {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
       "name": "As It Was",
@@ -50,9 +40,9 @@
       "length": "2:47"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
     },
     {
       "name": "People",
@@ -60,19 +50,44 @@
       "length": "3:04"
     },
     {
+      "name": "Boy's a Liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
+      "name": "All My Life (feat. J. Cole)",
+      "artist": "Lil Durk, J. Cole",
+      "length": "3:43"
+    },
+    {
       "name": "Chemical",
       "artist": "Post Malone",
       "length": "3:04"
     },
     {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "artist": "Beyoncé, Kendrick Lamar",
+      "length": "4:20"
     },
     {
       "name": "Ella Baila Sola",
       "artist": "slabon Armado, Peso Pluma",
       "length": "2:45"
+    },
+    {
+      "name": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "length": "3:20"
     },
     {
       "name": "Eyes Closed",
@@ -85,24 +100,14 @@
       "length": "2:40"
     },
     {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
-    },
-    {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
-    },
-    {
-      "name": "All My Life (feat. J. Cole)",
-      "artist": "Lil Durk, J. Cole",
-      "length": "3:43"
-    },
-    {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
     },
     {
       "name": "Baby Don't Hurt Me",
@@ -125,9 +130,9 @@
       "length": "2:56"
     },
     {
-      "name": "Curtains",
-      "artist": "d Sheeran",
-      "length": "3:44"
+      "name": "BESO",
+      "artist": "ROSALÍA, Rauw Alejandro",
+      "length": "3:14"
     },
     {
       "name": "CUFF IT",
@@ -135,19 +140,9 @@
       "length": "3:45"
     },
     {
-      "name": "BESO",
-      "artist": "ROSALÍA, Rauw Alejandro",
-      "length": "3:14"
-    },
-    {
       "name": "Snooze",
       "artist": "SZA",
       "length": "3:21"
-    },
-    {
-      "name": "Wish You The Best",
-      "artist": "Lewis Capaldi",
-      "length": "3:30"
     },
     {
       "name": "ceilings",
@@ -155,14 +150,14 @@
       "length": "3:02"
     },
     {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
+    },
+    {
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
-    },
-    {
-      "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
-      "length": "2:55"
     },
     {
       "name": "Here With Me",
@@ -175,24 +170,19 @@
       "length": "3:07"
     },
     {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "OMG",
       "artist": "NewJeans",
       "length": "3:32"
     },
     {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
     },
     {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
     },
     {
       "name": "Nonsense",
@@ -200,19 +190,39 @@
       "length": "2:43"
     },
     {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
+    },
+    {
+      "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
+      "length": "2:55"
+    },
+    {
       "name": "I'm Good (Blue)",
       "artist": "David Guetta, Bebe Rexha",
       "length": "2:55"
     },
     {
-      "name": "La Bebe - Remix",
-      "artist": "Yng Lvcas, Peso Pluma",
-      "length": "3:54"
-    },
-    {
       "name": "Bad Habit",
       "artist": "Steve Lacy",
       "length": "3:52"
+    },
+    {
+      "name": "Just Wanna Rock",
+      "artist": "Lil Uzi Vert",
+      "length": "2:03"
+    },
+    {
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
+    },
+    {
+      "name": "La Bebe - Remix",
+      "artist": "Yng Lvcas, Peso Pluma",
+      "length": "3:54"
     },
     {
       "name": "Search & Rescue",
@@ -225,19 +235,9 @@
       "length": "2:45"
     },
     {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
-    },
-    {
-      "name": "Princess Diana (with Nicki Minaj)",
-      "artist": "Ice Spice, Nicki Minaj",
-      "length": "2:52"
-    },
-    {
-      "name": "Just Wanna Rock",
-      "artist": "Lil Uzi Vert",
-      "length": "2:03"
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "un x100to",
@@ -250,9 +250,9 @@
       "length": "2:43"
     },
     {
-      "name": "Made You Look",
-      "artist": "Meghan Trainor",
-      "length": "2:14"
+      "name": "Princess Diana (with Nicki Minaj)",
+      "artist": "Ice Spice, Nicki Minaj",
+      "length": "2:52"
     }
   ]
 }

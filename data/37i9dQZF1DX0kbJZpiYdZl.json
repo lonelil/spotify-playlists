@@ -1,23 +1,23 @@
 {
   "name": "Hot Hits USA",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a16383a5f2272051d48961c0",
+  "art": "https://i.scdn.co/image/ab67706f000000021481779b3a1a315dd0d11824",
   "length": 50,
   "tracks": [
+    {
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "artist": "Beyoncé, Kendrick Lamar",
+      "length": "4:20"
+    },
     {
       "name": "All My Life (feat. J. Cole)",
       "artist": "Lil Durk, J. Cole",
       "length": "3:43"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
-      "name": "WHERE SHE GOES",
-      "artist": "Bad Bunny",
-      "length": "3:51"
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
     },
     {
       "name": "Flowers",
@@ -30,9 +30,14 @@
       "length": "3:59"
     },
     {
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "artist": "Beyoncé, Kendrick Lamar",
-      "length": "4:20"
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "WHERE SHE GOES",
+      "artist": "Bad Bunny",
+      "length": "3:51"
     },
     {
       "name": "Players",
@@ -40,19 +45,14 @@
       "length": "2:19"
     },
     {
-      "name": "Double Fantasy (with Future) - Radio Edit",
-      "artist": "The Weeknd, Future",
-      "length": "3:55"
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "length": "3:39"
     },
     {
       "name": "Fast Car",
@@ -60,9 +60,39 @@
       "length": "4:25"
     },
     {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
+      "name": "Double Fantasy (with Future) - Radio Edit",
+      "artist": "The Weeknd, Future",
+      "length": "3:55"
+    },
+    {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "Favorite Song",
+      "artist": "Toosii",
+      "length": "3:28"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -80,19 +110,9 @@
       "length": "2:54"
     },
     {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "Last Night",
       "artist": "Morgan Wallen",
       "length": "2:43"
-    },
-    {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
     },
     {
       "name": "Boy's a Liar Pt. 2",
@@ -115,9 +135,14 @@
       "length": "3:43"
     },
     {
-      "name": "Princess Diana (with Nicki Minaj)",
-      "artist": "Ice Spice, Nicki Minaj",
-      "length": "2:52"
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
+    },
+    {
+      "name": "Sure Thing",
+      "artist": "Miguel",
+      "length": "3:15"
     },
     {
       "name": "Escapism.",
@@ -125,9 +150,14 @@
       "length": "4:32"
     },
     {
-      "name": "Sure Thing",
-      "artist": "Miguel",
-      "length": "3:15"
+      "name": "Princess Diana (with Nicki Minaj)",
+      "artist": "Ice Spice, Nicki Minaj",
+      "length": "2:52"
+    },
+    {
+      "name": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "length": "3:48"
     },
     {
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
@@ -150,11 +180,6 @@
       "length": "2:03"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
       "name": "Anti-Hero",
       "artist": "Taylor Swift",
       "length": "3:20"
@@ -168,16 +193,6 @@
       "name": "Ella Baila Sola",
       "artist": "slabon Armado, Peso Pluma",
       "length": "2:45"
-    },
-    {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
-    },
-    {
-      "name": "Something in the Orange",
-      "artist": "Zach Bryan",
-      "length": "3:48"
     },
     {
       "name": "Bad Habit",
@@ -200,6 +215,11 @@
       "length": "3:21"
     },
     {
+      "name": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "length": "2:28"
+    },
+    {
       "name": "Unholy (feat. Kim Petras)",
       "artist": "Sam Smith, Kim Petras",
       "length": "2:36"
@@ -215,11 +235,6 @@
       "length": "3:29"
     },
     {
-      "name": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "length": "2:28"
-    },
-    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -228,21 +243,6 @@
       "name": "As It Was",
       "artist": "Harry Styles",
       "length": "2:47"
-    },
-    {
-      "name": "Thinkin’ Bout Me",
-      "artist": "Morgan Wallen",
-      "length": "2:57"
-    },
-    {
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "artist": "Don Toliver, Justin Bieber, Future",
-      "length": "3:58"
-    },
-    {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
     },
     {
       "name": "Here With Me",

@@ -1,18 +1,13 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002a624b941dd750cf352cdc9b6",
+  "art": "https://i.scdn.co/image/ab67706f000000020aeffe3c70cc3b633199a005",
   "length": 70,
   "tracks": [
     {
-      "name": "Middle Ground",
-      "artist": "Maroon 5",
-      "length": "3:39"
-    },
-    {
-      "name": "Wish You The Best",
-      "artist": "Lewis Capaldi",
-      "length": "3:30"
+      "name": "RUNAWAY",
+      "artist": "OneRepublic",
+      "length": "2:23"
     },
     {
       "name": "Thank God I Do",
@@ -20,19 +15,54 @@
       "length": "4:18"
     },
     {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
+    {
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
+    },
+    {
       "name": "favorite kind of high",
       "artist": "Kelly Clarkson",
       "length": "2:55"
     },
     {
+      "name": "Queen of New York City",
+      "artist": "Matchbox Twenty",
+      "length": "3:32"
+    },
+    {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
+    },
+    {
+      "name": "Middle Ground",
+      "artist": "Maroon 5",
+      "length": "3:39"
+    },
+    {
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "length": "3:39"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
+    {
       "name": "Seasons",
       "artist": "Bebe Rexha, Dolly Parton",
       "length": "3:23"
-    },
-    {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
     },
     {
       "name": "UNHEALTHY (feat. Shania Twain)",
@@ -45,11 +75,6 @@
       "length": "3:20"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
-    },
-    {
       "name": "mine",
       "artist": "Kelly Clarkson",
       "length": "3:11"
@@ -58,6 +83,11 @@
       "name": "What More Can I Say",
       "artist": "Teddy Swims",
       "length": "2:21"
+    },
+    {
+      "name": "I'll Be Seeing You",
+      "artist": "Iam Tongi",
+      "length": "4:45"
     },
     {
       "name": "The Journey",
@@ -113,11 +143,6 @@
       "name": "Only Love Can Save Us Now",
       "artist": "Kesha",
       "length": "2:34"
-    },
-    {
-      "name": "Lipstick Lover",
-      "artist": "Janelle Monáe",
-      "length": "2:49"
     },
     {
       "name": "Haven't You Ever Been In Love Before?",
@@ -200,24 +225,9 @@
       "length": "2:51"
     },
     {
-      "name": "The Alcott (feat. Taylor Swift)",
-      "artist": "The National, Taylor Swift",
-      "length": "4:27"
-    },
-    {
       "name": "Stand Up Eight",
       "artist": "Thunderstorm Artis",
       "length": "3:07"
-    },
-    {
-      "name": "Wild Dogs (Running in a Slow Dream)",
-      "artist": "Matchbox Twenty",
-      "length": "3:30"
-    },
-    {
-      "name": "Eat Your Young",
-      "artist": "Hozier",
-      "length": "4:02"
     },
     {
       "name": "Living In A Haze",
@@ -278,16 +288,6 @@
       "name": "Look At Us Now (Honeycomb)",
       "artist": "Daisy Jones & The Six",
       "length": "5:32"
-    },
-    {
-      "name": "I Don't Miss You",
-      "artist": "JP Saxe",
-      "length": "3:37"
-    },
-    {
-      "name": "SunKissing",
-      "artist": "Hailee Steinfeld",
-      "length": "2:57"
     },
     {
       "name": "HAPPY",
