@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000021d5904be7f09dfe4d141b02a",
+  "art": "https://i.scdn.co/image/ab67706f000000022ab9539b9b4f01cccf1bbe09",
   "length": 100,
   "tracks": [
+    {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
     {
       "name": "Say Yes To Heaven - Sped Up",
       "artist": "Lana Del Rey",
@@ -93,6 +98,11 @@
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
+    },
+    {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
     },
     {
       "name": "Whenever, Wherever",
@@ -493,16 +503,6 @@
       "name": "Kill Bill - Sped Up Version",
       "artist": "SZA",
       "length": "2:17"
-    },
-    {
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "artist": "Stephen Sanchez, Em Beihold",
-      "length": "2:56"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
     }
   ]
 }
