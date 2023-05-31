@@ -1,23 +1,13 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000022ab9539b9b4f01cccf1bbe09",
+  "art": "https://i.scdn.co/image/ab67706f000000027458926f373065997b8113b1",
   "length": 100,
   "tracks": [
-    {
-      "name": "Karma (feat. Ice Spice)",
-      "artist": "Taylor Swift, Ice Spice",
-      "length": "3:21"
-    },
     {
       "name": "Say Yes To Heaven - Sped Up",
       "artist": "Lana Del Rey",
       "length": "2:36"
-    },
-    {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
     },
     {
       "name": "Would I Lie To You?",
@@ -25,14 +15,39 @@
       "length": "3:37"
     },
     {
-      "name": "Cha Cha Cha",
-      "artist": "Käärijä",
-      "length": "2:55"
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
+      "name": "Ella Baila Sola",
+      "artist": "slabon Armado, Peso Pluma",
+      "length": "2:45"
+    },
+    {
+      "name": "My Barn My Rules",
+      "artist": "MCR-T, horsegiirL",
+      "length": "4:26"
     },
     {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
+    },
+    {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
+    {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
+    },
+    {
+      "name": "Summer Background Jazz",
+      "artist": "Jazz Background Vibes",
+      "length": "2:41"
     },
     {
       "name": "Keep Dat Nigga",
@@ -50,14 +65,19 @@
       "length": "2:56"
     },
     {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
+      "name": "Heart Racing",
+      "artist": "Kanii, Riovaz, Nimstarr",
+      "length": "2:36"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
       "artist": "Tyler, The Creator, Kali Uchis",
       "length": "3:00"
+    },
+    {
+      "name": "Cha Cha Cha",
+      "artist": "Käärijä",
+      "length": "2:55"
     },
     {
       "name": "Josefin",
@@ -90,9 +110,19 @@
       "length": "3:03"
     },
     {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
       "name": "Sure Thing - Sped Up",
       "artist": "Miguel",
       "length": "2:30"
+    },
+    {
+      "name": "Already Rich",
+      "artist": "Yeat",
+      "length": "2:25"
     },
     {
       "name": "Never Felt So Alone",
@@ -108,11 +138,6 @@
       "name": "Whenever, Wherever",
       "artist": "Shakira",
       "length": "3:16"
-    },
-    {
-      "name": "Ella Baila Sola",
-      "artist": "slabon Armado, Peso Pluma",
-      "length": "2:45"
     },
     {
       "name": "アイドル",
@@ -158,6 +183,11 @@
       "name": "Clouds - Sped Up",
       "artist": "BUNT.",
       "length": "2:24"
+    },
+    {
+      "name": "Shameless",
+      "artist": "Camila Cabello",
+      "length": "3:39"
     },
     {
       "name": "Open Arms (feat. Travis Scott)",
@@ -473,36 +503,6 @@
       "name": "WORTHLESS",
       "artist": "d4vd",
       "length": "2:43"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
-    },
-    {
-      "name": "In Ha Mood",
-      "artist": "Ice Spice",
-      "length": "2:09"
-    },
-    {
-      "name": "Shut up My Moms Calling - (Sped Up)",
-      "artist": "Hotel Ugly",
-      "length": "2:15"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "Kill Bill - Sped Up Version",
-      "artist": "SZA",
-      "length": "2:17"
     }
   ]
 }
