@@ -1,7 +1,7 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000259902ff0713e0dd8cced97b6",
+  "art": "https://i.scdn.co/image/ab67706f00000002bbeeab3604bccfdd5d50440e",
   "length": 100,
   "tracks": [
     {
@@ -10,34 +10,14 @@
       "length": "3:21"
     },
     {
+      "name": "Home To Another One",
+      "artist": "Madison Beer",
+      "length": "2:29"
+    },
+    {
       "name": "Never Ending Song",
       "artist": "Conan Gray",
       "length": "2:35"
-    },
-    {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
-    },
-    {
-      "name": "Hits Different",
-      "artist": "Taylor Swift",
-      "length": "3:54"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "american jesus",
-      "artist": "Nessa Barrett",
-      "length": "2:48"
     },
     {
       "name": "hotline (edit)",
@@ -45,9 +25,44 @@
       "length": "1:00"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
+      "name": "SOLO",
+      "artist": "JENNIE",
+      "length": "2:49"
+    },
+    {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
+    },
+    {
+      "name": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "length": "2:22"
     },
     {
       "name": "Maria Maria (feat. The Product G&B)",
@@ -55,9 +70,29 @@
       "length": "4:21"
     },
     {
-      "name": "Cowboys And Angels",
-      "artist": "Jessie Murph",
-      "length": "2:13"
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
+      "name": "american jesus",
+      "artist": "Nessa Barrett",
+      "length": "2:48"
+    },
+    {
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "artist": "Taylor Swift, Lana Del Rey",
+      "length": "3:49"
+    },
+    {
+      "name": "The Other POV",
+      "artist": "Khloe Rose",
+      "length": "2:59"
+    },
+    {
+      "name": "That Part",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:54"
     },
     {
       "name": "if i were a fish (feat. Olivia Barton)",
@@ -70,19 +105,9 @@
       "length": "2:49"
     },
     {
-      "name": "Snow On The Beach (feat. More Lana Del Rey)",
-      "artist": "Taylor Swift, Lana Del Rey",
-      "length": "3:49"
-    },
-    {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
-    },
-    {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
     },
     {
       "name": "Allergy",
@@ -90,24 +115,9 @@
       "length": "2:42"
     },
     {
-      "name": "Dog Days Are Over",
-      "artist": "Florence + The Machine",
-      "length": "4:11"
-    },
-    {
-      "name": "Satellite",
-      "artist": "Harry Styles",
-      "length": "3:38"
-    },
-    {
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "artist": "Halle",
-      "length": "3:34"
-    },
-    {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
+      "name": "1-800-GOT-STRESS",
+      "artist": "Devon Cole",
+      "length": "3:09"
     },
     {
       "name": "Cruel Summer",
@@ -115,19 +125,29 @@
       "length": "2:58"
     },
     {
-      "name": "Portrait of a Blank Slate",
-      "artist": "Lovejoy",
-      "length": "3:47"
+      "name": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "length": "4:11"
     },
     {
-      "name": "That Part",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:54"
+      "name": "Cowboys And Angels",
+      "artist": "Jessie Murph",
+      "length": "2:13"
     },
     {
-      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
-      "length": "2:55"
+      "name": "Satellite",
+      "artist": "Harry Styles",
+      "length": "3:38"
+    },
+    {
+      "name": "Billie Jean - Spotify Singles",
+      "artist": "Mad Tsai",
+      "length": "4:08"
+    },
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
     },
     {
       "name": "Cool for the Summer - Rock Version",
@@ -140,19 +160,9 @@
       "length": "1:55"
     },
     {
-      "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
-      "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
-      "length": "2:46"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
-    },
-    {
-      "name": "Crushing Me - From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'",
-      "artist": "Ari Notartomaso, Tricia Fukuhara, The Cast of Grease: Rise of the Pink Ladies",
-      "length": "1:47"
+      "name": "Makeba",
+      "artist": "Jain",
+      "length": "4:08"
     },
     {
       "name": "What It Is (Solo Version)",
@@ -160,14 +170,44 @@
       "length": "3:09"
     },
     {
-      "name": "I'm trying",
-      "artist": "Alexander Stewart",
-      "length": "2:44"
-    },
-    {
       "name": "THE CONTORTIONIST",
       "artist": "Melanie Martinez",
       "length": "3:20"
+    },
+    {
+      "name": "Little Girl Gone",
+      "artist": "CHINCHILLA",
+      "length": "3:08"
+    },
+    {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "length": "3:57"
+    },
+    {
+      "name": "Fictional",
+      "artist": "Khloe Rose",
+      "length": "3:43"
+    },
+    {
+      "name": "Portrait of a Blank Slate",
+      "artist": "Lovejoy",
+      "length": "3:47"
+    },
+    {
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
+      "length": "2:55"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
+      "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+      "length": "2:46"
+    },
+    {
+      "name": "I'm trying",
+      "artist": "Alexander Stewart",
+      "length": "2:44"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -185,19 +225,9 @@
       "length": "2:11"
     },
     {
-      "name": "labour",
-      "artist": "Paris Paloma",
-      "length": "3:57"
-    },
-    {
-      "name": "Little Girl Gone",
-      "artist": "CHINCHILLA",
-      "length": "3:08"
-    },
-    {
-      "name": "Fictional",
-      "artist": "Khloe Rose",
-      "length": "3:43"
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "artist": "Halle",
+      "length": "3:34"
     },
     {
       "name": "The Feels",
@@ -255,13 +285,8 @@
       "length": "2:20"
     },
     {
-      "name": "Too Well",
-      "artist": "Reneé Rapp",
-      "length": "2:36"
-    },
-    {
       "name": "Better People to Leave on Read",
-      "artist": "mei",
+      "artist": "Emei",
       "length": "2:11"
     },
     {
@@ -308,11 +333,6 @@
       "name": "SunKissing",
       "artist": "Hailee Steinfeld",
       "length": "2:57"
-    },
-    {
-      "name": "Heaven",
-      "artist": "Niall Horan",
-      "length": "3:06"
     },
     {
       "name": "The Climb",
@@ -405,11 +425,6 @@
       "length": "2:56"
     },
     {
-      "name": "The Heart Wants What It Wants",
-      "artist": "Selena Gomez",
-      "length": "3:47"
-    },
-    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
@@ -455,11 +470,6 @@
       "length": "3:29"
     },
     {
-      "name": "World's Smallest Violin",
-      "artist": "AJR",
-      "length": "3:00"
-    },
-    {
       "name": "Heart To Heart",
       "artist": "Mac DeMarco",
       "length": "3:31"
@@ -493,16 +503,6 @@
       "name": "Those Eyes - Sped Up",
       "artist": "New West",
       "length": "2:47"
-    },
-    {
-      "name": "Here With Me",
-      "artist": "d4vd",
-      "length": "4:02"
-    },
-    {
-      "name": "Sex, Drugs, Etc.",
-      "artist": "Beach Weather",
-      "length": "3:16"
     }
   ]
 }

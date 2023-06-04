@@ -1,13 +1,18 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002bf2a781ffa22e463a1947e2d",
+  "art": "https://i.scdn.co/image/ab67706f000000029c6bb1b51b9b8a7fb809fce0",
   "length": 85,
   "tracks": [
     {
-      "name": "Never Ending Song",
-      "artist": "Conan Gray",
-      "length": "2:35"
+      "name": "Home To Another One",
+      "artist": "Madison Beer",
+      "length": "2:29"
+    },
+    {
+      "name": "That Part",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:54"
     },
     {
       "name": "Dance The Night (From Barbie The Album)",
@@ -20,19 +25,9 @@
       "length": "3:05"
     },
     {
-      "name": "Don't Forget About Me",
-      "artist": "d4vd",
-      "length": "2:29"
-    },
-    {
-      "name": "That Part",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:54"
-    },
-    {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
+      "name": "Never Ending Song",
+      "artist": "Conan Gray",
+      "length": "2:35"
     },
     {
       "name": "Mourning",
@@ -40,9 +35,19 @@
       "length": "2:27"
     },
     {
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
       "name": "Satellite",
       "artist": "Harry Styles",
       "length": "3:38"
+    },
+    {
+      "name": "Don't Forget About Me",
+      "artist": "d4vd",
+      "length": "2:29"
     },
     {
       "name": "Hits Different",
@@ -55,9 +60,19 @@
       "length": "2:41"
     },
     {
+      "name": "Self Destruction Mode",
+      "artist": "The Chainsmokers, bludnymph",
+      "length": "2:27"
+    },
+    {
       "name": "Hero",
       "artist": "Alan Walker, Sasha Alex Sloan",
       "length": "2:55"
+    },
+    {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
     },
     {
       "name": "RUNAWAY",
@@ -65,19 +80,9 @@
       "length": "2:23"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
       "name": "Say Yes To Heaven",
       "artist": "Lana Del Rey",
       "length": "3:29"
-    },
-    {
-      "name": "Haven't You Ever Been In Love Before?",
-      "artist": "Lewis Capaldi",
-      "length": "3:50"
     },
     {
       "name": "Never Felt So Alone",
@@ -85,34 +90,14 @@
       "length": "2:40"
     },
     {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
       "artist": "Charlie Puth, Dan + Shay",
       "length": "2:45"
-    },
-    {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
-    },
-    {
-      "name": "Ant Pile",
-      "artist": "Dominic Fike",
-      "length": "2:06"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
     },
     {
       "name": "Meltdown",
@@ -120,14 +105,24 @@
       "length": "2:33"
     },
     {
-      "name": "Side Effects",
-      "artist": "Becky Hill, Lewis Thompson",
-      "length": "2:33"
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
     },
     {
-      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
-      "length": "2:55"
+      "name": "Haven't You Ever Been In Love Before?",
+      "artist": "Lewis Capaldi",
+      "length": "3:50"
+    },
+    {
+      "name": "Glue Song",
+      "artist": "beabadoobee",
+      "length": "2:15"
+    },
+    {
+      "name": "Fictional",
+      "artist": "Khloe Rose",
+      "length": "3:43"
     },
     {
       "name": "Fell In Love",
@@ -140,6 +135,51 @@
       "length": "3:09"
     },
     {
+      "name": "I like u",
+      "artist": "Tove Lo",
+      "length": "3:10"
+    },
+    {
+      "name": "Side Effects",
+      "artist": "Becky Hill, Lewis Thompson",
+      "length": "2:33"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
+      "name": "A Year Ago",
+      "artist": "James Arthur",
+      "length": "2:50"
+    },
+    {
+      "name": "Ant Pile",
+      "artist": "Dominic Fike",
+      "length": "2:06"
+    },
+    {
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
+      "length": "2:55"
+    },
+    {
+      "name": "Queencard",
+      "artist": "(G)I-DLE",
+      "length": "2:41"
+    },
+    {
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
+      "length": "3:05"
+    },
+    {
       "name": "Chemical",
       "artist": "Post Malone",
       "length": "3:04"
@@ -150,11 +190,6 @@
       "length": "3:39"
     },
     {
-      "name": "A Year Ago",
-      "artist": "James Arthur",
-      "length": "2:50"
-    },
-    {
       "name": "american jesus",
       "artist": "Nessa Barrett",
       "length": "2:48"
@@ -163,11 +198,6 @@
       "name": "Only Love Can Save Us Now",
       "artist": "Kesha",
       "length": "2:34"
-    },
-    {
-      "name": "Alone (with Nicki Minaj)",
-      "artist": "Kim Petras, Nicki Minaj",
-      "length": "3:05"
     },
     {
       "name": "Baby Don't Hurt Me",
@@ -195,39 +225,19 @@
       "length": "3:29"
     },
     {
-      "name": "The Feels",
-      "artist": "Labrinth",
-      "length": "3:17"
-    },
-    {
-      "name": "Francesca",
-      "artist": "Hozier",
-      "length": "4:30"
-    },
-    {
-      "name": "Little Runaway",
-      "artist": "Benson Boone",
-      "length": "3:15"
-    },
-    {
       "name": "LEFT RIGHT",
       "artist": "XG",
       "length": "3:28"
     },
     {
-      "name": "The Planet",
-      "artist": "BTS",
-      "length": "2:58"
-    },
-    {
-      "name": "Eyes Wide Shut",
-      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
-      "length": "2:32"
-    },
-    {
       "name": "Up & Down",
       "artist": "The Chainsmokers, 347aidan",
       "length": "2:34"
+    },
+    {
+      "name": "The Feels",
+      "artist": "Labrinth",
+      "length": "3:17"
     },
     {
       "name": "Lottery (feat. LU KALA)",
@@ -240,14 +250,24 @@
       "length": "2:55"
     },
     {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
-    },
-    {
       "name": "i'm yours",
       "artist": "Isabel LaRosa",
       "length": "2:25"
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
+      "length": "2:32"
+    },
+    {
+      "name": "Little Runaway",
+      "artist": "Benson Boone",
+      "length": "3:15"
+    },
+    {
+      "name": "Favorite Song",
+      "artist": "Toosii",
+      "length": "3:28"
     },
     {
       "name": "OK",
@@ -255,9 +275,14 @@
       "length": "4:23"
     },
     {
-      "name": "doomsday",
-      "artist": "Lizzy McAlpine",
-      "length": "4:28"
+      "name": "Francesca",
+      "artist": "Hozier",
+      "length": "4:30"
+    },
+    {
+      "name": "The Planet",
+      "artist": "BTS",
+      "length": "2:58"
     },
     {
       "name": "Curtains",
@@ -270,9 +295,9 @@
       "length": "3:30"
     },
     {
-      "name": "Can't Tame Her",
-      "artist": "Zara Larsson",
-      "length": "3:16"
+      "name": "doomsday",
+      "artist": "Lizzy McAlpine",
+      "length": "4:28"
     },
     {
       "name": "Be The One (with Khalid)",
@@ -280,9 +305,19 @@
       "length": "3:20"
     },
     {
+      "name": "Can't Tame Her",
+      "artist": "Zara Larsson",
+      "length": "3:16"
+    },
+    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
+    },
+    {
+      "name": "HAPPY",
+      "artist": "NF",
+      "length": "4:02"
     },
     {
       "name": "Flip A Switch.",
@@ -300,39 +335,14 @@
       "length": "2:38"
     },
     {
-      "name": "this is what losing someone feels like",
-      "artist": "JVKE",
-      "length": "2:52"
-    },
-    {
-      "name": "4runner",
-      "artist": "Brenn!",
-      "length": "4:25"
-    },
-    {
-      "name": "Orange Juice - Spotify Singles",
-      "artist": "Noah Kahan",
-      "length": "4:52"
-    },
-    {
       "name": "We Go Down Together (with Khalid)",
       "artist": "Dove Cameron, Khalid",
       "length": "3:04"
     },
     {
-      "name": "Double Fantasy (with Future)",
-      "artist": "The Weeknd, Future",
-      "length": "4:28"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
-    },
-    {
-      "name": "HAPPY",
-      "artist": "NF",
-      "length": "4:02"
     },
     {
       "name": "Eat Your Young",
@@ -350,19 +360,19 @@
       "length": "3:41"
     },
     {
-      "name": "Red Flags",
-      "artist": "Mimi Webb",
-      "length": "2:21"
-    },
-    {
       "name": "Rose Colored Lenses",
       "artist": "Miley Cyrus",
       "length": "3:43"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
+      "name": "4runner",
+      "artist": "Brenn!",
+      "length": "4:25"
+    },
+    {
+      "name": "Orange Juice - Spotify Singles",
+      "artist": "Noah Kahan",
+      "length": "4:52"
     },
     {
       "name": "UNDERSTAND",
@@ -375,9 +385,9 @@
       "length": "3:06"
     },
     {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
+      "name": "Red Flags",
+      "artist": "Mimi Webb",
+      "length": "2:21"
     },
     {
       "name": "If We Ever Broke Up",
@@ -395,19 +405,14 @@
       "length": "4:05"
     },
     {
-      "name": "BABY SAID",
-      "artist": "Måneskin",
-      "length": "2:44"
-    },
-    {
-      "name": "VOID",
-      "artist": "Melanie Martinez",
-      "length": "4:07"
-    },
-    {
       "name": "I'm Not Here To Make Friends",
       "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
       "length": "3:49"
+    },
+    {
+      "name": "BABY SAID",
+      "artist": "Måneskin",
+      "length": "2:44"
     },
     {
       "name": "Love Again",
@@ -415,19 +420,14 @@
       "length": "2:26"
     },
     {
-      "name": "Always",
-      "artist": "Daniel Caesar",
-      "length": "3:45"
-    },
-    {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
-    },
-    {
       "name": "Back To You",
       "artist": "Lost Frequencies, Elley Duhé, X Ambassadors",
       "length": "2:37"
+    },
+    {
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
     }
   ]
 }
