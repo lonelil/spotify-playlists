@@ -2,7 +2,7 @@
   "name": "Pop Rising",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f000000029c6bb1b51b9b8a7fb809fce0",
-  "length": 85,
+  "length": 86,
   "tracks": [
     {
       "name": "Home To Another One",
@@ -20,14 +20,14 @@
       "length": "2:56"
     },
     {
-      "name": "Jaded",
-      "artist": "Miley Cyrus",
-      "length": "3:05"
-    },
-    {
       "name": "Never Ending Song",
       "artist": "Conan Gray",
       "length": "2:35"
+    },
+    {
+      "name": "Jaded",
+      "artist": "Miley Cyrus",
+      "length": "3:05"
     },
     {
       "name": "Mourning",
@@ -85,9 +85,9 @@
       "length": "3:29"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "Daylight",
@@ -98,6 +98,16 @@
       "name": "That’s Not How This Works (feat. Dan + Shay)",
       "artist": "Charlie Puth, Dan + Shay",
       "length": "2:45"
+    },
+    {
+      "name": "Fictional",
+      "artist": "Khloe Rose",
+      "length": "3:43"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
     },
     {
       "name": "Meltdown",
@@ -120,9 +130,9 @@
       "length": "2:15"
     },
     {
-      "name": "Fictional",
-      "artist": "Khloe Rose",
-      "length": "3:43"
+      "name": "A Year Ago",
+      "artist": "James Arthur",
+      "length": "2:50"
     },
     {
       "name": "Fell In Love",
@@ -153,11 +163,6 @@
       "name": "From The Start",
       "artist": "Laufey",
       "length": "2:49"
-    },
-    {
-      "name": "A Year Ago",
-      "artist": "James Arthur",
-      "length": "2:50"
     },
     {
       "name": "Ant Pile",
