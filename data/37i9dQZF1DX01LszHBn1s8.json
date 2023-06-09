@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000027458926f373065997b8113b1",
+  "art": "https://i.scdn.co/image/ab67706f00000002071d9a3760c31ead458eba3d",
   "length": 100,
   "tracks": [
+    {
+      "name": "Sprinter",
+      "artist": "Dave, Central Cee",
+      "length": "3:49"
+    },
     {
       "name": "Say Yes To Heaven - Sped Up",
       "artist": "Lana Del Rey",
@@ -20,6 +25,16 @@
       "length": "1:00"
     },
     {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
+    },
+    {
+      "name": "Josefin",
+      "artist": "Albin Lee Meldau",
+      "length": "3:41"
+    },
+    {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
@@ -30,14 +45,14 @@
       "length": "4:26"
     },
     {
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
       "name": "This Is The Life",
       "artist": "Amy Macdonald",
       "length": "3:04"
-    },
-    {
-      "name": "Karma (feat. Ice Spice)",
-      "artist": "Taylor Swift, Ice Spice",
-      "length": "3:21"
     },
     {
       "name": "Company",
@@ -53,11 +68,6 @@
       "name": "Padam Padam",
       "artist": "Kylie Minogue",
       "length": "2:46"
-    },
-    {
-      "name": "Josefin",
-      "artist": "Albin Lee Meldau",
-      "length": "3:41"
     },
     {
       "name": "Keep Dat Nigga",
@@ -90,9 +100,24 @@
       "length": "2:55"
     },
     {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
+    {
       "name": "Tattoo",
       "artist": "Loreen",
       "length": "3:03"
+    },
+    {
+      "name": "sdp interlude",
+      "artist": "Travis Scott",
+      "length": "3:11"
+    },
+    {
+      "name": "Snow Angel",
+      "artist": "Reneé Rapp",
+      "length": "3:35"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -475,34 +500,9 @@
       "length": "2:25"
     },
     {
-      "name": "sdp interlude",
-      "artist": "Travis Scott",
-      "length": "3:11"
-    },
-    {
       "name": "novocaine",
       "artist": "GenriX, CORBAL, Shiloh Dynasty",
       "length": "3:15"
-    },
-    {
-      "name": "Mother",
-      "artist": "Meghan Trainor",
-      "length": "2:27"
-    },
-    {
-      "name": "Under Pressure - Remastered 2011",
-      "artist": "Queen, David Bowie",
-      "length": "4:08"
-    },
-    {
-      "name": "Don't Hate Me",
-      "artist": "Lola Young",
-      "length": "2:42"
-    },
-    {
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "artist": "Don Toliver, Justin Bieber, Future",
-      "length": "3:58"
     }
   ]
 }
