@@ -1,13 +1,13 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000020aeffe3c70cc3b633199a005",
-  "length": 70,
+  "art": "https://i.scdn.co/image/ab67706f00000002208eb408e387c8e8dfcd5e18",
+  "length": 76,
   "tracks": [
     {
-      "name": "RUNAWAY",
-      "artist": "OneRepublic",
-      "length": "2:23"
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
     },
     {
       "name": "i hate love (feat. Steve Martin)",
@@ -15,14 +15,34 @@
       "length": "3:33"
     },
     {
+      "name": "The Show",
+      "artist": "Niall Horan",
+      "length": "3:11"
+    },
+    {
+      "name": "The Feeling",
+      "artist": "Lost Frequencies",
+      "length": "2:33"
+    },
+    {
+      "name": "Seasons",
+      "artist": "Bebe Rexha, Dolly Parton",
+      "length": "3:23"
+    },
+    {
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "artist": "Shawn Mendes",
+      "length": "3:49"
+    },
+    {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
     },
     {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
+      "name": "For You",
+      "artist": "Matteo Bocelli",
+      "length": "3:13"
     },
     {
       "name": "Dance The Night (From Barbie The Album)",
@@ -35,9 +55,54 @@
       "length": "3:30"
     },
     {
+      "name": "Glory Days",
+      "artist": "Gabby Barrett",
+      "length": "2:42"
+    },
+    {
+      "name": "RUNAWAY",
+      "artist": "OneRepublic",
+      "length": "2:23"
+    },
+    {
+      "name": "When I Get There",
+      "artist": "P!nk",
+      "length": "3:20"
+    },
+    {
+      "name": "Don't Forget Me",
+      "artist": "Dermot Kennedy",
+      "length": "3:10"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
+    {
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "length": "3:39"
+    },
+    {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
+      "name": "Cheat (feat. JoJo)",
+      "artist": "Mahalia, JoJo",
+      "length": "3:22"
+    },
+    {
       "name": "Queen of New York City",
       "artist": "Matchbox Twenty",
       "length": "3:32"
+    },
+    {
+      "name": "I'll Be Seeing You",
+      "artist": "Iam Tongi",
+      "length": "4:45"
     },
     {
       "name": "Hits Different",
@@ -50,34 +115,19 @@
       "length": "3:39"
     },
     {
-      "name": "Stand By Me (feat. Morgan Wallen)",
-      "artist": "Lil Durk, Morgan Wallen",
-      "length": "3:39"
-    },
-    {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
-    },
-    {
       "name": "The Journey",
       "artist": "H.E.R.",
       "length": "4:22"
     },
     {
-      "name": "Seasons",
-      "artist": "Bebe Rexha, Dolly Parton",
-      "length": "3:23"
-    },
-    {
-      "name": "I'll Be Seeing You",
-      "artist": "Iam Tongi",
-      "length": "4:45"
-    },
-    {
       "name": "UNHEALTHY (feat. Shania Twain)",
       "artist": "Anne-Marie, Shania Twain",
       "length": "2:29"
+    },
+    {
+      "name": "A Symptom Of Being Human",
+      "artist": "Shinedown",
+      "length": "4:08"
     },
     {
       "name": "Alright",
@@ -105,11 +155,6 @@
       "length": "3:50"
     },
     {
-      "name": "Francesca",
-      "artist": "Hozier",
-      "length": "4:30"
-    },
-    {
       "name": "Tennessee Orange",
       "artist": "Megan Moroney",
       "length": "3:43"
@@ -118,11 +163,6 @@
       "name": "Life Goes On (feat. Luke Combs)",
       "artist": "d Sheeran, Luke Combs",
       "length": "3:30"
-    },
-    {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
     },
     {
       "name": "Chemical",
@@ -148,11 +188,6 @@
       "name": "I'll Follow",
       "artist": "ROZES",
       "length": "2:52"
-    },
-    {
-      "name": "Haven't You Ever Been In Love Before?",
-      "artist": "Lewis Capaldi",
-      "length": "3:50"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -303,11 +338,6 @@
       "name": "I Wanna Dance With Somebody - Who Loves Me",
       "artist": "Smith & Thell",
       "length": "3:23"
-    },
-    {
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "artist": "Miley Cyrus, Brandi Carlile",
-      "length": "3:51"
     },
     {
       "name": "My Stupid Heart",

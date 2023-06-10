@@ -1,18 +1,13 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002bbeeab3604bccfdd5d50440e",
+  "art": "https://i.scdn.co/image/ab67706f00000002ab6637105b0c273b24596ddb",
   "length": 100,
   "tracks": [
     {
-      "name": "Karma (feat. Ice Spice)",
-      "artist": "Taylor Swift, Ice Spice",
-      "length": "3:21"
-    },
-    {
-      "name": "Home To Another One",
-      "artist": "Madison Beer",
-      "length": "2:29"
+      "name": "Snow Angel",
+      "artist": "Reneé Rapp",
+      "length": "3:35"
     },
     {
       "name": "hotline (edit)",
@@ -20,9 +15,14 @@
       "length": "1:00"
     },
     {
-      "name": "Popular (with Playboi Carti & Madonna)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
+      "name": "Angel (From Barbie The Album)",
+      "artist": "PinkPantheress",
+      "length": "2:03"
+    },
+    {
+      "name": "Home To Another One",
+      "artist": "Madison Beer",
+      "length": "2:29"
     },
     {
       "name": "Area Codes",
@@ -30,9 +30,19 @@
       "length": "2:19"
     },
     {
-      "name": "SOLO",
-      "artist": "JENNIE",
-      "length": "2:49"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
+    },
+    {
+      "name": "Never Grow Up",
+      "artist": "Niall Horan",
+      "length": "3:29"
+    },
+    {
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
     },
     {
       "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
@@ -40,9 +50,59 @@
       "length": "3:00"
     },
     {
+      "name": "You Belong With Me",
+      "artist": "Bellah Mae",
+      "length": "3:26"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
+      "name": "Texas (feat. Maren Morris)",
+      "artist": "Jessie Murph, Maren Morris",
+      "length": "3:18"
+    },
+    {
+      "name": "Karma (feat. Ice Spice)",
+      "artist": "Taylor Swift, Ice Spice",
+      "length": "3:21"
+    },
+    {
+      "name": "Makeba",
+      "artist": "Jain",
+      "length": "4:08"
+    },
+    {
+      "name": "World Class Sinner / I’m A Freak",
+      "artist": "Lily-Rose Depp",
+      "length": "3:19"
+    },
+    {
+      "name": "SOLO",
+      "artist": "JENNIE",
+      "length": "2:49"
+    },
+    {
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "artist": "Shawn Mendes",
+      "length": "3:49"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
       "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
       "artist": "ZAYN, Taylor Swift",
       "length": "4:07"
+    },
+    {
+      "name": "Kiss It Better",
+      "artist": "Rihanna",
+      "length": "4:13"
     },
     {
       "name": "Never Ending Song",
@@ -65,19 +125,19 @@
       "length": "3:54"
     },
     {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "The Show",
+      "artist": "Niall Horan",
+      "length": "3:11"
     },
     {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
+    },
+    {
+      "name": "Blame Brett",
+      "artist": "The Beaches",
+      "length": "2:56"
     },
     {
       "name": "Never Felt So Alone",
@@ -90,11 +150,6 @@
       "length": "4:16"
     },
     {
-      "name": "Makeba",
-      "artist": "Jain",
-      "length": "4:08"
-    },
-    {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
@@ -103,6 +158,11 @@
       "name": "american jesus",
       "artist": "Nessa Barrett",
       "length": "2:48"
+    },
+    {
+      "name": "Come Home",
+      "artist": "Thomas Day",
+      "length": "3:18"
     },
     {
       "name": "Satellite",
@@ -118,6 +178,16 @@
       "name": "That Part",
       "artist": "Lauren Spencer Smith",
       "length": "2:54"
+    },
+    {
+      "name": "You Could Start A Cult",
+      "artist": "Niall Horan",
+      "length": "3:20"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "if i were a fish (feat. Olivia Barton)",
@@ -143,11 +213,6 @@
       "name": "Fictional",
       "artist": "Khloe Rose",
       "length": "3:43"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
     },
     {
       "name": "Dog Days Are Over",
@@ -215,11 +280,6 @@
       "length": "3:47"
     },
     {
-      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "artist": "Kodak Black, NLE Choppa, Jimin, JVKE, Muni Long",
-      "length": "2:55"
-    },
-    {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
       "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
       "length": "2:46"
@@ -245,11 +305,6 @@
       "length": "2:11"
     },
     {
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "artist": "Halle",
-      "length": "3:34"
-    },
-    {
       "name": "The Feels",
       "artist": "Labrinth",
       "length": "3:17"
@@ -258,11 +313,6 @@
       "name": "Enchanted",
       "artist": "Taylor Swift",
       "length": "5:52"
-    },
-    {
-      "name": "Meltdown",
-      "artist": "Niall Horan",
-      "length": "2:33"
     },
     {
       "name": "Hare Hare",
@@ -290,16 +340,6 @@
       "length": "3:59"
     },
     {
-      "name": "When I'm Gone",
-      "artist": "Johnny Orlando, Ali Gatie",
-      "length": "2:20"
-    },
-    {
-      "name": "Better People to Leave on Read",
-      "artist": "Emei",
-      "length": "2:11"
-    },
-    {
       "name": "VOID",
       "artist": "Melanie Martinez",
       "length": "4:07"
@@ -318,11 +358,6 @@
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
-    },
-    {
-      "name": "You",
-      "artist": "Ari Abdul",
-      "length": "2:30"
     },
     {
       "name": "Nonsense",
@@ -355,11 +390,6 @@
       "length": "3:26"
     },
     {
-      "name": "Break Free",
-      "artist": "Ariana Grande, Zedd",
-      "length": "3:34"
-    },
-    {
       "name": "Kill Em With Kindness",
       "artist": "Selena Gomez",
       "length": "3:37"
@@ -373,11 +403,6 @@
       "name": "Apocalypse",
       "artist": "Cigarettes After Sex",
       "length": "4:50"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
     },
     {
       "name": "Ring",
@@ -408,6 +433,11 @@
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
+    },
+    {
+      "name": "Here With Me",
+      "artist": "d4vd",
+      "length": "4:02"
     },
     {
       "name": "Sure Thing",
@@ -470,39 +500,9 @@
       "length": "3:29"
     },
     {
-      "name": "Heart To Heart",
-      "artist": "Mac DeMarco",
-      "length": "3:31"
-    },
-    {
       "name": "Mockingbird",
       "artist": "Eminem",
       "length": "4:10"
-    },
-    {
-      "name": "dumb dumb",
-      "artist": "mazie",
-      "length": "2:05"
-    },
-    {
-      "name": "Teenage Dream",
-      "artist": "Stephen Dawes",
-      "length": "2:57"
-    },
-    {
-      "name": "Space Song",
-      "artist": "Beach House",
-      "length": "5:20"
-    },
-    {
-      "name": "死ぬのがいいわ",
-      "artist": "Fujii Kaze",
-      "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
     }
   ]
 }
