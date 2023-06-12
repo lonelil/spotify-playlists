@@ -40,7 +40,7 @@
       "length": "3:29"
     },
     {
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "artist": "The Weeknd, Playboi Carti, Madonna",
       "length": "3:35"
     },
@@ -98,6 +98,11 @@
       "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
       "artist": "ZAYN, Taylor Swift",
       "length": "4:07"
+    },
+    {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
     },
     {
       "name": "Kiss It Better",
@@ -498,11 +503,6 @@
       "name": "golden hour",
       "artist": "JVKE",
       "length": "3:29"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "length": "4:10"
     }
   ]
 }
