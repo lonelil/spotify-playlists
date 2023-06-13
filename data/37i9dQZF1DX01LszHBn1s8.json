@@ -1,9 +1,39 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002071d9a3760c31ead458eba3d",
+  "art": "https://i.scdn.co/image/ab67706f00000002084538b560dfd0cc137e9ae4",
   "length": 100,
   "tracks": [
+    {
+      "name": "Sleep Well",
+      "artist": "d4vd",
+      "length": "2:55"
+    },
+    {
+      "name": "Boy's a Liar Pt. 2",
+      "artist": "PinkPantheress, Ice Spice",
+      "length": "2:11"
+    },
+    {
+      "name": "#miles",
+      "artist": "skaiwater",
+      "length": "1:55"
+    },
+    {
+      "name": "WORTHLESS",
+      "artist": "d4vd",
+      "length": "2:43"
+    },
+    {
+      "name": "Looking Out for You",
+      "artist": "Joy Again",
+      "length": "2:59"
+    },
+    {
+      "name": "Don't Forget About Me",
+      "artist": "d4vd",
+      "length": "2:29"
+    },
     {
       "name": "Sprinter",
       "artist": "Dave, Central Cee",
@@ -20,9 +50,29 @@
       "length": "3:37"
     },
     {
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
+      "name": "World Class Sinner / I’m A Freak",
+      "artist": "Lily-Rose Depp",
+      "length": "3:19"
+    },
+    {
       "name": "hotline (edit)",
       "artist": "Billie Eilish",
       "length": "1:00"
+    },
+    {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
+    },
+    {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
     },
     {
       "name": "Dial Drunk",
@@ -35,24 +85,14 @@
       "length": "3:41"
     },
     {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
+      "name": "Keep Dat Nigga",
+      "artist": "Icandy",
+      "length": "2:18"
     },
     {
       "name": "My Barn My Rules",
       "artist": "MCR-T, horsegiirL",
       "length": "4:26"
-    },
-    {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
     },
     {
       "name": "Company",
@@ -68,11 +108,6 @@
       "name": "Padam Padam",
       "artist": "Kylie Minogue",
       "length": "2:46"
-    },
-    {
-      "name": "Keep Dat Nigga",
-      "artist": "Icandy",
-      "length": "2:18"
     },
     {
       "name": "Like This (feat. Eve)",
@@ -385,11 +420,6 @@
       "length": "3:45"
     },
     {
-      "name": "Boy's a Liar Pt. 2",
-      "artist": "PinkPantheress, Ice Spice",
-      "length": "2:11"
-    },
-    {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
@@ -473,36 +503,6 @@
       "name": "I Know",
       "artist": "Kanii",
       "length": "2:32"
-    },
-    {
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "artist": "Lil Uzi Vert, sped up nightcore, ARIZONATEARS",
-      "length": "2:43"
-    },
-    {
-      "name": "Rainbow",
-      "artist": "Jesse®",
-      "length": "2:56"
-    },
-    {
-      "name": "Blue Hair",
-      "artist": "TV Girl",
-      "length": "3:37"
-    },
-    {
-      "name": "Resonance",
-      "artist": "Home",
-      "length": "3:32"
-    },
-    {
-      "name": "missin something",
-      "artist": "Zach Templar",
-      "length": "2:25"
-    },
-    {
-      "name": "novocaine",
-      "artist": "GenriX, CORBAL, Shiloh Dynasty",
-      "length": "3:15"
     }
   ]
 }
