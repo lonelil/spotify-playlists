@@ -60,11 +60,6 @@
       "length": "2:41"
     },
     {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
-    },
-    {
       "name": "Never Ending Song",
       "artist": "Conan Gray",
       "length": "2:35"
@@ -80,9 +75,9 @@
       "length": "3:35"
     },
     {
-      "name": "VULGAR (with Madonna)",
-      "artist": "Sam Smith, Madonna",
-      "length": "2:35"
+      "name": "Take Two",
+      "artist": "BTS",
+      "length": "3:49"
     },
     {
       "name": "Hits Different",
@@ -90,14 +85,19 @@
       "length": "3:54"
     },
     {
-      "name": "Love At First Fight",
-      "artist": "LANY",
-      "length": "3:12"
-    },
-    {
       "name": "Self Destruction Mode",
       "artist": "The Chainsmokers, bludnymph",
       "length": "2:27"
+    },
+    {
+      "name": "VULGAR (with Madonna)",
+      "artist": "Sam Smith, Madonna",
+      "length": "2:35"
+    },
+    {
+      "name": "Love At First Fight",
+      "artist": "LANY",
+      "length": "3:12"
     },
     {
       "name": "Hero",
@@ -105,14 +105,19 @@
       "length": "2:55"
     },
     {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
+      "name": "Fictional",
+      "artist": "Khloe Rose",
+      "length": "3:43"
     },
     {
       "name": "RUNAWAY",
       "artist": "OneRepublic",
       "length": "2:23"
+    },
+    {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
     },
     {
       "name": "Dial Drunk",
@@ -123,11 +128,6 @@
       "name": "Say Yes To Heaven",
       "artist": "Lana Del Rey",
       "length": "3:29"
-    },
-    {
-      "name": "Fictional",
-      "artist": "Khloe Rose",
-      "length": "3:43"
     },
     {
       "name": "Don't Forget About Me",

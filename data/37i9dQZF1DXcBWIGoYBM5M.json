@@ -5,9 +5,9 @@
   "length": 50,
   "tracks": [
     {
-      "name": "Dance The Night (From Barbie The Album)",
-      "artist": "Dua Lipa",
-      "length": "2:56"
+      "name": "All My Life (feat. J. Cole)",
+      "artist": "Lil Durk, J. Cole",
+      "length": "3:43"
     },
     {
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
@@ -15,9 +15,9 @@
       "length": "3:35"
     },
     {
-      "name": "All My Life (feat. J. Cole)",
-      "artist": "Lil Durk, J. Cole",
-      "length": "3:43"
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -25,19 +25,9 @@
       "length": "3:59"
     },
     {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
-    },
-    {
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
-      "length": "3:39"
     },
     {
       "name": "Kill Bill",
@@ -45,14 +35,29 @@
       "length": "2:33"
     },
     {
-      "name": "WHERE SHE GOES",
-      "artist": "Bad Bunny",
-      "length": "3:51"
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
+      "length": "3:39"
     },
     {
       "name": "As It Was",
       "artist": "Harry Styles",
       "length": "2:47"
+    },
+    {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
+    },
+    {
+      "name": "WHERE SHE GOES",
+      "artist": "Bad Bunny",
+      "length": "3:51"
+    },
+    {
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -68,11 +73,6 @@
       "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
     },
     {
       "name": "Take Two",
@@ -105,14 +105,9 @@
       "length": "3:41"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
+      "name": "Area Codes",
+      "artist": "Kali",
       "length": "2:19"
-    },
-    {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
     },
     {
       "name": "Never Felt So Alone",
@@ -120,9 +115,19 @@
       "length": "2:40"
     },
     {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
       "name": "Ella Baila Sola",
       "artist": "slabon Armado, Peso Pluma",
       "length": "2:45"
+    },
+    {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
     },
     {
       "name": "golden hour",
@@ -160,11 +165,6 @@
       "length": "3:45"
     },
     {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
-    },
-    {
       "name": "BESO",
       "artist": "ROSALÍA, Rauw Alejandro",
       "length": "3:14"
@@ -180,11 +180,6 @@
       "length": "3:32"
     },
     {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
-    },
-    {
       "name": "I'm Good (Blue)",
       "artist": "David Guetta, Bebe Rexha",
       "length": "2:55"
@@ -195,14 +190,19 @@
       "length": "2:28"
     },
     {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
-    },
-    {
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
+    },
+    {
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
     },
     {
       "name": "ceilings",
@@ -245,7 +245,7 @@
       "length": "2:43"
     },
     {
-      "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "artist": "Kodak Black, NLE Choppa, Jimin, Fast & Furious: The Fast Saga, JVKE, Muni Long",
       "length": "2:55"
     },
