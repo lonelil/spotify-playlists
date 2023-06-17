@@ -15,9 +15,24 @@
       "length": "1:00"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
       "name": "Angel (From Barbie The Album)",
       "artist": "PinkPantheress",
       "length": "2:03"
+    },
+    {
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
+    },
+    {
+      "name": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "length": "2:58"
     },
     {
       "name": "Home To Another One",
@@ -25,14 +40,14 @@
       "length": "2:29"
     },
     {
+      "name": "Don't Say Love",
+      "artist": "Leigh-Anne",
+      "length": "3:00"
+    },
+    {
       "name": "Area Codes",
       "artist": "Kali",
       "length": "2:19"
-    },
-    {
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "artist": "Dominic Fike",
-      "length": "3:06"
     },
     {
       "name": "Never Grow Up",
@@ -60,9 +75,9 @@
       "length": "3:29"
     },
     {
-      "name": "Texas (feat. Maren Morris)",
-      "artist": "Jessie Murph, Maren Morris",
-      "length": "3:18"
+      "name": "Cowboys And Angels",
+      "artist": "Jessie Murph",
+      "length": "2:13"
     },
     {
       "name": "Karma (feat. Ice Spice)",
@@ -80,9 +95,9 @@
       "length": "3:19"
     },
     {
-      "name": "SOLO",
-      "artist": "JENNIE",
-      "length": "2:49"
+      "name": "It Wasn't Me - Sped Up",
+      "artist": "Shaggy, Rik Rok, Kuya Magik, Speed Radio",
+      "length": "3:11"
     },
     {
       "name": "WHAT THE HELL ARE WE DYING FOR ?",
@@ -98,6 +113,11 @@
       "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
       "artist": "ZAYN, Taylor Swift",
       "length": "4:07"
+    },
+    {
+      "name": "Radio",
+      "artist": "Lana Del Rey",
+      "length": "3:34"
     },
     {
       "name": "Dial Drunk",
@@ -140,6 +160,11 @@
       "length": "3:11"
     },
     {
+      "name": "405",
+      "artist": "Gracie Abrams",
+      "length": "3:01"
+    },
+    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
@@ -170,8 +195,18 @@
       "length": "2:48"
     },
     {
+      "name": "SOLO",
+      "artist": "JENNIE",
+      "length": "2:49"
+    },
+    {
       "name": "Come Home",
       "artist": "Thomas Day",
+      "length": "3:18"
+    },
+    {
+      "name": "Texas (feat. Maren Morris)",
+      "artist": "Jessie Murph, Maren Morris",
       "length": "3:18"
     },
     {
@@ -190,16 +225,6 @@
       "length": "2:54"
     },
     {
-      "name": "You Could Start A Cult",
-      "artist": "Niall Horan",
-      "length": "3:20"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
-    },
-    {
       "name": "if i were a fish (feat. Olivia Barton)",
       "artist": "corook, Olivia Barton",
       "length": "2:21"
@@ -215,11 +240,6 @@
       "length": "2:42"
     },
     {
-      "name": "1-800-GOT-STRESS",
-      "artist": "Devon Cole",
-      "length": "3:09"
-    },
-    {
       "name": "Fictional",
       "artist": "Khloe Rose",
       "length": "3:43"
@@ -233,11 +253,6 @@
       "name": "labour",
       "artist": "Paris Paloma",
       "length": "3:57"
-    },
-    {
-      "name": "Cowboys And Angels",
-      "artist": "Jessie Murph",
-      "length": "2:13"
     },
     {
       "name": "What It Is (Solo Version)",
@@ -285,11 +300,6 @@
       "length": "3:08"
     },
     {
-      "name": "Portrait of a Blank Slate",
-      "artist": "Lovejoy",
-      "length": "3:47"
-    },
-    {
       "name": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
       "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
       "length": "2:46"
@@ -325,11 +335,6 @@
       "length": "5:52"
     },
     {
-      "name": "Hare Hare",
-      "artist": "TWICE",
-      "length": "3:23"
-    },
-    {
       "name": "Lotta True Crime",
       "artist": "Penelope Scott",
       "length": "3:22"
@@ -360,11 +365,6 @@
       "length": "1:35"
     },
     {
-      "name": "Sleep Well",
-      "artist": "d4vd",
-      "length": "2:55"
-    },
-    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -393,11 +393,6 @@
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
-    },
-    {
-      "name": "Paris, Texas (feat. SYML)",
-      "artist": "Lana Del Rey, SYML",
-      "length": "3:26"
     },
     {
       "name": "Kill Em With Kindness",
@@ -503,6 +498,11 @@
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "artist": "Metro Boomin, The Weeknd, 21 Savage",
       "length": "3:41"
+    },
+    {
+      "name": "golden hour",
+      "artist": "JVKE",
+      "length": "3:29"
     }
   ]
 }
