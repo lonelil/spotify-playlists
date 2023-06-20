@@ -110,16 +110,6 @@
       "length": "3:14"
     },
     {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
-    },
-    {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
-    },
-    {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "artist": "Stephen Sanchez, Em Beihold",
       "length": "2:56"
@@ -133,6 +123,16 @@
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
+    },
+    {
+      "name": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "length": "2:40"
+    },
+    {
+      "name": "Take Two",
+      "artist": "BTS",
+      "length": "3:49"
     },
     {
       "name": "golden hour",
@@ -240,14 +240,14 @@
       "length": "2:03"
     },
     {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
-    },
-    {
       "name": "Sprinter",
       "artist": "Dave, Central Cee",
       "length": "3:49"
+    },
+    {
+      "name": "Tattoo",
+      "artist": "Loreen",
+      "length": "3:03"
     },
     {
       "name": "Bones",
