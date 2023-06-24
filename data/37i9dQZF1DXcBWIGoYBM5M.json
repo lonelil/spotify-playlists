@@ -1,23 +1,13 @@
 {
   "name": "Today's Top Hits ",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000024a7b7b828b33d4ba83a63a27",
+  "art": "https://i.scdn.co/image/ab67706f0000000226c3f0dcdcd7eac05eaa2a6c",
   "length": 50,
   "tracks": [
     {
-      "name": "Attention",
-      "artist": "Doja Cat",
-      "length": "4:37"
-    },
-    {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
+      "length": "3:39"
     },
     {
       "name": "Flowers",
@@ -25,9 +15,9 @@
       "length": "3:20"
     },
     {
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
-      "length": "3:39"
+      "name": "Attention",
+      "artist": "Doja Cat",
+      "length": "4:37"
     },
     {
       "name": "Dance The Night (From Barbie The Album)",
@@ -35,14 +25,24 @@
       "length": "2:56"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
     },
     {
       "name": "WHERE SHE GOES",
       "artist": "Bad Bunny",
       "length": "3:51"
+    },
+    {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
     },
     {
       "name": "As It Was",
@@ -55,19 +55,14 @@
       "length": "3:24"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
     },
     {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
+      "name": "Oh U Went (feat. Drake)",
+      "artist": "Young Thug, Drake",
+      "length": "3:05"
     },
     {
       "name": "All My Life (feat. J. Cole)",
@@ -75,9 +70,24 @@
       "length": "3:43"
     },
     {
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "artist": "Bizarrap, Rauw Alejandro",
+      "length": "3:11"
+    },
+    {
       "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
+    },
+    {
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
     },
     {
       "name": "Baby Don't Hurt Me",
@@ -85,9 +95,19 @@
       "length": "2:20"
     },
     {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
       "name": "Chemical",
       "artist": "Post Malone",
       "length": "3:04"
+    },
+    {
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
     },
     {
       "name": "Daylight",
@@ -95,14 +115,14 @@
       "length": "3:32"
     },
     {
+      "name": "Ella Baila Sola",
+      "artist": "slabon Armado, Peso Pluma",
+      "length": "2:45"
+    },
+    {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "artist": "Metro Boomin, The Weeknd, 21 Savage",
       "length": "3:41"
-    },
-    {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
     },
     {
       "name": "Eyes Closed",
@@ -115,19 +135,14 @@
       "length": "2:56"
     },
     {
-      "name": "Ella Baila Sola",
-      "artist": "slabon Armado, Peso Pluma",
-      "length": "2:45"
+      "name": "Snooze",
+      "artist": "SZA",
+      "length": "3:21"
     },
     {
-      "name": "Never Felt So Alone",
-      "artist": "Labrinth",
-      "length": "2:40"
-    },
-    {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "golden hour",
@@ -135,39 +150,14 @@
       "length": "3:29"
     },
     {
-      "name": "Snooze",
-      "artist": "SZA",
-      "length": "3:21"
-    },
-    {
       "name": "Players",
       "artist": "Coi Leray",
       "length": "2:19"
     },
     {
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "artist": "Bizarrap, Peso Pluma",
-      "length": "3:08"
-    },
-    {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
-      "name": "Anti-Hero",
+      "name": "Cruel Summer",
       "artist": "Taylor Swift",
-      "length": "3:20"
-    },
-    {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
-    },
-    {
-      "name": "BESO",
-      "artist": "ROSALÍA, Rauw Alejandro",
-      "length": "3:14"
+      "length": "2:58"
     },
     {
       "name": "I Ain't Worried",
@@ -175,9 +165,24 @@
       "length": "2:28"
     },
     {
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "artist": "Bizarrap, Peso Pluma",
+      "length": "3:08"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
       "name": "I'm Good (Blue)",
       "artist": "David Guetta, Bebe Rexha",
       "length": "2:55"
+    },
+    {
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "artist": "Metro Boomin, A$AP Rocky, Roisee",
+      "length": "4:16"
     },
     {
       "name": "Moonlight",
@@ -185,14 +190,19 @@
       "length": "3:07"
     },
     {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
+    },
+    {
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
     },
     {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
     },
     {
       "name": "Nonsense",
@@ -200,29 +210,24 @@
       "length": "2:43"
     },
     {
+      "name": "Take Two",
+      "artist": "BTS",
+      "length": "3:49"
+    },
+    {
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
+    },
+    {
+      "name": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "length": "3:51"
+    },
+    {
       "name": "Miracle (with Ellie Goulding)",
       "artist": "Calvin Harris, Ellie Goulding",
       "length": "3:06"
-    },
-    {
-      "name": "Bad Habit",
-      "artist": "Steve Lacy",
-      "length": "3:52"
-    },
-    {
-      "name": "ceilings",
-      "artist": "Lizzy McAlpine",
-      "length": "3:02"
-    },
-    {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
-    },
-    {
-      "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-      "artist": "JVKE, Jimin, Charlie Puth, Muni Long, Fast & Furious: The Fast Saga",
-      "length": "2:56"
     },
     {
       "name": "Unholy (feat. Kim Petras)",
@@ -230,29 +235,24 @@
       "length": "2:36"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
-      "name": "Just Wanna Rock",
-      "artist": "Lil Uzi Vert",
-      "length": "2:03"
-    },
-    {
-      "name": "Sprinter",
-      "artist": "Dave, Central Cee",
-      "length": "3:49"
-    },
-    {
-      "name": "Tattoo",
-      "artist": "Loreen",
-      "length": "3:03"
+      "name": "OMG",
+      "artist": "NewJeans",
+      "length": "3:32"
     },
     {
       "name": "Bones",
       "artist": "Imagine Dragons",
       "length": "2:45"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
+      "name": "Sprinter",
+      "artist": "Dave, Central Cee",
+      "length": "3:49"
     }
   ]
 }

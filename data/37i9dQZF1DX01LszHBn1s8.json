@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000020fa493a2c91d5abd0b0df942",
+  "art": "https://i.scdn.co/image/ab67706f00000002819dae410600760b54d20e49",
   "length": 100,
   "tracks": [
+    {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
     {
       "name": "One Margarita (Margarita Song)",
       "artist": "That Chick Angel, Casa Di, Steve Terrell",
@@ -35,6 +40,11 @@
       "length": "3:35"
     },
     {
+      "name": "Makeba",
+      "artist": "Jain",
+      "length": "4:09"
+    },
+    {
       "name": "hotline (edit)",
       "artist": "Billie Eilish",
       "length": "1:00"
@@ -60,9 +70,19 @@
       "length": "4:21"
     },
     {
+      "name": "Attention",
+      "artist": "Doja Cat",
+      "length": "4:37"
+    },
+    {
       "name": "This Is The Life",
       "artist": "Amy Macdonald",
       "length": "3:04"
+    },
+    {
+      "name": "Company",
+      "artist": "Justin Bieber",
+      "length": "3:28"
     },
     {
       "name": "Sleep Well",
@@ -75,9 +95,9 @@
       "length": "3:33"
     },
     {
-      "name": "Company",
-      "artist": "Justin Bieber",
-      "length": "3:28"
+      "name": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "length": "3:51"
     },
     {
       "name": "Ella Baila Sola",
@@ -483,26 +503,6 @@
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
-    },
-    {
-      "name": "Hey, Mickey!",
-      "artist": "Baby Tate",
-      "length": "1:55"
-    },
-    {
-      "name": "Where Have You Been",
-      "artist": "Rihanna",
-      "length": "4:02"
-    },
-    {
-      "name": "Human",
-      "artist": "Rag'n'Bone Man",
-      "length": "3:20"
-    },
-    {
-      "name": "Where's My Love - Slowed",
-      "artist": "SYML",
-      "length": "4:49"
     }
   ]
 }

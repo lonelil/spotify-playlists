@@ -1,18 +1,13 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002208eb408e387c8e8dfcd5e18",
+  "art": "https://i.scdn.co/image/ab67706f000000022fb421bcbb5df81e7da7315b",
   "length": 65,
   "tracks": [
     {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
-    },
-    {
-      "name": "i hate love (feat. Steve Martin)",
-      "artist": "Kelly Clarkson, Steve Martin",
-      "length": "3:33"
+      "name": "True Babe",
+      "artist": "Gwen Stefani",
+      "length": "3:07"
     },
     {
       "name": "The Feeling",
@@ -20,14 +15,49 @@
       "length": "2:33"
     },
     {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
+    },
+    {
+      "name": "rock hudson",
+      "artist": "Kelly Clarkson",
+      "length": "3:22"
+    },
+    {
       "name": "Seasons",
       "artist": "Bebe Rexha, Dolly Parton",
       "length": "3:23"
     },
     {
+      "name": "Living In A Haze",
+      "artist": "Milky Chance",
+      "length": "2:53"
+    },
+    {
+      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
+      "artist": "Train, Tenille Townes, Bryce Vine",
+      "length": "3:03"
+    },
+    {
+      "name": "Time After Time - Spotify Singles",
+      "artist": "Lennon Stella",
+      "length": "3:39"
+    },
+    {
       "name": "Thank God I Do",
       "artist": "Lauren Daigle",
       "length": "4:18"
+    },
+    {
+      "name": "Lose Control",
+      "artist": "Teddy Swims",
+      "length": "3:30"
+    },
+    {
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "artist": "Olivia Dean, Leon Bridges",
+      "length": "2:56"
     },
     {
       "name": "Stand By Me (feat. Morgan Wallen)",
@@ -40,9 +70,14 @@
       "length": "3:11"
     },
     {
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "artist": "Olivia Dean, Leon Bridges",
-      "length": "2:56"
+      "name": "i hate love (feat. Steve Martin)",
+      "artist": "Kelly Clarkson, Steve Martin",
+      "length": "3:33"
+    },
+    {
+      "name": "Feel Good Too",
+      "artist": "Jason Mraz",
+      "length": "3:59"
     },
     {
       "name": "Fast Car",
@@ -55,19 +90,14 @@
       "length": "2:23"
     },
     {
-      "name": "Padam Padam",
-      "artist": "Kylie Minogue",
-      "length": "2:46"
-    },
-    {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "Wish You The Best",
       "artist": "Lewis Capaldi",
       "length": "3:30"
+    },
+    {
+      "name": "Sandman",
+      "artist": "Tai Verdes",
+      "length": "3:32"
     },
     {
       "name": "When I Get There",
@@ -90,14 +120,29 @@
       "length": "2:56"
     },
     {
+      "name": "HAPPY",
+      "artist": "NF",
+      "length": "4:02"
+    },
+    {
       "name": "Glory Days",
       "artist": "Gabby Barrett",
       "length": "2:42"
     },
     {
-      "name": "WHAT THE HELL ARE WE DYING FOR ?",
-      "artist": "Shawn Mendes",
-      "length": "3:49"
+      "name": "I'll Be Seeing You",
+      "artist": "Iam Tongi",
+      "length": "4:45"
+    },
+    {
+      "name": "Without You",
+      "artist": "Diplo, Elle King",
+      "length": "3:01"
+    },
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "length": "2:46"
     },
     {
       "name": "Same Again (For Love)",
@@ -105,9 +150,9 @@
       "length": "3:19"
     },
     {
-      "name": "Living In A Haze",
-      "artist": "Milky Chance",
-      "length": "2:53"
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "artist": "Shawn Mendes",
+      "length": "3:49"
     },
     {
       "name": "SNAP",
@@ -115,9 +160,9 @@
       "length": "2:59"
     },
     {
-      "name": "For You",
-      "artist": "Matteo Bocelli",
-      "length": "3:13"
+      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
+      "artist": "JP Saxe, Lizzy McAlpine, Tiny Habits",
+      "length": "2:13"
     },
     {
       "name": "Don't Forget Me",
@@ -125,9 +170,24 @@
       "length": "3:10"
     },
     {
-      "name": "HAPPY",
-      "artist": "NF",
-      "length": "4:02"
+      "name": "Tennessee Orange",
+      "artist": "Megan Moroney",
+      "length": "3:43"
+    },
+    {
+      "name": "A Symptom Of Being Human",
+      "artist": "Shinedown",
+      "length": "4:08"
+    },
+    {
+      "name": "Reborn",
+      "artist": "Bishop Briggs",
+      "length": "2:38"
+    },
+    {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
     },
     {
       "name": "Waffle House",
@@ -140,11 +200,6 @@
       "length": "2:42"
     },
     {
-      "name": "I'll Be Seeing You",
-      "artist": "Iam Tongi",
-      "length": "4:45"
-    },
-    {
       "name": "Hits Different",
       "artist": "Taylor Swift",
       "length": "3:54"
@@ -155,11 +210,6 @@
       "length": "2:55"
     },
     {
-      "name": "Calm Down (with Selena Gomez)",
-      "artist": "Rema, Selena Gomez",
-      "length": "3:59"
-    },
-    {
       "name": "Middle Ground",
       "artist": "Maroon 5",
       "length": "3:39"
@@ -168,11 +218,6 @@
       "name": "UNHEALTHY (feat. Shania Twain)",
       "artist": "Anne-Marie, Shania Twain",
       "length": "2:29"
-    },
-    {
-      "name": "A Symptom Of Being Human",
-      "artist": "Shinedown",
-      "length": "4:08"
     },
     {
       "name": "Alright",
@@ -190,14 +235,9 @@
       "length": "3:11"
     },
     {
-      "name": "What More Can I Say",
-      "artist": "Teddy Swims",
-      "length": "2:21"
-    },
-    {
-      "name": "Tennessee Orange",
-      "artist": "Megan Moroney",
-      "length": "3:43"
+      "name": "For You",
+      "artist": "Matteo Bocelli",
+      "length": "3:13"
     },
     {
       "name": "Life Goes On (feat. Luke Combs)",
@@ -210,11 +250,6 @@
       "length": "3:04"
     },
     {
-      "name": "favorite kind of high",
-      "artist": "Kelly Clarkson, David Guetta",
-      "length": "2:55"
-    },
-    {
       "name": "I'll Be",
       "artist": "Céline Dion",
       "length": "3:03"
@@ -223,26 +258,6 @@
       "name": "I'll Follow",
       "artist": "ROZES",
       "length": "2:52"
-    },
-    {
-      "name": "That’s Not How This Works (feat. Dan + Shay)",
-      "artist": "Charlie Puth, Dan + Shay",
-      "length": "2:45"
-    },
-    {
-      "name": "Those Eyes",
-      "artist": "New West",
-      "length": "3:40"
-    },
-    {
-      "name": "Summer Baby",
-      "artist": "Jonas Brothers",
-      "length": "2:41"
-    },
-    {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
     },
     {
       "name": "I Wanna Dance With Somebody - Who Loves Me",
@@ -265,9 +280,9 @@
       "length": "3:57"
     },
     {
-      "name": "Hell N Back",
-      "artist": "Bakar",
-      "length": "3:33"
+      "name": "Stronger (Grey's Anatomy Version)",
+      "artist": "Thunderstorm Artis",
+      "length": "2:59"
     },
     {
       "name": "Last Night",
@@ -290,11 +305,6 @@
       "length": "3:07"
     },
     {
-      "name": "Meltdown",
-      "artist": "Niall Horan",
-      "length": "2:33"
-    },
-    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
@@ -310,19 +320,9 @@
       "length": "3:22"
     },
     {
-      "name": "Stronger (Grey's Anatomy Version)",
-      "artist": "Thunderstorm Artis",
-      "length": "2:59"
-    },
-    {
       "name": "Rollin'",
       "artist": "Blessing Offor",
       "length": "3:18"
-    },
-    {
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "artist": "lle King, Miranda Lambert",
-      "length": "4:05"
     },
     {
       "name": "Run Away to Mars",

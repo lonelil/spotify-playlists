@@ -1,33 +1,18 @@
 {
   "name": "Hot Hits USA",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000024d8390835fd408f6f13f7227",
+  "art": "https://i.scdn.co/image/ab67706f000000020c6b42f5973f69e5fe9a61a4",
   "length": 50,
   "tracks": [
-    {
-      "name": "All My Life (feat. J. Cole)",
-      "artist": "Lil Durk, J. Cole",
-      "length": "3:43"
-    },
-    {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
-    },
     {
       "name": "Attention",
       "artist": "Doja Cat",
       "length": "4:37"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
-    },
-    {
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
-      "length": "3:39"
+      "name": "All My Life (feat. J. Cole)",
+      "artist": "Lil Durk, J. Cole",
+      "length": "3:43"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -35,29 +20,14 @@
       "length": "3:59"
     },
     {
-      "name": "See You Again (feat. Kali Uchis)",
-      "artist": "Tyler, The Creator, Kali Uchis",
-      "length": "3:00"
+      "name": "Oh U Went (feat. Drake)",
+      "artist": "Young Thug, Drake",
+      "length": "3:05"
     },
     {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
-      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-      "artist": "Metro Boomin, A$AP Rocky, Roisee",
-      "length": "4:16"
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
     },
     {
       "name": "Fast Car",
@@ -65,19 +35,64 @@
       "length": "4:25"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
+      "name": "See You Again (feat. Kali Uchis)",
+      "artist": "Tyler, The Creator, Kali Uchis",
+      "length": "3:00"
+    },
+    {
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
+      "length": "3:39"
+    },
+    {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
+    },
+    {
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "artist": "Bizarrap, Rauw Alejandro",
+      "length": "3:11"
+    },
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
+    {
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "length": "3:41"
+    },
+    {
+      "name": "Last Night",
+      "artist": "Morgan Wallen",
+      "length": "2:43"
+    },
+    {
       "name": "Flowers",
       "artist": "Miley Cyrus",
       "length": "3:20"
     },
     {
+      "name": "Tennessee Orange",
+      "artist": "Megan Moroney",
+      "length": "3:43"
+    },
+    {
       "name": "Dial Drunk",
       "artist": "Noah Kahan",
       "length": "3:33"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
     },
     {
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
@@ -90,34 +105,24 @@
       "length": "3:28"
     },
     {
-      "name": "Dance The Night (From Barbie The Album)",
-      "artist": "Dua Lipa",
-      "length": "2:56"
+      "name": "fukumean",
+      "artist": "Gunna",
+      "length": "2:05"
     },
     {
-      "name": "WHERE SHE GOES",
-      "artist": "Bad Bunny",
-      "length": "3:51"
+      "name": "Area Codes",
+      "artist": "Kali",
+      "length": "2:19"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
+      "name": "LUNA",
+      "artist": "Peso Pluma, Junior H",
       "length": "2:43"
-    },
-    {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "artist": "Bizarrap, Peso Pluma",
-      "length": "3:08"
     },
     {
       "name": "Karma",
@@ -125,49 +130,24 @@
       "length": "3:24"
     },
     {
-      "name": "Tennessee Orange",
-      "artist": "Megan Moroney",
-      "length": "3:43"
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "artist": "Metro Boomin, A$AP Rocky, Roisee",
+      "length": "4:16"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
     },
     {
-      "name": "Nonsense",
-      "artist": "Sabrina Carpenter",
-      "length": "2:43"
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
     },
     {
-      "name": "Die For You - Remix",
-      "artist": "The Weeknd, Ariana Grande",
-      "length": "3:52"
-    },
-    {
-      "name": "SLUT ME OUT",
-      "artist": "NLE Choppa",
-      "length": "2:03"
-    },
-    {
-      "name": "Stand By Me (feat. Morgan Wallen)",
-      "artist": "Lil Durk, Morgan Wallen",
-      "length": "3:39"
-    },
-    {
-      "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
-      "artist": "Metro Boomin, Swae Lee, Lil Wayne, Offset",
-      "length": "3:51"
-    },
-    {
-      "name": "Next Thing You Know",
-      "artist": "Jordan Davis",
-      "length": "2:55"
-    },
-    {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
     },
     {
       "name": "Something in the Orange",
@@ -175,24 +155,29 @@
       "length": "3:48"
     },
     {
-      "name": "Princess Diana (with Nicki Minaj)",
-      "artist": "Ice Spice, Nicki Minaj",
-      "length": "2:52"
-    },
-    {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "artist": "Stephen Sanchez, Em Beihold",
       "length": "2:56"
     },
     {
-      "name": "Anti-Hero",
-      "artist": "Taylor Swift",
-      "length": "3:20"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
-      "name": "Ella Baila Sola",
-      "artist": "slabon Armado, Peso Pluma",
-      "length": "2:45"
+      "name": "WHERE SHE GOES",
+      "artist": "Bad Bunny",
+      "length": "3:51"
+    },
+    {
+      "name": "Die For You - Remix",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:52"
+    },
+    {
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "length": "3:39"
     },
     {
       "name": "I Ain't Worried",
@@ -200,24 +185,29 @@
       "length": "2:28"
     },
     {
+      "name": "Next Thing You Know",
+      "artist": "Jordan Davis",
+      "length": "2:55"
+    },
+    {
+      "name": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "length": "2:43"
+    },
+    {
+      "name": "SLUT ME OUT",
+      "artist": "NLE Choppa",
+      "length": "2:03"
+    },
+    {
       "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
-    },
-    {
-      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
-      "artist": "Beyoncé, Kendrick Lamar",
-      "length": "4:20"
+      "name": "Ella Baila Sola",
+      "artist": "slabon Armado, Peso Pluma",
+      "length": "2:45"
     },
     {
       "name": "As It Was",
@@ -225,9 +215,19 @@
       "length": "2:47"
     },
     {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
       "name": "Here With Me",
       "artist": "d4vd",
       "length": "4:02"
+    },
+    {
+      "name": "Escapism.",
+      "artist": "RAYE, 070 Shake",
+      "length": "4:32"
     },
     {
       "name": "golden hour",
@@ -245,14 +245,14 @@
       "length": "3:21"
     },
     {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
       "name": "Just Wanna Rock",
       "artist": "Lil Uzi Vert",
       "length": "2:03"
-    },
-    {
-      "name": "Search & Rescue",
-      "artist": "Drake",
-      "length": "4:32"
     }
   ]
 }

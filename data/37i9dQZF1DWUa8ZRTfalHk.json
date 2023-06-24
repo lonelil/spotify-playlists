@@ -1,18 +1,13 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000020c4745b5e32d982849a37252",
-  "length": 86,
+  "art": "https://i.scdn.co/image/ab67706f00000002fe89cc17e4573025d50af18b",
+  "length": 85,
   "tracks": [
     {
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "artist": "Dominic Fike",
-      "length": "3:06"
-    },
-    {
-      "name": "Mourning",
-      "artist": "Post Malone",
-      "length": "2:27"
+      "name": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "length": "3:51"
     },
     {
       "name": "Home To Another One",
@@ -25,9 +20,9 @@
       "length": "3:38"
     },
     {
-      "name": "Attention",
-      "artist": "Doja Cat",
-      "length": "4:37"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "Jaded",
@@ -35,29 +30,29 @@
       "length": "3:05"
     },
     {
-      "name": "405",
-      "artist": "Gracie Abrams",
-      "length": "3:01"
-    },
-    {
-      "name": "The Show",
-      "artist": "Niall Horan",
-      "length": "3:11"
-    },
-    {
-      "name": "Padam Padam",
-      "artist": "Kylie Minogue",
-      "length": "2:46"
-    },
-    {
-      "name": "Self Destruction Mode",
-      "artist": "The Chainsmokers, bludnymph",
+      "name": "Mourning",
+      "artist": "Post Malone",
       "length": "2:27"
     },
     {
-      "name": "That Part",
-      "artist": "Lauren Spencer Smith",
-      "length": "2:54"
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
+      "name": "Attention",
+      "artist": "Doja Cat",
+      "length": "4:37"
+    },
+    {
+      "name": "King of Hearts",
+      "artist": "Kim Petras",
+      "length": "2:51"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "Dial Drunk",
@@ -65,19 +60,9 @@
       "length": "3:33"
     },
     {
-      "name": "Summer Baby",
-      "artist": "Jonas Brothers",
-      "length": "2:41"
-    },
-    {
-      "name": "(It Goes Like) Nanana - Edit",
-      "artist": "Peggy Gou",
-      "length": "3:51"
-    },
-    {
-      "name": "Dance The Night (From Barbie The Album)",
-      "artist": "Dua Lipa",
-      "length": "2:56"
+      "name": "That Part",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:54"
     },
     {
       "name": "WHAT THE HELL ARE WE DYING FOR ?",
@@ -85,14 +70,54 @@
       "length": "3:49"
     },
     {
+      "name": "See You Again",
+      "artist": "The Chainsmokers, ILLENIUM, Carlie Hanson",
+      "length": "2:43"
+    },
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "length": "2:46"
+    },
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
+    {
+      "name": "The Show",
+      "artist": "Niall Horan",
+      "length": "3:11"
+    },
+    {
+      "name": "405",
+      "artist": "Gracie Abrams",
+      "length": "3:01"
+    },
+    {
+      "name": "Summer Baby",
+      "artist": "Jonas Brothers",
+      "length": "2:41"
+    },
+    {
+      "name": "lie",
+      "artist": "Nessa Barrett",
+      "length": "3:34"
+    },
+    {
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "artist": "JVKE, Jimin, Charlie Puth, Muni Long, Fast & Furious: The Fast Saga",
       "length": "2:56"
     },
     {
-      "name": "Hits Different",
-      "artist": "Taylor Swift",
-      "length": "3:54"
+      "name": "Self Destruction Mode",
+      "artist": "The Chainsmokers, bludnymph",
+      "length": "2:27"
+    },
+    {
+      "name": "Bounce",
+      "artist": "Oliver Tree",
+      "length": "2:46"
     },
     {
       "name": "Love At First Fight",
@@ -100,34 +125,9 @@
       "length": "3:12"
     },
     {
-      "name": "Angel (From Barbie The Album)",
-      "artist": "PinkPantheress",
-      "length": "2:03"
-    },
-    {
       "name": "Promise",
       "artist": "Laufey",
       "length": "3:54"
-    },
-    {
-      "name": "Never Ending Song",
-      "artist": "Conan Gray",
-      "length": "2:35"
-    },
-    {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
-      "name": "Hero",
-      "artist": "Alan Walker, Sasha Alex Sloan",
-      "length": "2:55"
-    },
-    {
-      "name": "Snow Angel",
-      "artist": "Reneé Rapp",
-      "length": "3:35"
     },
     {
       "name": "RUNAWAY",
@@ -140,19 +140,34 @@
       "length": "3:43"
     },
     {
-      "name": "That’s Not How This Works (feat. Dan + Shay)",
-      "artist": "Charlie Puth, Dan + Shay",
-      "length": "2:45"
+      "name": "Angel (From Barbie The Album)",
+      "artist": "PinkPantheress",
+      "length": "2:03"
     },
     {
-      "name": "VULGAR (with Madonna)",
-      "artist": "Sam Smith, Madonna",
+      "name": "Hero",
+      "artist": "Alan Walker, Sasha Alex Sloan",
+      "length": "2:55"
+    },
+    {
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
+    },
+    {
+      "name": "Snow Angel",
+      "artist": "Reneé Rapp",
+      "length": "3:35"
+    },
+    {
+      "name": "Never Ending Song",
+      "artist": "Conan Gray",
       "length": "2:35"
     },
     {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
     },
     {
       "name": "Glue Song",
@@ -160,9 +175,44 @@
       "length": "2:15"
     },
     {
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
+      "name": "That’s Not How This Works (feat. Dan + Shay)",
+      "artist": "Charlie Puth, Dan + Shay",
+      "length": "2:45"
+    },
+    {
       "name": "Feather",
       "artist": "Sabrina Carpenter",
       "length": "3:05"
+    },
+    {
+      "name": "VULGAR (with Madonna)",
+      "artist": "Sam Smith, Madonna",
+      "length": "2:35"
+    },
+    {
+      "name": "A Year Ago",
+      "artist": "James Arthur",
+      "length": "2:50"
+    },
+    {
+      "name": "Take Two",
+      "artist": "BTS",
+      "length": "3:49"
+    },
+    {
+      "name": "Queencard",
+      "artist": "(G)I-DLE",
+      "length": "2:41"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
     },
     {
       "name": "Say Yes To Heaven",
@@ -173,16 +223,6 @@
       "name": "Don't Forget About Me",
       "artist": "d4vd",
       "length": "2:29"
-    },
-    {
-      "name": "A Year Ago",
-      "artist": "James Arthur",
-      "length": "2:50"
-    },
-    {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
     },
     {
       "name": "Haven't You Ever Been In Love Before?",
@@ -200,11 +240,6 @@
       "length": "2:40"
     },
     {
-      "name": "Queencard",
-      "artist": "(G)I-DLE",
-      "length": "2:41"
-    },
-    {
       "name": "Don't Forget Me",
       "artist": "Dermot Kennedy",
       "length": "3:10"
@@ -220,24 +255,14 @@
       "length": "3:09"
     },
     {
-      "name": "cindy",
-      "artist": "Jeremy Zucker",
-      "length": "3:21"
-    },
-    {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
     },
     {
       "name": "Meltdown",
       "artist": "Niall Horan",
       "length": "2:33"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
     },
     {
       "name": "Karma",
@@ -248,6 +273,11 @@
       "name": "I like u",
       "artist": "Tove Lo",
       "length": "3:10"
+    },
+    {
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
+      "length": "3:05"
     },
     {
       "name": "Cupid - Twin Ver.",
@@ -265,19 +295,29 @@
       "length": "3:04"
     },
     {
-      "name": "Alone (with Nicki Minaj)",
-      "artist": "Kim Petras, Nicki Minaj",
-      "length": "3:05"
-    },
-    {
-      "name": "Side Effects",
-      "artist": "Becky Hill, Lewis Thompson",
-      "length": "2:33"
+      "name": "cindy",
+      "artist": "Jeremy Zucker",
+      "length": "3:21"
     },
     {
       "name": "SunKissing",
       "artist": "Hailee Steinfeld",
       "length": "2:57"
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
+      "length": "2:32"
+    },
+    {
+      "name": "Middle Ground",
+      "artist": "Maroon 5",
+      "length": "3:39"
+    },
+    {
+      "name": "Side Effects",
+      "artist": "Becky Hill, Lewis Thompson",
+      "length": "2:33"
     },
     {
       "name": "Baby Don't Hurt Me",
@@ -290,29 +330,14 @@
       "length": "3:06"
     },
     {
-      "name": "The Feels",
-      "artist": "Labrinth",
-      "length": "3:17"
-    },
-    {
-      "name": "Middle Ground",
-      "artist": "Maroon 5",
-      "length": "3:39"
-    },
-    {
-      "name": "Up & Down",
-      "artist": "The Chainsmokers, 347aidan",
-      "length": "2:34"
-    },
-    {
       "name": "HAPPY",
       "artist": "NF",
       "length": "4:02"
     },
     {
-      "name": "american jesus",
-      "artist": "Nessa Barrett",
-      "length": "2:48"
+      "name": "The Feels",
+      "artist": "Labrinth",
+      "length": "3:17"
     },
     {
       "name": "LEFT RIGHT",
@@ -325,16 +350,6 @@
       "length": "2:55"
     },
     {
-      "name": "Eyes Wide Shut",
-      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
-      "length": "2:32"
-    },
-    {
-      "name": "Little Runaway",
-      "artist": "Benson Boone",
-      "length": "3:15"
-    },
-    {
       "name": "Wish You The Best",
       "artist": "Lewis Capaldi",
       "length": "3:30"
@@ -343,6 +358,11 @@
       "name": "Be The One (with Khalid)",
       "artist": "Bree Runway, Khalid",
       "length": "3:20"
+    },
+    {
+      "name": "Jericho",
+      "artist": "Iniko",
+      "length": "2:38"
     },
     {
       "name": "Favorite Song",
@@ -360,14 +380,14 @@
       "length": "3:16"
     },
     {
+      "name": "Little Runaway",
+      "artist": "Benson Boone",
+      "length": "3:15"
+    },
+    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
-    },
-    {
-      "name": "Flip A Switch.",
-      "artist": "RAYE",
-      "length": "3:21"
     },
     {
       "name": "Clouds",
@@ -375,29 +395,9 @@
       "length": "2:38"
     },
     {
-      "name": "Jericho",
-      "artist": "Iniko",
-      "length": "2:38"
-    },
-    {
-      "name": "We Go Down Together (with Khalid)",
-      "artist": "Dove Cameron, Khalid",
-      "length": "3:04"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
-    },
-    {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
-      "name": "All Of The Girls You Loved Before",
-      "artist": "Taylor Swift",
-      "length": "3:41"
     },
     {
       "name": "Rose Colored Lenses",
@@ -405,9 +405,9 @@
       "length": "3:43"
     },
     {
-      "name": "Red Flags",
-      "artist": "Mimi Webb",
-      "length": "2:21"
+      "name": "4runner",
+      "artist": "Brenn!",
+      "length": "4:25"
     },
     {
       "name": "Love Again",
@@ -415,24 +415,19 @@
       "length": "2:26"
     },
     {
-      "name": "I'm Not Here To Make Friends",
-      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
-      "length": "3:49"
-    },
-    {
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
     },
     {
-      "name": "4runner",
-      "artist": "Brenn!",
-      "length": "4:25"
+      "name": "Red Flags",
+      "artist": "Mimi Webb",
+      "length": "2:21"
     },
     {
-      "name": "Francesca",
-      "artist": "Hozier",
-      "length": "4:30"
+      "name": "I'm Not Here To Make Friends",
+      "artist": "Sam Smith, Calvin Harris, Jessie Reyez",
+      "length": "3:49"
     }
   ]
 }
