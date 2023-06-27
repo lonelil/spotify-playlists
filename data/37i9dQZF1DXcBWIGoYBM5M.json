@@ -55,14 +55,14 @@
       "length": "3:24"
     },
     {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
-    },
-    {
-      "name": "Oh U Went (feat. Drake)",
-      "artist": "Young Thug, Drake",
-      "length": "3:05"
     },
     {
       "name": "All My Life (feat. J. Cole)",
@@ -95,9 +95,9 @@
       "length": "2:20"
     },
     {
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "artist": "Nicki Minaj, Ice Spice, Aqua",
-      "length": "1:49"
+      "name": "Oh U Went (feat. Drake)",
+      "artist": "Young Thug, Drake",
+      "length": "3:05"
     },
     {
       "name": "Chemical",
@@ -150,11 +150,6 @@
       "length": "3:29"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
       "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "length": "2:58"
@@ -163,11 +158,6 @@
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
-    },
-    {
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "artist": "Bizarrap, Peso Pluma",
-      "length": "3:08"
     },
     {
       "name": "Say Yes To Heaven",
@@ -190,6 +180,11 @@
       "length": "3:07"
     },
     {
+      "name": "LADY GAGA",
+      "artist": "Peso Pluma, Gabito Ballesteros, Junior H",
+      "length": "3:32"
+    },
+    {
       "name": "Escapism.",
       "artist": "RAYE, 070 Shake",
       "length": "4:32"
@@ -208,6 +203,11 @@
       "name": "Nonsense",
       "artist": "Sabrina Carpenter",
       "length": "2:43"
+    },
+    {
+      "name": "Players",
+      "artist": "Coi Leray",
+      "length": "2:19"
     },
     {
       "name": "Take Two",
