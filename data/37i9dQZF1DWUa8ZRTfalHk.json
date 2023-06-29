@@ -10,14 +10,14 @@
       "length": "3:51"
     },
     {
-      "name": "Home To Another One",
-      "artist": "Madison Beer",
-      "length": "2:29"
-    },
-    {
       "name": "Satellite",
       "artist": "Harry Styles",
       "length": "3:38"
+    },
+    {
+      "name": "Home To Another One",
+      "artist": "Madison Beer",
+      "length": "2:29"
     },
     {
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
@@ -45,9 +45,14 @@
       "length": "4:37"
     },
     {
-      "name": "King of Hearts",
-      "artist": "Kim Petras",
-      "length": "2:51"
+      "name": "lie",
+      "artist": "Nessa Barrett",
+      "length": "3:34"
+    },
+    {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
     },
     {
       "name": "Cruel Summer",
@@ -55,9 +60,14 @@
       "length": "2:58"
     },
     {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
+      "name": "King of Hearts",
+      "artist": "Kim Petras",
+      "length": "2:51"
+    },
+    {
+      "name": "See You Again",
+      "artist": "The Chainsmokers, ILLENIUM, Carlie Hanson",
+      "length": "2:43"
     },
     {
       "name": "That Part",
@@ -68,11 +78,6 @@
       "name": "WHAT THE HELL ARE WE DYING FOR ?",
       "artist": "Shawn Mendes",
       "length": "3:49"
-    },
-    {
-      "name": "See You Again",
-      "artist": "The Chainsmokers, ILLENIUM, Carlie Hanson",
-      "length": "2:43"
     },
     {
       "name": "Padam Padam",
@@ -100,19 +105,9 @@
       "length": "2:41"
     },
     {
-      "name": "lie",
-      "artist": "Nessa Barrett",
-      "length": "3:34"
-    },
-    {
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "artist": "JVKE, Jimin, Charlie Puth, Muni Long, Fast & Furious: The Fast Saga",
       "length": "2:56"
-    },
-    {
-      "name": "Self Destruction Mode",
-      "artist": "The Chainsmokers, bludnymph",
-      "length": "2:27"
     },
     {
       "name": "Bounce",
@@ -143,6 +138,11 @@
       "name": "Angel (From Barbie The Album)",
       "artist": "PinkPantheress",
       "length": "2:03"
+    },
+    {
+      "name": "Self Destruction Mode",
+      "artist": "The Chainsmokers, bludnymph",
+      "length": "2:27"
     },
     {
       "name": "Hero",
@@ -178,6 +178,11 @@
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "artist": "The Weeknd, Playboi Carti, Madonna",
       "length": "3:35"
+    },
+    {
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
     },
     {
       "name": "That’s Not How This Works (feat. Dan + Shay)",
@@ -248,11 +253,6 @@
       "name": "Good Times Go",
       "artist": "Nicky Youre",
       "length": "2:27"
-    },
-    {
-      "name": "What It Is (Solo Version)",
-      "artist": "Doechii",
-      "length": "3:09"
     },
     {
       "name": "From The Start",
