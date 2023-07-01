@@ -1,33 +1,23 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000028ae5b8cf657f809e339ad2e4",
+  "art": "https://i.scdn.co/image/ab67706f000000022149e95f03b2747e499b3f2f",
   "length": 100,
   "tracks": [
+    {
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
+      "length": "3:39"
+    },
     {
       "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "length": "2:58"
     },
     {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
-    },
-    {
-      "name": "lie",
-      "artist": "Nessa Barrett",
-      "length": "3:34"
-    },
-    {
-      "name": "What a Feeling",
-      "artist": "One Direction",
-      "length": "3:20"
-    },
-    {
-      "name": "good 4 u",
-      "artist": "Olivia Rodrigo",
-      "length": "2:58"
+      "name": "Party In The U.S.A.",
+      "artist": "Miley Cyrus",
+      "length": "3:22"
     },
     {
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
@@ -35,9 +25,59 @@
       "length": "1:49"
     },
     {
+      "name": "GRL GVNG",
+      "artist": "XG",
+      "length": "3:08"
+    },
+    {
       "name": "girls like me don't cry (sped up)",
       "artist": "thuy",
       "length": "2:44"
+    },
+    {
+      "name": "Speed Drive (From Barbie The Album)",
+      "artist": "Charli XCX",
+      "length": "1:57"
+    },
+    {
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artist": "Post Malone, Swae Lee",
+      "length": "2:38"
+    },
+    {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
+      "name": "august",
+      "artist": "Taylor Swift",
+      "length": "4:21"
+    },
+    {
+      "name": "lie",
+      "artist": "Nessa Barrett",
+      "length": "3:34"
+    },
+    {
+      "name": "traitor",
+      "artist": "Olivia Rodrigo",
+      "length": "3:49"
+    },
+    {
+      "name": "Area Codes",
+      "artist": "Kaliii",
+      "length": "2:19"
+    },
+    {
+      "name": "What a Feeling",
+      "artist": "One Direction",
+      "length": "3:20"
+    },
+    {
+      "name": "Back To December",
+      "artist": "Taylor Swift",
+      "length": "4:53"
     },
     {
       "name": "Snow Angel",
@@ -45,14 +85,24 @@
       "length": "3:35"
     },
     {
+      "name": "Grenade",
+      "artist": "Bruno Mars",
+      "length": "3:42"
+    },
+    {
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "artist": "Dominic Fike",
       "length": "3:06"
     },
     {
-      "name": "Area Codes",
-      "artist": "Kali",
-      "length": "2:19"
+      "name": "EVIL",
+      "artist": "Melanie Martinez",
+      "length": "4:06"
+    },
+    {
+      "name": "Cowboys And Angels",
+      "artist": "Jessie Murph",
+      "length": "2:13"
     },
     {
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
@@ -70,19 +120,34 @@
       "length": "3:57"
     },
     {
+      "name": "On Schedule",
+      "artist": "ASTN",
+      "length": "2:35"
+    },
+    {
       "name": "Home To Another One",
       "artist": "Madison Beer",
       "length": "2:29"
     },
     {
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "artist": "Post Malone, Swae Lee",
-      "length": "2:38"
+      "name": "Hell N Back",
+      "artist": "Bakar",
+      "length": "3:33"
     },
     {
       "name": "Makeba",
       "artist": "Jain",
       "length": "4:08"
+    },
+    {
+      "name": "HARD",
+      "artist": "SHINee",
+      "length": "2:56"
+    },
+    {
+      "name": "Thumbs",
+      "artist": "Sabrina Carpenter",
+      "length": "3:36"
     },
     {
       "name": "Team Sport",
@@ -95,19 +160,24 @@
       "length": "2:54"
     },
     {
-      "name": "Hell N Back",
-      "artist": "Bakar",
-      "length": "3:33"
-    },
-    {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
     },
     {
+      "name": "You Belong With Me",
+      "artist": "Bellah Mae",
+      "length": "3:26"
+    },
+    {
       "name": "Say Yes To Heaven",
       "artist": "Lana Del Rey",
       "length": "3:29"
+    },
+    {
+      "name": "Backwards (feat. Knox)",
+      "artist": "Alexa Cappelli, Knox",
+      "length": "3:10"
     },
     {
       "name": "Getaway Car",
@@ -120,19 +190,14 @@
       "length": "2:35"
     },
     {
-      "name": "Thumbs",
-      "artist": "Sabrina Carpenter",
-      "length": "3:36"
-    },
-    {
       "name": "Sunroof",
       "artist": "Nicky Youre, dazy",
       "length": "2:43"
     },
     {
-      "name": "Cowboys And Angels",
-      "artist": "Jessie Murph",
-      "length": "2:13"
+      "name": "Boy from Carolina",
+      "artist": "Ashley Kutcher",
+      "length": "4:02"
     },
     {
       "name": "(It Goes Like) Nanana - Edit",
@@ -148,11 +213,6 @@
       "name": "Lovers Rock",
       "artist": "TV Girl",
       "length": "3:33"
-    },
-    {
-      "name": "You Belong With Me",
-      "artist": "Bellah Mae",
-      "length": "3:26"
     },
     {
       "name": "Never Grow Up",
@@ -320,11 +380,6 @@
       "length": "1:55"
     },
     {
-      "name": "THE CONTORTIONIST",
-      "artist": "Melanie Martinez",
-      "length": "3:20"
-    },
-    {
       "name": "Little Girl Gone",
       "artist": "CHINCHILLA",
       "length": "3:08"
@@ -390,11 +445,6 @@
       "length": "2:09"
     },
     {
-      "name": "The Climb",
-      "artist": "Miley Cyrus",
-      "length": "3:56"
-    },
-    {
       "name": "Die For You - Remix",
       "artist": "The Weeknd, Ariana Grande",
       "length": "3:52"
@@ -415,24 +465,9 @@
       "length": "4:50"
     },
     {
-      "name": "Ring",
-      "artist": "Selena Gomez",
-      "length": "2:28"
-    },
-    {
-      "name": "Green Green Grass",
-      "artist": "George Ezra",
-      "length": "2:47"
-    },
-    {
       "name": "Favorite Song",
       "artist": "Toosii",
       "length": "3:28"
-    },
-    {
-      "name": "Glue Song",
-      "artist": "beabadoobee",
-      "length": "2:15"
     },
     {
       "name": "Here With Me",
@@ -443,11 +478,6 @@
       "name": "Sure Thing",
       "artist": "Miguel",
       "length": "3:15"
-    },
-    {
-      "name": "Bloody Mary",
-      "artist": "Lady Gaga",
-      "length": "4:04"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -470,39 +500,9 @@
       "length": "2:07"
     },
     {
-      "name": "Back That Up To The Beat - sped up version",
-      "artist": "Madonna",
-      "length": "3:12"
-    },
-    {
       "name": "Bad Habit",
       "artist": "Steve Lacy",
       "length": "3:52"
-    },
-    {
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
-      "length": "3:41"
-    },
-    {
-      "name": "golden hour",
-      "artist": "JVKE",
-      "length": "3:29"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "length": "4:10"
-    },
-    {
-      "name": "Teenage Dream",
-      "artist": "Stephen Dawes",
-      "length": "2:57"
-    },
-    {
-      "name": "死ぬのがいいわ",
-      "artist": "Fujii Kaze",
-      "length": "3:05"
     }
   ]
 }

@@ -1,47 +1,22 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000022fb421bcbb5df81e7da7315b",
-  "length": 65,
+  "art": "https://i.scdn.co/image/ab67706f00000002b0fa809cd3ce4cbafd04b067",
+  "length": 60,
   "tracks": [
     {
-      "name": "True Babe",
-      "artist": "Gwen Stefani",
-      "length": "3:07"
-    },
-    {
-      "name": "The Feeling",
-      "artist": "Lost Frequencies",
-      "length": "2:33"
-    },
-    {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
-    },
-    {
-      "name": "rock hudson",
-      "artist": "Kelly Clarkson",
-      "length": "3:22"
-    },
-    {
-      "name": "Seasons",
-      "artist": "Bebe Rexha, Dolly Parton",
-      "length": "3:23"
-    },
-    {
-      "name": "Living In A Haze",
-      "artist": "Milky Chance",
-      "length": "2:53"
-    },
-    {
-      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
-      "artist": "Train, Tenille Townes, Bryce Vine",
-      "length": "3:03"
+      "name": "Lose Control",
+      "artist": "Teddy Swims",
+      "length": "3:30"
     },
     {
       "name": "Time After Time - Spotify Singles",
       "artist": "Lennon Stella",
+      "length": "3:39"
+    },
+    {
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
       "length": "3:39"
     },
     {
@@ -50,14 +25,39 @@
       "length": "4:18"
     },
     {
-      "name": "Lose Control",
-      "artist": "Teddy Swims",
-      "length": "3:30"
+      "name": "i hate love (feat. Steve Martin)",
+      "artist": "Kelly Clarkson, Steve Martin",
+      "length": "3:33"
     },
     {
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "artist": "Olivia Dean, Leon Bridges",
-      "length": "2:56"
+      "name": "The Feeling",
+      "artist": "Lost Frequencies",
+      "length": "2:33"
+    },
+    {
+      "name": "True Babe",
+      "artist": "Gwen Stefani",
+      "length": "3:07"
+    },
+    {
+      "name": "In A Perfect World (with Julia Michaels)",
+      "artist": "Dean Lewis, Julia Michaels",
+      "length": "3:11"
+    },
+    {
+      "name": "Seasons",
+      "artist": "Bebe Rexha, Dolly Parton",
+      "length": "3:23"
+    },
+    {
+      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
+      "artist": "Train, Tenille Townes, Bryce Vine",
+      "length": "3:03"
+    },
+    {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
     },
     {
       "name": "Stand By Me (feat. Morgan Wallen)",
@@ -65,14 +65,34 @@
       "length": "3:39"
     },
     {
+      "name": "rock hudson",
+      "artist": "Kelly Clarkson",
+      "length": "3:22"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
+    {
+      "name": "Living In A Haze",
+      "artist": "Milky Chance",
+      "length": "2:53"
+    },
+    {
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "artist": "Olivia Dean, Leon Bridges",
+      "length": "2:56"
+    },
+    {
+      "name": "Calling Your Name",
+      "artist": "Jon Batiste",
+      "length": "1:56"
+    },
+    {
       "name": "The Show",
       "artist": "Niall Horan",
       "length": "3:11"
-    },
-    {
-      "name": "i hate love (feat. Steve Martin)",
-      "artist": "Kelly Clarkson, Steve Martin",
-      "length": "3:33"
     },
     {
       "name": "Feel Good Too",
@@ -80,9 +100,19 @@
       "length": "3:59"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
+      "name": "Without You (feat. Elle King)",
+      "artist": "Diplo, Elle King",
+      "length": "3:01"
+    },
+    {
+      "name": "HAPPY",
+      "artist": "NF",
+      "length": "4:02"
+    },
+    {
+      "name": "Jaded",
+      "artist": "Miley Cyrus",
+      "length": "3:05"
     },
     {
       "name": "RUNAWAY",
@@ -105,14 +135,14 @@
       "length": "3:20"
     },
     {
-      "name": "Queen of New York City",
-      "artist": "Matchbox Twenty",
-      "length": "3:32"
-    },
-    {
       "name": "The Journey",
       "artist": "H.E.R.",
       "length": "4:22"
+    },
+    {
+      "name": "Queen of New York City",
+      "artist": "Matchbox Twenty",
+      "length": "3:32"
     },
     {
       "name": "Dance The Night (From Barbie The Album)",
@@ -120,14 +150,14 @@
       "length": "2:56"
     },
     {
-      "name": "HAPPY",
-      "artist": "NF",
-      "length": "4:02"
-    },
-    {
       "name": "Glory Days",
       "artist": "Gabby Barrett",
       "length": "2:42"
+    },
+    {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
     },
     {
       "name": "I'll Be Seeing You",
@@ -135,9 +165,9 @@
       "length": "4:45"
     },
     {
-      "name": "Without You (feat. Elle King)",
-      "artist": "Diplo, Elle King",
-      "length": "3:01"
+      "name": "Long Way Home",
+      "artist": "Walk off the Earth, Lindsey Stirling",
+      "length": "2:37"
     },
     {
       "name": "Padam Padam",
@@ -160,9 +190,9 @@
       "length": "2:59"
     },
     {
-      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
-      "artist": "JP Saxe, Lizzy McAlpine, Tiny Habits",
-      "length": "2:13"
+      "name": "Next Thing You Know",
+      "artist": "Jordan Davis",
+      "length": "2:55"
     },
     {
       "name": "Don't Forget Me",
@@ -185,29 +215,14 @@
       "length": "2:38"
     },
     {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
-    },
-    {
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
     },
     {
-      "name": "Runaway",
-      "artist": "P!nk",
-      "length": "2:42"
-    },
-    {
       "name": "Hits Different",
       "artist": "Taylor Swift",
       "length": "3:54"
-    },
-    {
-      "name": "Next Thing You Know",
-      "artist": "Jordan Davis",
-      "length": "2:55"
     },
     {
       "name": "Middle Ground",
@@ -235,11 +250,6 @@
       "length": "3:11"
     },
     {
-      "name": "For You",
-      "artist": "Matteo Bocelli",
-      "length": "3:13"
-    },
-    {
       "name": "Life Goes On (feat. Luke Combs)",
       "artist": "d Sheeran, Luke Combs",
       "length": "3:30"
@@ -265,19 +275,9 @@
       "length": "3:23"
     },
     {
-      "name": "My Stupid Heart",
-      "artist": "Walk off the Earth",
-      "length": "2:40"
-    },
-    {
       "name": "NO BAD DAYS (feat. Collett)",
       "artist": "Macklemore, Collett",
       "length": "2:53"
-    },
-    {
-      "name": "TRUSTFALL",
-      "artist": "P!nk",
-      "length": "3:57"
     },
     {
       "name": "Stronger (Grey's Anatomy Version)",
@@ -285,39 +285,14 @@
       "length": "2:59"
     },
     {
-      "name": "Last Night",
-      "artist": "Morgan Wallen",
-      "length": "2:43"
-    },
-    {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
       "name": "Girls",
       "artist": "Rachel Platten",
       "length": "2:51"
     },
     {
-      "name": "Stand Up Eight",
-      "artist": "Thunderstorm Artis",
-      "length": "3:07"
-    },
-    {
       "name": "Daylight",
       "artist": "David Kushner",
       "length": "3:32"
-    },
-    {
-      "name": "Jaded",
-      "artist": "Miley Cyrus",
-      "length": "3:05"
-    },
-    {
-      "name": "Part Of Me",
-      "artist": "Cian Ducrot",
-      "length": "3:22"
     },
     {
       "name": "Rollin'",

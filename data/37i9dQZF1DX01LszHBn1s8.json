@@ -1,23 +1,13 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002819dae410600760b54d20e49",
+  "art": "https://i.scdn.co/image/ab67706f00000002e0583c8bdcd6257e8d77e63f",
   "length": 100,
   "tracks": [
-    {
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "artist": "Nicki Minaj, Ice Spice, Aqua",
-      "length": "1:49"
-    },
     {
       "name": "One Margarita (Margarita Song)",
       "artist": "That Chick Angel, Casa Di, Steve Terrell",
       "length": "1:59"
-    },
-    {
-      "name": "Say Yes To Heaven - Sped Up",
-      "artist": "Lana Del Rey",
-      "length": "2:36"
     },
     {
       "name": "Makeba",
@@ -25,14 +15,39 @@
       "length": "4:09"
     },
     {
+      "name": "Say Yes To Heaven - Sped Up",
+      "artist": "Lana Del Rey",
+      "length": "2:36"
+    },
+    {
       "name": "Sprinter",
       "artist": "Dave, Central Cee",
       "length": "3:49"
     },
     {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
+      "name": "Radio",
+      "artist": "Lana Del Rey",
+      "length": "3:34"
+    },
+    {
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
+      "length": "3:39"
+    },
+    {
       "name": "Would I Lie To You?",
       "artist": "Charles & Eddie",
       "length": "3:37"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "Josefin",
@@ -45,14 +60,34 @@
       "length": "4:18"
     },
     {
-      "name": "Radio",
-      "artist": "Lana Del Rey",
-      "length": "3:34"
-    },
-    {
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "artist": "The Weeknd, Playboi Carti, Madonna",
       "length": "3:35"
+    },
+    {
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
+    },
+    {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
+    },
+    {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
+    },
+    {
+      "name": "Keep Dat Nigga",
+      "artist": "Icandy",
+      "length": "2:18"
     },
     {
       "name": "UNAVAILABLE (feat. Musa Keys)",
@@ -65,14 +100,14 @@
       "length": "2:00"
     },
     {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
+      "name": "First Base",
+      "artist": "mma Ogier",
+      "length": "3:30"
     },
     {
-      "name": "Keep Dat Nigga",
-      "artist": "Icandy",
-      "length": "2:18"
+      "name": "Ella Baila Sola",
+      "artist": "slabon Armado, Peso Pluma",
+      "length": "2:45"
     },
     {
       "name": "See You Again (feat. Kali Uchis)",
@@ -85,19 +120,9 @@
       "length": "3:19"
     },
     {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
-    },
-    {
       "name": "Attention",
       "artist": "Doja Cat",
       "length": "4:37"
-    },
-    {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
     },
     {
       "name": "Company",
@@ -105,39 +130,14 @@
       "length": "3:28"
     },
     {
+      "name": "Give It To Me",
+      "artist": "Lofis",
+      "length": "2:51"
+    },
+    {
       "name": "Sleep Well",
       "artist": "d4vd",
       "length": "2:55"
-    },
-    {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
-    },
-    {
-      "name": "(It Goes Like) Nanana - Edit",
-      "artist": "Peggy Gou",
-      "length": "3:51"
-    },
-    {
-      "name": "Ella Baila Sola",
-      "artist": "slabon Armado, Peso Pluma",
-      "length": "2:45"
-    },
-    {
-      "name": "My Barn My Rules",
-      "artist": "MCR-T, horsegiirL",
-      "length": "4:26"
-    },
-    {
-      "name": "Summer Background Jazz",
-      "artist": "Jazz Background Vibes",
-      "length": "2:41"
-    },
-    {
-      "name": "Padam Padam",
-      "artist": "Kylie Minogue",
-      "length": "2:46"
     },
     {
       "name": "Like This (feat. Eve)",
@@ -153,6 +153,31 @@
       "name": "Cha Cha Cha",
       "artist": "Käärijä",
       "length": "2:55"
+    },
+    {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
+    },
+    {
+      "name": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "length": "3:51"
+    },
+    {
+      "name": "My Barn My Rules",
+      "artist": "MCR-T, horsegiirL",
+      "length": "4:26"
+    },
+    {
+      "name": "Summer Background Jazz",
+      "artist": "Jazz Background Vibes",
+      "length": "2:41"
+    },
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "length": "2:46"
     },
     {
       "name": "Boy's a Liar Pt. 2",
@@ -203,11 +228,6 @@
       "name": "Cupid - Twin Ver.",
       "artist": "FIFTY FIFTY",
       "length": "2:54"
-    },
-    {
-      "name": "Give It To Me",
-      "artist": "Lofis",
-      "length": "2:51"
     },
     {
       "name": "Queen of Kings",
@@ -475,11 +495,6 @@
       "length": "2:22"
     },
     {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
-    },
-    {
       "name": "Other Side of the Moon",
       "artist": "Aden Foyer",
       "length": "2:51"
@@ -488,21 +503,6 @@
       "name": "Look At Us Now (Honeycomb)",
       "artist": "Daisy Jones & The Six",
       "length": "5:32"
-    },
-    {
-      "name": "atomic",
-      "artist": "Aziya",
-      "length": "2:49"
-    },
-    {
-      "name": "Dancing Thing",
-      "artist": "VisionV",
-      "length": "3:04"
-    },
-    {
-      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
-      "artist": "sped up nightcore",
-      "length": "2:08"
     }
   ]
 }

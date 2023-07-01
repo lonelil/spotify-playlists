@@ -1,13 +1,18 @@
 {
   "name": "Today's Top Hits ",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000226c3f0dcdcd7eac05eaa2a6c",
+  "art": "https://i.scdn.co/image/ab67706f00000002afec821c60fe0194f700e775",
   "length": 50,
   "tracks": [
     {
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
       "length": "3:39"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
     },
     {
       "name": "Flowers",
@@ -15,14 +20,9 @@
       "length": "3:20"
     },
     {
-      "name": "Attention",
-      "artist": "Doja Cat",
-      "length": "4:37"
-    },
-    {
-      "name": "Dance The Night (From Barbie The Album)",
-      "artist": "Dua Lipa",
-      "length": "2:56"
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "artist": "Metro Boomin, Swae Lee, NAV, A Boogie Wit da Hoodie",
+      "length": "3:39"
     },
     {
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
@@ -30,14 +30,24 @@
       "length": "3:35"
     },
     {
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "length": "2:33"
+    },
+    {
       "name": "WHERE SHE GOES",
       "artist": "Bad Bunny",
       "length": "3:51"
     },
     {
-      "name": "Kill Bill",
-      "artist": "SZA",
-      "length": "2:33"
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
+    {
+      "name": "Attention",
+      "artist": "Doja Cat",
+      "length": "4:37"
     },
     {
       "name": "Calm Down (with Selena Gomez)",
@@ -50,9 +60,9 @@
       "length": "2:47"
     },
     {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
@@ -70,6 +80,31 @@
       "length": "3:43"
     },
     {
+      "name": "People",
+      "artist": "Libianca",
+      "length": "3:04"
+    },
+    {
+      "name": "MOJABI GHOST",
+      "artist": "Tainy, Bad Bunny",
+      "length": "3:52"
+    },
+    {
+      "name": "Baby Don't Hurt Me",
+      "artist": "David Guetta, Anne-Marie, Coi Leray",
+      "length": "2:20"
+    },
+    {
+      "name": "Chemical",
+      "artist": "Post Malone",
+      "length": "3:04"
+    },
+    {
+      "name": "Karma",
+      "artist": "Taylor Swift",
+      "length": "3:24"
+    },
+    {
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "artist": "Bizarrap, Rauw Alejandro",
       "length": "3:11"
@@ -78,31 +113,6 @@
       "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "People",
-      "artist": "Libianca",
-      "length": "3:04"
-    },
-    {
-      "name": "Baby Don't Hurt Me",
-      "artist": "David Guetta, Anne-Marie, Coi Leray",
-      "length": "2:20"
-    },
-    {
-      "name": "Oh U Went (feat. Drake)",
-      "artist": "Young Thug, Drake",
-      "length": "3:05"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
     },
     {
       "name": "Area Codes",
@@ -115,19 +125,9 @@
       "length": "3:32"
     },
     {
-      "name": "Ella Baila Sola",
-      "artist": "slabon Armado, Peso Pluma",
-      "length": "2:45"
-    },
-    {
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "artist": "Metro Boomin, The Weeknd, 21 Savage",
       "length": "3:41"
-    },
-    {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
     },
     {
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
@@ -135,14 +135,14 @@
       "length": "2:56"
     },
     {
-      "name": "Snooze",
-      "artist": "SZA",
-      "length": "3:21"
+      "name": "Ella Baila Sola",
+      "artist": "slabon Armado, Peso Pluma",
+      "length": "2:45"
     },
     {
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "artist": "Dominic Fike",
-      "length": "3:06"
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
     },
     {
       "name": "golden hour",
@@ -150,14 +150,29 @@
       "length": "3:29"
     },
     {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
+      "name": "Snooze",
+      "artist": "SZA",
+      "length": "3:21"
     },
     {
       "name": "I Ain't Worried",
       "artist": "OneRepublic",
       "length": "2:28"
+    },
+    {
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "fukumean",
+      "artist": "Gunna",
+      "length": "2:05"
+    },
+    {
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "Say Yes To Heaven",
@@ -170,14 +185,14 @@
       "length": "2:55"
     },
     {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
+    {
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "artist": "Metro Boomin, A$AP Rocky, Roisee",
       "length": "4:16"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
     },
     {
       "name": "LADY GAGA",
@@ -185,9 +200,9 @@
       "length": "3:32"
     },
     {
-      "name": "Escapism.",
-      "artist": "RAYE, 070 Shake",
-      "length": "4:32"
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
     },
     {
       "name": "Here With Me",
@@ -195,9 +210,9 @@
       "length": "4:02"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
+      "name": "CUFF IT",
+      "artist": "Beyoncé",
+      "length": "3:45"
     },
     {
       "name": "Nonsense",
@@ -205,19 +220,9 @@
       "length": "2:43"
     },
     {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
-    },
-    {
-      "name": "CUFF IT",
-      "artist": "Beyoncé",
-      "length": "3:45"
+      "name": "Miracle (with Ellie Goulding)",
+      "artist": "Calvin Harris, Ellie Goulding",
+      "length": "3:06"
     },
     {
       "name": "(It Goes Like) Nanana - Edit",
@@ -225,24 +230,9 @@
       "length": "3:51"
     },
     {
-      "name": "Miracle (with Ellie Goulding)",
-      "artist": "Calvin Harris, Ellie Goulding",
-      "length": "3:06"
-    },
-    {
-      "name": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith, Kim Petras",
-      "length": "2:36"
-    },
-    {
-      "name": "OMG",
-      "artist": "NewJeans",
-      "length": "3:32"
-    },
-    {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "length": "2:45"
+      "name": "Oh U Went (feat. Drake)",
+      "artist": "Young Thug, Drake",
+      "length": "3:05"
     },
     {
       "name": "Last Night",
@@ -253,6 +243,16 @@
       "name": "Sprinter",
       "artist": "Dave, Central Cee",
       "length": "3:49"
+    },
+    {
+      "name": "Take Two",
+      "artist": "BTS",
+      "length": "3:49"
+    },
+    {
+      "name": "Unholy (feat. Kim Petras)",
+      "artist": "Sam Smith, Kim Petras",
+      "length": "2:36"
     }
   ]
 }
