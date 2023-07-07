@@ -1,9 +1,14 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002e0583c8bdcd6257e8d77e63f",
+  "art": "https://i.scdn.co/image/ab67706f000000026d165eaa3895402db528ecb9",
   "length": 100,
   "tracks": [
+    {
+      "name": "You Wish",
+      "artist": "Flyana Boss",
+      "length": "2:00"
+    },
     {
       "name": "One Margarita (Margarita Song)",
       "artist": "That Chick Angel, Casa Di, Steve Terrell",
@@ -15,19 +20,39 @@
       "length": "4:09"
     },
     {
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "artist": "Jorja Smith",
+      "length": "2:11"
+    },
+    {
+      "name": "Smooth Operator - Single Version",
+      "artist": "Sade",
+      "length": "4:18"
+    },
+    {
       "name": "Say Yes To Heaven - Sped Up",
       "artist": "Lana Del Rey",
       "length": "2:36"
     },
     {
-      "name": "Sprinter",
-      "artist": "Dave, Central Cee",
-      "length": "3:49"
-    },
-    {
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "artist": "Nicki Minaj, Ice Spice, Aqua",
       "length": "1:49"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
+    },
+    {
+      "name": "Jacob and the Stone",
+      "artist": "mile Mosseri",
+      "length": "1:38"
+    },
+    {
+      "name": "Sprinter",
+      "artist": "Dave, Central Cee",
+      "length": "3:49"
     },
     {
       "name": "Radio",
@@ -40,24 +65,19 @@
       "length": "3:39"
     },
     {
-      "name": "Would I Lie To You?",
-      "artist": "Charles & Eddie",
-      "length": "3:37"
-    },
-    {
       "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "length": "2:58"
     },
     {
+      "name": "This Is The Life",
+      "artist": "Amy Macdonald",
+      "length": "3:04"
+    },
+    {
       "name": "Josefin",
       "artist": "Albin Lee Meldau",
       "length": "3:41"
-    },
-    {
-      "name": "Smooth Operator - Single Version",
-      "artist": "Sade",
-      "length": "4:18"
     },
     {
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
@@ -68,11 +88,6 @@
       "name": "What It Is (Solo Version)",
       "artist": "Doechii",
       "length": "3:09"
-    },
-    {
-      "name": "This Is The Life",
-      "artist": "Amy Macdonald",
-      "length": "3:04"
     },
     {
       "name": "hotline (edit)",
@@ -93,11 +108,6 @@
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "artist": "Davido, Musa Keys",
       "length": "2:49"
-    },
-    {
-      "name": "You Wish",
-      "artist": "Flyana Boss",
-      "length": "2:00"
     },
     {
       "name": "First Base",
@@ -493,16 +503,6 @@
       "name": "If We Ever Broke Up",
       "artist": "Mae Stephens",
       "length": "2:22"
-    },
-    {
-      "name": "Other Side of the Moon",
-      "artist": "Aden Foyer",
-      "length": "2:51"
-    },
-    {
-      "name": "Look At Us Now (Honeycomb)",
-      "artist": "Daisy Jones & The Six",
-      "length": "5:32"
     }
   ]
 }
