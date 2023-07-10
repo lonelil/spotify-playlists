@@ -2,7 +2,7 @@
   "name": "Just Good Music",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f00000002b0fa809cd3ce4cbafd04b067",
-  "length": 60,
+  "length": 62,
   "tracks": [
     {
       "name": "Lose Control",
@@ -25,14 +25,19 @@
       "length": "4:18"
     },
     {
+      "name": "The Feeling",
+      "artist": "Lost Frequencies",
+      "length": "2:33"
+    },
+    {
       "name": "i hate love (feat. Steve Martin)",
       "artist": "Kelly Clarkson, Steve Martin",
       "length": "3:33"
     },
     {
-      "name": "The Feeling",
-      "artist": "Lost Frequencies",
-      "length": "2:33"
+      "name": "Seasons",
+      "artist": "Bebe Rexha, Dolly Parton",
+      "length": "3:23"
     },
     {
       "name": "True Babe",
@@ -45,11 +50,6 @@
       "length": "3:11"
     },
     {
-      "name": "Seasons",
-      "artist": "Bebe Rexha, Dolly Parton",
-      "length": "3:23"
-    },
-    {
       "name": "I Know (feat. Tenille Townes & Bryce Vine)",
       "artist": "Train, Tenille Townes, Bryce Vine",
       "length": "3:03"
@@ -58,6 +58,11 @@
       "name": "Dial Drunk",
       "artist": "Noah Kahan",
       "length": "3:33"
+    },
+    {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
     },
     {
       "name": "Stand By Me (feat. Morgan Wallen)",
@@ -123,6 +128,11 @@
       "name": "Wish You The Best",
       "artist": "Lewis Capaldi",
       "length": "3:30"
+    },
+    {
+      "name": "Young & In Love",
+      "artist": "morgxn",
+      "length": "2:18"
     },
     {
       "name": "Sandman",

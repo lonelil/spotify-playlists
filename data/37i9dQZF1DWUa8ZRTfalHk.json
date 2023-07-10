@@ -1,9 +1,19 @@
 {
   "name": "Pop Rising",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f0000000258e5d3265142bf2af4d5fd9f",
+  "art": "https://i.scdn.co/image/ab67706f0000000245d918246724e073614c69df",
   "length": 85,
   "tracks": [
+    {
+      "name": "Super Shy",
+      "artist": "NewJeans",
+      "length": "2:34"
+    },
+    {
+      "name": "Speed Drive (From Barbie The Album)",
+      "artist": "Charli XCX",
+      "length": "1:57"
+    },
     {
       "name": "lie",
       "artist": "Nessa Barrett",
@@ -15,14 +25,14 @@
       "length": "3:39"
     },
     {
-      "name": "Satellite",
-      "artist": "Harry Styles",
-      "length": "3:38"
+      "name": "Home To Another One",
+      "artist": "Madison Beer",
+      "length": "2:29"
     },
     {
-      "name": "Speed Drive (From Barbie The Album)",
-      "artist": "Charli XCX",
-      "length": "1:57"
+      "name": "Do It Like That",
+      "artist": "TOMORROW X TOGETHER, Jonas Brothers",
+      "length": "2:25"
     },
     {
       "name": "Jaded",
@@ -30,44 +40,9 @@
       "length": "3:05"
     },
     {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
-    },
-    {
-      "name": "Mourning",
-      "artist": "Post Malone",
-      "length": "2:27"
-    },
-    {
-      "name": "Home To Another One",
-      "artist": "Madison Beer",
-      "length": "2:29"
-    },
-    {
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "artist": "Dominic Fike",
-      "length": "3:06"
-    },
-    {
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "artist": "Nicki Minaj, Ice Spice, Aqua",
-      "length": "1:49"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
-    },
-    {
-      "name": "Padam Padam",
-      "artist": "Kylie Minogue",
-      "length": "2:46"
-    },
-    {
-      "name": "(It Goes Like) Nanana - Edit",
-      "artist": "Peggy Gou",
-      "length": "3:51"
+      "name": "Satellite",
+      "artist": "Harry Styles",
+      "length": "3:38"
     },
     {
       "name": "See You Again",
@@ -75,9 +50,29 @@
       "length": "2:43"
     },
     {
-      "name": "Attention",
-      "artist": "Doja Cat",
-      "length": "4:37"
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
+      "name": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "length": "2:46"
+    },
+    {
+      "name": "Mourning",
+      "artist": "Post Malone",
+      "length": "2:27"
+    },
+    {
+      "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift, Hayley Williams",
+      "length": "5:06"
+    },
+    {
+      "name": "Dial Drunk",
+      "artist": "Noah Kahan",
+      "length": "3:33"
     },
     {
       "name": "That Part",
@@ -85,19 +80,9 @@
       "length": "2:54"
     },
     {
-      "name": "WHAT THE HELL ARE WE DYING FOR ?",
-      "artist": "Shawn Mendes",
-      "length": "3:49"
-    },
-    {
-      "name": "Summer Baby",
-      "artist": "Jonas Brothers",
-      "length": "2:41"
-    },
-    {
-      "name": "In A Perfect World (with Julia Michaels)",
-      "artist": "Dean Lewis, Julia Michaels",
-      "length": "3:11"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "Promise",
@@ -105,9 +90,9 @@
       "length": "3:54"
     },
     {
-      "name": "19",
-      "artist": "Stephen Dawes",
-      "length": "2:16"
+      "name": "TRAINWRECK",
+      "artist": "Anne-Marie",
+      "length": "3:03"
     },
     {
       "name": "Dance The Night (From Barbie The Album)",
@@ -115,9 +100,9 @@
       "length": "2:56"
     },
     {
-      "name": "King of Hearts",
-      "artist": "Kim Petras",
-      "length": "2:51"
+      "name": "RUNAWAY",
+      "artist": "OneRepublic",
+      "length": "2:23"
     },
     {
       "name": "GRL GVNG",
@@ -125,39 +110,64 @@
       "length": "3:08"
     },
     {
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "artist": "FIFTY FIFTY, Kaliii",
+      "length": "2:29"
+    },
+    {
+      "name": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "length": "3:51"
+    },
+    {
+      "name": "Summer Baby",
+      "artist": "Jonas Brothers",
+      "length": "2:41"
+    },
+    {
+      "name": "I'm Good (feat. charlieonnafriday)",
+      "artist": "Natalie Jane, charlieonnafriday",
+      "length": "2:45"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
+      "name": "In A Perfect World (with Julia Michaels)",
+      "artist": "Dean Lewis, Julia Michaels",
+      "length": "3:11"
+    },
+    {
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "artist": "Shawn Mendes",
+      "length": "3:49"
+    },
+    {
+      "name": "King of Hearts",
+      "artist": "Kim Petras",
+      "length": "2:51"
+    },
+    {
       "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "artist": "JVKE, Jimin, Charlie Puth, Muni Long, Fast & Furious: The Fast Saga",
       "length": "2:56"
     },
     {
+      "name": "Queencard",
+      "artist": "(G)I-DLE",
+      "length": "2:41"
+    },
+    {
+      "name": "Attention",
+      "artist": "Doja Cat",
+      "length": "4:37"
+    },
+    {
       "name": "The Show",
       "artist": "Niall Horan",
       "length": "3:11"
-    },
-    {
-      "name": "Love At First Fight",
-      "artist": "LANY",
-      "length": "3:12"
-    },
-    {
-      "name": "Antichrist",
-      "artist": "Holly Humberstone",
-      "length": "3:20"
-    },
-    {
-      "name": "Bounce",
-      "artist": "Oliver Tree",
-      "length": "2:46"
-    },
-    {
-      "name": "RUNAWAY",
-      "artist": "OneRepublic",
-      "length": "2:23"
-    },
-    {
-      "name": "405",
-      "artist": "Gracie Abrams",
-      "length": "3:01"
     },
     {
       "name": "A Year Ago",
@@ -170,9 +180,19 @@
       "length": "3:43"
     },
     {
-      "name": "Self Destruction Mode",
-      "artist": "The Chainsmokers, bludnymph",
-      "length": "2:27"
+      "name": "Love At First Fight",
+      "artist": "LANY",
+      "length": "3:12"
+    },
+    {
+      "name": "405",
+      "artist": "Gracie Abrams",
+      "length": "3:01"
+    },
+    {
+      "name": "19",
+      "artist": "Stephen Dawes",
+      "length": "2:16"
     },
     {
       "name": "Hero",
@@ -180,19 +200,9 @@
       "length": "2:55"
     },
     {
-      "name": "That’s Not How This Works (feat. Dan + Shay)",
-      "artist": "Charlie Puth, Dan + Shay",
-      "length": "2:45"
-    },
-    {
-      "name": "Hits Different",
-      "artist": "Taylor Swift",
-      "length": "3:54"
-    },
-    {
-      "name": "Snow Angel",
-      "artist": "Reneé Rapp",
-      "length": "3:35"
+      "name": "Bounce",
+      "artist": "Oliver Tree",
+      "length": "2:46"
     },
     {
       "name": "Never Ending Song",
@@ -200,39 +210,14 @@
       "length": "2:35"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
-      "name": "Wish You The Best",
-      "artist": "Lewis Capaldi",
-      "length": "3:30"
-    },
-    {
       "name": "Glue Song",
       "artist": "beabadoobee",
       "length": "2:15"
     },
     {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
-      "name": "What It Is (Solo Version)",
-      "artist": "Doechii",
-      "length": "3:09"
-    },
-    {
-      "name": "Queencard",
-      "artist": "(G)I-DLE",
-      "length": "2:41"
-    },
-    {
-      "name": "Feather",
-      "artist": "Sabrina Carpenter",
-      "length": "3:05"
+      "name": "That’s Not How This Works (feat. Dan + Shay)",
+      "artist": "Charlie Puth, Dan + Shay",
+      "length": "2:45"
     },
     {
       "name": "TRUSTFALL",
@@ -240,14 +225,14 @@
       "length": "3:57"
     },
     {
-      "name": "VULGAR (with Madonna)",
-      "artist": "Sam Smith, Madonna",
-      "length": "2:35"
+      "name": "Self Destruction Mode",
+      "artist": "The Chainsmokers, bludnymph",
+      "length": "2:27"
     },
     {
-      "name": "Fell In Love",
-      "artist": "Marshmello, Brent Faiyaz",
-      "length": "2:01"
+      "name": "Hits Different",
+      "artist": "Taylor Swift",
+      "length": "3:54"
     },
     {
       "name": "Never Felt So Alone",
@@ -255,9 +240,59 @@
       "length": "2:40"
     },
     {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
+    },
+    {
+      "name": "Snow Angel",
+      "artist": "Reneé Rapp",
+      "length": "3:35"
+    },
+    {
+      "name": "Wish You The Best",
+      "artist": "Lewis Capaldi",
+      "length": "3:30"
+    },
+    {
+      "name": "Antichrist",
+      "artist": "Holly Humberstone",
+      "length": "3:20"
+    },
+    {
+      "name": "Feather",
+      "artist": "Sabrina Carpenter",
+      "length": "3:05"
+    },
+    {
+      "name": "Fell In Love",
+      "artist": "Marshmello, Brent Faiyaz",
+      "length": "2:01"
+    },
+    {
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
+    },
+    {
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
+    },
+    {
+      "name": "Alone (with Nicki Minaj)",
+      "artist": "Kim Petras, Nicki Minaj",
+      "length": "3:05"
+    },
+    {
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
+      "length": "2:55"
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
+      "length": "2:32"
     },
     {
       "name": "Don't Forget About Me",
@@ -265,9 +300,14 @@
       "length": "2:29"
     },
     {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
+      "name": "Good Times Go",
+      "artist": "Nicky Youre",
+      "length": "2:27"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
     },
     {
       "name": "Haven't You Ever Been In Love Before?",
@@ -275,19 +315,14 @@
       "length": "3:50"
     },
     {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
       "name": "Don't Forget Me",
       "artist": "Dermot Kennedy",
       "length": "3:10"
-    },
-    {
-      "name": "Good Times Go",
-      "artist": "Nicky Youre",
-      "length": "2:27"
-    },
-    {
-      "name": "Alone (with Nicki Minaj)",
-      "artist": "Kim Petras, Nicki Minaj",
-      "length": "3:05"
     },
     {
       "name": "Meltdown",
@@ -300,14 +335,9 @@
       "length": "3:10"
     },
     {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "Fantasy (with GAYLE & Em Beihold)",
-      "artist": "Lauren Spencer Smith, GAYLE, Em Beihold",
-      "length": "2:55"
+      "name": "VULGAR (with Madonna)",
+      "artist": "Sam Smith, Madonna",
+      "length": "2:35"
     },
     {
       "name": "Chemical",
@@ -325,29 +355,9 @@
       "length": "2:38"
     },
     {
-      "name": "cindy",
-      "artist": "Jeremy Zucker",
-      "length": "3:21"
-    },
-    {
-      "name": "Karma",
-      "artist": "Taylor Swift",
-      "length": "3:24"
-    },
-    {
       "name": "SunKissing",
       "artist": "Hailee Steinfeld",
       "length": "2:57"
-    },
-    {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
-    },
-    {
-      "name": "Eyes Wide Shut",
-      "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
-      "length": "2:32"
     },
     {
       "name": "Side Effects",
@@ -360,14 +370,19 @@
       "length": "3:16"
     },
     {
+      "name": "Lottery (feat. LU KALA)",
+      "artist": "Latto, LU KALA",
+      "length": "3:06"
+    },
+    {
       "name": "Baby Don't Hurt Me",
       "artist": "David Guetta, Anne-Marie, Coi Leray",
       "length": "2:20"
     },
     {
-      "name": "Lottery (feat. LU KALA)",
-      "artist": "Latto, LU KALA",
-      "length": "3:06"
+      "name": "Clouds",
+      "artist": "BUNT., Nate Traveller",
+      "length": "2:38"
     },
     {
       "name": "The Feels",
@@ -395,29 +410,9 @@
       "length": "3:44"
     },
     {
-      "name": "Clouds",
-      "artist": "BUNT., Nate Traveller",
-      "length": "2:38"
-    },
-    {
       "name": "Die 4 Me",
       "artist": "Halsey",
       "length": "3:35"
-    },
-    {
-      "name": "Kill Bill (feat. Doja Cat)",
-      "artist": "SZA, Doja Cat",
-      "length": "2:55"
-    },
-    {
-      "name": "4runner",
-      "artist": "Brenn!",
-      "length": "4:25"
-    },
-    {
-      "name": "Little Runaway",
-      "artist": "Benson Boone",
-      "length": "3:15"
     },
     {
       "name": "If We Ever Broke Up",
@@ -428,6 +423,11 @@
       "name": "Waffle House",
       "artist": "Jonas Brothers",
       "length": "2:25"
+    },
+    {
+      "name": "4runner",
+      "artist": "Brenn!",
+      "length": "4:25"
     }
   ]
 }

@@ -5,6 +5,116 @@
   "length": 100,
   "tracks": [
     {
+      "name": "Mine (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "3:51"
+    },
+    {
+      "name": "Sparks Fly (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "length": "4:21"
+    },
+    {
+      "name": "Back To December (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:54"
+    },
+    {
+      "name": "Speak Now (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:02"
+    },
+    {
+      "name": "Dear John (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "6:45"
+    },
+    {
+      "name": "Mean (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "3:58"
+    },
+    {
+      "name": "The Story Of Us (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:27"
+    },
+    {
+      "name": "Never Grow Up (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:52"
+    },
+    {
+      "name": "Enchanted (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "5:53"
+    },
+    {
+      "name": "Better Than Revenge (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "3:40"
+    },
+    {
+      "name": "Innocent (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "5:01"
+    },
+    {
+      "name": "Haunted (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:05"
+    },
+    {
+      "name": "Last Kiss (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "6:09"
+    },
+    {
+      "name": "Long Live (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "5:17"
+    },
+    {
+      "name": "Ours (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "length": "3:55"
+    },
+    {
+      "name": "Superman (Taylor’s Version)",
+      "artist": "Taylor Swift",
+      "length": "4:34"
+    },
+    {
+      "name": "Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift, Fall Out Boy",
+      "length": "4:26"
+    },
+    {
+      "name": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "4:12"
+    },
+    {
+      "name": "I Can See You (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "4:33"
+    },
+    {
+      "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift, Hayley Williams",
+      "length": "5:06"
+    },
+    {
+      "name": "Foolish One (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "5:11"
+    },
+    {
+      "name": "Timeless (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "5:21"
+    },
+    {
       "name": "Karma (feat. Ice Spice)",
       "artist": "Taylor Swift, Ice Spice",
       "length": "3:21"
@@ -393,116 +503,6 @@
       "name": "Girl At Home (Taylor's Version)",
       "artist": "Taylor Swift",
       "length": "3:40"
-    },
-    {
-      "name": "State Of Grace (Acoustic Version) (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "length": "5:21"
-    },
-    {
-      "name": "Ronan (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "length": "4:24"
-    },
-    {
-      "name": "the lakes - original version",
-      "artist": "Taylor Swift",
-      "length": "3:47"
-    },
-    {
-      "name": "Renegade (feat. Taylor Swift)",
-      "artist": "Big Red Machine, Taylor Swift",
-      "length": "4:14"
-    },
-    {
-      "name": "cardigan",
-      "artist": "Taylor Swift",
-      "length": "3:59"
-    },
-    {
-      "name": "exile (feat. Bon Iver)",
-      "artist": "Taylor Swift, Bon Iver",
-      "length": "4:45"
-    },
-    {
-      "name": "betty",
-      "artist": "Taylor Swift",
-      "length": "4:54"
-    },
-    {
-      "name": "this is me trying",
-      "artist": "Taylor Swift",
-      "length": "3:15"
-    },
-    {
-      "name": "the 1",
-      "artist": "Taylor Swift",
-      "length": "3:30"
-    },
-    {
-      "name": "the last great american dynasty",
-      "artist": "Taylor Swift",
-      "length": "3:50"
-    },
-    {
-      "name": "my tears ricochet",
-      "artist": "Taylor Swift",
-      "length": "4:15"
-    },
-    {
-      "name": "mirrorball",
-      "artist": "Taylor Swift",
-      "length": "3:28"
-    },
-    {
-      "name": "seven",
-      "artist": "Taylor Swift",
-      "length": "3:28"
-    },
-    {
-      "name": "illicit affairs",
-      "artist": "Taylor Swift",
-      "length": "3:10"
-    },
-    {
-      "name": "invisible string",
-      "artist": "Taylor Swift",
-      "length": "4:12"
-    },
-    {
-      "name": "mad woman",
-      "artist": "Taylor Swift",
-      "length": "3:57"
-    },
-    {
-      "name": "epiphany",
-      "artist": "Taylor Swift",
-      "length": "4:49"
-    },
-    {
-      "name": "peace",
-      "artist": "Taylor Swift",
-      "length": "3:54"
-    },
-    {
-      "name": "hoax",
-      "artist": "Taylor Swift",
-      "length": "3:40"
-    },
-    {
-      "name": "cardigan - cabin in candlelight version",
-      "artist": "Taylor Swift",
-      "length": "3:48"
-    },
-    {
-      "name": "the lakes - bonus track",
-      "artist": "Taylor Swift",
-      "length": "3:31"
-    },
-    {
-      "name": "Love Story (Taylor’s Version)",
-      "artist": "Taylor Swift",
-      "length": "3:55"
     }
   ]
 }
