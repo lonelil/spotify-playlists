@@ -65,9 +65,9 @@
       "length": "1:49"
     },
     {
-      "name": "MOJABI GHOST",
-      "artist": "Tainy, Bad Bunny",
-      "length": "3:52"
+      "name": "LALA",
+      "artist": "Myke Towers",
+      "length": "3:17"
     },
     {
       "name": "Attention",
@@ -78,6 +78,16 @@
       "name": "People",
       "artist": "Libianca",
       "length": "3:04"
+    },
+    {
+      "name": "MOJABI GHOST",
+      "artist": "Tainy, Bad Bunny",
+      "length": "3:52"
+    },
+    {
+      "name": "fukumean",
+      "artist": "Gunna",
+      "length": "2:05"
     },
     {
       "name": "Chemical",
@@ -100,14 +110,14 @@
       "length": "3:32"
     },
     {
-      "name": "fukumean",
-      "artist": "Gunna",
-      "length": "2:05"
-    },
-    {
       "name": "Boy's a Liar Pt. 2",
       "artist": "PinkPantheress, Ice Spice",
       "length": "2:11"
+    },
+    {
+      "name": "Super Shy",
+      "artist": "NewJeans",
+      "length": "2:34"
     },
     {
       "name": "Karma",
@@ -140,14 +150,14 @@
       "length": "2:56"
     },
     {
-      "name": "Eyes Closed",
-      "artist": "d Sheeran",
-      "length": "3:14"
-    },
-    {
       "name": "Snooze",
       "artist": "SZA",
       "length": "3:21"
+    },
+    {
+      "name": "Eyes Closed",
+      "artist": "d Sheeran",
+      "length": "3:14"
     },
     {
       "name": "golden hour",
@@ -170,11 +180,6 @@
       "length": "3:11"
     },
     {
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "artist": "Dominic Fike",
-      "length": "3:06"
-    },
-    {
       "name": "I'm Good (Blue)",
       "artist": "David Guetta, Bebe Rexha",
       "length": "2:55"
@@ -185,14 +190,9 @@
       "length": "3:09"
     },
     {
-      "name": "LALA",
-      "artist": "Myke Towers",
-      "length": "3:17"
-    },
-    {
-      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-      "artist": "Metro Boomin, A$AP Rocky, Roisee",
-      "length": "4:16"
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "artist": "Dominic Fike",
+      "length": "3:06"
     },
     {
       "name": "Say Yes To Heaven",
@@ -235,14 +235,14 @@
       "length": "2:43"
     },
     {
-      "name": "LADY GAGA",
-      "artist": "Peso Pluma, Gabito Ballesteros, Junior H",
-      "length": "3:32"
-    },
-    {
       "name": "Unholy (feat. Kim Petras)",
       "artist": "Sam Smith, Kim Petras",
       "length": "2:36"
+    },
+    {
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "artist": "Metro Boomin, A$AP Rocky, Roisee",
+      "length": "4:16"
     },
     {
       "name": "Sprinter",
@@ -250,9 +250,9 @@
       "length": "3:49"
     },
     {
-      "name": "Take Two",
-      "artist": "BTS",
-      "length": "3:49"
+      "name": "LADY GAGA",
+      "artist": "Peso Pluma, Gabito Ballesteros, Junior H",
+      "length": "3:32"
     }
   ]
 }

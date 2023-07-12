@@ -2,7 +2,7 @@
   "name": "teen beats",
   "author": "Spotify",
   "art": "https://i.scdn.co/image/ab67706f000000022b86f4a302b2e55975ebe8d2",
-  "length": 100,
+  "length": 98,
   "tracks": [
     {
       "name": "Enchanted (Taylor's Version)",
@@ -20,14 +20,14 @@
       "length": "2:44"
     },
     {
+      "name": "I Can See You (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "4:33"
+    },
+    {
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "artist": "FIFTY FIFTY, Kaliii",
       "length": "2:29"
-    },
-    {
-      "name": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
-      "artist": "Taylor Swift",
-      "length": "4:12"
     },
     {
       "name": "hotline (edit)",
@@ -50,14 +50,14 @@
       "length": "1:49"
     },
     {
+      "name": "Back To December (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "4:54"
+    },
+    {
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "artist": "Post Malone, Swae Lee",
       "length": "2:38"
-    },
-    {
-      "name": "Better Than Revenge (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "length": "3:40"
     },
     {
       "name": "Area Codes",
@@ -70,14 +70,24 @@
       "length": "1:57"
     },
     {
+      "name": "In Bloom",
+      "artist": "ZEROBASEONE",
+      "length": "3:00"
+    },
+    {
+      "name": "Better Than Revenge (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "3:40"
+    },
+    {
+      "name": "Maria",
+      "artist": "Justin Bieber",
+      "length": "4:08"
+    },
+    {
       "name": "Say Yes To Heaven",
       "artist": "Lana Del Rey",
       "length": "3:29"
-    },
-    {
-      "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
-      "artist": "Taylor Swift, Hayley Williams",
-      "length": "5:06"
     },
     {
       "name": "traitor",
@@ -100,11 +110,6 @@
       "length": "3:22"
     },
     {
-      "name": "Back To December (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "length": "4:54"
-    },
-    {
       "name": "EVIL",
       "artist": "Melanie Martinez",
       "length": "4:06"
@@ -125,9 +130,9 @@
       "length": "2:13"
     },
     {
-      "name": "Snow Angel",
-      "artist": "Reneé Rapp",
-      "length": "3:35"
+      "name": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "4:12"
     },
     {
       "name": "Grenade",
@@ -138,6 +143,11 @@
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "artist": "Dominic Fike",
       "length": "3:06"
+    },
+    {
+      "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift, Hayley Williams",
+      "length": "5:06"
     },
     {
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
@@ -225,11 +235,6 @@
       "length": "4:02"
     },
     {
-      "name": "(It Goes Like) Nanana - Edit",
-      "artist": "Peggy Gou",
-      "length": "3:51"
-    },
-    {
       "name": "Lovers Rock",
       "artist": "TV Girl",
       "length": "3:33"
@@ -255,11 +260,6 @@
       "length": "3:11"
     },
     {
-      "name": "WHAT THE HELL ARE WE DYING FOR ?",
-      "artist": "Shawn Mendes",
-      "length": "3:49"
-    },
-    {
       "name": "Kiss It Better",
       "artist": "Rihanna",
       "length": "4:13"
@@ -275,11 +275,6 @@
       "length": "2:33"
     },
     {
-      "name": "Blame Brett",
-      "artist": "The Beaches",
-      "length": "2:56"
-    },
-    {
       "name": "Never Felt So Alone",
       "artist": "Labrinth",
       "length": "2:40"
@@ -293,11 +288,6 @@
       "name": "Moonlight",
       "artist": "Kali Uchis",
       "length": "3:07"
-    },
-    {
-      "name": "Texas (feat. Maren Morris)",
-      "artist": "Jessie Murph, Maren Morris",
-      "length": "3:18"
     },
     {
       "name": "Satellite",
