@@ -1,13 +1,13 @@
 {
   "name": "teen beats",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000022b86f4a302b2e55975ebe8d2",
-  "length": 98,
+  "art": "https://i.scdn.co/image/ab67706f0000000269a4021f3e7f9bb3adea340f",
+  "length": 100,
   "tracks": [
     {
-      "name": "Enchanted (Taylor's Version)",
-      "artist": "Taylor Swift",
-      "length": "5:53"
+      "name": "Love Like This",
+      "artist": "ZAYN",
+      "length": "2:53"
     },
     {
       "name": "vampire",
@@ -15,34 +15,34 @@
       "length": "3:39"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "artist": "Billie Eilish",
+      "length": "3:42"
+    },
+    {
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "artist": "Diplo, Jessie Murph, Polo G",
+      "length": "3:24"
+    },
+    {
+      "name": "Speed Drive (From Barbie The Album)",
+      "artist": "Charli XCX",
+      "length": "1:57"
+    },
+    {
       "name": "girls like me don't cry (sped up)",
       "artist": "thuy",
       "length": "2:44"
     },
     {
-      "name": "I Can See You (Taylor’s Version) (From The Vault)",
-      "artist": "Taylor Swift",
-      "length": "4:33"
-    },
-    {
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "artist": "FIFTY FIFTY, Kaliii",
-      "length": "2:29"
-    },
-    {
-      "name": "hotline (edit)",
-      "artist": "Billie Eilish",
-      "length": "1:00"
-    },
-    {
-      "name": "Super Shy",
-      "artist": "NewJeans",
-      "length": "2:34"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
+      "name": "You Wish",
+      "artist": "Flyana Boss",
+      "length": "2:00"
     },
     {
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
@@ -50,9 +50,164 @@
       "length": "1:49"
     },
     {
+      "name": "hotline (edit)",
+      "artist": "Billie Eilish",
+      "length": "1:00"
+    },
+    {
+      "name": "I'm Not Crazy",
+      "artist": "charlieonnafriday",
+      "length": "2:41"
+    },
+    {
+      "name": "Rush",
+      "artist": "Troye Sivan",
+      "length": "2:36"
+    },
+    {
+      "name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj",
+      "length": "3:47"
+    },
+    {
+      "name": "Everyday",
+      "artist": "Ariana Grande, Future",
+      "length": "3:14"
+    },
+    {
+      "name": "Last Kiss (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "6:09"
+    },
+    {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
+      "name": "I’m Just Ken (From Barbie The Album)",
+      "artist": "Ryan Gosling",
+      "length": "3:42"
+    },
+    {
+      "name": "Talk Too Much",
+      "artist": "Reneé Rapp",
+      "length": "3:16"
+    },
+    {
+      "name": "the way things go",
+      "artist": "beabadoobee",
+      "length": "3:07"
+    },
+    {
+      "name": "Dial Drunk (with Post Malone)",
+      "artist": "Noah Kahan, Post Malone",
+      "length": "3:33"
+    },
+    {
+      "name": "Bigger Person",
+      "artist": "Lauren Spencer Smith",
+      "length": "2:41"
+    },
+    {
+      "name": "Cool With You",
+      "artist": "NewJeans",
+      "length": "2:27"
+    },
+    {
+      "name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+      "artist": "The Weeknd, Ariana Grande",
+      "length": "3:11"
+    },
+    {
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "artist": "Jung Kook, Latto",
+      "length": "3:04"
+    },
+    {
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "artist": "FIFTY FIFTY, Kaliii",
+      "length": "2:29"
+    },
+    {
+      "name": "Turn Your Phone Off",
+      "artist": "PinkPantheress, Destroy Lonely",
+      "length": "2:56"
+    },
+    {
+      "name": "Super Shy",
+      "artist": "NewJeans",
+      "length": "2:34"
+    },
+    {
+      "name": "Enchanted (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "length": "5:53"
+    },
+    {
+      "name": "hell is a teenage girl",
+      "artist": "Nessa Barrett",
+      "length": "3:15"
+    },
+    {
+      "name": "Sick",
+      "artist": "Aidan Bissett",
+      "length": "2:16"
+    },
+    {
+      "name": "Say Yes To Heaven",
+      "artist": "Lana Del Rey",
+      "length": "3:29"
+    },
+    {
+      "name": "I Can See You (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "length": "4:33"
+    },
+    {
+      "name": "Forever & Again (From Barbie The Album)",
+      "artist": "The Kid LAROI",
+      "length": "2:19"
+    },
+    {
+      "name": "I miss you, I’m sorry",
+      "artist": "Gracie Abrams",
+      "length": "2:47"
+    },
+    {
+      "name": "Love Yourself",
+      "artist": "Justin Bieber",
+      "length": "3:53"
+    },
+    {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artist": "Santana, The Product G&B",
+      "length": "4:21"
+    },
+    {
+      "name": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "length": "3:09"
+    },
+    {
       "name": "Back To December (Taylor's Version)",
       "artist": "Taylor Swift",
       "length": "4:54"
+    },
+    {
+      "name": "Not The 1975",
+      "artist": "Knox",
+      "length": "3:18"
+    },
+    {
+      "name": "EVIL",
+      "artist": "Melanie Martinez",
+      "length": "4:06"
+    },
+    {
+      "name": "heartbreak in the hamptons",
+      "artist": "Nessa Barrett",
+      "length": "2:35"
     },
     {
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
@@ -65,14 +220,9 @@
       "length": "2:19"
     },
     {
-      "name": "Speed Drive (From Barbie The Album)",
-      "artist": "Charli XCX",
-      "length": "1:57"
-    },
-    {
-      "name": "In Bloom",
-      "artist": "ZEROBASEONE",
-      "length": "3:00"
+      "name": "Cupid - Twin Ver.",
+      "artist": "FIFTY FIFTY",
+      "length": "2:54"
     },
     {
       "name": "Better Than Revenge (Taylor's Version)",
@@ -80,14 +230,9 @@
       "length": "3:40"
     },
     {
-      "name": "Maria",
-      "artist": "Justin Bieber",
-      "length": "4:08"
-    },
-    {
-      "name": "Say Yes To Heaven",
-      "artist": "Lana Del Rey",
-      "length": "3:29"
+      "name": "What a Feeling",
+      "artist": "One Direction",
+      "length": "3:20"
     },
     {
       "name": "traitor",
@@ -95,14 +240,14 @@
       "length": "3:49"
     },
     {
-      "name": "I miss you, I’m sorry",
-      "artist": "Gracie Abrams",
-      "length": "2:47"
-    },
-    {
       "name": "GRL GVNG",
       "artist": "XG",
       "length": "3:08"
+    },
+    {
+      "name": "Sorry Not Sorry (with Slash) - Rock Version",
+      "artist": "Demi Lovato, Slash",
+      "length": "3:34"
     },
     {
       "name": "Party In The U.S.A.",
@@ -110,29 +255,29 @@
       "length": "3:22"
     },
     {
-      "name": "EVIL",
-      "artist": "Melanie Martinez",
-      "length": "4:06"
+      "name": "Thumbs",
+      "artist": "Sabrina Carpenter",
+      "length": "3:36"
     },
     {
-      "name": "lie",
-      "artist": "Nessa Barrett",
+      "name": "Moonlight",
+      "artist": "Kali Uchis",
+      "length": "3:07"
+    },
+    {
+      "name": "Radio",
+      "artist": "Lana Del Rey",
       "length": "3:34"
     },
     {
-      "name": "What a Feeling",
-      "artist": "One Direction",
-      "length": "3:20"
+      "name": "Makeba",
+      "artist": "Jain",
+      "length": "4:08"
     },
     {
       "name": "Cowboys And Angels",
       "artist": "Jessie Murph",
       "length": "2:13"
-    },
-    {
-      "name": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
-      "artist": "Taylor Swift",
-      "length": "4:12"
     },
     {
       "name": "Grenade",
@@ -145,34 +290,9 @@
       "length": "3:06"
     },
     {
-      "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
-      "artist": "Taylor Swift, Hayley Williams",
-      "length": "5:06"
-    },
-    {
-      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-      "artist": "Metro Boomin, A$AP Rocky, Roisee",
-      "length": "4:16"
-    },
-    {
-      "name": "Angel (From Barbie The Album)",
-      "artist": "PinkPantheress",
-      "length": "2:03"
-    },
-    {
-      "name": "Radio",
-      "artist": "Lana Del Rey",
-      "length": "3:34"
-    },
-    {
-      "name": "Roller Coaster",
-      "artist": "NMIXX",
-      "length": "2:59"
-    },
-    {
-      "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
-      "artist": "Mimi Webb",
-      "length": "3:57"
+      "name": "The In Between",
+      "artist": "Khloe Rose",
+      "length": "3:13"
     },
     {
       "name": "On Schedule",
@@ -190,34 +310,9 @@
       "length": "3:33"
     },
     {
-      "name": "Makeba",
-      "artist": "Jain",
-      "length": "4:08"
-    },
-    {
-      "name": "Thumbs",
-      "artist": "Sabrina Carpenter",
-      "length": "3:36"
-    },
-    {
-      "name": "Cupid - Twin Ver.",
-      "artist": "FIFTY FIFTY",
-      "length": "2:54"
-    },
-    {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artist": "Santana, The Product G&B",
-      "length": "4:21"
-    },
-    {
       "name": "You Belong With Me",
       "artist": "Bellah Mae",
       "length": "3:26"
-    },
-    {
-      "name": "Backwards (feat. Knox)",
-      "artist": "Alexa Cappelli, Knox",
-      "length": "3:10"
     },
     {
       "name": "Never Ending Song",
@@ -230,34 +325,14 @@
       "length": "2:43"
     },
     {
-      "name": "Boy From Carolina",
-      "artist": "Ashley Kutcher",
-      "length": "4:02"
-    },
-    {
       "name": "Lovers Rock",
       "artist": "TV Girl",
       "length": "3:33"
     },
     {
-      "name": "Never Grow Up",
-      "artist": "Niall Horan",
-      "length": "3:29"
-    },
-    {
       "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
       "artist": "The Weeknd, Playboi Carti, Madonna",
       "length": "3:35"
-    },
-    {
-      "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
-      "artist": "Halsey, SUGA",
-      "length": "3:00"
-    },
-    {
-      "name": "It Wasn't Me - Sped Up",
-      "artist": "Shaggy, Rik Rok, Kuya Magik, Speed Radio",
-      "length": "3:11"
     },
     {
       "name": "Kiss It Better",
@@ -285,11 +360,6 @@
       "length": "3:57"
     },
     {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
       "name": "Satellite",
       "artist": "Harry Styles",
       "length": "3:38"
@@ -298,21 +368,6 @@
       "name": "That Part",
       "artist": "Lauren Spencer Smith",
       "length": "2:54"
-    },
-    {
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "artist": "corook, Olivia Barton",
-      "length": "2:21"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
-    },
-    {
-      "name": "Allergy",
-      "artist": "(G)I-DLE",
-      "length": "2:42"
     },
     {
       "name": "Fictional",
@@ -325,18 +380,8 @@
       "length": "4:11"
     },
     {
-      "name": "What It Is (Solo Version)",
-      "artist": "Doechii",
-      "length": "3:09"
-    },
-    {
       "name": "Daylight",
       "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
-      "name": "Cool for the Summer - Rock Version",
-      "artist": "Demi Lovato",
       "length": "3:32"
     },
     {
@@ -380,11 +425,6 @@
       "length": "4:07"
     },
     {
-      "name": "Peaches",
-      "artist": "Jack Black",
-      "length": "1:35"
-    },
-    {
       "name": "ceilings",
       "artist": "Lizzy McAlpine",
       "length": "3:02"
@@ -410,11 +450,6 @@
       "length": "3:52"
     },
     {
-      "name": "Kill Em With Kindness",
-      "artist": "Selena Gomez",
-      "length": "3:37"
-    },
-    {
       "name": "Escapism. - Sped Up",
       "artist": "RAYE, 070 Shake",
       "length": "3:59"
@@ -423,11 +458,6 @@
       "name": "Apocalypse",
       "artist": "Cigarettes After Sex",
       "length": "4:50"
-    },
-    {
-      "name": "Favorite Song",
-      "artist": "Toosii",
-      "length": "3:28"
     },
     {
       "name": "Here With Me",
@@ -473,26 +503,6 @@
       "name": "golden hour",
       "artist": "JVKE",
       "length": "3:29"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "length": "4:10"
-    },
-    {
-      "name": "Teenage Dream",
-      "artist": "Stephen Dawes",
-      "length": "2:57"
-    },
-    {
-      "name": "死ぬのがいいわ",
-      "artist": "Fujii Kaze",
-      "length": "3:05"
-    },
-    {
-      "name": "Those Eyes - Sped Up",
-      "artist": "New West",
-      "length": "2:47"
     }
   ]
 }

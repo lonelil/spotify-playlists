@@ -1,23 +1,18 @@
 {
   "name": "pov",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f000000026d165eaa3895402db528ecb9",
+  "art": "https://i.scdn.co/image/ab67706f00000002adf2bd477bfa127815c64c76",
   "length": 100,
   "tracks": [
     {
-      "name": "You Wish",
-      "artist": "Flyana Boss",
-      "length": "2:00"
+      "name": "Love Like This",
+      "artist": "ZAYN",
+      "length": "2:53"
     },
     {
-      "name": "One Margarita (Margarita Song)",
-      "artist": "That Chick Angel, Casa Di, Steve Terrell",
-      "length": "1:59"
-    },
-    {
-      "name": "Makeba",
-      "artist": "Jain",
-      "length": "4:09"
+      "name": "Hurts Me",
+      "artist": "Tory Lanez, Trippie Redd, Yoko Gold",
+      "length": "2:20"
     },
     {
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
@@ -25,29 +20,49 @@
       "length": "2:11"
     },
     {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
+      "name": "One Margarita (Margarita Song)",
+      "artist": "That Chick Angel, Casa Di, Steve Terrell",
+      "length": "1:59"
+    },
+    {
+      "name": "I’m Just Ken (From Barbie The Album)",
+      "artist": "Ryan Gosling",
+      "length": "3:42"
+    },
+    {
+      "name": "Pink (From Barbie The Album)",
+      "artist": "Lizzo",
+      "length": "2:23"
+    },
+    {
+      "name": "You Wish",
+      "artist": "Flyana Boss",
+      "length": "2:00"
+    },
+    {
       "name": "Smooth Operator - Single Version",
       "artist": "Sade",
       "length": "4:18"
     },
     {
-      "name": "Say Yes To Heaven - Sped Up",
-      "artist": "Lana Del Rey",
-      "length": "2:36"
+      "name": "Love Yourself",
+      "artist": "Justin Bieber",
+      "length": "3:53"
     },
     {
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "artist": "Nicki Minaj, Ice Spice, Aqua",
-      "length": "1:49"
+      "name": "I Know You",
+      "artist": "Faye Webster",
+      "length": "4:11"
     },
     {
-      "name": "Would I Lie To You?",
-      "artist": "Charles & Eddie",
-      "length": "3:37"
-    },
-    {
-      "name": "Jacob and the Stone",
-      "artist": "mile Mosseri",
-      "length": "1:38"
+      "name": "Deli",
+      "artist": "Ice Spice",
+      "length": "2:06"
     },
     {
       "name": "Sprinter",
@@ -55,19 +70,54 @@
       "length": "3:49"
     },
     {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "length": "2:58"
+    },
+    {
+      "name": "Running Through My Mind",
+      "artist": "DeJ Loaf",
+      "length": "3:05"
+    },
+    {
+      "name": "Ferrari Horses",
+      "artist": "D-Block Europe, RAYE",
+      "length": "3:45"
+    },
+    {
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "artist": "Billie Eilish",
+      "length": "3:42"
+    },
+    {
+      "name": "Would I Lie To You?",
+      "artist": "Charles & Eddie",
+      "length": "3:37"
+    },
+    {
+      "name": "Makeba",
+      "artist": "Jain",
+      "length": "4:09"
+    },
+    {
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "artist": "Nicki Minaj, Ice Spice, Aqua",
+      "length": "1:49"
+    },
+    {
+      "name": "Say Yes To Heaven - Sped Up",
+      "artist": "Lana Del Rey",
+      "length": "2:36"
+    },
+    {
       "name": "Radio",
       "artist": "Lana Del Rey",
       "length": "3:34"
     },
     {
-      "name": "vampire",
-      "artist": "Olivia Rodrigo",
-      "length": "3:39"
-    },
-    {
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "length": "2:58"
+      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
+      "artist": "The Weeknd, Playboi Carti, Madonna",
+      "length": "3:35"
     },
     {
       "name": "This Is The Life",
@@ -80,11 +130,6 @@
       "length": "3:41"
     },
     {
-      "name": "Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series)",
-      "artist": "The Weeknd, Playboi Carti, Madonna",
-      "length": "3:35"
-    },
-    {
       "name": "What It Is (Solo Version)",
       "artist": "Doechii",
       "length": "3:09"
@@ -95,14 +140,29 @@
       "length": "1:00"
     },
     {
+      "name": "Jacob and the Stone",
+      "artist": "mile Mosseri",
+      "length": "1:38"
+    },
+    {
       "name": "Maria Maria (feat. The Product G&B)",
       "artist": "Santana, The Product G&B",
       "length": "4:21"
     },
     {
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
+      "length": "3:39"
+    },
+    {
       "name": "Keep Dat Nigga",
       "artist": "Icandy",
       "length": "2:18"
+    },
+    {
+      "name": "Give It To Me",
+      "artist": "Lofis",
+      "length": "2:51"
     },
     {
       "name": "UNAVAILABLE (feat. Musa Keys)",
@@ -138,11 +198,6 @@
       "name": "Company",
       "artist": "Justin Bieber",
       "length": "3:28"
-    },
-    {
-      "name": "Give It To Me",
-      "artist": "Lofis",
-      "length": "2:51"
     },
     {
       "name": "Sleep Well",
@@ -253,11 +308,6 @@
       "name": "Casper",
       "artist": "Robert Grace",
       "length": "3:03"
-    },
-    {
-      "name": "From The Start",
-      "artist": "Laufey",
-      "length": "2:49"
     },
     {
       "name": "Sure Thing - Sped Up",
@@ -453,56 +503,6 @@
       "name": "Calm Down (with Selena Gomez)",
       "artist": "Rema, Selena Gomez",
       "length": "3:59"
-    },
-    {
-      "name": "enough for you",
-      "artist": "Olivia Rodrigo",
-      "length": "3:22"
-    },
-    {
-      "name": "Search & Rescue",
-      "artist": "Drake",
-      "length": "4:32"
-    },
-    {
-      "name": "Players",
-      "artist": "Coi Leray",
-      "length": "2:19"
-    },
-    {
-      "name": "If We Ever Broke Up - Sped Up",
-      "artist": "Mae Stephens, Speed Radio, xxtristanxo",
-      "length": "2:04"
-    },
-    {
-      "name": "UNDERSTAND",
-      "artist": "keshi",
-      "length": "2:30"
-    },
-    {
-      "name": "Christmas Kids",
-      "artist": "Roar",
-      "length": "2:15"
-    },
-    {
-      "name": "Always",
-      "artist": "Daniel Caesar",
-      "length": "3:45"
-    },
-    {
-      "name": "Moonlight",
-      "artist": "Kali Uchis",
-      "length": "3:07"
-    },
-    {
-      "name": "I know it won't work - Live",
-      "artist": "Gracie Abrams",
-      "length": "3:46"
-    },
-    {
-      "name": "If We Ever Broke Up",
-      "artist": "Mae Stephens",
-      "length": "2:22"
     }
   ]
 }

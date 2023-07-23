@@ -1,9 +1,19 @@
 {
   "name": "Just Good Music",
   "author": "Spotify",
-  "art": "https://i.scdn.co/image/ab67706f00000002b0fa809cd3ce4cbafd04b067",
-  "length": 62,
+  "art": "https://i.scdn.co/image/ab67706f00000002857b1bf3cf2f86f577910a9e",
+  "length": 60,
   "tracks": [
+    {
+      "name": "Dial Drunk (with Post Malone)",
+      "artist": "Noah Kahan, Post Malone",
+      "length": "3:33"
+    },
+    {
+      "name": "Dance The Night (From Barbie The Album)",
+      "artist": "Dua Lipa",
+      "length": "2:56"
+    },
     {
       "name": "Lose Control",
       "artist": "Teddy Swims",
@@ -15,9 +25,14 @@
       "length": "3:39"
     },
     {
-      "name": "vampire",
-      "artist": "Olivia Rodrigo",
-      "length": "3:39"
+      "name": "We Didn’t Start The Fire",
+      "artist": "Fall Out Boy",
+      "length": "3:35"
+    },
+    {
+      "name": "TRUSTFALL",
+      "artist": "P!nk",
+      "length": "3:57"
     },
     {
       "name": "Thank God I Do",
@@ -25,9 +40,39 @@
       "length": "4:18"
     },
     {
-      "name": "The Feeling",
-      "artist": "Lost Frequencies",
-      "length": "2:33"
+      "name": "Save Me The Trouble",
+      "artist": "Dan + Shay",
+      "length": "3:20"
+    },
+    {
+      "name": "Overdrive",
+      "artist": "Post Malone",
+      "length": "2:27"
+    },
+    {
+      "name": "Calm Down (with Selena Gomez)",
+      "artist": "Rema, Selena Gomez",
+      "length": "3:59"
+    },
+    {
+      "name": "mine",
+      "artist": "Kelly Clarkson",
+      "length": "3:11"
+    },
+    {
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "artist": "Diplo, Jessie Murph, Polo G",
+      "length": "3:24"
+    },
+    {
+      "name": "vampire",
+      "artist": "Olivia Rodrigo",
+      "length": "3:39"
+    },
+    {
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "length": "3:20"
     },
     {
       "name": "i hate love (feat. Steve Martin)",
@@ -35,9 +80,59 @@
       "length": "3:33"
     },
     {
+      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
+      "artist": "Train, Tenille Townes, Bryce Vine",
+      "length": "3:03"
+    },
+    {
+      "name": "Religiously",
+      "artist": "Bailey Zimmerman",
+      "length": "2:58"
+    },
+    {
       "name": "Seasons",
       "artist": "Bebe Rexha, Dolly Parton",
       "length": "3:23"
+    },
+    {
+      "name": "Waffle House",
+      "artist": "Jonas Brothers",
+      "length": "2:25"
+    },
+    {
+      "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
+      "artist": "Jon Batiste, Jon Bellion, Fireboy DML",
+      "length": "2:49"
+    },
+    {
+      "name": "You & I",
+      "artist": "Rita Ora",
+      "length": "3:00"
+    },
+    {
+      "name": "A Little Bit Happy",
+      "artist": "TALK",
+      "length": "3:15"
+    },
+    {
+      "name": "Fast Car",
+      "artist": "Luke Combs",
+      "length": "4:25"
+    },
+    {
+      "name": "The Feeling",
+      "artist": "Lost Frequencies",
+      "length": "2:33"
+    },
+    {
+      "name": "Dawns (feat. Maggie Rogers)",
+      "artist": "Zach Bryan, Maggie Rogers",
+      "length": "4:50"
+    },
+    {
+      "name": "In The Stars",
+      "artist": "Benson Boone",
+      "length": "3:36"
     },
     {
       "name": "True Babe",
@@ -50,34 +145,19 @@
       "length": "3:11"
     },
     {
-      "name": "I Know (feat. Tenille Townes & Bryce Vine)",
-      "artist": "Train, Tenille Townes, Bryce Vine",
-      "length": "3:03"
-    },
-    {
-      "name": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "length": "3:33"
-    },
-    {
-      "name": "Dawns (feat. Maggie Rogers)",
-      "artist": "Zach Bryan, Maggie Rogers",
-      "length": "4:50"
-    },
-    {
       "name": "Stand By Me (feat. Morgan Wallen)",
       "artist": "Lil Durk, Morgan Wallen",
       "length": "3:39"
     },
     {
-      "name": "rock hudson",
-      "artist": "Kelly Clarkson",
-      "length": "3:22"
+      "name": "Next Thing You Know",
+      "artist": "Jordan Davis",
+      "length": "2:55"
     },
     {
-      "name": "Fast Car",
-      "artist": "Luke Combs",
-      "length": "4:25"
+      "name": "RUNAWAY",
+      "artist": "OneRepublic",
+      "length": "2:23"
     },
     {
       "name": "Living In A Haze",
@@ -85,14 +165,24 @@
       "length": "2:53"
     },
     {
+      "name": "Without You (feat. Elle King)",
+      "artist": "Diplo, Elle King",
+      "length": "3:01"
+    },
+    {
+      "name": "From The Start",
+      "artist": "Laufey",
+      "length": "2:49"
+    },
+    {
       "name": "The Hardest Part (feat. Leon Bridges)",
       "artist": "Olivia Dean, Leon Bridges",
       "length": "2:56"
     },
     {
-      "name": "Calling Your Name",
-      "artist": "Jon Batiste",
-      "length": "1:56"
+      "name": "Terrified",
+      "artist": "Debbii Dawson",
+      "length": "3:57"
     },
     {
       "name": "The Show",
@@ -100,29 +190,19 @@
       "length": "3:11"
     },
     {
-      "name": "Feel Good Too",
-      "artist": "Jason Mraz",
-      "length": "3:59"
-    },
-    {
-      "name": "Without You (feat. Elle King)",
-      "artist": "Diplo, Elle King",
-      "length": "3:01"
-    },
-    {
       "name": "HAPPY",
       "artist": "NF",
       "length": "4:02"
     },
     {
+      "name": "Unstoppable",
+      "artist": "Sia",
+      "length": "3:37"
+    },
+    {
       "name": "Jaded",
       "artist": "Miley Cyrus",
       "length": "3:05"
-    },
-    {
-      "name": "RUNAWAY",
-      "artist": "OneRepublic",
-      "length": "2:23"
     },
     {
       "name": "Wish You The Best",
@@ -140,11 +220,6 @@
       "length": "3:32"
     },
     {
-      "name": "When I Get There",
-      "artist": "P!nk",
-      "length": "3:20"
-    },
-    {
       "name": "The Journey",
       "artist": "H.E.R.",
       "length": "4:22"
@@ -153,21 +228,6 @@
       "name": "Queen of New York City",
       "artist": "Matchbox Twenty",
       "length": "3:32"
-    },
-    {
-      "name": "Dance The Night (From Barbie The Album)",
-      "artist": "Dua Lipa",
-      "length": "2:56"
-    },
-    {
-      "name": "Glory Days",
-      "artist": "Gabby Barrett",
-      "length": "2:42"
-    },
-    {
-      "name": "Unstoppable",
-      "artist": "Sia",
-      "length": "3:37"
     },
     {
       "name": "I'll Be Seeing You",
@@ -180,34 +240,19 @@
       "length": "2:37"
     },
     {
-      "name": "Padam Padam",
-      "artist": "Kylie Minogue",
-      "length": "2:46"
-    },
-    {
-      "name": "Same Again (For Love)",
-      "artist": "Dagny",
-      "length": "3:19"
-    },
-    {
-      "name": "WHAT THE HELL ARE WE DYING FOR ?",
-      "artist": "Shawn Mendes",
-      "length": "3:49"
-    },
-    {
       "name": "SNAP",
       "artist": "Rosa Linn",
       "length": "2:59"
     },
     {
-      "name": "Next Thing You Know",
-      "artist": "Jordan Davis",
-      "length": "2:55"
-    },
-    {
       "name": "Don't Forget Me",
       "artist": "Dermot Kennedy",
       "length": "3:10"
+    },
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "length": "3:32"
     },
     {
       "name": "Tennessee Orange",
@@ -220,21 +265,6 @@
       "length": "4:08"
     },
     {
-      "name": "Reborn",
-      "artist": "Bishop Briggs",
-      "length": "2:38"
-    },
-    {
-      "name": "Waffle House",
-      "artist": "Jonas Brothers",
-      "length": "2:25"
-    },
-    {
-      "name": "Hits Different",
-      "artist": "Taylor Swift",
-      "length": "3:54"
-    },
-    {
       "name": "Middle Ground",
       "artist": "Maroon 5",
       "length": "3:39"
@@ -245,39 +275,9 @@
       "length": "2:29"
     },
     {
-      "name": "Alright",
-      "artist": "Sam Fischer, Meghan Trainor",
-      "length": "2:52"
-    },
-    {
-      "name": "Flowers",
-      "artist": "Miley Cyrus",
-      "length": "3:20"
-    },
-    {
-      "name": "mine",
-      "artist": "Kelly Clarkson",
-      "length": "3:11"
-    },
-    {
       "name": "Life Goes On (feat. Luke Combs)",
       "artist": "d Sheeran, Luke Combs",
       "length": "3:30"
-    },
-    {
-      "name": "Chemical",
-      "artist": "Post Malone",
-      "length": "3:04"
-    },
-    {
-      "name": "I'll Be",
-      "artist": "Céline Dion",
-      "length": "3:03"
-    },
-    {
-      "name": "I'll Follow",
-      "artist": "ROZES",
-      "length": "2:52"
     },
     {
       "name": "I Wanna Dance With Somebody - Who Loves Me",
@@ -300,19 +300,9 @@
       "length": "2:51"
     },
     {
-      "name": "Daylight",
-      "artist": "David Kushner",
-      "length": "3:32"
-    },
-    {
       "name": "Rollin'",
       "artist": "Blessing Offor",
       "length": "3:18"
-    },
-    {
-      "name": "Run Away to Mars",
-      "artist": "TALK",
-      "length": "3:33"
     }
   ]
 }
